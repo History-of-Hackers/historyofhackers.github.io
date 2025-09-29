@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>History of Hackers — A Mini Wiki</title>
+  <meta name="description" content="A lightweight, single-file wiki about the history of hackers. Pure HTML/CSS/JS, easy to edit for GitHub Pages." />
+  <meta name="author" content="Your Name" />
+  <meta name="theme-color" content="#0f172a" />
+
+  <!--
+  =============================================
+  HOW TO EDIT (read me!)
+  =============================================
+  • This is a single-file static site (index.html). Drop it in a GitHub repository and enable GitHub Pages.
+  • Everything is pure HTML/CSS/JS — no frameworks, no builds.
+  • To add or edit articles, scroll to the bottom and update the `ARTICLES` array in the <script>.
+    - Each article has: id, title, slug, era, tags (array), summary, content (HTML allowed), sources (array of {label, url}).
+    - Keep `slug` URL-friendly (lowercase-with-dashes). The page route is `#/article/<slug>`.
+  • The left sidebar shows sections (Home, All Articles, Eras, Tags). Search is at the top.
+  • Styling uses CSS variables; tweak the palette in :root for quick theming.
+  • Optional light/dark theme toggle in the header.
+  =============================================
+  -->
+
+  <style>
+    :root {
+      --bg: #0b1020;           /* background */
+      --panel: #0f172a;        /* cards/panels */
+      --panel-2: #111827;      /* panel alt */
+      --text: #e5e7eb;         /* text primary */
+      --muted: #94a3b8;        /* text muted */
+      --brand: #60a5fa;        /* accents */
+      --link: #93c5fd;         /* links */
+      --border: #1f2937;       /* borders */
+      --chip: #1e293b;         /* tag chips */
+      --focus: #fde047;        /* focus ring */
+    }
+
+    .light {
+      --bg: #f8fafc;
+      --panel: #ffffff;
+      --panel-2: #f1f5f9;
+      --text: #0f172a;
+      --muted: #475569;
+      --brand: #2563eb;
+      --link: #1d4ed8;
+      --border: #e5e7eb;
+      --chip: #e2e8f0;
+      --focus: #f59e0b;
+    }
+
+    * { box-sizing: border-box; }
+    html, body { height: 100%; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      display: grid;
+      grid-template-rows: 64px 1fr;
+    }
+
+    /* Header */
+    header {
+      display: flex; align-items: center; gap: 16px;
+      padding: 0 20px; border-bottom: 1px solid var(--border);
+      background: var(--panel);
+      position: sticky; top: 0; z-index: 10;
+    }
+    .brand { display: flex; align-items: center; gap: 10px; }
+    .brand-logo {
+      width: 32px; height: 32px; display: grid; place-items: center;
+      border-radius: 8px; background: linear-gradient(135deg, var(--brand), #7c3aed);
+      color: #fff; font-weight: 900;
+    }
+    .brand-title { font-weight: 800; letter-spacing: 0.3px; }
+
+    .search-wrap { flex: 1; display: flex; }
+    .search-wrap input {
+      width: 100%; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--border);
+      background: var(--panel-2); color: var(--text); outline: none;
+    }
+    .search-wrap input:focus { box-shadow: 0 0 0 3px var(--focus); }
+
+    .header-actions { display: flex; gap: 8px; }
+    .btn {
+      padding: 8px 12px; border-radius: 10px; border: 1px solid var(--border);
+      background: var(--panel-2); color: var(--text); cursor: pointer; font-weight: 600;
+    }
+    .btn:hover { filter: brightness(1.1); }
+
+    /* Shell */
+    .shell { display: grid; grid-template-columns: 280px 1fr; min-height: calc(100vh - 64px); }
+
+    /* Sidebar */
+    aside {
+      border-right: 1px solid var(--border); background: var(--panel);
+      padding: 16px; position: sticky; top: 64px; align-self: start; height: calc(100vh - 64px);
+      overflow: auto;
+    }
+    .nav-section { margin-bottom: 18px; }
+    .nav-title { font-size: 12px; letter-spacing: 1px; color: var(--muted); text-transform: uppercase; margin-bottom: 10px; }
+    .nav a {
+      display: block; padding: 8px 10px; border-radius: 8px; color: var(--text); text-decoration: none;
+    }
+    .nav a:hover { background: var(--panel-2); }
+
+    .chip {
+      display: inline-block; padding: 6px 10px; border-radius: 999px; background: var(--chip); color: var(--text);
+      font-size: 12px; margin: 4px 6px 0 0; text-decoration: none; border: 1px solid var(--border);
+    }
+
+    /* Main */
+    main { padding: 24px; }
+    .breadcrumbs { font-size: 14px; color: var(--muted); margin-bottom: 12px; }
+
+    .hero {
+      background: linear-gradient(180deg, rgba(96,165,250,0.12), transparent 60%);
+      border: 1px solid var(--border); border-radius: 16px; padding: 24px; margin-bottom: 20px;
+    }
+    .hero h1 { margin: 0 0 8px; font-size: 28px; }
+    .hero p { margin: 0; color: var(--muted); }
+
+    .grid { display: grid; gap: 16px; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    @media (max-width: 1100px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 760px) {
+      .shell { grid-template-columns: 1fr; }
+      aside { position: static; height: auto; }
+      .grid { grid-template-columns: 1fr; }
+    }
+
+    .card {
+      background: var(--panel); border: 1px solid var(--border); border-radius: 14px; padding: 16px;
+      display: flex; flex-direction: column; gap: 8px;
+    }
+    .card h3 { margin: 0; font-size: 18px; }
+    .card p { margin: 0; color: var(--muted); }
+
+    article.article { background: var(--panel); border: 1px solid var(--border); border-radius: 16px; padding: 24px; }
+    article h1 { margin-top: 0; }
+    .meta { color: var(--muted); font-size: 14px; margin-bottom: 12px; }
+    .sources { margin-top: 16px; }
+    .sources a { color: var(--link); }
+    .divider { height: 1px; background: var(--border); margin: 12px 0; }
+
+    footer { margin-top: 24px; color: var(--muted); font-size: 14px; }
+    footer a { color: var(--link); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="brand" onclick="location.hash = '#/'" style="cursor:pointer" title="Go home">
+      <div class="brand-logo">H</div>
+      <div class="brand-title">History of Hackers</div>
+    </div>
+    <div class="search-wrap">
+      <input id="search" type="search" placeholder="Search articles, tags, eras… (Press /)" aria-label="Search" />
+    </div>
+    <div class="header-actions">
+      <button class="btn" id="toggleTheme" title="Toggle light/dark">Toggle Theme</button>
+      <a class="btn" href="#/about" title="About this project">About</a>
+      <a class="btn" href="#/all" title="Browse all articles">All Articles</a>
+    </div>
+  </header>
+
+  <div class="shell">
+    <aside>
+      <div class="nav-section">
+        <div class="nav-title">Sections</div>
+        <nav class="nav">
+          <a href="#/">Home</a>
+          <a href="#/all">All Articles</a>
+          <a href="#/about">About</a>
+        </nav>
+      </div>
+      <div class="nav-section" id="erasSection">
+        <div class="nav-title">Eras</div>
+        <div id="eras"></div>
+      </div>
+      <div class="nav-section" id="tagsSection">
+        <div class="nav-title">Popular Tags</div>
+        <div id="tags"></div>
+      </div>
+    </aside>
+
+    <main>
+      <div class="breadcrumbs" id="breadcrumbs"></div>
+      <div id="view"></div>
+      <footer>
+        Built with ♥ — single-file, static, and GitHub Pages–friendly. <a href="#/about">Edit instructions</a> inside.
+      </footer>
+    </main>
+  </div>
+
+  <script>
+    // ==========================
+    // Data: edit me!
+    // ==========================
+    /**
+     * Add your articles here. You can use simple HTML inside `content`.
+     * Tip: Duplicate an entry, change `id`, `title`, `slug`, etc.
+     */
+    const ARTICLES = [
+      {
+        id: 1,
+        title: "Early Phone Phreaking",
+        slug: "early-phone-phreaking",
+        era: "1960s–1980s",
+        tags: ["phreaking", "telecom", "history"],
+        summary: "The roots of hacker culture in the era of analog telephony and tone signaling.",
+        content: `
+          <p>Before personal computers became mainstream, curiosity-driven explorers experimented with the global telephone network. Known as <strong>phone phreaks</strong>, they discovered how signaling tones controlled long-distance calls and built devices like the <em>blue box</em> to interact with switching systems. This era helped shape a do‑it‑yourself ethos and the idea that networks could be studied, repurposed, and sometimes subverted.</p>
+          <p>The phreaking scene influenced early computer hobbyists, spreading norms around information sharing, technical documentation, and community zines that would later appear across bulletin board systems (BBS).</p>
+        `,
+        sources: [
+          { label: "Phreaking (overview)", url: "https://en.wikipedia.org/wiki/Phreaking" }
+        ]
+      },
+      {
+        id: 2,
+        title: "The BBS & Warez Scene",
+        slug: "bbs-and-warez-scene",
+        era: "1980s–1990s",
+        tags: ["bbs", "demoscene", "warez"],
+        summary: "Modems, message boards, ANSI art, and the communities that formed the modern hacker internet.",
+        content: `
+          <p>Dial‑up <strong>BBS</strong> systems were the social hubs of early hackers. Sysops ran boards that hosted message threads, file libraries, text files (<em>zines</em>), and even early multiplayer games. Groups formed to trade knowledge, crack software protections, and release patches and <em>trainers</em>. A parallel creative movement, the <strong>demoscene</strong>, pushed graphics and sound on limited hardware, celebrating technical mastery for its own sake.</p>
+          <p>While parts of the scene crossed into copyright infringement, the BBS era also incubated security research, netiquette, and the first debates about digital rights and online identity.</p>
+        `,
+        sources: [
+          { label: "Bulletin board system", url: "https://en.wikipedia.org/wiki/Bulletin_board_system" }
+        ]
+      },
+      {
+        id: 3,
+        title: "From Hacktivism to Bug Bounties",
+        slug: "hacktivism-to-bug-bounties",
+        era: "2000s–Present",
+        tags: ["hacktivism", "bug bounty", "security"],
+        summary: "Public‑interest intrusions, disclosure debates, and the rise of coordinated vulnerability programs.",
+        content: `
+          <p>As the web matured, political expression arrived in the form of <strong>hacktivism</strong>: intrusions and disruptions motivated by causes rather than profit. In parallel, security researchers pushed for responsible disclosure while corporations began formal <strong>bug bounty</strong> programs, paying for vulnerabilities instead of threatening legal action. This shifted incentives and helped professionalize a swath of the community.</p>
+          <p>Modern hacker history is diverse: from capture‑the‑flag competitions and open‑source security tools to red/blue team exercises and global incident response. The culture continues to balance curiosity, ethics, and the consequences of powerful technology.</p>
+        `,
+        sources: [
+          { label: "Bug bounty program", url: "https://en.wikipedia.org/wiki/Bug_bounty_program" }
+        ]
+      },
+    ];
+
+    // ==========================
+    // Utility helpers
+    // ==========================
+    const $ = (sel, el = document) => el.querySelector(sel);
+    const $$ = (sel, el = document) => Array.from(el.querySelectorAll(sel));
+
+    function slugify(s) {
+      return s.toLowerCase().replace(/[^a-z0-9\s-]/g, '').trim().replace(/\s+/g, '-');
+    }
+
+    function unique(arr) { return Array.from(new Set(arr)); }
+
+    function getAllTags() {
+      return unique(ARTICLES.flatMap(a => a.tags)).sort((a,b) => a.localeCompare(b));
+    }
+
+    function getAllEras() {
+      return unique(ARTICLES.map(a => a.era));
+    }
+
+    function articleBySlug(slug) {
+      return ARTICLES.find(a => a.slug === slug);
+    }
+
+    function renderChips(items, base = 'tag') {
+      return items.map(t => `<a class="chip" href="#/${base}/${encodeURIComponent(t)}">${t}</a>`).join('');
+    }
+
+    // ==========================
+    // Sidebar population
+    // ==========================
+    function populateSidebar() {
+      const erasEl = $('#eras');
+      erasEl.innerHTML = getAllEras().map(e => `<a class="chip" href="#/era/${encodeURIComponent(e)}">${e}</a>`).join('');
+
+      const tagsEl = $('#tags');
+      tagsEl.innerHTML = renderChips(getAllTags());
+    }
+
+    // ==========================
+    // Views
+    // ==========================
+    function viewHome() {
+      $('#breadcrumbs').textContent = 'Home';
+      $('#view').innerHTML = `
+        <section class="hero">
+          <h1>History of Hackers</h1>
+          <p>A minimalist, GitHub‑Pages friendly wiki about hacker culture, people, and milestones. Use the search box or explore by era and tags. All content is local — no external dependencies.</p>
+        </section>
+        <div class="grid" id="featured"></div>
+      `;
+      // show three featured (first three)
+      const featured = $('#featured');
+      ARTICLES.slice(0, 6).forEach(a => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.innerHTML = `
+          <h3><a href="#/article/${a.slug}" style="color:var(--link); text-decoration:none;">${a.title}</a></h3>
+          <div class="meta">${a.era} · ${a.tags.map(t=>`<span class='chip'>${t}</span>`).join(' ')}</div>
+          <p>${a.summary}</p>
+        `;
+        featured.appendChild(card);
+      });
+    }
+
+    function viewAll() {
+      $('#breadcrumbs').textContent = 'All Articles';
+      const sorted = [...ARTICLES].sort((a,b) => a.title.localeCompare(b.title));
+      $('#view').innerHTML = `<div class="grid">${sorted.map(a => `
+        <div class="card">
+          <h3><a href="#/article/${a.slug}" style="color:var(--link); text-decoration:none;">${a.title}</a></h3>
+          <div class="meta">${a.era}</div>
+          <p>${a.summary}</p>
+        </div>`).join('')}</div>`;
+    }
+
+    function viewArticle(slug) {
+      const a = articleBySlug(slug);
+      if (!a) return viewNotFound();
+      $('#breadcrumbs').innerHTML = `<a href="#/">Home</a> / <a href="#/all">Articles</a> / ${a.title}`;
+      $('#view').innerHTML = `
+        <article class="article">
+          <h1>${a.title}</h1>
+          <div class="meta">Era: ${a.era} · ${a.tags.map(t => `<a class='chip' href='#/tag/${encodeURIComponent(t)}'>${t}</a>`).join(' ')}</div>
+          <div class="divider"></div>
+          <div class="content">${a.content}</div>
+          ${a.sources?.length ? `<div class="sources"><strong>Sources:</strong><ul>${a.sources.map(s=>`<li><a href='${s.url}' target='_blank' rel='noopener noreferrer'>${s.label}</a></li>`).join('')}</ul></div>` : ''}
+        </article>
+      `;
+    }
+
+    function viewEra(era) {
+      $('#breadcrumbs').innerHTML = `<a href='#/'>Home</a> / Era / ${era}`;
+      const list = ARTICLES.filter(a => a.era === era);
+      $('#view').innerHTML = list.length ? `<div class="grid">${list.map(a => `
+        <div class="card">
+          <h3><a href="#/article/${a.slug}" style="color:var(--link); text-decoration:none;">${a.title}</a></h3>
+          <div class="meta">${a.era}</div>
+          <p>${a.summary}</p>
+        </div>`).join('')}</div>` : `<p>No articles yet for this era.</p>`;
+    }
+
+    function viewTag(tag) {
+      $('#breadcrumbs').innerHTML = `<a href='#/'>Home</a> / Tag / ${tag}`;
+      const list = ARTICLES.filter(a => a.tags.includes(tag));
+      $('#view').innerHTML = list.length ? `<div class="grid">${list.map(a => `
+        <div class="card">
+          <h3><a href="#/article/${a.slug}" style="color:var(--link); text-decoration:none;">${a.title}</a></h3>
+          <div class="meta">${a.era}</div>
+          <p>${a.summary}</p>
+        </div>`).join('')}</div>` : `<p>No articles yet for this tag.</p>`;
+    }
+
+    function viewAbout() {
+      $('#breadcrumbs').textContent = 'About';
+      $('#view').innerHTML = `
+        <article class="article">
+          <h1>About This Mini Wiki</h1>
+          <p>This project is a <strong>single-file wiki</strong> built with only HTML, CSS, and JavaScript. It is designed to be extremely easy to modify and to host via GitHub Pages.</p>
+          <h2>Editing</h2>
+          <ol>
+            <li>Open <code>index.html</code> in a text editor.</li>
+            <li>Scroll to the <code>ARTICLES</code> array in the script section.</li>
+            <li>Duplicate an article object and update its <code>title</code>, <code>slug</code>, <code>era</code>, <code>tags</code>, <code>summary</code>, <code>content</code>, and optional <code>sources</code>.</li>
+            <li>Save and push to your GitHub repository.</li>
+            <li>Enable GitHub Pages (Settings → Pages) and select your branch (usually <em>main</em>) and <em>root</em> folder.</li>
+          </ol>
+          <h2>Tips</h2>
+          <ul>
+            <li>Use the <em>slug</em> in URLs: <code>#/article/your-slug-here</code>.</li>
+            <li>Adjust colors by editing CSS variables in the <code>:root</code> section.</li>
+            <li>Use the search input to filter by keyword across titles, summaries, tags, and content.</li>
+          </ul>
+        </article>
+      `;
+    }
+
+    function viewNotFound() {
+      $('#breadcrumbs').textContent = 'Not found';
+      $('#view').innerHTML = `<div class="card"><h3>Page not found</h3><p>Try going back to <a href='#/'>Home</a>.</p></div>`;
+    }
+
+    function viewSearch(q) {
+      $('#breadcrumbs').textContent = `Search: "${q}"`;
+      const Q = q.toLowerCase();
+      const list = ARTICLES.filter(a =>
+        a.title.toLowerCase().includes(Q) ||
+        a.summary.toLowerCase().includes(Q) ||
+        a.era.toLowerCase().includes(Q) ||
+        a.tags.some(t => t.toLowerCase().includes(Q)) ||
+        a.content.toLowerCase().includes(Q)
+      );
+      $('#view').innerHTML = list.length ? `<div class="grid">${list.map(a => `
+        <div class="card">
+          <h3><a href="#/article/${a.slug}" style="color:var(--link); text-decoration:none;">${a.title}</a></h3>
+          <div class="meta">${a.era}</div>
+          <p>${a.summary}</p>
+        </div>`).join('')}</div>` : `<p>No results for that query.</p>`;
+    }
+
+    // ==========================
+    // Router (hash-based)
+    // ==========================
+    function router() {
+      const hash = location.hash.slice(2); // remove '#/'
+      const [route, ...rest] = hash.split('/');
+      const arg = decodeURIComponent(rest.join('/'));
+
+      switch (route) {
+        case '':
+          viewHome(); break;
+        case 'all':
+          viewAll(); break;
+        case 'article':
+          viewArticle(arg); break;
+        case 'era':
+          viewEra(arg); break;
+        case 'tag':
+          viewTag(arg); break;
+        case 'about':
+          viewAbout(); break;
+        case 'search':
+          viewSearch(arg); break;
+        default:
+          viewNotFound();
+      }
+      window.scrollTo({ top: 0, behavior: 'instant' });
+    }
+
+    window.addEventListener('hashchange', router);
+
+    // ==========================
+    // Search box behavior
+    // ==========================
+    const searchInput = $('#search');
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        const q = searchInput.value.trim();
+        location.hash = q ? `#/search/${encodeURIComponent(q)}` : '#/';
+      }
+    });
+    // Focus search with '/'
+    window.addEventListener('keydown', (e) => {
+      if (e.key === '/' && document.activeElement !== searchInput) {
+        e.preventDefault(); searchInput.focus();
+      }
+    });
+
+    // ==========================
+    // Theme toggle (persisted)
+    // ==========================
+    const toggleBtn = $('#toggleTheme');
+    function applyTheme(theme) {
+      document.body.classList.toggle('light', theme === 'light');
+    }
+    function loadTheme() {
+      const t = localStorage.getItem('theme') || 'dark';
+      applyTheme(t);
+    }
+    toggleBtn.addEventListener('click', () => {
+      const cur = document.body.classList.contains('light') ? 'light' : 'dark';
+      const next = cur === 'light' ? 'dark' : 'light';
+      localStorage.setItem('theme', next); applyTheme(next);
+    });
+
+    // ==========================
+    // Init
+    // ==========================
+    populateSidebar();
+    loadTheme();
+    router();
+  </script>
+</body>
+</html>
