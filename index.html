@@ -247,6 +247,61 @@
           { label: "Bug bounty program", url: "https://en.wikipedia.org/wiki/Bug_bounty_program" }
         ]
       },
+      {
+        id: 4,
+        title: "Kevin Mitnick: A Complete History",
+        slug: "kevin-mitnick-complete-history",
+        era: "1963–2023",
+        tags: ["social engineering", "phreaking", "FBI", "DEC", "KnowBe4", "history"],
+        summary: "From his Los Angeles childhood and early phone-phreaking to the 1990s manhunt, prison, and his later career as a renowned security consultant.",
+        content: `
+            <h2>Early Life (1963–late 1970s)</h2>
+            <p><strong>Kevin David Mitnick</strong> was born on <strong>August 6, 1963</strong>, in Los Angeles, California. Growing up in the San Fernando Valley, he showed an early fascination with systems and persuasion. At age 12, he famously learned to ride L.A. buses for free by using discarded transfer slips and a ticket punch he obtained by charming a bus driver—an early lesson in <em>social engineering</em>.</p>
+
+            <h2>First Hacks & Phone Phreaking</h2>
+            <p>In his teens, Mitnick gravitated to the phone-phreaking scene, exploring how signaling, switches, and operators worked. He became a licensed amateur radio operator and honed skills that blended technical curiosity with psychological manipulation—calling employees, imitating tech staff, and asking the right questions to gain access.</p>
+
+            <h2>DEC Case and Early Conviction (1979–1988)</h2>
+            <p>At 16, Mitnick accessed Digital Equipment Corporation (DEC) systems and copied proprietary software used to develop RSTS/E. He was ultimately charged and in <strong>1988</strong> sentenced to <strong>12 months in prison</strong> and <strong>3 years of supervised release</strong> for the DEC intrusion.</p>
+
+            <h2>Probation Violations & Going Fugitive (1992–1995)</h2>
+            <p>Near the end of supervised release, he was accused of accessing <strong>Pacific Bell</strong> systems and other networks, prompting a warrant. Mitnick fled and lived as a fugitive for around <strong>2½ years</strong>, using cloned cell phones, multiple aliases, and security tradecraft to evade capture while allegedly obtaining source code and credentials from major companies.</p>
+
+            <h2>The Shimomura Pursuit & Arrest (Dec 1994–Feb 1995)</h2>
+            <p>On <strong>Christmas Day 1994</strong>, security researcher <strong>Tsutomu Shimomura</strong> found his systems compromised via spoofing and began assisting law enforcement in tracing the intruder. After a high-profile chase, the <strong>FBI arrested Mitnick on February 15, 1995</strong>, in <strong>Raleigh, North Carolina</strong>, following an “intensive two-week electronic manhunt.”</p>
+
+            <h2>Charges, Solitary, and Sentencing</h2>
+            <p>Mitnick faced multiple counts, including wire fraud and unauthorized access. During pre-trial, he spent roughly <strong>8 months in solitary confinement</strong>, fueled by a myth that he could trigger national defense systems “by whistling” into a phone. He ultimately <strong>pleaded guilty</strong> and served about <strong>46 months</strong> (roughly five years including pre-trial time), followed by supervised release.</p>
+
+            <h2>Reinvention: Consultant, Author, Speaker (2000s–2010s)</h2>
+            <p>After release in 2000, Mitnick transitioned to a legal career in security: founding <strong>Mitnick Security Consulting</strong>, advising enterprises, and becoming <strong>Chief Hacking Officer at KnowBe4</strong>. He co-authored influential books bridging psychology and security, including <em>The Art of Deception</em> (2002), <em>The Art of Intrusion</em> (2005), memoir <em>Ghost in the Wires</em> (2011), and <em>The Art of Invisibility</em> (2017). He popularized social-engineering awareness through live demos and keynote talks.</p>
+
+            <h2>Death and Legacy</h2>
+            <p>Mitnick <strong>died on July 16, 2023</strong>, at age 59, after a <strong>14-month battle with pancreatic cancer</strong>. Reports noted he passed at a Pittsburgh hospital while under treatment. He is remembered as both a symbol of 1990s hacker culture’s excesses and a pioneer who helped professionalize security, pushing organizations to take human-factor defenses seriously.</p>
+
+            <h2>Fast Timeline</h2>
+            <ul>
+            <li><strong>1963</strong>: Born in Los Angeles.</li>
+            <li><strong>1970s</strong>: Phone phreaking; early social-engineering exploits.</li>
+            <li><strong>1979–1988</strong>: DEC intrusions; convicted in 1988 (12 months prison + 3 years supervised release).</li>
+            <li><strong>1992–1995</strong>: Fugitive period; high-profile breaches and code theft allegations.</li>
+            <li><strong>Feb 15, 1995</strong>: Arrested by the FBI in Raleigh, NC.</li>
+            <li><strong>1999–2000</strong>: Sentenced; release and re-entry into security industry.</li>
+            <li><strong>2002–2017</strong>: Publishes major books on social engineering and privacy.</li>
+            <li><strong>2012+</strong>: Joins KnowBe4 as Chief Hacking Officer; global keynotes and consulting.</li>
+            <li><strong>July 16, 2023</strong>: Dies at 59 from pancreatic cancer.</li>
+            </ul>
+        `,
+        sources: [
+            { label: "Wikipedia: Kevin Mitnick (bio, charges, dates)", url: "https://en.wikipedia.org/wiki/Kevin_Mitnick" },
+            { label: "DOJ Press Release (arrest details, Raleigh, Feb 15, 1995)", url: "https://www.justice.gov/archive/opa/pr/Pre_96/February95/89.txt.html" },
+            { label: "Wired (1995 arrest context)", url: "https://www.wired.com/2012/02/feb-15-1995-mitnick-arrested" },
+            { label: "EBSCO Research Starters (Shimomura pursuit)", url: "https://www.ebsco.com/research-starters/history/arrest-hacker-kevin-mitnick" },
+            { label: "KnowBe4 (role as Chief Hacking Officer)", url: "https://www.knowbe4.com/products/who-is-kevin-mitnick/" },
+            { label: "Washington Post Obituary (cause of death)", url: "https://www.washingtonpost.com/obituaries/2023/07/20/kevin-mitnick-hacker-dies/" },
+            { label: "Legacy/Dignity (family & 14-month cancer battle)", url: "https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668" }
+        ]
+      }
     ];
 
     // ==========================
@@ -363,28 +418,58 @@
     }
 
     function viewAbout() {
-      $('#breadcrumbs').textContent = 'About';
-      $('#view').innerHTML = `
+    $('#breadcrumbs').textContent = 'About';
+    $('#view').innerHTML = `
         <article class="article">
-          <h1>About This Mini Wiki</h1>
-          <p>This project is a <strong>single-file wiki</strong> built with only HTML, CSS, and JavaScript. It is designed to be extremely easy to modify and to host via GitHub Pages.</p>
-          <h2>Editing</h2>
-          <ol>
+        <h1>About This Wiki</h1>
+        <p><strong>History of Hackers</strong> is a community-driven mini-encyclopedia dedicated to preserving the legacy of hacking—its people, ideas, tools, and pivotal moments. Built as a lightweight, single-file site, it’s easy to edit and perfect for GitHub Pages.</p>
+
+        <h2>Mission</h2>
+        <ul>
+            <li><strong>Preserve the history of hacking</strong> in an accessible, vendor-neutral format.</li>
+            <li><strong>Celebrate contributors and cultures</strong> that shaped security, privacy, and the open internet.</li>
+            <li><strong>Educate responsibly</strong> with clear sources, balanced coverage, and ethical context.</li>
+        </ul>
+
+        <h2>Community Contributions</h2>
+        <p>This wiki thrives on community participation. Anyone can propose new biographies, timelines, incident writeups, and glossaries. Keep the tone neutral and cite reputable sources.</p>
+
+        <h3>How to Contribute</h3>
+        <ol>
             <li>Open <code>index.html</code> in a text editor.</li>
-            <li>Scroll to the <code>ARTICLES</code> array in the script section.</li>
-            <li>Duplicate an article object and update its <code>title</code>, <code>slug</code>, <code>era</code>, <code>tags</code>, <code>summary</code>, <code>content</code>, and optional <code>sources</code>.</li>
-            <li>Save and push to your GitHub repository.</li>
-            <li>Enable GitHub Pages (Settings → Pages) and select your branch (usually <em>main</em>) and <em>root</em> folder.</li>
-          </ol>
-          <h2>Tips</h2>
-          <ul>
-            <li>Use the <em>slug</em> in URLs: <code>#/article/your-slug-here</code>.</li>
-            <li>Adjust colors by editing CSS variables in the <code>:root</code> section.</li>
-            <li>Use the search input to filter by keyword across titles, summaries, tags, and content.</li>
-          </ul>
+            <li>Find the <code>ARTICLES</code> array in the script section.</li>
+            <li>Duplicate an existing article object and edit:
+            <ul>
+                <li><code>id</code> (unique number), <code>title</code>, <code>slug</code> (lowercase-dashes), <code>era</code>, <code>tags</code>, <code>summary</code>.</li>
+                <li><code>content</code> accepts HTML (<code>&lt;h2&gt;</code>, <code>&lt;p&gt;</code>, <code>&lt;ul&gt;</code>, etc.).</li>
+                <li><code>sources</code>: add <code>{ label, url }</code> for each reference.</li>
+            </ul>
+            </li>
+            <li>Save, commit, and push to your GitHub repository.</li>
+            <li>Enable GitHub Pages (Settings → Pages) using the <em>main</em> branch and the <em>root</em> folder.</li>
+        </ol>
+
+        <h2>Editorial Guidelines</h2>
+        <ul>
+            <li><strong>Neutral & factual:</strong> Avoid sensationalism. Present multiple viewpoints when relevant.</li>
+            <li><strong>Attribution:</strong> Prefer primary documents, court records, technical posts, and reputable journalism.</li>
+            <li><strong>Clarity:</strong> Explain jargon briefly; link to sources for deeper reading.</li>
+            <li><strong>Respect & ethics:</strong> Do not publish doxxing, private data, or instructions for harm.</li>
+        </ul>
+
+        <h2>Structure & Navigation</h2>
+        <ul>
+            <li><code>#/</code> Home · <code>#/all</code> All Articles · <code>#/article/&lt;slug&gt;</code> Article</li>
+            <li><code>#/era/&lt;era&gt;</code> Browse by era · <code>#/tag/&lt;tag&gt;</code> Browse by tag</li>
+            <li><code>#/search/&lt;query&gt;</code> Full-text search across titles, summaries, tags, and content</li>
+        </ul>
+
+        <h2>Credits & License</h2>
+        <p>The code for this wiki is minimal and dependency-free. Feel free to adapt it for your own project. Consider adding an <code>MIT</code> or <code>CC-BY</code> license file to clarify reuse. Contributions are welcome—help us keep the history of hacking alive for future generations.</p>
         </article>
-      `;
+    `;
     }
+
 
     function viewNotFound() {
       $('#breadcrumbs').textContent = 'Not found';
