@@ -1,0 +1,63 @@
+{
+  "id": "adrian-lamo",
+  "type": "person",
+  "title": "Adrian Lamo: The 'Homeless Hacker'",
+  "slug": "adrian-lamo",
+  "era": "2000s-2010s",
+  "tags": [
+    "gray hat",
+    "whistleblower",
+    "media",
+    "ethics"
+  ],
+  "summary": "The complex and controversial story of Adrian Lamo, a gray-hat hacker known for his high-profile intrusions and his role in reporting Chelsea Manning.",
+  "whyThisMatters": "The complex and controversial story of Adrian Lamo, a gray-hat hacker known for his high-profile intrusions and his role in reporting Chelsea Manning.",
+  "sections": {
+    "overview": "<p><strong>Adrian Lamo</strong> was a polarizing figure in the hacker community, often dubbed the 'homeless hacker' for his transient lifestyle. He specialized in 'gray hat' hacking, breaking into major corporate networks, finding security flaws, and then notifying the companies of their vulnerabilities without demanding payment.</p>\n<p>In 2002, he gained widespread notoriety for hacking into the intranet of <strong>The New York Times</strong>, where he added himself to their list of expert sources and viewed sensitive information. He was arrested in 2003 and sentenced to six months of home detention.</p>\n<p>Lamo's story took a dramatic turn in 2010 when he was contacted by U.S. Army intelligence analyst Chelsea Manning. Manning confessed to having leaked hundreds of thousands of classified government documents to WikiLeaks. After a period of internal conflict, Lamo reported Manning to the FBI, leading to her arrest and a 35-year prison sentence (later commuted). This action made him a hero to some and a traitor to others, sparking a fierce debate on ethics, loyalty, and whistleblowing in the digital age. Lamo died in 2018 at the age of 37.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2002",
+      "event": "Hacks The New York Times intranet."
+    },
+    {
+      "date": "2010",
+      "event": "Reports Chelsea Manning's disclosures to the FBI."
+    },
+    {
+      "date": "2018",
+      "event": "Dies at age 37."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Wired: 'The Unbearable Sadness of Adrian Lamo'",
+      "url": "https://www.wired.com/story/adrian-lamo-unbearable-sadness/",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wikipedia: Adrian Lamo",
+      "url": "https://en.wikipedia.org/wiki/Adrian_Lamo",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Adrian Lamo: The 'Homeless Hacker'",
+  "born": null,
+  "died": "2018",
+  "knownFor": [
+    "New York Times intranet intrusion (2002)",
+    "Reporting Chelsea Manning to the FBI (2010)"
+  ]
+}

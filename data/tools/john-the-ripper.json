@@ -1,0 +1,48 @@
+{
+  "id": "john-the-ripper",
+  "type": "tool",
+  "title": "John the Ripper: The Timeless Password Cracker",
+  "slug": "john-the-ripper",
+  "era": "1990s-Present",
+  "tags": [
+    "tool",
+    "password cracking",
+    "security",
+    "open source"
+  ],
+  "summary": "The story of John the Ripper, the fast, flexible, and iconic open-source password cracking tool created by Alexander Peslyak ('Solar Designer').",
+  "whyThisMatters": "The story of John the Ripper, the fast, flexible, and iconic open-source password cracking tool created by Alexander Peslyak ('Solar Designer').",
+  "sections": {
+    "overview": "<p>In 1996, a programmer known as <strong>Solar Designer</strong> (Alexander Peslyak) released <strong>John the Ripper</strong>, a free, open-source password cracking tool. It quickly became one of the most popular and effective password security auditing tools available.</p>\n<p>Its primary purpose is to detect weak Unix passwords. However, its design is highly extensible, and over the years, it has been expanded to support hundreds of hash and cipher types on dozens of platforms. 'John,' as it's commonly known, uses a combination of techniques to crack passwords, including dictionary attacks, brute-force attacks, and hybrid attacks.</p>\n<p>The tool is a classic example of security software that can be used for both 'good' and 'bad' purposes. Security administrators use it to test the strength of their own systems' passwords and enforce better password policies. Attackers, on the other hand, can use it to gain unauthorized access. Its enduring popularity is a testament to its effective design and the ongoing challenge of password security.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1996",
+      "event": "First released by Solar Designer (Alexander Peslyak)."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "John the Ripper Official Website",
+      "url": "https://www.openwall.com/john/",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wikipedia: John the Ripper",
+      "url": "https://en.wikipedia.org/wiki/John_the_Ripper",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

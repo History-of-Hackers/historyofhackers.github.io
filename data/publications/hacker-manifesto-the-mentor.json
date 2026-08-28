@@ -1,0 +1,48 @@
+{
+  "id": "hacker-manifesto-the-mentor",
+  "type": "publication",
+  "title": "The Hacker Manifesto: 'The Conscience of a Hacker'",
+  "slug": "hacker-manifesto-the-mentor",
+  "era": "1980s",
+  "tags": [
+    "manifesto",
+    "philosophy",
+    "The Mentor",
+    "phrack"
+  ],
+  "summary": "An exploration of the seminal 1986 essay written by Loyd 'The Mentor' Blankenship, which became the philosophical soul of the hacker movement.",
+  "whyThisMatters": "An exploration of the seminal 1986 essay written by Loyd 'The Mentor' Blankenship, which became the philosophical soul of the hacker movement.",
+  "sections": {
+    "overview": "<p>Written shortly after his arrest, the <strong>Hacker Manifesto</strong> is a short essay penned by Loyd Blankenship under the handle 'The Mentor.' It was published in 1986 in the ezine <strong>Phrack</strong> and quickly became one of the most widely quoted pieces of hacker literature.</p>\n<p>The text is a passionate defense of hacking, portraying hackers not as criminals, but as misunderstood explorers and learners. It captures the frustration of a generation of bright kids who felt stifled by a conformist, non-intellectual world. The opening lines are iconic: <em>\"My crime is that of curiosity. My crime is that of judging people by what they say and think, not what they look like. My crime is that of outsmarting you, something that you will never forgive me for.\"</em></p>\n<p>The Manifesto romanticizes the hacker as a digital anti-hero, driven by a thirst for knowledge and a desire for a world without arbitrary boundaries. It crystallized the feelings of many early hackers and served as a philosophical touchstone for the culture for decades to come, frequently cited in debates about ethics, motivation, and the spirit of hacking.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1986",
+      "event": "Published in Phrack under the handle 'The Mentor'."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "The Conscience of a Hacker (Full Text)",
+      "url": "http://phrack.org/issues/7/3.html",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wikipedia: Hacker Manifesto",
+      "url": "https://en.wikipedia.org/wiki/Hacker_Manifesto",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

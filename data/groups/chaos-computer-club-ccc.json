@@ -1,0 +1,57 @@
+{
+  "id": "chaos-computer-club-ccc",
+  "type": "group",
+  "title": "The Chaos Computer Club (CCC)",
+  "slug": "chaos-computer-club-ccc",
+  "era": "1980s-Present",
+  "tags": [
+    "ccc",
+    "europe",
+    "hacktivism",
+    "privacy"
+  ],
+  "summary": "Europe's largest and one of the world's most influential associations of hackers, known for its public demonstrations of security flaws and its strong advocacy for government transparency and data privacy.",
+  "whyThisMatters": "Europe's largest and one of the world's most influential associations of hackers, known for its public demonstrations of security flaws and its strong advocacy for government transparency and data privacy.",
+  "sections": {
+    "overview": "<p>The <strong>Chaos Computer Club (CCC)</strong>, founded in Berlin in 1981, is Europe's largest association of hackers. Guided by the principles of the hacker ethic, the CCC advocates for government transparency, freedom of information, and data privacy.</p>\n<p>The CCC is famous for exposing security vulnerabilities in high-profile systems. In 1984, in the 'BTX-Hack,' they repeatedly exploited a flaw in Germany's Bildschirmtext videotex system, causing it to send the club 134,000 DM (which they returned the next day at a press conference) to prove the system's insecurity.</p>\n<p>The club hosts the annual <strong>Chaos Communication Congress</strong>, one of the world's largest hacker conventions, featuring lectures and workshops on technology, security, and society. The CCC remains a powerful voice in Europe and beyond, engaging in political and ethical debates surrounding technology and championing the public's right to understand and control the digital world.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1981",
+      "event": "CCC founded in Berlin."
+    },
+    {
+      "date": "1984",
+      "event": "The 'BTX-Hack' publicly demonstrates a flaw in Germany's Bildschirmtext system."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Chaos Computer Club Official Website",
+      "url": "https://www.ccc.de/en/",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wikipedia: Chaos Computer Club",
+      "url": "https://en.wikipedia.org/wiki/Chaos_Computer_Club",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "20 Years of Chaos Computer Club by Frank Rieger (Video)",
+      "url": "https://media.ccc.de/v/20congres-390-20_years_of_chaos_computer_club",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

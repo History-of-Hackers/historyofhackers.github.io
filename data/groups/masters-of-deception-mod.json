@@ -1,0 +1,48 @@
+{
+  "id": "masters-of-deception-mod",
+  "type": "group",
+  "title": "Masters of Deception: The New York Hacker Wars",
+  "slug": "masters-of-deception-mod",
+  "era": "1980s-1990s",
+  "tags": [
+    "mod",
+    "lod",
+    "phreaking",
+    "new york"
+  ],
+  "summary": "The story of the Masters of Deception (MOD), a New York-based hacker group whose expertise in telephony and epic rivalry with the Legion of Doom (LOD) defined an era.",
+  "whyThisMatters": "The story of the Masters of Deception (MOD), a New York-based hacker group whose expertise in telephony and epic rivalry with the Legion of Doom (LOD) defined an era.",
+  "sections": {
+    "overview": "<p>The <strong>Masters of Deception (MOD)</strong> were a multi-ethnic group of New York-based hackers who became legendary for their deep knowledge of telephone networks. The group, with members like 'Phiber Optik,' 'Acid Phreak,' and 'Lord Micro,' represented a new generation of hackers from diverse urban backgrounds.</p>\n<p>MOD's claim to fame was its rivalry with the older, more established hacker group, the <strong>Legion of Doom (LOD)</strong>. This 'Great Hacker War,' fought across BBSs and the internet, involved digital skirmishes, doxxing, and arguments over hacking ethics. MOD positioned themselves as champions of true curiosity-driven hacking, in contrast to what they saw as LOD's elitism.</p>\n<p>The group's activities escalated to wiretapping and redirecting phone lines, which attracted the attention of federal law enforcement. In 1992, several key members were arrested in a nationwide crackdown. The resulting court cases and media coverage sensationalized the group, cementing their place in hacker lore as rebellious anti-heroes of the digital underground.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1992",
+      "event": "Key MOD members arrested in a federal crackdown."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Masters of Deception (Book) by Michelle Slatalla",
+      "url": "https://www.amazon.com/Masters-Deception-Gang-Ruled-Cyberspace/dp/0060926945",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wikipedia: Masters of Deception",
+      "url": "https://en.wikipedia.org/wiki/Masters_of_Deception",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

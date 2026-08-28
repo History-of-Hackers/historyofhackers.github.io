@@ -1,0 +1,53 @@
+{
+  "id": "defcon-hacker-conference",
+  "type": "event",
+  "title": "DEF CON: The World's Most Famous Hacker Con",
+  "slug": "defcon-hacker-conference",
+  "era": "1990s-Present",
+  "tags": [
+    "defcon",
+    "conference",
+    "culture",
+    "Las Vegas"
+  ],
+  "summary": "From a small gathering organized by Jeff Moss ('The Dark Tangent') to the world's largest and most iconic annual hacker convention in Las Vegas.",
+  "whyThisMatters": "From a small gathering organized by Jeff Moss ('The Dark Tangent') to the world's largest and most iconic annual hacker convention in Las Vegas.",
+  "sections": {
+    "overview": "<p><strong>DEF CON</strong> (also written as DEFCON or DC) started in 1993 as an informal gathering organized by Jeff Moss, also known as 'The Dark Tangent.' Moss planned a farewell party for a fellow hacker who was leaving the country, but when the friend's plans changed, Moss decided to hold the party anyway, inviting members of various BBS networks.</p>\n<p>Held annually in Las Vegas, DEF CON quickly grew from a few dozen attendees to one of the world's largest and most famous hacker conferences. It is known for its anything-goes atmosphere and its diverse range of events, including technical talks, hacking competitions (like Capture the Flag), lockpicking villages, and contests where attendees attempt to hack everything from voting machines to cars.</p>\n<p>Despite its growth, DEF CON has maintained its counter-cultural roots. It famously has a 'Spot the Fed' contest and a 'Wall of Sheep' to display the credentials of attendees foolish enough to use unsecured Wi-Fi. It's a place where corporate security professionals, federal agents, and underground hackers can mingle, share knowledge, and test their skills.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1993",
+      "event": "First DEF CON held in Las Vegas, organized by Jeff Moss ('The Dark Tangent')."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "DEF CON Official Website",
+      "url": "https://defcon.org/",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wikipedia: DEF CON",
+      "url": "https://en.wikipedia.org/wiki/DEF_CON",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "DEFCON: The Documentary",
+      "url": "https://www.youtube.com/watch?v=3oRpbk_M3kY",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

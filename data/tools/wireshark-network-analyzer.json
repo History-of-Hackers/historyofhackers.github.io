@@ -1,0 +1,57 @@
+{
+  "id": "wireshark-network-analyzer",
+  "type": "tool",
+  "title": "Wireshark: Sniffing the Wires",
+  "slug": "wireshark-network-analyzer",
+  "era": "1990s-Present",
+  "tags": [
+    "tool",
+    "networking",
+    "protocol analyzer",
+    "open source"
+  ],
+  "summary": "How a project started by Gerald Combs, originally named Ethereal, became the world's foremost network protocol analyzer.",
+  "whyThisMatters": "How a project started by Gerald Combs, originally named Ethereal, became the world's foremost network protocol analyzer.",
+  "sections": {
+    "overview": "<p>In the late 1990s, Gerald Combs, a computer science graduate, was working for an internet service provider. Needing a tool to analyze network traffic, and frustrated with the limitations of existing software, he began writing his own. In 1998, he released the first version of <strong>Ethereal</strong>.</p>\n<p>Ethereal was revolutionary because it was open-source and supported a vast number of protocols. It allowed network administrators, security professionals, and developers to 'see' the traffic on a network in minute detail. The project's popularity grew exponentially, attracting a community of developers who contributed code and expertise.</p>\n<p>In 2006, due to a trademark dispute with his former employer, Combs was forced to rename the project. He chose <strong>Wireshark</strong>. The community and codebase transitioned to the new name, and the project continued to thrive. Today, Wireshark is an essential tool for anyone working with networks, used for troubleshooting, forensics, and education.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1998",
+      "event": "First release, under the name Ethereal."
+    },
+    {
+      "date": "2006",
+      "event": "Renamed Wireshark after a trademark dispute."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Wireshark Official Website",
+      "url": "https://www.wireshark.org/",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "A Brief History of Wireshark",
+      "url": "https://www.wireshark.org/docs/wsug_html_chunked/ChIntroHistory.html",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wikipedia: Wireshark",
+      "url": "https://en.wikipedia.org/wiki/Wireshark",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

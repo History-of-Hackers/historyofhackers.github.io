@@ -1,0 +1,61 @@
+{
+  "id": "cult-of-the-dead-cow-cdc",
+  "type": "group",
+  "title": "The Cult of the Dead Cow (cDc) and Hacktivism",
+  "slug": "cult-of-the-dead-cow-cdc",
+  "era": "1980s-2000s",
+  "tags": [
+    "cdc",
+    "hacktivism",
+    "bbs",
+    "security tools"
+  ],
+  "summary": "The influential hacker group known for its high-profile pranks, coining the term 'hacktivism', and releasing controversial but powerful tools like Back Orifice.",
+  "whyThisMatters": "The influential hacker group known for its high-profile pranks, coining the term 'hacktivism', and releasing controversial but powerful tools like Back Orifice.",
+  "sections": {
+    "overview": "<p>Founded in 1984 in Lubbock, Texas, the <strong>Cult of the Dead Cow (cDc)</strong> is one of the oldest and most influential hacker groups. Originating in the BBS era, the cDc blended technical skill with media-savvy stunts and political commentary.</p>\n<p>In 1996, the cDc coined the term <strong>'hacktivism'</strong> to describe using hacking to promote political and social causes. They created the 'Hacktivismo' declaration, which asserted a right to access information online as a fundamental human right.</p>\n<p>The group is perhaps most famous for releasing <strong>Back Orifice (BO)</strong> at DEF CON 6 in 1998. Named as a pun on Microsoft's BackOffice Server, it was a remote administration tool that could be used for system administration but also for malicious purposes, granting near-total control over a remote Windows machine. The release was highly controversial, sparking a global conversation about dual-use security tools and corporate responsibility for software security.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1984",
+      "event": "cDc founded in Lubbock, Texas."
+    },
+    {
+      "date": "1996",
+      "event": "cDc coins the term 'hacktivism'."
+    },
+    {
+      "date": "1998",
+      "event": "Back Orifice released at DEF CON 6."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Cult of the Dead Cow by Joseph Menn",
+      "url": "https://www.amazon.com/Cult-Dead-Cow-Original-Supergroup/dp/1541762388",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wikipedia: Cult of the Dead Cow",
+      "url": "https://en.wikipedia.org/wiki/Cult_of_the_Dead_Cow",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "The Hacktivismo Declaration",
+      "url": "https://cultdeadcow.com/cDc_files/cDc-351/",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

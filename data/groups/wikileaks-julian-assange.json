@@ -1,0 +1,53 @@
+{
+  "id": "wikileaks-julian-assange",
+  "type": "group",
+  "title": "WikiLeaks & Julian Assange: Radical Transparency",
+  "slug": "wikileaks-julian-assange",
+  "era": "2000s-Present",
+  "tags": [
+    "wikileaks",
+    "whistleblowing",
+    "journalism",
+    "Assange",
+    "hacktivism"
+  ],
+  "summary": "The rise and impact of WikiLeaks, the controversial platform founded by Julian Assange that published vast caches of secret information, changing the face of journalism and activism.",
+  "whyThisMatters": "The rise and impact of WikiLeaks, the controversial platform founded by Julian Assange that published vast caches of secret information, changing the face of journalism and activism.",
+  "sections": {
+    "overview": "<p>Founded in 2006 by Australian activist <strong>Julian Assange</strong>, <strong>WikiLeaks</strong> is a non-profit organization that publishes news leaks and classified media provided by anonymous sources. Its stated goal is to bring important information to the public, promoting transparency and holding powerful entities accountable.</p>\n<p>In 2010, WikiLeaks gained international notoriety after it published a massive trove of U.S. military and diplomatic documents leaked by Chelsea Manning. These included the 'Collateral Murder' video, the Afghan War Diary, and the Iraq War Logs, which exposed sensitive details about military operations and foreign relations.</p>\n<p>The publications sparked a global debate. Supporters hailed WikiLeaks as a new form of investigative journalism and a vital check on government power. Critics accused it of recklessly endangering lives and undermining national security. Assange himself became a highly controversial figure, eventually seeking asylum in the Ecuadorian embassy in London for seven years before being arrested. The legacy of WikiLeaks is complex, having undeniably changed the landscape of whistleblowing, journalism, and the politics of information.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2006",
+      "event": "WikiLeaks founded by Julian Assange."
+    },
+    {
+      "date": "2010",
+      "event": "Publishes the Afghan War Diary and Iraq War Logs, leaked by Chelsea Manning."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Wikipedia: WikiLeaks",
+      "url": "https://en.wikipedia.org/wiki/WikiLeaks",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "The Guardian: 'The WikiLeaks Files'",
+      "url": "https://www.theguardian.com/world/wikileaks",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

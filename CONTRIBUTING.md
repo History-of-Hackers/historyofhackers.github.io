@@ -5,13 +5,15 @@ security history. Read this before opening a PR.
 
 ## Current state of the project
 
-Today the entire site is one file, `index.html` — articles live as plain JS
-objects in the `ARTICLES` array, no build step. A structured `templates/`
-schema (person/group/event/tool/vulnerability) exists for the planned move
-to `data/*.json` files, but nothing consumes it yet — **don't migrate
-content on your own initiative**; add new articles the current way
-(edit `index.html`) unless a maintainer says the data migration is in
-progress.
+The site is a multi-page static archive. Content lives as JSON records
+under [`data/`](data/README.md) (one file per person/group/tool/
+vulnerability/event/publication/field, matching the schemas in
+[`templates/`](templates/)), and each record has a matching static HTML
+page under `/people/`, `/groups/`, `/tools/`, `/vulnerabilities/`,
+`/events/`, `/publications/`, or `/fields/`. Search and filtering are
+client-side, reading [`data/manifest.json`](data/manifest.json). There is
+no build step — pages are written by hand (or copied from an existing page
+of the same type) and committed as-is.
 
 ## Ground rules
 
@@ -27,20 +29,25 @@ progress.
 
 1. Fork the repository.
 2. Create a branch: `git checkout -b add-jane-doe` or `fix-mitnick-date`.
-3. For a **new article**: duplicate an existing object in the `ARTICLES`
-   array in `index.html`. See [Article Schema](README.md#article-schema)
-   in the README for the exact shape.
-4. For a **new person/group/event/tool/vulnerability candidate that isn't
-   ready for an article yet**: add a row to
+3. For a **new article**, see the step-by-step in
+   [data/README.md](data/README.md#adding-a-new-entity): copy a template
+   from `templates/`, fill in `data/<type>/<slug>.json`, add a row to
+   `data/manifest.json`, and copy an existing page of the same type under
+   `/people/`, `/groups/`, `/tools/`, `/vulnerabilities/`, `/events/`,
+   `/publications/`, or `/fields/` to build the new page.
+4. For a **candidate that isn't ready for an article yet**: add a row to
    [RESEARCH_BACKLOG.md](RESEARCH_BACKLOG.md) instead of writing the article
    directly.
 5. Add sources — at least one, ideally several, following
    [SOURCES.md](SOURCES.md).
 6. Validate locally:
-   - Open `index.html` in a browser, confirm the new article renders,
-     search finds it, and no console errors appear.
+   - Serve the repo (e.g. `python3 -m http.server`) and open the new page,
+     confirm it renders, appears in `/search/` and the relevant `/<type>/`
+     index, and has no console errors.
    - Check every link you added resolves and uses
      `rel="noopener noreferrer"` if it's `target="_blank"`.
+   - If the entry has dated milestones, confirm they show up correctly on
+     `/timeline/`.
 7. Open a Pull Request with a descriptive title (e.g.
    `Add: Katie Moussouris — bug bounty history`). In the description,
    list your sources and note if any fact is `DISPUTED`/`UNVERIFIED`.
@@ -51,12 +58,14 @@ progress.
 - Tone matches [STYLE_GUIDE.md](STYLE_GUIDE.md).
 - No copy-pasted text from Wikipedia or elsewhere — original writing only.
 - No unlicensed images (see [SOURCES.md](SOURCES.md#images)).
-- `index.html` still opens and runs with no JS errors.
+- The new/edited page opens and runs with no JS errors, and `data/manifest.json`
+  stays valid JSON with the new entry present.
 
 ## Small fixes
 
-Typo, date correction, dead link swap — just edit directly and open a PR
-describing the fix and the source for the correction.
+Typo, date correction, dead link swap — just edit the relevant `data/*.json`
+record and the corresponding HTML page, then open a PR describing the fix
+and the source for the correction.
 
 ## Questions / uncertain candidates
 

@@ -1,0 +1,55 @@
+{
+  "id": "marcus-hutchins-wannacry",
+  "type": "person",
+  "title": "Marcus Hutchins: The Accidental Hero of WannaCry",
+  "slug": "marcus-hutchins-wannacry",
+  "era": "2010s",
+  "tags": [
+    "malwaretech",
+    "wannacry",
+    "ransomware",
+    "security research",
+    "hero"
+  ],
+  "summary": "The story of Marcus Hutchins, a young malware researcher who discovered the 'kill switch' that helped halt the global WannaCry ransomware attack.",
+  "whyThisMatters": "The story of Marcus Hutchins, a young malware researcher who discovered the 'kill switch' that helped halt the global WannaCry ransomware attack.",
+  "sections": {
+    "overview": "<p>In May 2017, the <strong>WannaCry</strong> ransomware attack began spreading across the globe, crippling hospitals, corporations, and government agencies. As the world scrambled to react, a 22-year-old British security researcher named <strong>Marcus Hutchins</strong>, known online as 'MalwareTech,' made a crucial discovery.</p>\n<p>While analyzing the malware's code, Hutchins noticed it made a request to an unregistered, nonsensical domain name. On a hunch, he registered the domain for about $10. This simple act activated a 'kill switch' built into the malware by its creators, effectively halting the worm's rapid global spread. Hutchins was hailed as an accidental hero who saved countless systems from infection.</p>\n<p>However, his story took a twist months later when he was arrested by the FBI in Las Vegas after attending DEF CON. The charges related to his past involvement in writing banking malware years earlier. He eventually pleaded guilty to two charges and was sentenced to time served, with many in the security community advocating on his behalf. His story highlights the complex, often gray-hat world of malware research.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2017-05",
+      "event": "Discovers the WannaCry kill switch domain."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Wired: 'The Confessions of Marcus Hutchins, the Hacker Who Saved the Internet'",
+      "url": "https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-internet/",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wikipedia: Marcus Hutchins",
+      "url": "https://en.wikipedia.org/wiki/Marcus_Hutchins",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Marcus Hutchins: The Accidental Hero of WannaCry",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Discovering the WannaCry kill switch (2017)"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "metasploit-framework",
+  "type": "tool",
+  "title": "The Metasploit Framework: Democratizing Penetration Testing",
+  "slug": "metasploit-framework",
+  "era": "2000s-Present",
+  "tags": [
+    "tool",
+    "exploit",
+    "penetration testing",
+    "security"
+  ],
+  "summary": "The evolution of the Metasploit Framework, from H. D. Moore's open-source project to a powerful platform that made exploit development and penetration testing accessible.",
+  "whyThisMatters": "The evolution of the Metasploit Framework, from H. D. Moore's open-source project to a powerful platform that made exploit development and penetration testing accessible.",
+  "sections": {
+    "overview": "<p>In 2003, H. D. Moore started the <strong>Metasploit Project</strong> as a portable network game in Perl. However, it quickly evolved into a powerful tool for exploit development and execution. The goal was to create a public, open-source resource for researching security vulnerabilities and developing code that allows a computer user to take control of a remote computer system.</p>\n<p>The release of <strong>Metasploit Framework 2.0</strong> in 2004, rewritten in Ruby, was a landmark event. It provided a reliable, plug-in-based architecture that allowed the security community to contribute their own exploits, payloads, and tools. This 'democratized' hacking, making advanced penetration testing techniques accessible to a wider audience, from security professionals to hobbyists.</p>\n<p>In 2009, the project was acquired by <strong>Rapid7</strong>, a cybersecurity company. This acquisition provided the resources for full-time development, leading to the creation of commercial versions like Metasploit Pro, while the core Framework remains open-source. It is now the world's most widely used penetration testing framework.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2003",
+      "event": "H. D. Moore starts the Metasploit Project."
+    },
+    {
+      "date": "2004",
+      "event": "Metasploit Framework 2.0 released, rewritten in Ruby."
+    },
+    {
+      "date": "2009",
+      "event": "Acquired by Rapid7."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Metasploit Official Website",
+      "url": "https://www.metasploit.com/",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wikipedia: Metasploit Project",
+      "url": "https://en.wikipedia.org/wiki/Metasploit_Project",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Rapid7",
+      "url": "https://www.rapid7.com/",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

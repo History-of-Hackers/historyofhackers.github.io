@@ -1,0 +1,37 @@
+{
+  "id": "bbs-and-warez-scene",
+  "type": "field",
+  "title": "The BBS & Warez Scene",
+  "slug": "bbs-and-warez-scene",
+  "era": "1980s-1990s",
+  "tags": [
+    "bbs",
+    "demoscene",
+    "warez"
+  ],
+  "summary": "Modems, message boards, ANSI art, and the communities that formed the modern hacker internet.",
+  "whyThisMatters": "Modems, message boards, ANSI art, and the communities that formed the modern hacker internet.",
+  "sections": {
+    "overview": "<p>Dial-up <strong>BBS</strong> systems were the social hubs of early hackers. Sysops ran boards that hosted message threads, file libraries, text files (<em>zines</em>), and even early multiplayer games. Groups formed to trade knowledge, crack software protections, and release patches and <em>trainers</em>. A parallel creative movement, the <strong>demoscene</strong>, pushed graphics and sound on limited hardware, celebrating technical mastery for its own sake.</p>\n<p>While parts of the scene crossed into copyright infringement, the BBS era also incubated security research, netiquette, and the first debates about digital rights and online identity.</p>"
+  },
+  "timeline": [],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bulletin board system",
+      "url": "https://en.wikipedia.org/wiki/Bulletin_board_system",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 1,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Research Backlog - History of Hackers</title>
+<meta name="description" content="Research Backlog for the History of Hackers project." />
+<link rel="canonical" href="https://historyofhackers.org/RESEARCH_BACKLOG.html" />
+<meta name="theme-color" content="#7a2e2e" />
+<meta property="og:title" content="Research Backlog - History of Hackers" />
+<meta property="og:description" content="Research Backlog for the History of Hackers project." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://historyofhackers.org/RESEARCH_BACKLOG.html" />
+<link rel="stylesheet" href="./assets/css/main.css" />
+</head>
+<body data-root="." class="">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <a class="brand" href="./" style="color:inherit;">
+    <span class="brand-logo">H</span> History of Hackers
+  </a>
+  <span class="tagline">A living archive of hacker culture &amp; cybersecurity history</span>
+  <form class="site-search" id="siteSearchForm" role="search">
+    <label class="visually-hidden" for="siteSearchInput">Search</label>
+    <input id="siteSearchInput" type="search" placeholder="Search people, groups, tools, vulnerabilities... (Press /)" aria-label="Search the archive" />
+  </form>
+  <div class="header-actions">
+    <button class="btn" id="toggleTheme" type="button" title="Toggle light/dark theme">Theme</button>
+    <a class="btn" href="./about.html">About</a>
+  </div>
+</header>
+<nav class="primary-nav" aria-label="Sections"><a href="./people/">People</a>
+<a href="./groups/">Groups</a>
+<a href="./tools/">Tools</a>
+<a href="./vulnerabilities/">Vulnerabilities</a>
+<a href="./events/">Events</a>
+<a href="./publications/">Publications</a>
+<a href="./fields/">Fields</a>
+<a href="./timeline/">Timeline</a></nav>
+<div class="shell">
+<main class="content" id="main">
+
+<div class="breadcrumbs"><a href="./">Home</a> / Research Backlog</div>
+<article class="entity">
+<h1>Research Backlog</h1>
+<div class="entity-content">
+<p>Candidates being researched before they earn an article. Nothing in this</p>
+<p>file is published content — it exists so nobody skips validation and turns</p>
+<p>a seed name into an unsourced page.</p>
+<h3>Status values</h3>
+<ul>
+<li><code>TODO</code> — name identified, no research done yet.</li>
+<li><code>RESEARCHING</code> — actively gathering sources.</li>
+<li><code>VERIFIED</code> — identity and core facts confirmed by reliable sources.</li>
+<li><code>ARTICLE_READY</code> — verified and enough material for a full page per the</li>
+</ul>
+<p>structure in <a href="templates/person.json">templates/person.json</a>.</p>
+<ul>
+<li><code>PUBLISHED</code> — article is live.</li>
+</ul>
+<h3>How to use this file</h3>
+<ol>
+<li>Add a candidate row with what you're trying to confirm and why they</li>
+</ol>
+<p>matter.</p>
+<ol>
+<li>Move status forward only when you actually did the work (found sources,</li>
+</ol>
+<p>confirmed identity, resolved ambiguity).</p>
+<ol>
+<li>Never jump straight to <code>PUBLISHED</code> — if there's no <code>VERIFIED</code> step behind</li>
+</ol>
+<p>it, the article shouldn't exist yet.</p>
+<ol>
+<li>Link sources you've already found in the "Potential Sources" column even</li>
+</ol>
+<p>at <code>TODO</code>/<code>RESEARCHING</code> stage — half-done research is still useful to the</p>
+<p>next contributor.</p>
+<h3>Candidates</h3>
+<div style='overflow-x:auto'><table><thead><tr><th>Candidate</th><th>Reason</th><th>Area</th><th>Potential Sources</th><th>Status</th></tr></thead><tbody>
+<tr><td>Dan Kaminsky</td><td>2008 DNS cache poisoning vulnerability, major internet infra impact</td><td>DNS / Network Security</td><td>Black Hat 2008 talk, contemporary news coverage</td><td>TODO</td></tr>
+<tr><td>Joanna Rutkowska</td><td>Blue Pill, Qubes OS, virtualization security research</td><td>Virtualization / OS Security</td><td>Invisible Things Lab publications, Black Hat talks</td><td>TODO</td></tr>
+<tr><td>HD Moore</td><td>Metasploit Framework creator</td><td>Exploit Development</td><td>Already covered in <code>index.html</code> (id 14) — verify for expanded standalone page</td><td>ARTICLE_READY</td></tr>
+<tr><td>Katie Moussouris</td><td>Bug bounty program pioneer (Microsoft, Pentagon)</td><td>Bug Bounty / Vulnerability Disclosure</td><td>Public talks, published interviews</td><td>TODO</td></tr>
+<tr><td>Mudge (Peiter Zatko)</td><td>L0pht, Senate testimony, DARPA Cyber Fast Track</td><td>Vulnerability Research / Policy</td><td>Already partly covered via <code>l0pht-senate-testimony</code> article — verify for standalone page</td><td>RESEARCHING</td></tr>
+<tr><td>Halvar Flake</td><td>Binary analysis / reverse engineering, zynamics/BinDiff</td><td>Reverse Engineering</td><td>Conference talks, BinDiff documentation</td><td>TODO</td></tr>
+<tr><td>Solar Designer</td><td>John the Ripper, Openwall</td><td>Password Security / Open Source Tools</td><td>Already covered in <code>index.html</code> (id 23) — verify for standalone page</td><td>ARTICLE_READY</td></tr>
+</tbody></table></div>
+<h3>Explicitly out of scope until validated</h3>
+<p>Any name listed only in a planning/prompt document (including this</p>
+<p>project's own master instructions) is a lead, not a fact of notability.</p>
+<p>Confirm the person exists as a distinct, documented individual, with</p>
+<p>sufficient reliable material, before promoting past <code>TODO</code>.</p>
+</div>
+<p style="margin-top:24px;"><a href="https://github.com/History-of-Hackers/history-of-hackers.github.io/blob/main/RESEARCH_BACKLOG.md">View source on GitHub</a></p>
+</article>
+
+</main>
+</div>
+<footer class="site-footer">
+  <p>History of Hackers is a community-maintained historical archive. Corrections and new entries go through
+  <a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub Pull Requests</a>.
+  See <a href="./CONTRIBUTING.html">Contributing</a>, <a href="./STYLE_GUIDE.html">Style Guide</a>
+  and <a href="./SOURCES.html">Sources</a>.</p>
+</footer>
+<script src="./assets/js/main.js"></script>
+</body>
+</html>

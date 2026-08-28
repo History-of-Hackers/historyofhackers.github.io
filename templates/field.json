@@ -1,0 +1,37 @@
+{
+  "_comment": "Template for a future structured field/thematic-overview record (e.g. Phreaking, Web Security, Cryptography). Copy, fill with sourced data only. Fields summarize a research area or cultural thread; keep claims general and sourced, avoid overclaiming a single 'founder' unless well documented.",
+  "id": "example-slug",
+  "type": "field",
+  "title": "Field Title",
+  "era": "e.g. 1990s-Present",
+  "whyThisMatters": "2-4 neutral sentences.",
+  "sections": {
+    "overview": ""
+  },
+  "timeline": [
+    { "date": "YYYY", "event": "" }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "",
+      "author": "",
+      "publisher": "",
+      "date": "",
+      "url": "",
+      "accessDate": "",
+      "type": "PRIMARY | ACADEMIC | CONFERENCE | NEWS | ARCHIVE | INTERVIEW | COMMUNITY"
+    }
+  ],
+  "editorial": {
+    "verified": false,
+    "sourcesCount": 0,
+    "lastReviewed": null,
+    "reviewStatus": "TODO | RESEARCHING | VERIFIED | ARTICLE_READY | PUBLISHED",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "stuxnet-digital-weapon",
+  "type": "vulnerability",
+  "title": "Stuxnet: The World's First Digital Weapon",
+  "slug": "stuxnet-digital-weapon",
+  "era": "2010s",
+  "tags": [
+    "malware",
+    "cyberwarfare",
+    "nation-state",
+    "Stuxnet",
+    "zero-day"
+  ],
+  "summary": "The story of Stuxnet, a sophisticated computer worm that physically destroyed centrifuges in an Iranian nuclear facility, heralding a new era of digital warfare.",
+  "whyThisMatters": "The story of Stuxnet, a sophisticated computer worm that physically destroyed centrifuges in an Iranian nuclear facility, heralding a new era of digital warfare.",
+  "sections": {
+    "overview": "<p>Discovered in 2010, <strong>Stuxnet</strong> was unlike any malware seen before. It was a highly advanced computer worm that targeted Supervisory Control and Data Acquisition (SCADA) systems, which are used to control industrial processes.</p>\n<p>Its specific target was the Iranian nuclear program at Natanz. The worm was designed to infiltrate the facility's network and modify the behavior of Siemens PLCs (Programmable Logic Controllers) that controlled the centrifuges used to enrich uranium. Stuxnet would subtly increase and decrease the speed of the centrifuges, causing them to vibrate and eventually tear themselves apart. Simultaneously, it played back normal operating data to the controllers, so everything would appear fine until the physical damage was done.</p>\n<p>Attributed to a joint U.S. and Israeli intelligence operation, Stuxnet was the first publicly known example of a digital weapon causing large-scale physical destruction. It relied on multiple zero-day exploits and a sophisticated delivery mechanism, forever changing the landscape of international conflict and proving that code could be a weapon of war.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2010",
+      "event": "Stuxnet discovered publicly; attributed to a joint U.S.-Israeli operation targeting Iran's Natanz facility."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Countdown to Zero Day (Book) by Kim Zetter",
+      "url": "https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wikipedia: Stuxnet",
+      "url": "https://en.wikipedia.org/wiki/Stuxnet",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

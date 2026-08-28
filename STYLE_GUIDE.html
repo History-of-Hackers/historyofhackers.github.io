@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Style Guide - History of Hackers</title>
+<meta name="description" content="Style Guide for the History of Hackers project." />
+<link rel="canonical" href="https://historyofhackers.org/STYLE_GUIDE.html" />
+<meta name="theme-color" content="#7a2e2e" />
+<meta property="og:title" content="Style Guide - History of Hackers" />
+<meta property="og:description" content="Style Guide for the History of Hackers project." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://historyofhackers.org/STYLE_GUIDE.html" />
+<link rel="stylesheet" href="./assets/css/main.css" />
+</head>
+<body data-root="." class="">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <a class="brand" href="./" style="color:inherit;">
+    <span class="brand-logo">H</span> History of Hackers
+  </a>
+  <span class="tagline">A living archive of hacker culture &amp; cybersecurity history</span>
+  <form class="site-search" id="siteSearchForm" role="search">
+    <label class="visually-hidden" for="siteSearchInput">Search</label>
+    <input id="siteSearchInput" type="search" placeholder="Search people, groups, tools, vulnerabilities... (Press /)" aria-label="Search the archive" />
+  </form>
+  <div class="header-actions">
+    <button class="btn" id="toggleTheme" type="button" title="Toggle light/dark theme">Theme</button>
+    <a class="btn" href="./about.html">About</a>
+  </div>
+</header>
+<nav class="primary-nav" aria-label="Sections"><a href="./people/">People</a>
+<a href="./groups/">Groups</a>
+<a href="./tools/">Tools</a>
+<a href="./vulnerabilities/">Vulnerabilities</a>
+<a href="./events/">Events</a>
+<a href="./publications/">Publications</a>
+<a href="./fields/">Fields</a>
+<a href="./timeline/">Timeline</a></nav>
+<div class="shell">
+<main class="content" id="main">
+
+<div class="breadcrumbs"><a href="./">Home</a> / Style Guide</div>
+<article class="entity">
+<h1>Style Guide</h1>
+<div class="entity-content">
+<p>Editorial rules for all content in History of Hackers. Applies to the current</p>
+<p><code>index.html</code> articles and to future structured content under <code>data/</code>.</p>
+<h3>Core principle</h3>
+<p>**Historical accuracy &gt; quantity. Primary sources &gt; rumors. Contributions &gt;</p>
+<p>controversy. Knowledge &gt; sensationalism.**</p>
+<p>A smaller, correct encyclopedia beats a large one built on invented facts.</p>
+<h3>Tone</h3>
+<ul>
+<li>Neutral, factual, encyclopedic. Not a fan page, not a tabloid.</li>
+<li>Written by someone who understands security deeply, respects hacker</li>
+</ul>
+<p>culture, and can tell legend apart from evidence.</p>
+<ul>
+<li>Accessible to a newcomer, still worth reading for a specialist.</li>
+<li>No sensationalism, no "world's most dangerous hacker" framing.</li>
+<li>No ranking content ("Top 10 Hackers", "Best Hackers"). This project</li>
+</ul>
+<p>documents history, it does not run a leaderboard.</p>
+<h3>What to prioritize in a subject's page</h3>
+<p>Contributions, research, discoveries, vulnerabilities, tools, publications,</p>
+<p>techniques, influence, impact, legacy, historical context — in that order of</p>
+<p>emphasis. Personal controversies get only the space needed to understand the</p>
+<p>historical event; they are not the center of the article.</p>
+<h3>Handling illegal activity</h3>
+<p>Describe illegal acts factually and only when necessary to understand the</p>
+<p>historical event (e.g. an intrusion that led to a landmark prosecution or</p>
+<p>policy change). Never:</p>
+<ul>
+<li>provide operational/how-to detail that functions as a criminal instruction;</li>
+<li>romanticize the act;</li>
+<li>editorialize a moral verdict on the person.</li>
+</ul>
+<h3>Claims and evidence</h3>
+<p>Every non-trivial claim needs a source. Distinguish explicitly between:</p>
+<div style='overflow-x:auto'><table><thead><tr><th>Tag</th><th>Meaning</th></tr></thead><tbody>
+<tr><td><code>CONFIRMED</code></td><td>Backed by primary source or multiple independent reliable sources</td></tr>
+<tr><td><code>DISPUTED</code></td><td>Sources conflict, or the subject/others contest it</td></tr>
+<tr><td><code>UNVERIFIED</code></td><td>Plausible, reported, but not independently confirmed</td></tr>
+<tr><td><code>UNKNOWN</code></td><td>Cannot be determined from available sources</td></tr>
+</tbody></table></div>
+<p>When in doubt, omit rather than guess. Do not invent dates, aliases,</p>
+<p>nationalities, CVEs, affected companies, exploits, quotes, events, tools,</p>
+<p>conferences, arrests, or relationships between people. The more</p>
+<p>extraordinary the claim, the stronger the evidence required.</p>
+<h3>Living people</h3>
+<p>Extra care applies to still-living subjects:</p>
+<ul>
+<li>Report facts vs. allegations separately and explicitly.</li>
+<li>Avoid speculation about ongoing legal matters.</li>
+<li>Do not infer identity, nationality, or personal details not confirmed by</li>
+</ul>
+<p>the person or a reliable source.</p>
+<ul>
+<li>Do not infer pronouns from a name; use they/them unless the subject's</li>
+</ul>
+<p>stated pronouns are documented.</p>
+<h3>Writing mechanics</h3>
+<ul>
+<li>Short paragraphs, clear headings, no filler.</li>
+<li>Dates in full (<code>August 6, 1963</code>, not <code>8/6/63</code>) to avoid regional ambiguity.</li>
+<li>Introduce acronyms once (<code>Chaos Computer Club (CCC)</code>).</li>
+<li>Internal links over repeated explanation — link to the related person,</li>
+</ul>
+<p>group, tool, or event page instead of re-summarizing it.</p>
+<ul>
+<li>Every article ends with a <code>sources</code> list; no source, no claim.</li>
+</ul>
+<h3>What NOT to do</h3>
+<ul>
+<li>No AI-generated portraits or invented images. If no properly licensed</li>
+</ul>
+<p>image exists, use none — see <a href="SOURCES.md">SOURCES.md</a> for image sourcing.</p>
+<ul>
+<li>No copy-pasting text from Wikipedia or any other site. Use sources as</li>
+</ul>
+<p>references to write original text, not as text to lift.</p>
+<ul>
+<li>No new pages created just because a name appears in a seed list somewhere</li>
+</ul>
+<p>(including this project's own planning docs). Confirm the subject exists</p>
+<p>and has sufficient reliable documentation first — see</p>
+<p><a href="RESEARCH_BACKLOG.md">RESEARCH_BACKLOG.md</a>.</p>
+</div>
+<p style="margin-top:24px;"><a href="https://github.com/History-of-Hackers/history-of-hackers.github.io/blob/main/STYLE_GUIDE.md">View source on GitHub</a></p>
+</article>
+
+</main>
+</div>
+<footer class="site-footer">
+  <p>History of Hackers is a community-maintained historical archive. Corrections and new entries go through
+  <a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub Pull Requests</a>.
+  See <a href="./CONTRIBUTING.html">Contributing</a>, <a href="./STYLE_GUIDE.html">Style Guide</a>
+  and <a href="./SOURCES.html">Sources</a>.</p>
+</footer>
+<script src="./assets/js/main.js"></script>
+</body>
+</html>

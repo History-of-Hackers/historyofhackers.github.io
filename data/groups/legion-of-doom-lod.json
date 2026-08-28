@@ -1,0 +1,48 @@
+{
+  "id": "legion-of-doom-lod",
+  "type": "group",
+  "title": "Legion of Doom (LOD): The Masters of the Digital Universe",
+  "slug": "legion-of-doom-lod",
+  "era": "1980s-1990s",
+  "tags": [
+    "lod",
+    "mod",
+    "hacker group",
+    "telecom"
+  ],
+  "summary": "The history of the Legion of Doom (LOD), one of the most technically proficient and influential hacker groups of the BBS era.",
+  "whyThisMatters": "The history of the Legion of Doom (LOD), one of the most technically proficient and influential hacker groups of the BBS era.",
+  "sections": {
+    "overview": "<p>The <strong>Legion of Doom (LOD)</strong> was founded in 1984 by a hacker named Lex Luthor. It grew to become one of the most influential and technically skilled hacker groups of its time. Where many hackers focused on simple phreaking or software cracking, LOD members delved deep into the inner workings of telecommunications and computer systems.</p>\n<p>The group published the <strong>LOD Technical Journals</strong>, a series of ezines that contained detailed technical information on hacking, phone systems, and computer security, setting a new standard for information sharing in the underground. Membership was exclusive and based on proven technical ability, creating an elite aura around the group.</p>\n<p>LOD is famously known for its rivalry with the New York-based <strong>Masters of Deception (MOD)</strong>. The 'Great Hacker War' between the two groups was a clash of cultures and ethics. LOD was seen as the older, more professional, and technically focused group, while MOD was viewed as the younger, more chaotic upstarts. Many LOD members went on to have successful careers in the burgeoning cybersecurity industry, leveraging their deep technical knowledge for defensive purposes.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1984",
+      "event": "Legion of Doom founded by Lex Luthor."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Wikipedia: Legion of Doom (hacking)",
+      "url": "https://en.wikipedia.org/wiki/Legion_of_Doom_(hacking)",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "The History of LOD",
+      "url": "https://www.cs.utexas.edu/~shmat/courses/cs380s_fall09/lod.html",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

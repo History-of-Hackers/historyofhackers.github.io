@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Contributing - History of Hackers</title>
+<meta name="description" content="Contributing for the History of Hackers project." />
+<link rel="canonical" href="https://historyofhackers.org/CONTRIBUTING.html" />
+<meta name="theme-color" content="#7a2e2e" />
+<meta property="og:title" content="Contributing - History of Hackers" />
+<meta property="og:description" content="Contributing for the History of Hackers project." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://historyofhackers.org/CONTRIBUTING.html" />
+<link rel="stylesheet" href="./assets/css/main.css" />
+</head>
+<body data-root="." class="">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <a class="brand" href="./" style="color:inherit;">
+    <span class="brand-logo">H</span> History of Hackers
+  </a>
+  <span class="tagline">A living archive of hacker culture &amp; cybersecurity history</span>
+  <form class="site-search" id="siteSearchForm" role="search">
+    <label class="visually-hidden" for="siteSearchInput">Search</label>
+    <input id="siteSearchInput" type="search" placeholder="Search people, groups, tools, vulnerabilities... (Press /)" aria-label="Search the archive" />
+  </form>
+  <div class="header-actions">
+    <button class="btn" id="toggleTheme" type="button" title="Toggle light/dark theme">Theme</button>
+    <a class="btn" href="./about.html">About</a>
+  </div>
+</header>
+<nav class="primary-nav" aria-label="Sections"><a href="./people/">People</a>
+<a href="./groups/">Groups</a>
+<a href="./tools/">Tools</a>
+<a href="./vulnerabilities/">Vulnerabilities</a>
+<a href="./events/">Events</a>
+<a href="./publications/">Publications</a>
+<a href="./fields/">Fields</a>
+<a href="./timeline/">Timeline</a></nav>
+<div class="shell">
+<main class="content" id="main">
+
+<div class="breadcrumbs"><a href="./">Home</a> / Contributing</div>
+<article class="entity">
+<h1>Contributing to History of Hackers</h1>
+<div class="entity-content">
+<p>Thanks for helping build an accurate, open archive of hacker culture and</p>
+<p>security history. Read this before opening a PR.</p>
+<h3>Current state of the project</h3>
+<p>The site is a multi-page static archive. Content lives as JSON records</p>
+<p>under <a href="data/README.md"><code>data/</code></a> (one file per person/group/tool/</p>
+<p>vulnerability/event/publication/field, matching the schemas in</p>
+<p><a href="templates/"><code>templates/</code></a>), and each record has a matching static HTML</p>
+<p>page under <code>/people/</code>, <code>/groups/</code>, <code>/tools/</code>, <code>/vulnerabilities/</code>,</p>
+<p><code>/events/</code>, <code>/publications/</code>, or <code>/fields/</code>. Search and filtering are</p>
+<p>client-side, reading <a href="data/manifest.json"><code>data/manifest.json</code></a>. There is</p>
+<p>no build step — pages are written by hand (or copied from an existing page</p>
+<p>of the same type) and committed as-is.</p>
+<h3>Ground rules</h3>
+<ol>
+<li><strong>No invented information.</strong> Not dates, aliases, nationalities, CVEs,</li>
+</ol>
+<p>affected companies, exploits, quotes, arrests, or relationships between</p>
+<p>people. See <a href="STYLE_GUIDE.md">STYLE_GUIDE.md</a>.</p>
+<ol>
+<li><strong>Every non-trivial claim needs a source.</strong> See <a href="SOURCES.md">SOURCES.md</a>.</li>
+<li><strong>Quality over quantity.</strong> One well-sourced article beats five thin ones.</li>
+<li><strong>Neutral, factual tone.</strong> No sensationalism, no glorification of crime,</li>
+</ol>
+<p>no ranking of "best/worst hackers".</p>
+<h3>Workflow</h3>
+<ol>
+<li>Fork the repository.</li>
+<li>Create a branch: <code>git checkout -b add-jane-doe</code> or <code>fix-mitnick-date</code>.</li>
+<li>For a <strong>new article</strong>, see the step-by-step in</li>
+</ol>
+<p><a href="data/README.md#adding-a-new-entity">data/README.md</a>: copy a template</p>
+<p>from <code>templates/</code>, fill in <code>data/&lt;type&gt;/&lt;slug&gt;.json</code>, add a row to</p>
+<p><code>data/manifest.json</code>, and copy an existing page of the same type under</p>
+<p><code>/people/</code>, <code>/groups/</code>, <code>/tools/</code>, <code>/vulnerabilities/</code>, <code>/events/</code>,</p>
+<p><code>/publications/</code>, or <code>/fields/</code> to build the new page.</p>
+<ol>
+<li>For a <strong>candidate that isn't ready for an article yet</strong>: add a row to</li>
+</ol>
+<p><a href="RESEARCH_BACKLOG.md">RESEARCH_BACKLOG.md</a> instead of writing the article</p>
+<p>directly.</p>
+<ol>
+<li>Add sources — at least one, ideally several, following</li>
+</ol>
+<p><a href="SOURCES.md">SOURCES.md</a>.</p>
+<ol>
+<li>Validate locally:</li>
+</ol>
+<ul>
+<li>Serve the repo (e.g. <code>python3 -m http.server</code>) and open the new page,</li>
+</ul>
+<p>confirm it renders, appears in <code>/search/</code> and the relevant <code>/&lt;type&gt;/</code></p>
+<p>index, and has no console errors.</p>
+<ul>
+<li>Check every link you added resolves and uses</li>
+</ul>
+<p><code>rel="noopener noreferrer"</code> if it's <code>target="_blank"</code>.</p>
+<ul>
+<li>If the entry has dated milestones, confirm they show up correctly on</li>
+</ul>
+<p><code>/timeline/</code>.</p>
+<ol>
+<li>Open a Pull Request with a descriptive title (e.g.</li>
+</ol>
+<p><code>Add: Katie Moussouris — bug bounty history</code>). In the description,</p>
+<p>list your sources and note if any fact is <code>DISPUTED</code>/<code>UNVERIFIED</code>.</p>
+<h3>What reviewers check</h3>
+<ul>
+<li>Sources actually support the claims made.</li>
+<li>Tone matches <a href="STYLE_GUIDE.md">STYLE_GUIDE.md</a>.</li>
+<li>No copy-pasted text from Wikipedia or elsewhere — original writing only.</li>
+<li>No unlicensed images (see <a href="SOURCES.md#images">SOURCES.md</a>).</li>
+<li>The new/edited page opens and runs with no JS errors, and <code>data/manifest.json</code></li>
+</ul>
+<p>stays valid JSON with the new entry present.</p>
+<h3>Small fixes</h3>
+<p>Typo, date correction, dead link swap — just edit the relevant <code>data/*.json</code></p>
+<p>record and the corresponding HTML page, then open a PR describing the fix</p>
+<p>and the source for the correction.</p>
+<h3>Questions / uncertain candidates</h3>
+<p>If you're unsure whether someone/something has enough documentation for an</p>
+<p>article, open an issue or add them to</p>
+<p><a href="RESEARCH_BACKLOG.md">RESEARCH_BACKLOG.md</a> with status <code>TODO</code> and what you</p>
+<p>already found — don't guess your way into an article.</p>
+</div>
+<p style="margin-top:24px;"><a href="https://github.com/History-of-Hackers/history-of-hackers.github.io/blob/main/CONTRIBUTING.md">View source on GitHub</a></p>
+</article>
+
+</main>
+</div>
+<footer class="site-footer">
+  <p>History of Hackers is a community-maintained historical archive. Corrections and new entries go through
+  <a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub Pull Requests</a>.
+  See <a href="./CONTRIBUTING.html">Contributing</a>, <a href="./STYLE_GUIDE.html">Style Guide</a>
+  and <a href="./SOURCES.html">Sources</a>.</p>
+</footer>
+<script src="./assets/js/main.js"></script>
+</body>
+</html>

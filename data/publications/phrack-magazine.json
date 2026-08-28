@@ -1,0 +1,49 @@
+{
+  "id": "phrack-magazine",
+  "type": "publication",
+  "title": "Phrack Magazine: The Hacker's Ezine",
+  "slug": "phrack-magazine",
+  "era": "1980s-Present",
+  "tags": [
+    "phrack",
+    "ezine",
+    "hacker group",
+    "technical",
+    "history"
+  ],
+  "summary": "The legacy of Phrack, one of the longest-running and most influential hacker ezines, known for its deep technical articles and philosophical essays.",
+  "whyThisMatters": "The legacy of Phrack, one of the longest-running and most influential hacker ezines, known for its deep technical articles and philosophical essays.",
+  "sections": {
+    "overview": "<p>First released on November 17, 1985, <strong>Phrack</strong> (a portmanteau of 'phreak' and 'hack') is an electronic magazine, or 'ezine,' that has been a central fixture of the hacker underground for decades. It was founded by two hackers known as 'Taran King' and 'Knight Lightning'.</p>\n<p>Phrack set itself apart with its high-quality, deeply technical articles covering everything from telephony and network protocols to exploit development and cryptography. It became a prestigious venue for hackers to publish their research. Seminal texts, such as 'Smashing The Stack For Fun And Profit' by Aleph One and 'The Conscience of a Hacker' by The Mentor, were first published in Phrack.</p>\n<p>The magazine was also at the center of a major legal battle in the early 1990s. The U.S. Secret Service raided the home of a Phrack editor for publishing a document about the E911 system, which they claimed was a dangerous trade secret. The case was ultimately dropped when it was revealed the document was publicly available for a small fee. This event, known as the 'E911 Zine' case, became a landmark moment for electronic free speech. Phrack continues to be published sporadically, maintaining its legendary status in the hacker community.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1985-11-17",
+      "event": "First issue of Phrack released."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Phrack Official Website",
+      "url": "http://phrack.org/",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wikipedia: Phrack",
+      "url": "https://en.wikipedia.org/wiki/Phrack",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

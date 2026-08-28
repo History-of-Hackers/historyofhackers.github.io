@@ -1,0 +1,59 @@
+{
+  "id": "cuckoos-egg-clifford-stoll",
+  "type": "person",
+  "title": "Clifford Stoll and 'The Cuckoo's Egg'",
+  "slug": "cuckoos-egg-clifford-stoll",
+  "era": "1980s",
+  "tags": [
+    "book",
+    "espionage",
+    "history",
+    "investigation"
+  ],
+  "summary": "The true story of how astronomer Clifford Stoll, tasked with finding a 75-cent accounting error, ended up tracking a KGB-sponsored hacker through the early internet.",
+  "whyThisMatters": "The true story of how astronomer Clifford Stoll, tasked with finding a 75-cent accounting error, ended up tracking a KGB-sponsored hacker through the early internet.",
+  "sections": {
+    "overview": "<p>Clifford Stoll's 1989 book, <strong>'The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage'</strong>, is one of the most famous true stories in hacking history. In 1986, Stoll, an astronomer managing computer systems at Lawrence Berkeley National Laboratory, was assigned to resolve a tiny accounting discrepancy in computer usage time.</p>\n<p>His investigation revealed an unauthorized user. Instead of simply locking the user out, Stoll, with the support of his superiors, created an elaborate digital trap. He monitored the intruder's every move, meticulously logging their activities. The trail led him through a labyrinth of military and government networks, including ARPANET and MILNET.</p>\n<p>Over the course of a year, Stoll's patient detective work, which involved creating honeypots and tracing calls, revealed that the hacker was based in Hanover, West Germany, and was selling the stolen data to the Soviet KGB. The book reads like a thriller and was one of the first mainstream accounts of cyber-espionage, introducing the public to the realities of network security in the pre-web era.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1986",
+      "event": "Begins investigating a 75-cent accounting discrepancy at Lawrence Berkeley National Laboratory."
+    },
+    {
+      "date": "1989",
+      "event": "Publishes 'The Cuckoo's Egg'."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "The Cuckoo's Egg (Book)",
+      "url": "https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wikipedia: The Cuckoo's Egg",
+      "url": "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Clifford Stoll and 'The Cuckoo's Egg'",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Tracking a KGB-sponsored intrusion via Lawrence Berkeley National Laboratory",
+    "'The Cuckoo's Egg' (1989)"
+  ]
+}
