@@ -29,13 +29,20 @@ a seed name into an unsourced page.
 
 | Candidate | Reason | Area | Potential Sources | Status |
 |---|---|---|---|---|
-| Dan Kaminsky | 2008 DNS cache poisoning vulnerability, major internet infra impact | DNS / Network Security | Black Hat 2008 talk, contemporary news coverage | TODO |
-| Joanna Rutkowska | Blue Pill, Qubes OS, virtualization security research | Virtualization / OS Security | Invisible Things Lab publications, Black Hat talks | TODO |
-| HD Moore | Metasploit Framework creator | Exploit Development | Already covered in `index.html` (id 14) — verify for expanded standalone page | ARTICLE_READY |
-| Katie Moussouris | Bug bounty program pioneer (Microsoft, Pentagon) | Bug Bounty / Vulnerability Disclosure | Public talks, published interviews | TODO |
-| Mudge (Peiter Zatko) | L0pht, Senate testimony, DARPA Cyber Fast Track | Vulnerability Research / Policy | Already partly covered via `l0pht-senate-testimony` article — verify for standalone page | RESEARCHING |
+| Dan Kaminsky | 2008 DNS cache poisoning vulnerability, major internet infra impact | DNS / Network Security | See `data/people/dan-kaminsky.json` | PUBLISHED |
+| Joanna Rutkowska | Blue Pill, Qubes OS, virtualization security research | Virtualization / OS Security | See `data/people/joanna-rutkowska.json` | PUBLISHED |
+| HD Moore | Metasploit Framework creator, standalone personal biography | Exploit Development | See `data/people/hd-moore.json` | PUBLISHED |
+| Katie Moussouris | Bug bounty program pioneer (Microsoft, Pentagon) | Bug Bounty / Vulnerability Disclosure | See `data/people/katie-moussouris.json` | PUBLISHED |
+| Mudge (Peiter Zatko) | L0pht, Senate testimony, DARPA Cyber Fast Track, Twitter whistleblower | Vulnerability Research / Policy | See `data/people/mudge-peiter-zatko.json` | PUBLISHED |
+| Solar Designer (Alexander Peslyak) | John the Ripper, Openwall, standalone personal biography | Password Security / Open Source Tools | See `data/people/solar-designer.json` | PUBLISHED |
+| Robert Tappan Morris | Morris Worm author, standalone personal biography | Internet History / CFAA | See `data/people/robert-tappan-morris.json` | PUBLISHED |
+| Tsutomu Shimomura | Tracked Kevin Mitnick, standalone personal biography | Internet History / Incident Response | See `data/people/tsutomu-shimomura.json` | PUBLISHED |
 | Halvar Flake | Binary analysis / reverse engineering, zynamics/BinDiff | Reverse Engineering | Conference talks, BinDiff documentation | TODO |
-| Solar Designer | John the Ripper, Openwall | Password Security / Open Source Tools | Already covered in `index.html` (id 23) — verify for standalone page | ARTICLE_READY |
+| Charlie Miller | Browser exploitation, Jeep Cherokee remote hack (2015) with Chris Valasek | Exploit Development / Automotive Security | Black Hat/DEF CON talks, Wired coverage of the Jeep hack | TODO |
+| Chris Valasek | Jeep Cherokee remote hack (2015) with Charlie Miller | Automotive Security | Black Hat/DEF CON talks, Wired coverage | TODO |
+| Samy Kamkar | MySpace "Samy" worm (2005), later hardware/RF security research | Web Security / Hardware Hacking | DEF CON talks, own site | TODO |
+| Barnaby Jack | ATM jackpotting, medical device security research | Hardware Hacking / Embedded Security | Black Hat talks (posthumous care needed — deceased 2013) | TODO |
+| Bruce Schneier | Cryptographer, security author, public-interest security policy commentary | Cryptography / Policy | Own site (schneier.com), published books | TODO |
 
 ## Explicitly out of scope until validated
 

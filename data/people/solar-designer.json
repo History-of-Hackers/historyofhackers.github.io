@@ -1,0 +1,115 @@
+{
+  "id": "solar-designer",
+  "type": "person",
+  "title": "Solar Designer",
+  "slug": "solar-designer",
+  "era": "1990s-Present",
+  "tags": [
+    "password cracking",
+    "open source security",
+    "linux hardening",
+    "openwall",
+    "exploit development"
+  ],
+  "summary": "Solar Designer (Alexander Peslyak) created the John the Ripper password cracker in 1996 and founded the Openwall Project, becoming one of the most influential figures in open-source Linux security hardening and exploitation research.",
+  "whyThisMatters": "Solar Designer (Alexander Peslyak) created the John the Ripper password cracker in 1996 and founded the Openwall Project, becoming one of the most influential figures in open-source Linux security hardening and exploitation research.",
+  "sections": {
+    "overview": "<p>Alexander Peslyak, born in 1977, is far better known in the security world by his handle \"Solar Designer,\" which he adopted in 1994 to register on private bulletin-board systems where using real names was discouraged. He has been professionally involved in computer and network security since 1997, though he had been programming as a hobbyist since 1989. He generally avoids the spotlight as an individual, preferring to write about his technical work rather than about himself.</p><h2>Founding Openwall</h2><p>Peslyak founded and has led the Openwall Project since 1999, an effort focused on developing security-related free software, conducting information security research, and supporting community coordination around vulnerabilities. He became team leader of the associated Openwall GNU/*/Linux distribution in 2000, and in 2003 founded Openwall, Inc., a professional services company where he has served as CTO. In 2008 he co-founded the oss-security mailing list (and later the private linux-distros list), which became key venues for cross-vendor coordination of vulnerabilities in open-source software.</p><h2>John the Ripper and Early Exploit Research</h2><p>In 1996 Peslyak released John the Ripper, a password-cracking tool that became one of the most widely used security tools of its kind, with code later incorporated into other Unix-like systems such as OpenBSD and Debian. Around the same period he was an active exploit researcher: in 1997 he published some of the first \"return-into-libc\" style buffer overflow exploits and enhanced the Linux 2.0.x kernel with non-executable-memory (non-exec stack) protections, inspired by an earlier Solaris/SPARC patch, laying groundwork that influenced later hardening work across Linux, OpenBSD, and eventually Windows. In 1999-2000 he devised the first generic heap-based buffer overflow exploitation technique, which he disclosed to Netscape/AOL and for which he won a bug bounty.</p><h2>Later Work and Recognition</h2><p>Peslyak's password-security research continued with the adoption of hardened password schemes by major software including phpBB3, WordPress, and Drupal around 2007-2008, and later with yescrypt, a password-hashing scheme he designed that is intentionally memory-hard to resist GPU/FPGA/ASIC-accelerated cracking; yescrypt 1.0.0 was released by Openwall in March 2018 and has since become the default password-hashing scheme in Fedora, Debian, Ubuntu, and Arch Linux. In 2009 he received the Pwnie Award's Lifetime Achievement Award at Black Hat. Around 2023 he joined CIQ's Rocky Linux Security effort as Senior Principal Security Engineer.</p><h2>Legacy</h2><p>Operating almost entirely under his \"Solar Designer\" handle, Peslyak is regarded as one of the most consequential figures in open-source security: his tools and patches shaped password auditing practice, Linux memory-protection defaults, and cross-vendor vulnerability-disclosure norms that much of the open-source ecosystem still relies on.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1977",
+      "event": "Alexander Peslyak is born."
+    },
+    {
+      "date": "1994",
+      "event": "Adopts the handle \"Solar Designer\" to register on private BBSes."
+    },
+    {
+      "date": "1996",
+      "event": "Releases John the Ripper, a password-cracking tool for Unix systems."
+    },
+    {
+      "date": "1997",
+      "event": "Publishes early return-into-libc buffer overflow exploits and a Linux kernel non-executable-memory hardening patch."
+    },
+    {
+      "date": "1999",
+      "event": "Founds and leads the Openwall Project."
+    },
+    {
+      "date": "2003",
+      "event": "Founds Openwall, Inc. and becomes its CTO."
+    },
+    {
+      "date": "2008",
+      "event": "Co-founds the oss-security mailing list."
+    },
+    {
+      "date": "2009",
+      "event": "Receives the Pwnie Award Lifetime Achievement Award at Black Hat."
+    },
+    {
+      "date": "2018-03-09",
+      "event": "Openwall releases yescrypt 1.0.0, the password-hashing scheme he designed."
+    },
+    {
+      "date": "2023",
+      "event": "Joins CIQ's Rocky Linux Security effort."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Solar Designer - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Solar_Designer"
+    },
+    {
+      "title": "Alexander Peslyak's bio - Openwall Community Wiki",
+      "url": "https://openwall.info/wiki/people/solar/bio"
+    },
+    {
+      "title": "Phrack Prophile on Solar Designer (Phrack Issue 69)",
+      "url": "https://phrack.org/issues/69/phrack-prophile-on-solar-designer.html"
+    },
+    {
+      "title": "Solar Designer - Senior Principal Security Engineer (CIQ)",
+      "url": "https://ciq.com/company/leadership/solar-designer/"
+    },
+    {
+      "title": "Yescrypt - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yescrypt"
+    },
+    {
+      "title": "yescrypt 1.0.0 announcement - Openwall",
+      "url": "https://www.openwall.com/lists/announce/2018/03/09/1"
+    },
+    {
+      "title": "John the Ripper - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_the_Ripper"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 7,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Solar Designer",
+  "born": "1977",
+  "died": null,
+  "knownFor": [
+    "John the Ripper password cracker (1996)",
+    "Openwall Project founder and leader",
+    "Openwall GNU/*/Linux distribution",
+    "Early Linux kernel non-executable-memory hardening patches (1997)",
+    "Pioneering return-into-libc and generic heap-overflow exploitation techniques",
+    "yescrypt password-hashing scheme",
+    "Co-founder of the oss-security mailing list"
+  ]
+}

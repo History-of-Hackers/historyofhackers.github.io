@@ -1,209 +1,252 @@
 [
   {
-    "id": "phreaking",
-    "type": "field",
-    "typeLabel": "Field",
-    "title": "Early Phone Phreaking",
-    "slug": "phreaking",
-    "era": "1960s-1980s",
+    "id": "adrian-lamo",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Adrian Lamo: The 'Homeless Hacker'",
+    "slug": "adrian-lamo",
+    "era": "2000s-2010s",
     "tags": [
-      "phreaking",
-      "telecom",
-      "history"
+      "gray hat",
+      "whistleblower",
+      "media",
+      "ethics"
     ],
-    "summary": "The roots of hacker culture in the era of analog telephony and tone signaling.",
-    "url": "fields/phreaking.html"
+    "summary": "The complex and controversial story of Adrian Lamo, a gray-hat hacker known for his high-profile intrusions and his role in reporting Chelsea Manning.",
+    "url": "people/adrian-lamo.html"
   },
   {
-    "id": "bbs-and-warez-scene",
-    "type": "field",
-    "typeLabel": "Field",
-    "title": "The BBS & Warez Scene",
-    "slug": "bbs-and-warez-scene",
-    "era": "1980s-1990s",
+    "id": "cuckoos-egg-clifford-stoll",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Clifford Stoll and 'The Cuckoo's Egg'",
+    "slug": "cuckoos-egg-clifford-stoll",
+    "era": "1980s",
     "tags": [
-      "bbs",
-      "demoscene",
-      "warez"
+      "book",
+      "espionage",
+      "history",
+      "investigation"
     ],
-    "summary": "Modems, message boards, ANSI art, and the communities that formed the modern hacker internet.",
-    "url": "fields/bbs-and-warez-scene.html"
+    "summary": "The true story of how astronomer Clifford Stoll, tasked with finding a 75-cent accounting error, ended up tracking a KGB-sponsored hacker through the early internet.",
+    "url": "people/cuckoos-egg-clifford-stoll.html"
   },
   {
-    "id": "hacktivism-to-bug-bounties",
-    "type": "field",
-    "typeLabel": "Field",
-    "title": "From Hacktivism to Bug Bounties",
-    "slug": "hacktivism-to-bug-bounties",
+    "id": "dan-kaminsky",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Dan Kaminsky",
+    "slug": "dan-kaminsky",
+    "era": "1979-2021",
+    "tags": [
+      "DNS security",
+      "cache poisoning",
+      "Black Hat",
+      "DEF CON",
+      "vulnerability research",
+      "coordinated disclosure"
+    ],
+    "summary": "Dan Kaminsky was an American security researcher best known for discovering a fundamental 2008 flaw in the Domain Name System that enabled widespread cache poisoning, and for organizing an unprecedented coordinated, multi-vendor patch before public disclosure.",
+    "url": "people/dan-kaminsky.html"
+  },
+  {
+    "id": "george-geohot-hotz",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "George 'geohot' Hotz: The iPhone Jailbreaker",
+    "slug": "george-geohot-hotz",
     "era": "2000s-Present",
     "tags": [
-      "hacktivism",
-      "bug bounty",
-      "security"
+      "geohot",
+      "jailbreak",
+      "iPhone",
+      "PlayStation",
+      "reverse engineering"
     ],
-    "summary": "Public-interest intrusions, disclosure debates, and the rise of coordinated vulnerability programs.",
-    "url": "fields/hacktivism-to-bug-bounties.html"
+    "summary": "The story of George Hotz, the prodigious hacker who first carrier-unlocked the iPhone and later took on Sony's PlayStation 3.",
+    "url": "people/george-geohot-hotz.html"
   },
   {
-    "id": "hackers-in-film",
-    "type": "field",
-    "typeLabel": "Field",
-    "title": "Hackers in Popular Culture: Film & Documentaries",
-    "slug": "hackers-in-film",
-    "era": "1980s-Present",
+    "id": "hd-moore",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "H. D. Moore",
+    "slug": "hd-moore",
+    "era": "2000s-Present",
     "tags": [
-      "film",
-      "culture",
-      "media",
-      "documentary"
+      "Metasploit",
+      "penetration testing",
+      "vulnerability research",
+      "Rapid7",
+      "runZero",
+      "network scanning",
+      "exploit development"
     ],
-    "summary": "How movies and documentaries like WarGames, Hackers, and The Social Network have shaped the public's perception of hacker culture \u2014 for better and for worse.",
-    "url": "fields/hackers-in-film.html"
+    "summary": "H. D. Moore is a security researcher and entrepreneur best known for founding the Metasploit Project in 2003, which grew into the world's most widely used open-source penetration testing framework; he later led security research at Rapid7 and founded the network-discovery company that became runZero.",
+    "url": "people/hd-moore.html"
   },
   {
-    "id": "responsible-disclosure",
-    "type": "field",
-    "typeLabel": "Field",
-    "title": "The Philosophy of Responsible Disclosure",
-    "slug": "responsible-disclosure",
+    "id": "joanna-rutkowska",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Joanna Rutkowska",
+    "slug": "joanna-rutkowska",
+    "era": "2000s-Present",
+    "tags": [
+      "rootkits",
+      "virtualization security",
+      "hypervisor security",
+      "Qubes OS",
+      "Blue Pill",
+      "Invisible Things Lab",
+      "evil maid attack",
+      "Poland"
+    ],
+    "summary": "Joanna Rutkowska is a Polish computer security researcher best known for the 2006 \"Blue Pill\" hardware-virtualization rootkit concept, for founding Invisible Things Lab, and for creating the security-by-isolation desktop operating system Qubes OS.",
+    "url": "people/joanna-rutkowska.html"
+  },
+  {
+    "id": "katie-moussouris",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Katie Moussouris",
+    "slug": "katie-moussouris",
+    "era": "2000s-Present",
+    "tags": [
+      "bug bounty",
+      "vulnerability disclosure",
+      "Microsoft",
+      "Hack the Pentagon",
+      "Luta Security",
+      "HackerOne",
+      "cybersecurity policy",
+      "Wassenaar Arrangement"
+    ],
+    "summary": "Katie Moussouris is an American security researcher and policy advocate who created Microsoft's first bug bounty program, helped design the U.S. Department of Defense's \"Hack the Pentagon\" pilot, and founded the vulnerability-disclosure consultancy Luta Security.",
+    "url": "people/katie-moussouris.html"
+  },
+  {
+    "id": "kevin-mitnick-complete-history",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Kevin Mitnick: A Complete History",
+    "slug": "kevin-mitnick-complete-history",
+    "era": "1963-2023",
+    "tags": [
+      "social engineering",
+      "phreaking",
+      "FBI",
+      "DEC",
+      "KnowBe4",
+      "history"
+    ],
+    "summary": "From his Los Angeles childhood and early phone-phreaking to the 1990s manhunt, prison, and his later career as a renowned security consultant.",
+    "url": "people/kevin-mitnick-complete-history.html"
+  },
+  {
+    "id": "marcus-hutchins-wannacry",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Marcus Hutchins: The Accidental Hero of WannaCry",
+    "slug": "marcus-hutchins-wannacry",
+    "era": "2010s",
+    "tags": [
+      "malwaretech",
+      "wannacry",
+      "ransomware",
+      "security research",
+      "hero"
+    ],
+    "summary": "The story of Marcus Hutchins, a young malware researcher who discovered the 'kill switch' that helped halt the global WannaCry ransomware attack.",
+    "url": "people/marcus-hutchins-wannacry.html"
+  },
+  {
+    "id": "mudge-peiter-zatko",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Peiter \"Mudge\" Zatko",
+    "slug": "mudge-peiter-zatko",
     "era": "1990s-Present",
     "tags": [
-      "ethics",
-      "disclosure",
-      "bug bounty",
-      "vulnerability",
+      "L0pht",
+      "buffer overflow",
+      "L0phtCrack",
+      "DARPA",
+      "whistleblower",
+      "Twitter",
+      "cybersecurity policy"
+    ],
+    "summary": "Peiter \"Mudge\" Zatko is an American security researcher who rose to prominence as a leading member of the L0pht hacker collective in the 1990s, later ran cybersecurity programs at DARPA and held security leadership roles at Google, Stripe and Twitter, and in 2022 became internationally known as the whistleblower who accused Twitter of severe security and privacy failures before Congress, the SEC and the FTC.",
+    "url": "people/mudge-peiter-zatko.html"
+  },
+  {
+    "id": "richard-stallman-gnu",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Richard Stallman, the GNU Project, and Free Software",
+    "slug": "richard-stallman-gnu",
+    "era": "1980s-Present",
+    "tags": [
+      "free software",
+      "GNU",
+      "Richard Stallman",
       "philosophy"
     ],
-    "summary": "An exploration of Responsible Disclosure, the ethical framework guiding how security researchers report vulnerabilities to vendors.",
-    "url": "fields/responsible-disclosure.html"
+    "summary": "The story of how hacker Richard Stallman launched the Free Software Movement and the GNU Project, creating the philosophical and legal foundations for open source.",
+    "url": "people/richard-stallman-gnu.html"
   },
   {
-    "id": "mit-tmrc-hacker-ethic",
-    "type": "event",
-    "typeLabel": "Event",
-    "title": "The Hacker Ethic: MIT's Tech Model Railroad Club",
-    "slug": "mit-tmrc-hacker-ethic",
-    "era": "1950s-1960s",
-    "tags": [
-      "MIT",
-      "hacker ethic",
-      "history",
-      "TMRC"
-    ],
-    "summary": "How the term 'hack' and the foundational principles of the hacker ethic emerged from a student club at MIT dedicated to model trains.",
-    "url": "events/mit-tmrc-hacker-ethic.html"
-  },
-  {
-    "id": "morris-worm",
-    "type": "event",
-    "typeLabel": "Event",
-    "title": "The Morris Worm: The Internet's First Wake-Up Call",
-    "slug": "morris-worm",
-    "era": "1980s-1990s",
-    "tags": [
-      "worm",
-      "security",
-      "internet history",
-      "Cornell"
-    ],
-    "summary": "In 1988, a Cornell graduate student unleashed the first major internet worm, accidentally crippling a significant portion of the early internet and leading to the first felony conviction under the Computer Fraud and Abuse Act.",
-    "url": "events/morris-worm.html"
-  },
-  {
-    "id": "defcon-hacker-conference",
-    "type": "event",
-    "typeLabel": "Event",
-    "title": "DEF CON: The World's Most Famous Hacker Con",
-    "slug": "defcon-hacker-conference",
-    "era": "1990s-Present",
-    "tags": [
-      "defcon",
-      "conference",
-      "culture",
-      "Las Vegas"
-    ],
-    "summary": "From a small gathering organized by Jeff Moss ('The Dark Tangent') to the world's largest and most iconic annual hacker convention in Las Vegas.",
-    "url": "events/defcon-hacker-conference.html"
-  },
-  {
-    "id": "l0pht-senate-testimony",
-    "type": "group",
-    "typeLabel": "Group",
-    "title": "L0pht Heavy Industries: Advising the Senate",
-    "slug": "l0pht-senate-testimony",
-    "era": "1990s",
-    "tags": [
-      "l0pht",
-      "security",
-      "disclosure",
-      "think tank"
-    ],
-    "summary": "The story of the Boston-based hacker collective that testified before the U.S. Senate, famously claiming they could shut down the internet in 30 minutes.",
-    "url": "groups/l0pht-senate-testimony.html"
-  },
-  {
-    "id": "cult-of-the-dead-cow-cdc",
-    "type": "group",
-    "typeLabel": "Group",
-    "title": "The Cult of the Dead Cow (cDc) and Hacktivism",
-    "slug": "cult-of-the-dead-cow-cdc",
-    "era": "1980s-2000s",
-    "tags": [
-      "cdc",
-      "hacktivism",
-      "bbs",
-      "security tools"
-    ],
-    "summary": "The influential hacker group known for its high-profile pranks, coining the term 'hacktivism', and releasing controversial but powerful tools like Back Orifice.",
-    "url": "groups/cult-of-the-dead-cow-cdc.html"
-  },
-  {
-    "id": "chaos-computer-club-ccc",
-    "type": "group",
-    "typeLabel": "Group",
-    "title": "The Chaos Computer Club (CCC)",
-    "slug": "chaos-computer-club-ccc",
+    "id": "robert-tappan-morris",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Robert Tappan Morris",
+    "slug": "robert-tappan-morris",
     "era": "1980s-Present",
     "tags": [
-      "ccc",
-      "europe",
-      "hacktivism",
-      "privacy"
+      "Morris Worm",
+      "CFAA",
+      "Cornell",
+      "MIT",
+      "Viaweb",
+      "Y Combinator",
+      "computer science"
     ],
-    "summary": "Europe's largest and one of the world's most influential associations of hackers, known for its public demonstrations of security flaws and its strong advocacy for government transparency and data privacy.",
-    "url": "groups/chaos-computer-club-ccc.html"
+    "summary": "Robert Tappan Morris is an American computer scientist who, as a Cornell graduate student in 1988, released the first worm to spread widely across the early Internet and became the first person convicted under the Computer Fraud and Abuse Act; he later co-founded Viaweb and Y Combinator and is now a tenured MIT professor of computer science.",
+    "url": "people/robert-tappan-morris.html"
   },
   {
-    "id": "masters-of-deception-mod",
-    "type": "group",
-    "typeLabel": "Group",
-    "title": "Masters of Deception: The New York Hacker Wars",
-    "slug": "masters-of-deception-mod",
-    "era": "1980s-1990s",
+    "id": "solar-designer",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Solar Designer",
+    "slug": "solar-designer",
+    "era": "1990s-Present",
     "tags": [
-      "mod",
-      "lod",
-      "phreaking",
-      "new york"
+      "password cracking",
+      "open source security",
+      "linux hardening",
+      "openwall",
+      "exploit development"
     ],
-    "summary": "The story of the Masters of Deception (MOD), a New York-based hacker group whose expertise in telephony and epic rivalry with the Legion of Doom (LOD) defined an era.",
-    "url": "groups/masters-of-deception-mod.html"
+    "summary": "Solar Designer (Alexander Peslyak) created the John the Ripper password cracker in 1996 and founded the Openwall Project, becoming one of the most influential figures in open-source Linux security hardening and exploitation research.",
+    "url": "people/solar-designer.html"
   },
   {
-    "id": "legion-of-doom-lod",
-    "type": "group",
-    "typeLabel": "Group",
-    "title": "Legion of Doom (LOD): The Masters of the Digital Universe",
-    "slug": "legion-of-doom-lod",
-    "era": "1980s-1990s",
+    "id": "tsutomu-shimomura",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Tsutomu Shimomura",
+    "slug": "tsutomu-shimomura",
+    "era": "1980s-Present",
     "tags": [
-      "lod",
-      "mod",
-      "hacker group",
-      "telecom"
+      "computational physics",
+      "Kevin Mitnick case",
+      "IP spoofing",
+      "San Diego Supercomputer Center",
+      "Takedown"
     ],
-    "summary": "The history of the Legion of Doom (LOD), one of the most technically proficient and influential hacker groups of the BBS era.",
-    "url": "groups/legion-of-doom-lod.html"
+    "summary": "A computational physicist and security researcher at the San Diego Supercomputer Center, Shimomura became internationally known after a December 1994 attack on his own home systems led him to help the FBI track and arrest fugitive hacker Kevin Mitnick, a chase he later recounted in the book Takedown.",
+    "url": "people/tsutomu-shimomura.html"
   },
   {
     "id": "anonymous-hacktivism",
@@ -222,6 +265,86 @@
     "url": "groups/anonymous-hacktivism.html"
   },
   {
+    "id": "chaos-computer-club-ccc",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "The Chaos Computer Club (CCC)",
+    "slug": "chaos-computer-club-ccc",
+    "era": "1980s-Present",
+    "tags": [
+      "ccc",
+      "europe",
+      "hacktivism",
+      "privacy"
+    ],
+    "summary": "Europe's largest and one of the world's most influential associations of hackers, known for its public demonstrations of security flaws and its strong advocacy for government transparency and data privacy.",
+    "url": "groups/chaos-computer-club-ccc.html"
+  },
+  {
+    "id": "cult-of-the-dead-cow-cdc",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "The Cult of the Dead Cow (cDc) and Hacktivism",
+    "slug": "cult-of-the-dead-cow-cdc",
+    "era": "1980s-2000s",
+    "tags": [
+      "cdc",
+      "hacktivism",
+      "bbs",
+      "security tools"
+    ],
+    "summary": "The influential hacker group known for its high-profile pranks, coining the term 'hacktivism', and releasing controversial but powerful tools like Back Orifice.",
+    "url": "groups/cult-of-the-dead-cow-cdc.html"
+  },
+  {
+    "id": "l0pht-senate-testimony",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "L0pht Heavy Industries: Advising the Senate",
+    "slug": "l0pht-senate-testimony",
+    "era": "1990s",
+    "tags": [
+      "l0pht",
+      "security",
+      "disclosure",
+      "think tank"
+    ],
+    "summary": "The story of the Boston-based hacker collective that testified before the U.S. Senate, famously claiming they could shut down the internet in 30 minutes.",
+    "url": "groups/l0pht-senate-testimony.html"
+  },
+  {
+    "id": "legion-of-doom-lod",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "Legion of Doom (LOD): The Masters of the Digital Universe",
+    "slug": "legion-of-doom-lod",
+    "era": "1980s-1990s",
+    "tags": [
+      "lod",
+      "mod",
+      "hacker group",
+      "telecom"
+    ],
+    "summary": "The history of the Legion of Doom (LOD), one of the most technically proficient and influential hacker groups of the BBS era.",
+    "url": "groups/legion-of-doom-lod.html"
+  },
+  {
+    "id": "masters-of-deception-mod",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "Masters of Deception: The New York Hacker Wars",
+    "slug": "masters-of-deception-mod",
+    "era": "1980s-1990s",
+    "tags": [
+      "mod",
+      "lod",
+      "phreaking",
+      "new york"
+    ],
+    "summary": "The story of the Masters of Deception (MOD), a New York-based hacker group whose expertise in telephony and epic rivalry with the Legion of Doom (LOD) defined an era.",
+    "url": "groups/masters-of-deception-mod.html"
+  },
+  {
     "id": "wikileaks-julian-assange",
     "type": "group",
     "typeLabel": "Group",
@@ -237,6 +360,38 @@
     ],
     "summary": "The rise and impact of WikiLeaks, the controversial platform founded by Julian Assange that published vast caches of secret information, changing the face of journalism and activism.",
     "url": "groups/wikileaks-julian-assange.html"
+  },
+  {
+    "id": "john-the-ripper",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "John the Ripper: The Timeless Password Cracker",
+    "slug": "john-the-ripper",
+    "era": "1990s-Present",
+    "tags": [
+      "tool",
+      "password cracking",
+      "security",
+      "open source"
+    ],
+    "summary": "The story of John the Ripper, the fast, flexible, and iconic open-source password cracking tool created by Alexander Peslyak ('Solar Designer').",
+    "url": "tools/john-the-ripper.html"
+  },
+  {
+    "id": "metasploit-framework",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "The Metasploit Framework: Democratizing Penetration Testing",
+    "slug": "metasploit-framework",
+    "era": "2000s-Present",
+    "tags": [
+      "tool",
+      "exploit",
+      "penetration testing",
+      "security"
+    ],
+    "summary": "The evolution of the Metasploit Framework, from H. D. Moore's open-source project to a powerful platform that made exploit development and penetration testing accessible.",
+    "url": "tools/metasploit-framework.html"
   },
   {
     "id": "nmap-network-mapper",
@@ -271,38 +426,6 @@
     "url": "tools/wireshark-network-analyzer.html"
   },
   {
-    "id": "metasploit-framework",
-    "type": "tool",
-    "typeLabel": "Tool",
-    "title": "The Metasploit Framework: Democratizing Penetration Testing",
-    "slug": "metasploit-framework",
-    "era": "2000s-Present",
-    "tags": [
-      "tool",
-      "exploit",
-      "penetration testing",
-      "security"
-    ],
-    "summary": "The evolution of the Metasploit Framework, from H. D. Moore's open-source project to a powerful platform that made exploit development and penetration testing accessible.",
-    "url": "tools/metasploit-framework.html"
-  },
-  {
-    "id": "john-the-ripper",
-    "type": "tool",
-    "typeLabel": "Tool",
-    "title": "John the Ripper: The Timeless Password Cracker",
-    "slug": "john-the-ripper",
-    "era": "1990s-Present",
-    "tags": [
-      "tool",
-      "password cracking",
-      "security",
-      "open source"
-    ],
-    "summary": "The story of John the Ripper, the fast, flexible, and iconic open-source password cracking tool created by Alexander Peslyak ('Solar Designer').",
-    "url": "tools/john-the-ripper.html"
-  },
-  {
     "id": "stuxnet-digital-weapon",
     "type": "vulnerability",
     "typeLabel": "Vulnerability / Discovery",
@@ -320,20 +443,52 @@
     "url": "vulnerabilities/stuxnet-digital-weapon.html"
   },
   {
-    "id": "hacker-manifesto-the-mentor",
-    "type": "publication",
-    "typeLabel": "Publication",
-    "title": "The Hacker Manifesto: 'The Conscience of a Hacker'",
-    "slug": "hacker-manifesto-the-mentor",
-    "era": "1980s",
+    "id": "defcon-hacker-conference",
+    "type": "event",
+    "typeLabel": "Event",
+    "title": "DEF CON: The World's Most Famous Hacker Con",
+    "slug": "defcon-hacker-conference",
+    "era": "1990s-Present",
     "tags": [
-      "manifesto",
-      "philosophy",
-      "The Mentor",
-      "phrack"
+      "defcon",
+      "conference",
+      "culture",
+      "Las Vegas"
     ],
-    "summary": "An exploration of the seminal 1986 essay written by Loyd 'The Mentor' Blankenship, which became the philosophical soul of the hacker movement.",
-    "url": "publications/hacker-manifesto-the-mentor.html"
+    "summary": "From a small gathering organized by Jeff Moss ('The Dark Tangent') to the world's largest and most iconic annual hacker convention in Las Vegas.",
+    "url": "events/defcon-hacker-conference.html"
+  },
+  {
+    "id": "mit-tmrc-hacker-ethic",
+    "type": "event",
+    "typeLabel": "Event",
+    "title": "The Hacker Ethic: MIT's Tech Model Railroad Club",
+    "slug": "mit-tmrc-hacker-ethic",
+    "era": "1950s-1960s",
+    "tags": [
+      "MIT",
+      "hacker ethic",
+      "history",
+      "TMRC"
+    ],
+    "summary": "How the term 'hack' and the foundational principles of the hacker ethic emerged from a student club at MIT dedicated to model trains.",
+    "url": "events/mit-tmrc-hacker-ethic.html"
+  },
+  {
+    "id": "morris-worm",
+    "type": "event",
+    "typeLabel": "Event",
+    "title": "The Morris Worm: The Internet's First Wake-Up Call",
+    "slug": "morris-worm",
+    "era": "1980s-1990s",
+    "tags": [
+      "worm",
+      "security",
+      "internet history",
+      "Cornell"
+    ],
+    "summary": "In 1988, a Cornell graduate student unleashed the first major internet worm, accidentally crippling a significant portion of the early internet and leading to the first felony conviction under the Computer Fraud and Abuse Act.",
+    "url": "events/morris-worm.html"
   },
   {
     "id": "2600-hacker-quarterly",
@@ -353,6 +508,22 @@
     "url": "publications/2600-hacker-quarterly.html"
   },
   {
+    "id": "hacker-manifesto-the-mentor",
+    "type": "publication",
+    "typeLabel": "Publication",
+    "title": "The Hacker Manifesto: 'The Conscience of a Hacker'",
+    "slug": "hacker-manifesto-the-mentor",
+    "era": "1980s",
+    "tags": [
+      "manifesto",
+      "philosophy",
+      "The Mentor",
+      "phrack"
+    ],
+    "summary": "An exploration of the seminal 1986 essay written by Loyd 'The Mentor' Blankenship, which became the philosophical soul of the hacker movement.",
+    "url": "publications/hacker-manifesto-the-mentor.html"
+  },
+  {
     "id": "phrack-magazine",
     "type": "publication",
     "typeLabel": "Publication",
@@ -370,103 +541,81 @@
     "url": "publications/phrack-magazine.html"
   },
   {
-    "id": "kevin-mitnick-complete-history",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Kevin Mitnick: A Complete History",
-    "slug": "kevin-mitnick-complete-history",
-    "era": "1963-2023",
+    "id": "bbs-and-warez-scene",
+    "type": "field",
+    "typeLabel": "Field",
+    "title": "The BBS & Warez Scene",
+    "slug": "bbs-and-warez-scene",
+    "era": "1980s-1990s",
     "tags": [
-      "social engineering",
-      "phreaking",
-      "FBI",
-      "DEC",
-      "KnowBe4",
-      "history"
+      "bbs",
+      "demoscene",
+      "warez"
     ],
-    "summary": "From his Los Angeles childhood and early phone-phreaking to the 1990s manhunt, prison, and his later career as a renowned security consultant.",
-    "url": "people/kevin-mitnick-complete-history.html"
+    "summary": "Modems, message boards, ANSI art, and the communities that formed the modern hacker internet.",
+    "url": "fields/bbs-and-warez-scene.html"
   },
   {
-    "id": "richard-stallman-gnu",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Richard Stallman, the GNU Project, and Free Software",
-    "slug": "richard-stallman-gnu",
+    "id": "hackers-in-film",
+    "type": "field",
+    "typeLabel": "Field",
+    "title": "Hackers in Popular Culture: Film & Documentaries",
+    "slug": "hackers-in-film",
     "era": "1980s-Present",
     "tags": [
-      "free software",
-      "GNU",
-      "Richard Stallman",
-      "philosophy"
-    ],
-    "summary": "The story of how hacker Richard Stallman launched the Free Software Movement and the GNU Project, creating the philosophical and legal foundations for open source.",
-    "url": "people/richard-stallman-gnu.html"
-  },
-  {
-    "id": "cuckoos-egg-clifford-stoll",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Clifford Stoll and 'The Cuckoo's Egg'",
-    "slug": "cuckoos-egg-clifford-stoll",
-    "era": "1980s",
-    "tags": [
-      "book",
-      "espionage",
-      "history",
-      "investigation"
-    ],
-    "summary": "The true story of how astronomer Clifford Stoll, tasked with finding a 75-cent accounting error, ended up tracking a KGB-sponsored hacker through the early internet.",
-    "url": "people/cuckoos-egg-clifford-stoll.html"
-  },
-  {
-    "id": "adrian-lamo",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Adrian Lamo: The 'Homeless Hacker'",
-    "slug": "adrian-lamo",
-    "era": "2000s-2010s",
-    "tags": [
-      "gray hat",
-      "whistleblower",
+      "film",
+      "culture",
       "media",
-      "ethics"
+      "documentary"
     ],
-    "summary": "The complex and controversial story of Adrian Lamo, a gray-hat hacker known for his high-profile intrusions and his role in reporting Chelsea Manning.",
-    "url": "people/adrian-lamo.html"
+    "summary": "How movies and documentaries like WarGames, Hackers, and The Social Network have shaped the public's perception of hacker culture \u2014 for better and for worse.",
+    "url": "fields/hackers-in-film.html"
   },
   {
-    "id": "george-geohot-hotz",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "George 'geohot' Hotz: The iPhone Jailbreaker",
-    "slug": "george-geohot-hotz",
+    "id": "hacktivism-to-bug-bounties",
+    "type": "field",
+    "typeLabel": "Field",
+    "title": "From Hacktivism to Bug Bounties",
+    "slug": "hacktivism-to-bug-bounties",
     "era": "2000s-Present",
     "tags": [
-      "geohot",
-      "jailbreak",
-      "iPhone",
-      "PlayStation",
-      "reverse engineering"
+      "hacktivism",
+      "bug bounty",
+      "security"
     ],
-    "summary": "The story of George Hotz, the prodigious hacker who first carrier-unlocked the iPhone and later took on Sony's PlayStation 3.",
-    "url": "people/george-geohot-hotz.html"
+    "summary": "Public-interest intrusions, disclosure debates, and the rise of coordinated vulnerability programs.",
+    "url": "fields/hacktivism-to-bug-bounties.html"
   },
   {
-    "id": "marcus-hutchins-wannacry",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Marcus Hutchins: The Accidental Hero of WannaCry",
-    "slug": "marcus-hutchins-wannacry",
-    "era": "2010s",
+    "id": "phreaking",
+    "type": "field",
+    "typeLabel": "Field",
+    "title": "Early Phone Phreaking",
+    "slug": "phreaking",
+    "era": "1960s-1980s",
     "tags": [
-      "malwaretech",
-      "wannacry",
-      "ransomware",
-      "security research",
-      "hero"
+      "phreaking",
+      "telecom",
+      "history"
     ],
-    "summary": "The story of Marcus Hutchins, a young malware researcher who discovered the 'kill switch' that helped halt the global WannaCry ransomware attack.",
-    "url": "people/marcus-hutchins-wannacry.html"
+    "summary": "The roots of hacker culture in the era of analog telephony and tone signaling.",
+    "url": "fields/phreaking.html"
+  },
+  {
+    "id": "responsible-disclosure",
+    "type": "field",
+    "typeLabel": "Field",
+    "title": "The Philosophy of Responsible Disclosure",
+    "slug": "responsible-disclosure",
+    "era": "1990s-Present",
+    "tags": [
+      "ethics",
+      "disclosure",
+      "bug bounty",
+      "vulnerability",
+      "philosophy"
+    ],
+    "summary": "An exploration of Responsible Disclosure, the ethical framework guiding how security researchers report vulnerabilities to vendors.",
+    "url": "fields/responsible-disclosure.html"
   }
 ]

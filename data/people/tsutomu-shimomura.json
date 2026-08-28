@@ -1,0 +1,93 @@
+{
+  "id": "tsutomu-shimomura",
+  "type": "person",
+  "title": "Tsutomu Shimomura",
+  "slug": "tsutomu-shimomura",
+  "era": "1980s-Present",
+  "tags": [
+    "computational physics",
+    "Kevin Mitnick case",
+    "IP spoofing",
+    "San Diego Supercomputer Center",
+    "Takedown"
+  ],
+  "summary": "A computational physicist and security researcher at the San Diego Supercomputer Center, Shimomura became internationally known after a December 1994 attack on his own home systems led him to help the FBI track and arrest fugitive hacker Kevin Mitnick, a chase he later recounted in the book Takedown.",
+  "whyThisMatters": "A computational physicist and security researcher at the San Diego Supercomputer Center, Shimomura became internationally known after a December 1994 attack on his own home systems led him to help the FBI track and arrest fugitive hacker Kevin Mitnick, a chase he later recounted in the book Takedown.",
+  "sections": {
+    "overview": "<p>Tsutomu Shimomura was born October 23, 1964, in Nagoya, Japan, and grew up in Princeton, New Jersey. He is the son of Osamu Shimomura, who won the 2008 Nobel Prize in Chemistry, and he went on to study physics at the California Institute of Technology. He worked as a staff physicist at Los Alamos National Laboratory in the mid-1980s on computational-physics problems before joining the University of California, San Diego's physics department in 1989 as a research scientist and becoming a senior fellow at the San Diego Supercomputer Center, where he worked on both computational physics and computer security. In 1992 he testified before the U.S. Congress about security and privacy weaknesses in cellular telephones.</p><h2>The December 1994 attack</h2><p>On Christmas Day 1994, while Shimomura was traveling, an intruder launched a then-novel attack against his home computer systems in San Diego, combining IP source-address spoofing with TCP sequence-number prediction to gain access to a diskless workstation, then hijacking an existing connection after obtaining root access. Rather than keeping the intrusion quiet, Shimomura publicized the technical details of the break-in in late January 1995, a disclosure that coincided with a CERT Coordination Center advisory (CA-1995-01) on IP spoofing and hijacked terminal connections, and with front-page New York Times coverage by reporter John Markoff.</p><h2>Tracking Kevin Mitnick</h2><p>Shimomura took an active role in investigating the intrusion himself, setting up monitoring tools and analyzing network traces across multiple victim systems. That investigation, conducted alongside Markoff and the FBI, led to fugitive hacker Kevin Mitnick, who was tracked in part through cellular-signal direction-finding to an apartment in Raleigh, North Carolina. The FBI arrested Mitnick in that apartment on February 15, 1995, with Shimomura present. Mitnick and some later commentators publicly questioned the ethics of Shimomura's hands-on role in the pursuit, a contested point not detailed further here.</p><h2>Takedown and later career</h2><p>In January 1996, Hyperion published \"Takedown: The Pursuit and Capture of Kevin Mitnick, America's Most Wanted Computer Outlaw,\" co-authored by Shimomura and Markoff. The book was adapted into the 2000 film \"Track Down\" (also released as \"Takedown\"), in which Shimomura made a cameo appearance. After the Mitnick case, Shimomura worked for Sun Microsystems before founding the fabless semiconductor company Neofocal Systems, which developed chipsets for precision LED-lighting control; he served as its CEO and CTO until 2016.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1964-10-23",
+      "event": "Born in Nagoya, Japan."
+    },
+    {
+      "date": "1989",
+      "event": "Joined UC San Diego's physics department and became a senior fellow at the San Diego Supercomputer Center."
+    },
+    {
+      "date": "1992",
+      "event": "Testified before the U.S. Congress on cellular telephone security and privacy vulnerabilities."
+    },
+    {
+      "date": "1994-12-25",
+      "event": "An intruder (later identified as Kevin Mitnick) launched an IP-spoofing attack against Shimomura's home computer systems."
+    },
+    {
+      "date": "1995-01-23",
+      "event": "CERT/CC issued Advisory CA-1995-01 on IP spoofing, around the same time as New York Times coverage of the break-in."
+    },
+    {
+      "date": "1995-02-15",
+      "event": "FBI agents arrested Kevin Mitnick in Raleigh, North Carolina, with Shimomura having assisted in tracking him."
+    },
+    {
+      "date": "1996-01",
+      "event": "Shimomura and John Markoff published 'Takedown.'"
+    },
+    {
+      "date": "2016",
+      "event": "Stepped down as CEO and CTO of Neofocal Systems."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Tsutomu Shimomura - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tsutomu_Shimomura"
+    },
+    {
+      "title": "Making an Arrest in Cyberspace - Christian Science Monitor",
+      "url": "https://www.csmonitor.com/1996/0104/04132.html"
+    },
+    {
+      "title": "Remembering cyberspace's most-wanted hacker and his unlikely capture in Raleigh in 1995 - News & Observer / AOL",
+      "url": "https://www.aol.com/remembering-cyberspace-most-wanted-hacker-100000556.html"
+    },
+    {
+      "title": "Led by computer whiz Tsutomu Shimomura, Neofocal raises $9M - GeekWire",
+      "url": "https://www.geekwire.com/2015/led-computer-whiz-tsutomu-shimomura-neofocal-raises-9m-smart-led-technology/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Tsutomu Shimomura",
+  "born": "1964-10-23",
+  "died": null,
+  "knownFor": [
+    "Helping the FBI track and arrest hacker Kevin Mitnick (February 15, 1995)",
+    "Publicly analyzing the December 25, 1994 IP-spoofing/TCP-sequence-prediction attack against his own home systems",
+    "Co-authoring 'Takedown: The Pursuit and Capture of Kevin Mitnick' (1996) with John Markoff",
+    "Computational physics work at Los Alamos National Laboratory and the San Diego Supercomputer Center",
+    "1992 U.S. Congressional testimony on cellular telephone security"
+  ]
+}
