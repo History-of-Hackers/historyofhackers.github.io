@@ -1,0 +1,49 @@
+{
+  "id": "2600-hacker-quarterly",
+  "type": "publication",
+  "title": "2600: The Hacker Quarterly",
+  "slug": "2600-hacker-quarterly",
+  "era": "1980s-Present",
+  "tags": [
+    "2600",
+    "magazine",
+    "phreaking",
+    "culture",
+    "community"
+  ],
+  "summary": "The history of 2600, the iconic green-covered magazine that has served as a vital source of information and community for the hacker underground for decades.",
+  "whyThisMatters": "The history of 2600, the iconic green-covered magazine that has served as a vital source of information and community for the hacker underground for decades.",
+  "sections": {
+    "overview": "<p>Founded in 1984 by Eric Corley (under the pseudonym <strong>Emmanuel Goldstein</strong>), <strong>2600: The Hacker Quarterly</strong> is one of the longest-running hacker publications. The name '2600' refers to the 2600 Hz tone that was used in the 1960s to gain unauthorized access to the AT&T phone system, a nod to the publication's roots in the phone phreaking scene.</p>\n<p>The magazine is known for publishing articles submitted by its readers on a wide range of topics, including phone systems, computer hacking, security vulnerabilities, and social engineering. It has often been at the center of legal and ethical debates, most notably in its fight to publish the source code for DeCSS, a program that could decrypt DVDs.</p>\n<p>Beyond the magazine itself, 2600 fostered a sense of community through its local meetups, held on the first Friday of every month in cities around the world. These meetings provided a physical space for like-minded individuals to share knowledge and ideas, solidifying 2600's role as a cornerstone of hacker culture.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1984",
+      "event": "2600: The Hacker Quarterly founded by Eric Corley ('Emmanuel Goldstein')."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "2600 Official Website",
+      "url": "https://www.2600.com/",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wikipedia: 2600: The Hacker Quarterly",
+      "url": "https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

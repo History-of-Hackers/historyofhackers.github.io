@@ -1,0 +1,37 @@
+{
+  "id": "hacktivism-to-bug-bounties",
+  "type": "field",
+  "title": "From Hacktivism to Bug Bounties",
+  "slug": "hacktivism-to-bug-bounties",
+  "era": "2000s-Present",
+  "tags": [
+    "hacktivism",
+    "bug bounty",
+    "security"
+  ],
+  "summary": "Public-interest intrusions, disclosure debates, and the rise of coordinated vulnerability programs.",
+  "whyThisMatters": "Public-interest intrusions, disclosure debates, and the rise of coordinated vulnerability programs.",
+  "sections": {
+    "overview": "<p>As the web matured, political expression arrived in the form of <strong>hacktivism</strong>: intrusions and disruptions motivated by causes rather than profit. In parallel, security researchers pushed for responsible disclosure while corporations began formal <strong>bug bounty</strong> programs, paying for vulnerabilities instead of threatening legal action. This shifted incentives and helped professionalize a swath of the community.</p>\n<p>Modern hacker history is diverse: from capture-the-flag competitions and open-source security tools to red/blue team exercises and global incident response. The culture continues to balance curiosity, ethics, and the consequences of powerful technology.</p>"
+  },
+  "timeline": [],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bug bounty program",
+      "url": "https://en.wikipedia.org/wiki/Bug_bounty_program",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 1,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

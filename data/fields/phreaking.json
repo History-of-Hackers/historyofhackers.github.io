@@ -1,0 +1,37 @@
+{
+  "id": "phreaking",
+  "type": "field",
+  "title": "Early Phone Phreaking",
+  "slug": "phreaking",
+  "era": "1960s-1980s",
+  "tags": [
+    "phreaking",
+    "telecom",
+    "history"
+  ],
+  "summary": "The roots of hacker culture in the era of analog telephony and tone signaling.",
+  "whyThisMatters": "The roots of hacker culture in the era of analog telephony and tone signaling.",
+  "sections": {
+    "overview": "<p>Before personal computers became mainstream, curiosity-driven explorers experimented with the global telephone network. Known as <strong>phone phreaks</strong>, they discovered how signaling tones controlled long-distance calls and built devices like the <em>blue box</em> to interact with switching systems. This era helped shape a do-it-yourself ethos and the idea that networks could be studied, repurposed, and sometimes subverted.</p>\n<p>The phreaking scene influenced early computer hobbyists, spreading norms around information sharing, technical documentation, and community zines that would later appear across bulletin board systems (BBS).</p>"
+  },
+  "timeline": [],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Phreaking (overview)",
+      "url": "https://en.wikipedia.org/wiki/Phreaking",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 1,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

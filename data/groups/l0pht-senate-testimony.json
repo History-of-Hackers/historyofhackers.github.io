@@ -1,0 +1,53 @@
+{
+  "id": "l0pht-senate-testimony",
+  "type": "group",
+  "title": "L0pht Heavy Industries: Advising the Senate",
+  "slug": "l0pht-senate-testimony",
+  "era": "1990s",
+  "tags": [
+    "l0pht",
+    "security",
+    "disclosure",
+    "think tank"
+  ],
+  "summary": "The story of the Boston-based hacker collective that testified before the U.S. Senate, famously claiming they could shut down the internet in 30 minutes.",
+  "whyThisMatters": "The story of the Boston-based hacker collective that testified before the U.S. Senate, famously claiming they could shut down the internet in 30 minutes.",
+  "sections": {
+    "overview": "<p><strong>L0pht Heavy Industries</strong> was a hacker collective and think tank founded in the 1990s in Boston, Massachusetts. Its members, including 'Mudge,' 'Weld Pond,' and 'Kingpin,' were pioneers in vulnerability research and responsible disclosure.</p>\n<p>On <strong>May 19, 1998</strong>, seven members of L0pht testified before the U.S. Senate Committee on Governmental Affairs. In a now-famous hearing, they warned about critical security vulnerabilities in the internet's infrastructure. Mudge, speaking for the group, made the audacious claim: 'We can, in fact, take down the Internet... [You can] take this as an absolute.' When asked how long it would take, he replied, 'About 30 minutes.'</p>\n<p>This testimony was a watershed moment, marking one of the first times that hackers were treated as expert witnesses rather than criminals by the government. It highlighted the fragility of the digital world and helped usher in an era where cybersecurity became a national security priority. L0pht also released widely used security tools like <strong>L0phtCrack</strong>, a password auditor that demonstrated the weakness of Windows NT passwords.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1998-05-19",
+      "event": "Seven L0pht members testify before the U.S. Senate Committee on Governmental Affairs."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "C-SPAN: L0pht Testimony (Video)",
+      "url": "https://www.c-span.org/video/?104293-1/weak-computer-security-government-agencies",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wikipedia: L0pht",
+      "url": "https://en.wikipedia.org/wiki/L0pht",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wired: 'The L0pht Legacy'",
+      "url": "https://www.wired.com/2000/01/l0pht/",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

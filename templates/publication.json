@@ -1,0 +1,42 @@
+{
+  "_comment": "Template for a future structured publication record (magazine, ezine, manifesto, book). Copy, fill with sourced data only.",
+  "id": "example-slug",
+  "type": "publication",
+  "title": "Publication Title",
+  "authors": [
+    { "name": "", "personRef": "slug-if-has-own-page-or-null" }
+  ],
+  "firstPublished": "YYYY-MM-DD or YYYY",
+  "fields": [],
+  "whyThisMatters": "2-4 neutral sentences.",
+  "sections": {
+    "overview": "",
+    "originAndFounding": "",
+    "notableContent": "",
+    "legacy": ""
+  },
+  "timeline": [
+    { "date": "YYYY-MM-DD", "event": "" }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "",
+      "author": "",
+      "publisher": "",
+      "date": "",
+      "url": "",
+      "accessDate": "",
+      "type": "PRIMARY | ACADEMIC | CONFERENCE | NEWS | ARCHIVE | INTERVIEW | COMMUNITY"
+    }
+  ],
+  "editorial": {
+    "verified": false,
+    "sourcesCount": 0,
+    "lastReviewed": null,
+    "reviewStatus": "TODO | RESEARCHING | VERIFIED | ARTICLE_READY | PUBLISHED",
+    "reviewer": null
+  }
+}

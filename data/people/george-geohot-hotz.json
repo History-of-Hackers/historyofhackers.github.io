@@ -1,0 +1,66 @@
+{
+  "id": "george-geohot-hotz",
+  "type": "person",
+  "title": "George 'geohot' Hotz: The iPhone Jailbreaker",
+  "slug": "george-geohot-hotz",
+  "era": "2000s-Present",
+  "tags": [
+    "geohot",
+    "jailbreak",
+    "iPhone",
+    "PlayStation",
+    "reverse engineering"
+  ],
+  "summary": "The story of George Hotz, the prodigious hacker who first carrier-unlocked the iPhone and later took on Sony's PlayStation 3.",
+  "whyThisMatters": "The story of George Hotz, the prodigious hacker who first carrier-unlocked the iPhone and later took on Sony's PlayStation 3.",
+  "sections": {
+    "overview": "<p><strong>George Hotz</strong>, known online as 'geohot,' became a household name in the tech world at the age of 17. In 2007, just months after the original iPhone was released, he became the first person to carrier-unlock it, freeing the device from its exclusive contract with AT&T. He traded his second unlocked iPhone for a Nissan 350Z and three new iPhones.</p>\n<p>His next major exploit targeted the <strong>Sony PlayStation 3</strong>, a console famously marketed as 'unhackable.' In 2010, Hotz announced he had bypassed the console's security, publishing the exploit keys online. Sony responded with a lawsuit, accusing him of violating the Digital Millennium Copyright Act (DMCA). The case became a rallying cry for the hacker community and free-speech advocates. It was eventually settled out of court, but not before the hacktivist group Anonymous retaliated against Sony with a series of cyberattacks.</p>\n<p>Since then, Hotz has worked briefly at major tech companies like Google and Twitter, founded his own AI startup (comma.ai) focused on self-driving car technology, and continues to be a prominent and sometimes controversial figure in the tech and security landscape.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2007",
+      "event": "First to carrier-unlock the original iPhone."
+    },
+    {
+      "date": "2010",
+      "event": "Bypasses PlayStation 3 security; sued by Sony."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Wikipedia: George Hotz",
+      "url": "https://en.wikipedia.org/wiki/George_Hotz",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wired: 'The PlayStation 3 Hack: A Legal and Technical Breakdown'",
+      "url": "https://www.wired.com/2011/01/ps3-hack-explained/",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Geohot's original iPhone unlock announcement",
+      "url": "http://geohot.com/iphone-unlocking-and-mainstream-media.html",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "George 'geohot' Hotz: The iPhone Jailbreaker",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "First iPhone carrier unlock (2007)",
+    "PlayStation 3 jailbreak (2010)",
+    "comma.ai founder"
+  ]
+}

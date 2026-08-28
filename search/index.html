@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Search - History of Hackers</title>
+<meta name="description" content="Search the History of Hackers archive." />
+<link rel="canonical" href="https://historyofhackers.org/search/" />
+<meta name="theme-color" content="#7a2e2e" />
+<meta property="og:title" content="Search - History of Hackers" />
+<meta property="og:description" content="Search the History of Hackers archive." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://historyofhackers.org/search/" />
+<link rel="stylesheet" href="../assets/css/main.css" />
+</head>
+<body data-root=".." class="">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <a class="brand" href="../" style="color:inherit;">
+    <span class="brand-logo">H</span> History of Hackers
+  </a>
+  <span class="tagline">A living archive of hacker culture &amp; cybersecurity history</span>
+  <form class="site-search" id="siteSearchForm" role="search">
+    <label class="visually-hidden" for="siteSearchInput">Search</label>
+    <input id="siteSearchInput" type="search" placeholder="Search people, groups, tools, vulnerabilities... (Press /)" aria-label="Search the archive" />
+  </form>
+  <div class="header-actions">
+    <button class="btn" id="toggleTheme" type="button" title="Toggle light/dark theme">Theme</button>
+    <a class="btn" href="../about.html">About</a>
+  </div>
+</header>
+<nav class="primary-nav" aria-label="Sections"><a href="../people/">People</a>
+<a href="../groups/">Groups</a>
+<a href="../tools/">Tools</a>
+<a href="../vulnerabilities/">Vulnerabilities</a>
+<a href="../events/">Events</a>
+<a href="../publications/">Publications</a>
+<a href="../fields/">Fields</a>
+<a href="../timeline/">Timeline</a></nav>
+<div class="shell">
+<main class="content" id="main">
+
+<div class="breadcrumbs"><a href="../">Home</a> / Search</div>
+<div class="hero"><h1>Search</h1><p class="lede">Search across people, groups, tools, vulnerabilities, events, publications and fields.</p></div>
+<div class="filter-bar">
+  <input id="q" type="search" placeholder="Search..." aria-label="Search query" style="flex:1;min-width:240px;" />
+</div>
+<div id="grid"><p class="no-results">Type a query above.</p></div>
+<script src="../assets/js/directory.js"></script>
+<script>
+(async function () {
+  const grid = document.getElementById('grid');
+  const input = document.getElementById('q');
+  let items = [];
+  try { items = await HOH.loadManifest('..'); } catch (e) {
+    grid.innerHTML = '<p class="no-results">Could not load data.</p>'; return;
+  }
+  const params = new URLSearchParams(location.search);
+  const initial = params.get('q') || '';
+  input.value = initial;
+
+  function run() {
+    const q = input.value.trim().toLowerCase();
+    if (!q) { grid.innerHTML = '<p class="no-results">Type a query above.</p>'; return; }
+    const filtered = items.filter(i =>
+      i.title.toLowerCase().includes(q) ||
+      i.summary.toLowerCase().includes(q) ||
+      i.era.toLowerCase().includes(q) ||
+      i.tags.some(t => t.toLowerCase().includes(q))
+    );
+    HOH.renderGrid(grid, filtered, '..', 'No results for that query.');
+  }
+  input.addEventListener('input', run);
+  if (initial) run();
+})();
+</script>
+
+</main>
+</div>
+<footer class="site-footer">
+  <p>History of Hackers is a community-maintained historical archive. Corrections and new entries go through
+  <a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub Pull Requests</a>.
+  See <a href="../CONTRIBUTING.html">Contributing</a>, <a href="../STYLE_GUIDE.html">Style Guide</a>
+  and <a href="../SOURCES.html">Sources</a>.</p>
+</footer>
+<script src="../assets/js/main.js"></script>
+</body>
+</html>

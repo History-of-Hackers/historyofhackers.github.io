@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>People - History of Hackers</title>
+<meta name="description" content="Researchers, hackers, phreakers, and engineers documented for their confirmed contributions to hacker culture and security history." />
+<link rel="canonical" href="https://historyofhackers.org/people/" />
+<meta name="theme-color" content="#7a2e2e" />
+<meta property="og:title" content="People - History of Hackers" />
+<meta property="og:description" content="Researchers, hackers, phreakers, and engineers documented for their confirmed contributions to hacker culture and security history." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://historyofhackers.org/people/" />
+<link rel="stylesheet" href="../assets/css/main.css" />
+</head>
+<body data-root=".." class="">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <a class="brand" href="../" style="color:inherit;">
+    <span class="brand-logo">H</span> History of Hackers
+  </a>
+  <span class="tagline">A living archive of hacker culture &amp; cybersecurity history</span>
+  <form class="site-search" id="siteSearchForm" role="search">
+    <label class="visually-hidden" for="siteSearchInput">Search</label>
+    <input id="siteSearchInput" type="search" placeholder="Search people, groups, tools, vulnerabilities... (Press /)" aria-label="Search the archive" />
+  </form>
+  <div class="header-actions">
+    <button class="btn" id="toggleTheme" type="button" title="Toggle light/dark theme">Theme</button>
+    <a class="btn" href="../about.html">About</a>
+  </div>
+</header>
+<nav class="primary-nav" aria-label="Sections"><a href="../people/" aria-current="page">People</a>
+<a href="../groups/">Groups</a>
+<a href="../tools/">Tools</a>
+<a href="../vulnerabilities/">Vulnerabilities</a>
+<a href="../events/">Events</a>
+<a href="../publications/">Publications</a>
+<a href="../fields/">Fields</a>
+<a href="../timeline/">Timeline</a></nav>
+<div class="shell">
+<main class="content" id="main">
+
+<div class="breadcrumbs"><a href="../">Home</a> / People</div>
+<div class="hero"><h1>People</h1><p class="lede">Researchers, hackers, phreakers, and engineers documented for their confirmed contributions to hacker culture and security history.</p></div>
+<div class="filter-bar">
+  <select id="eraFilter" aria-label="Filter by era"></select>
+  <input id="tagFilter" type="text" placeholder="Filter by tag, name, or keyword" aria-label="Filter by tag or keyword" />
+</div>
+<div id="grid"><p class="no-results">Loading...</p></div>
+<script src="../assets/js/directory.js"></script>
+<script>
+(async function () {
+  const grid = document.getElementById('grid');
+  const eraSel = document.getElementById('eraFilter');
+  const tagInput = document.getElementById('tagFilter');
+  let items = [];
+  try {
+    const all = await HOH.loadManifest('..');
+    items = all.filter(i => i.type === 'person');
+  } catch (e) {
+    grid.innerHTML = '<p class="no-results">Could not load data.</p>';
+    return;
+  }
+  const eras = Array.from(new Set(items.map(i => i.era))).sort();
+  eraSel.innerHTML = '<option value="">All eras</option>' + eras.map(e => `<option value="${e}">${e}</option>`).join('');
+
+  function render() {
+    const era = eraSel.value;
+    const tag = tagInput.value.trim().toLowerCase();
+    const filtered = items.filter(i =>
+      (!era || i.era === era) &&
+      (!tag || i.tags.some(t => t.toLowerCase().includes(tag)) || i.title.toLowerCase().includes(tag) || i.summary.toLowerCase().includes(tag))
+    );
+    HOH.renderGrid(grid, filtered, '..', 'No entries match these filters yet.');
+  }
+  eraSel.addEventListener('change', render);
+  tagInput.addEventListener('input', render);
+  render();
+})();
+</script>
+
+</main>
+</div>
+<footer class="site-footer">
+  <p>History of Hackers is a community-maintained historical archive. Corrections and new entries go through
+  <a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub Pull Requests</a>.
+  See <a href="../CONTRIBUTING.html">Contributing</a>, <a href="../STYLE_GUIDE.html">Style Guide</a>
+  and <a href="../SOURCES.html">Sources</a>.</p>
+</footer>
+<script src="../assets/js/main.js"></script>
+</body>
+</html>

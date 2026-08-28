@@ -1,0 +1,48 @@
+{
+  "id": "anonymous-hacktivism",
+  "type": "group",
+  "title": "Anonymous: From 4chan Pranksters to Global Hacktivists",
+  "slug": "anonymous-hacktivism",
+  "era": "2000s-Present",
+  "tags": [
+    "anonymous",
+    "hacktivism",
+    "4chan",
+    "Project Chanology"
+  ],
+  "summary": "The evolution of Anonymous from a leaderless, chaotic meme culture on the 4chan imageboard to a globally recognized hacktivist collective.",
+  "whyThisMatters": "The evolution of Anonymous from a leaderless, chaotic meme culture on the 4chan imageboard to a globally recognized hacktivist collective.",
+  "sections": {
+    "overview": "<p><strong>Anonymous</strong> originated in the early 2000s on the /b/ (random) board of the imageboard website <strong>4chan</strong>. Initially, the name was simply a reference to the default 'Anonymous' user handle. It evolved into a shared identity for a leaderless, online community that coordinated pranks and raids on other websites for their own amusement ('for the lulz').</p>\n<p>The turning point for Anonymous came in 2008 with <strong>Project Chanology</strong>. The group launched a series of protests, pranks, and Distributed Denial of Service (DDoS) attacks against the Church of Scientology after the Church attempted to censor a leaked video of Tom Cruise. This marked their transition from pranksters to politically motivated hacktivists.</p>\n<p>Since then, Anonymous has been associated with numerous high-profile operations, often in support of anti-censorship and anti-government control movements. Wearing the iconic Guy Fawkes mask (popularized by the film <em>V for Vendetta</em>), they have attacked government agencies, corporations, and religious groups. As a decentralized and fluid entity, anyone can claim to act in the name of Anonymous, making it a powerful but unpredictable force in the digital world.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2008",
+      "event": "Project Chanology launched against the Church of Scientology."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "We Are Anonymous (Book) by Parmy Olson",
+      "url": "https://www.amazon.com/We-Are-Anonymous-Inside-LulzSec/dp/0316213545",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "Wikipedia: Anonymous (group)",
+      "url": "https://en.wikipedia.org/wiki/Anonymous_(hacker_group)",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

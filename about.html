@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>About - History of Hackers</title>
+<meta name="description" content="What History of Hackers is and how it&#x27;s built." />
+<link rel="canonical" href="https://historyofhackers.org/about.html" />
+<meta name="theme-color" content="#7a2e2e" />
+<meta property="og:title" content="About - History of Hackers" />
+<meta property="og:description" content="What History of Hackers is and how it&#x27;s built." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://historyofhackers.org/about.html" />
+<link rel="stylesheet" href="./assets/css/main.css" />
+</head>
+<body data-root="." class="">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <a class="brand" href="./" style="color:inherit;">
+    <span class="brand-logo">H</span> History of Hackers
+  </a>
+  <span class="tagline">A living archive of hacker culture &amp; cybersecurity history</span>
+  <form class="site-search" id="siteSearchForm" role="search">
+    <label class="visually-hidden" for="siteSearchInput">Search</label>
+    <input id="siteSearchInput" type="search" placeholder="Search people, groups, tools, vulnerabilities... (Press /)" aria-label="Search the archive" />
+  </form>
+  <div class="header-actions">
+    <button class="btn" id="toggleTheme" type="button" title="Toggle light/dark theme">Theme</button>
+    <a class="btn" href="./about.html">About</a>
+  </div>
+</header>
+<nav class="primary-nav" aria-label="Sections"><a href="./people/">People</a>
+<a href="./groups/">Groups</a>
+<a href="./tools/">Tools</a>
+<a href="./vulnerabilities/">Vulnerabilities</a>
+<a href="./events/">Events</a>
+<a href="./publications/">Publications</a>
+<a href="./fields/">Fields</a>
+<a href="./timeline/">Timeline</a></nav>
+<div class="shell">
+<main class="content" id="main">
+
+<div class="breadcrumbs"><a href="./">Home</a> / About</div>
+<article class="entity">
+<h1>About History of Hackers</h1>
+<div class="entity-content">
+<p><strong>History of Hackers</strong> is a community-maintained historical archive documenting the people, groups,
+tools, vulnerabilities, events, and publications that shaped hacker culture and the security industry. It combines
+the density of an encyclopedia with the openness of a wiki, built as a static, dependency-free site so it can run
+forever on GitHub Pages.</p>
+
+<h2>Editorial principles</h2>
+<ul>
+<li><strong>Historical accuracy over quantity.</strong> A smaller, correct archive beats a large invented one.</li>
+<li><strong>Primary sources over rumors.</strong> Every non-trivial claim carries a source.</li>
+<li><strong>Contributions over controversy.</strong> Pages emphasize research, discoveries, and impact.</li>
+<li><strong>Knowledge over sensationalism.</strong> No rankings of "best" or "most dangerous" hackers.</li>
+</ul>
+<p>Full detail lives in <a href="STYLE_GUIDE.md">STYLE_GUIDE.md</a> and <a href="SOURCES.md">SOURCES.md</a>.</p>
+
+<h2>How the site is built</h2>
+<p>Pure HTML, CSS, and vanilla JavaScript &mdash; no framework, no backend, no build step at deploy time. Content
+lives as JSON records under <code>data/</code>, one file per person/group/tool/vulnerability/event/publication/field,
+and each has a matching static page. Search and filtering are client-side, reading <code>data/manifest.json</code>.</p>
+
+<h2>Contribute</h2>
+<p>New entries and corrections go through GitHub Pull Requests &mdash; see
+<a href="CONTRIBUTING.md">CONTRIBUTING.md</a>. Candidates being researched but not yet verified live in
+<a href="RESEARCH_BACKLOG.md">RESEARCH_BACKLOG.md</a> until they have enough sourced material for a page.</p>
+</div>
+</article>
+
+</main>
+</div>
+<footer class="site-footer">
+  <p>History of Hackers is a community-maintained historical archive. Corrections and new entries go through
+  <a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub Pull Requests</a>.
+  See <a href="./CONTRIBUTING.html">Contributing</a>, <a href="./STYLE_GUIDE.html">Style Guide</a>
+  and <a href="./SOURCES.html">Sources</a>.</p>
+</footer>
+<script src="./assets/js/main.js"></script>
+</body>
+</html>

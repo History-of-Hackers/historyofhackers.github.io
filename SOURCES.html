@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Sources Policy - History of Hackers</title>
+<meta name="description" content="Sources Policy for the History of Hackers project." />
+<link rel="canonical" href="https://historyofhackers.org/SOURCES.html" />
+<meta name="theme-color" content="#7a2e2e" />
+<meta property="og:title" content="Sources Policy - History of Hackers" />
+<meta property="og:description" content="Sources Policy for the History of Hackers project." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://historyofhackers.org/SOURCES.html" />
+<link rel="stylesheet" href="./assets/css/main.css" />
+</head>
+<body data-root="." class="">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <a class="brand" href="./" style="color:inherit;">
+    <span class="brand-logo">H</span> History of Hackers
+  </a>
+  <span class="tagline">A living archive of hacker culture &amp; cybersecurity history</span>
+  <form class="site-search" id="siteSearchForm" role="search">
+    <label class="visually-hidden" for="siteSearchInput">Search</label>
+    <input id="siteSearchInput" type="search" placeholder="Search people, groups, tools, vulnerabilities... (Press /)" aria-label="Search the archive" />
+  </form>
+  <div class="header-actions">
+    <button class="btn" id="toggleTheme" type="button" title="Toggle light/dark theme">Theme</button>
+    <a class="btn" href="./about.html">About</a>
+  </div>
+</header>
+<nav class="primary-nav" aria-label="Sections"><a href="./people/">People</a>
+<a href="./groups/">Groups</a>
+<a href="./tools/">Tools</a>
+<a href="./vulnerabilities/">Vulnerabilities</a>
+<a href="./events/">Events</a>
+<a href="./publications/">Publications</a>
+<a href="./fields/">Fields</a>
+<a href="./timeline/">Timeline</a></nav>
+<div class="shell">
+<main class="content" id="main">
+
+<div class="breadcrumbs"><a href="./">Home</a> / Sources Policy</div>
+<article class="entity">
+<h1>Sources Policy</h1>
+<div class="entity-content">
+<h3>Reference format</h3>
+<p>Every reference cited in an article should carry, at minimum, a <code>label</code> and</p>
+<p>a <code>url</code> (matching the current <code>sources: [{ label, url }]</code> shape in</p>
+<p><code>index.html</code>). When adding entries to the future JSON dataset</p>
+<p>(see <code>templates/</code>), use the fuller shape:</p>
+<pre><code>{
+  &quot;title&quot;: &quot;Original headline or document title&quot;,
+  &quot;author&quot;: &quot;Author or organization&quot;,
+  &quot;publisher&quot;: &quot;Publication or site&quot;,
+  &quot;date&quot;: &quot;YYYY-MM-DD or YYYY&quot;,
+  &quot;url&quot;: &quot;https://...&quot;,
+  &quot;accessDate&quot;: &quot;YYYY-MM-DD&quot;,
+  &quot;type&quot;: &quot;PRIMARY | ACADEMIC | CONFERENCE | NEWS | ARCHIVE | INTERVIEW | COMMUNITY&quot;
+}</code></pre>
+<h3>Source types</h3>
+<ul>
+<li><strong>PRIMARY</strong> — the subject's own writing/talk, an advisory, a CVE record,</li>
+</ul>
+<p>a court document, an original code release.</p>
+<ul>
+<li><strong>ACADEMIC</strong> — papers, theses, IEEE/ACM/USENIX publications.</li>
+<li><strong>CONFERENCE</strong> — DEF CON, Black Hat, CCC talks/slides/video.</li>
+<li><strong>NEWS</strong> — reputable journalism (Wired, major outlets, trade press).</li>
+<li><strong>ARCHIVE</strong> — Internet Archive, Wayback Machine captures of otherwise</li>
+</ul>
+<p>dead links.</p>
+<ul>
+<li><strong>INTERVIEW</strong> — podcasts, documentaries, recorded interviews.</li>
+<li><strong>COMMUNITY</strong> — Phrack, Bugtraq/Full Disclosure archives, Packet Storm,</li>
+</ul>
+<p>underground zines. Useful as historical record, not treated as</p>
+<p>automatically factual — corroborate before stating as fact.</p>
+<h3>Priority order</h3>
+<ol>
+<li>Primary sources (the researcher's own site/blog/paper/advisory, CVE/NVD,</li>
+</ol>
+<p>CERT/CISA, vendor advisories).</p>
+<ol>
+<li>Academic and conference sources (USENIX, IEEE, ACM, DEF CON, Black Hat).</li>
+<li>Reliable technical/news press.</li>
+<li>Wikipedia — good for discovery, not sufficient alone for a</li>
+</ol>
+<p>contested or unusual claim. Cross-check anything load-bearing.</p>
+<ol>
+<li>Community/underground material — valid as historical context, always</li>
+</ol>
+<p>treated as a lead to verify, not a fact in itself.</p>
+<h3>Images</h3>
+<ul>
+<li>Never scrape random images off the internet.</li>
+<li>Only use images with a clear, compatible license (public domain, CC-BY,</li>
+</ul>
+<p>CC-BY-SA, or explicit permission).</p>
+<ul>
+<li>Record <code>source</code>, <code>author</code>, and <code>license</code> for every image used.</li>
+<li>No image is better than an unlicensed or fabricated one. Never generate or</li>
+</ul>
+<p>imply a "portrait" of a real person that isn't an actual photo of them.</p>
+<h3>Extraordinary claims</h3>
+<p>The more extraordinary or damaging a claim, the more independent</p>
+<p>corroboration it requires before publication. A single unverified source is</p>
+<p>not enough for claims like criminal conduct, nation-state attribution, or</p>
+<p>identity of a pseudonymous figure.</p>
+</div>
+<p style="margin-top:24px;"><a href="https://github.com/History-of-Hackers/history-of-hackers.github.io/blob/main/SOURCES.md">View source on GitHub</a></p>
+</article>
+
+</main>
+</div>
+<footer class="site-footer">
+  <p>History of Hackers is a community-maintained historical archive. Corrections and new entries go through
+  <a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub Pull Requests</a>.
+  See <a href="./CONTRIBUTING.html">Contributing</a>, <a href="./STYLE_GUIDE.html">Style Guide</a>
+  and <a href="./SOURCES.html">Sources</a>.</p>
+</footer>
+<script src="./assets/js/main.js"></script>
+</body>
+</html>

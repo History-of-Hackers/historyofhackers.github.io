@@ -1,0 +1,44 @@
+{
+  "id": "responsible-disclosure",
+  "type": "field",
+  "title": "The Philosophy of Responsible Disclosure",
+  "slug": "responsible-disclosure",
+  "era": "1990s-Present",
+  "tags": [
+    "ethics",
+    "disclosure",
+    "bug bounty",
+    "vulnerability",
+    "philosophy"
+  ],
+  "summary": "An exploration of Responsible Disclosure, the ethical framework guiding how security researchers report vulnerabilities to vendors.",
+  "whyThisMatters": "An exploration of Responsible Disclosure, the ethical framework guiding how security researchers report vulnerabilities to vendors.",
+  "sections": {
+    "overview": "<p><strong>Responsible Disclosure</strong> is an ethical framework that governs how to handle the discovery of a security vulnerability. Instead of publishing the flaw for all to see (\"Full Disclosure\") or keeping it secret, a researcher practicing responsible disclosure privately reports the vulnerability to the affected vendor. They then allow the vendor a reasonable amount of time to fix the issue before publicizing any details.</p>\n<p>The concept emerged from debates in the 1990s and early 2000s. Early pioneers like the hackers at <strong>L0pht Heavy Industries</strong> pushed for this middle ground, arguing that it protected the public while pressuring companies to take security seriously. Initially, many companies were hostile, threatening legal action against researchers. However, the rise of <strong>bug bounty programs</strong>, pioneered by companies like Netscape, began to formalize and reward this process.</p>\n<p>The debate continues today. Some argue that any delay in disclosure leaves the public vulnerable, while others maintain that immediate full disclosure helps attackers more than defenders. Despite the controversy, responsible disclosure has become the dominant ethical model in the cybersecurity industry, shaping the relationship between hackers, vendors, and the public.</p>"
+  },
+  "timeline": [],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Responsible Disclosure",
+      "url": "https://en.wikipedia.org/wiki/Responsible_disclosure",
+      "type": "REFERENCE"
+    },
+    {
+      "title": "What is responsible disclosure?",
+      "url": "https://www.csoonline.com/article/2132331/what-is-responsible-disclosure-a-look-at-an-evolving-process.html",
+      "type": "REFERENCE"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}
