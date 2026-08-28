@@ -6,7 +6,7 @@
 <title>John the Ripper: The Timeless Password Cracker - History of Hackers</title>
 <meta name="description" content="The story of John the Ripper, the fast, flexible, and iconic open-source password cracking tool created by Alexander Peslyak (&#x27;Solar Designer&#x27;)." />
 <link rel="canonical" href="https://historyofhackers.org/tools/john-the-ripper.html" />
-<meta name="theme-color" content="#7a2e2e" />
+<meta name="theme-color" content="#f8f9fa" />
 <meta property="og:title" content="John the Ripper: The Timeless Password Cracker - History of Hackers" />
 <meta property="og:description" content="The story of John the Ripper, the fast, flexible, and iconic open-source password cracking tool created by Alexander Peslyak (&#x27;Solar Designer&#x27;)." />
 <meta property="og:type" content="website" />
@@ -18,37 +18,101 @@
 </head>
 <body data-root=".." class="">
 <a class="skip-link" href="#main">Skip to content</a>
+<div class="top-strip">
+  <a href="../about.html">About</a>
+  <a href="../CONTRIBUTING.html">Contribute</a>
+  <a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub</a>
+</div>
 <header class="site-header">
-  <a class="brand" href="../" style="color:inherit;">
-    <span class="brand-logo">H</span> History of Hackers
+  <a class="brand" href="../">
+    <span class="brand-logo">H</span>
+    <span>History of Hackers<small>The free hacker-culture encyclopedia</small></span>
   </a>
-  <span class="tagline">A living archive of hacker culture &amp; cybersecurity history</span>
-  <form class="site-search" id="siteSearchForm" role="search">
+  <form class="site-search" id="siteSearchForm" role="search" action="../search/">
     <label class="visually-hidden" for="siteSearchInput">Search</label>
-    <input id="siteSearchInput" type="search" placeholder="Search people, groups, tools, vulnerabilities... (Press /)" aria-label="Search the archive" />
+    <input id="siteSearchInput" name="q" type="search" placeholder="Search the archive (Press /)" aria-label="Search the archive" />
+    <button type="submit" aria-label="Search">Search</button>
   </form>
   <div class="header-actions">
-    <button class="btn" id="toggleTheme" type="button" title="Toggle light/dark theme">Theme</button>
-    <a class="btn" href="../about.html">About</a>
+    <button class="btn" id="toggleTheme" type="button" title="Toggle light/dark theme"><span class="btn-label">Theme</span></button>
   </div>
 </header>
-<nav class="primary-nav" aria-label="Sections"><a href="../people/">People</a>
-<a href="../groups/">Groups</a>
-<a href="../tools/" aria-current="page">Tools</a>
-<a href="../vulnerabilities/">Vulnerabilities</a>
-<a href="../events/">Events</a>
-<a href="../publications/">Publications</a>
-<a href="../fields/">Fields</a>
-<a href="../timeline/">Timeline</a></nav>
+<nav class="tab-strip" aria-label="Sections">
+<a href="../people/">People</a><a href="../groups/">Groups</a><a href="../tools/" aria-current="page">Tools</a><a href="../vulnerabilities/">Vulnerabilities</a><a href="../events/">Events</a><a href="../publications/">Publications</a><a href="../fields/">Fields</a><a href="../timeline/">Timeline</a>
+</nav>
+<details class="mobile-nav-toggle">
+  <summary>Menu</summary>
+  <aside class="sidebar"><div class="sidebar-box">
+<h2>Navigate</h2>
+<ul>
+<li><a href="../">Home</a></li>
+<li><a href="../timeline/">Timeline</a></li>
+<li><a href="../search/">Search</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>Categories</h2>
+<ul>
+<li><a href="../people/">People</a></li><li><a href="../groups/">Groups</a></li><li><a href="../tools/" aria-current="page">Tools</a></li><li><a href="../vulnerabilities/">Vulnerabilities & Discoveries</a></li><li><a href="../events/">Events</a></li><li><a href="../publications/">Publications</a></li><li><a href="../fields/">Fields</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>Contribute</h2>
+<ul>
+<li><a href="../CONTRIBUTING.html">How to contribute</a></li>
+<li><a href="../STYLE_GUIDE.html">Style guide</a></li>
+<li><a href="../SOURCES.html">Sources policy</a></li>
+<li><a href="../RESEARCH_BACKLOG.html">Research backlog</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>About</h2>
+<ul>
+<li><a href="../about.html">About this project</a></li>
+<li><a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub repository</a></li>
+</ul>
+</div></aside>
+</details>
 <div class="shell">
+<aside class="sidebar desktop-only"><div class="sidebar-box">
+<h2>Navigate</h2>
+<ul>
+<li><a href="../">Home</a></li>
+<li><a href="../timeline/">Timeline</a></li>
+<li><a href="../search/">Search</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>Categories</h2>
+<ul>
+<li><a href="../people/">People</a></li><li><a href="../groups/">Groups</a></li><li><a href="../tools/" aria-current="page">Tools</a></li><li><a href="../vulnerabilities/">Vulnerabilities & Discoveries</a></li><li><a href="../events/">Events</a></li><li><a href="../publications/">Publications</a></li><li><a href="../fields/">Fields</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>Contribute</h2>
+<ul>
+<li><a href="../CONTRIBUTING.html">How to contribute</a></li>
+<li><a href="../STYLE_GUIDE.html">Style guide</a></li>
+<li><a href="../SOURCES.html">Sources policy</a></li>
+<li><a href="../RESEARCH_BACKLOG.html">Research backlog</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>About</h2>
+<ul>
+<li><a href="../about.html">About this project</a></li>
+<li><a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub repository</a></li>
+</ul>
+</div></aside>
 <main class="content" id="main">
 
-<div class="breadcrumbs"><a href="../">Home</a> / <a href="./">Tools</a> / John the Ripper: The Timeless Password Cracker</div>
+<div class="breadcrumbs"><a href="../">Home</a> &raquo; <a href="./">Tools</a> &raquo; John the Ripper: The Timeless Password Cracker</div>
 <article class="entity">
 <div class="entity-layout">
 <div>
 <h1>John the Ripper: The Timeless Password Cracker</h1>
 <div class="why-matters">The story of John the Ripper, the fast, flexible, and iconic open-source password cracking tool created by Alexander Peslyak (&#x27;Solar Designer&#x27;).</div>
+<div id="tocSlot"></div>
 <div class="entity-content">
 <p>In 1996, a programmer known as <strong>Solar Designer</strong> (Alexander Peslyak) released <strong>John the Ripper</strong>, a free, open-source password cracking tool. It quickly became one of the most popular and effective password security auditing tools available.</p>
 <p>Its primary purpose is to detect weak Unix passwords. However, its design is highly extensible, and over the years, it has been expanded to support hundreds of hash and cipher types on dozens of platforms. 'John,' as it's commonly known, uses a combination of techniques to crack passwords, including dictionary attacks, brute-force attacks, and hybrid attacks.</p>
@@ -62,13 +126,13 @@
 </article>
 
 </main>
-</div>
 <footer class="site-footer">
   <p>History of Hackers is a community-maintained historical archive. Corrections and new entries go through
   <a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub Pull Requests</a>.
   See <a href="../CONTRIBUTING.html">Contributing</a>, <a href="../STYLE_GUIDE.html">Style Guide</a>
   and <a href="../SOURCES.html">Sources</a>.</p>
 </footer>
+</div>
 <script src="../assets/js/main.js"></script>
 </body>
 </html>
