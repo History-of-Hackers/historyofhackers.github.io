@@ -1,0 +1,121 @@
+{
+  "id": "bruce-schneier",
+  "type": "person",
+  "title": "Bruce Schneier",
+  "slug": "bruce-schneier",
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "block ciphers",
+    "security writer",
+    "privacy",
+    "Blowfish",
+    "Twofish",
+    "surveillance policy"
+  ],
+  "summary": "Bruce Schneier is an American cryptographer, computer security professional, and writer whose Blowfish and Twofish ciphers, best-selling books, and long-running Crypto-Gram newsletter and Schneier on Security blog have made him one of the most widely cited public communicators on cryptography and security policy since the 1990s.",
+  "whyThisMatters": "Bruce Schneier is an American cryptographer, computer security professional, and writer whose Blowfish and Twofish ciphers, best-selling books, and long-running Crypto-Gram newsletter and Schneier on Security blog have made him one of the most widely cited public communicators on cryptography and security policy since the 1990s.",
+  "sections": {
+    "overview": "<p>Bruce Schneier (born January 15, 1963, in New York City) is an American cryptographer, computer security specialist, and writer. He earned a physics degree from the University of Rochester and a master's degree in computer science from American University, and became immersed in cryptography in the early 1990s while working as a technical writer and consultant.</p><h2>Blowfish and Twofish</h2><p>In 1993 Schneier designed Blowfish, a symmetric-key block cipher intended as a fast, unpatented, public-domain alternative to the aging Data Encryption Standard (DES). Blowfish was widely adopted in software because it was free to use and reasonably fast. Later in the decade, Schneier led a team \u2014 including John Kelsey, Chris Hall, Niels Ferguson, David Wagner, and Doug Whiting \u2014 that designed Twofish, a 128-bit block cipher submitted to the U.S. National Institute of Standards and Technology's (NIST) competition to select the Advanced Encryption Standard (AES). Twofish became one of five finalists in that 1998 competition, though the Rijndael algorithm was ultimately selected as AES.</p><h2>Books and public writing</h2><p>Schneier's 1994 book <em>Applied Cryptography</em> became a standard reference in the field, introducing many programmers and engineers to cryptographic techniques and design principles. He went on to write further influential books on security and society, including <em>Secrets and Lies: Digital Security in a Networked World</em> (2000), <em>Beyond Fear: Thinking Sensibly About Security in an Uncertain World</em> (2003), <em>Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World</em> (2015), and <em>Click Here to Kill Everybody</em> (2018), which broadened his focus from pure cryptography to security economics, risk perception, and internet-of-things safety. Since 1998 he has published the Crypto-Gram newsletter, and since 2004 the blog Schneier on Security, both widely read commentaries on cryptography, computer security, and privacy policy.</p><h2>Counterpane and later industry roles</h2><p>In 1999 Schneier co-founded Counterpane Internet Security, a managed-security-monitoring company, and served as its chief technology officer; the company was acquired by BT (British Telecom) in 2006. Schneier later became chief technology officer of Resilient Systems (formerly Co3 Systems), an incident-response platform company that IBM acquired in 2016, continuing in a CTO/advisory role within IBM Security until leaving the company in mid-2019.</p><h2>Public-interest advocacy and academia</h2><p>Following the 2013 disclosures of National Security Agency surveillance programs by Edward Snowden, Schneier worked with journalists, including at The Guardian, to help analyze and report on the leaked NSA documents, becoming a prominent public commentator on government surveillance and encryption policy. He has served as a fellow at Harvard's Berkman Klein Center for Internet & Society and as an adjunct lecturer in public policy at the Harvard Kennedy School. Through his books, essays, and decades of newsletter and blog writing, Schneier is regarded as one of the most widely cited public voices translating technical cryptography and security research into public policy debate.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1963-01-15",
+      "event": "Born in New York City."
+    },
+    {
+      "date": "1993",
+      "event": "Designed the Blowfish symmetric-key block cipher as a free, unpatented alternative to DES."
+    },
+    {
+      "date": "1994",
+      "event": "Published Applied Cryptography, which became a standard reference text in the field."
+    },
+    {
+      "date": "1998",
+      "event": "Co-designed the Twofish block cipher, selected as one of five finalists in NIST's AES competition."
+    },
+    {
+      "date": "1998",
+      "event": "Began publishing the Crypto-Gram newsletter."
+    },
+    {
+      "date": "1999",
+      "event": "Co-founded Counterpane Internet Security."
+    },
+    {
+      "date": "2004",
+      "event": "Launched the blog Schneier on Security."
+    },
+    {
+      "date": "2006",
+      "event": "Counterpane Internet Security was acquired by BT (British Telecom)."
+    },
+    {
+      "date": "2013",
+      "event": "Began working with journalists to analyze leaked NSA documents provided by Edward Snowden."
+    },
+    {
+      "date": "2016",
+      "event": "IBM completed its acquisition of Resilient Systems, where Schneier served as CTO."
+    },
+    {
+      "date": "2019",
+      "event": "Left IBM after roughly three years following the Resilient Systems acquisition."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bruce Schneier - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bruce_Schneier"
+    },
+    {
+      "title": "Blowfish (cipher) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blowfish_(cipher)"
+    },
+    {
+      "title": "Twofish - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Twofish"
+    },
+    {
+      "title": "Biography - Schneier on Security (official bio)",
+      "url": "https://www.schneier.com/blog/about/bio/"
+    },
+    {
+      "title": "IBM to buy Resilient Systems, bringing security guru Bruce Schneier on board - Computerworld",
+      "url": "https://www.computerworld.com/article/1658108/ibm-to-buy-resilient-systems-bringing-security-guru-bruce-schneier-on-board.html"
+    },
+    {
+      "title": "Bruce Schneier Moves on from IBM - Schneier on Security",
+      "url": "https://www.schneier.com/news/archives/2019/07/bruce_schneier_moves.html"
+    },
+    {
+      "title": "Bruce Schneier: NSA Spying Is Making Us Less Safe - MIT Technology Review",
+      "url": "https://www.technologyreview.com/2013/09/23/176369/bruce-schneier-nsa-spying-is-making-us-less-safe/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 7,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Bruce Schneier",
+  "born": "1963-01-15",
+  "died": null,
+  "knownFor": [
+    "Designing the Blowfish (1993) block cipher",
+    "Co-designing Twofish (1998), a finalist in the NIST AES competition",
+    "Author of Applied Cryptography (1994)",
+    "Author of Secrets and Lies, Beyond Fear, Data and Goliath, and Click Here to Kill Everybody",
+    "Co-founding Counterpane Internet Security (1999), later acquired by BT",
+    "Publishing the Crypto-Gram newsletter (since 1998) and Schneier on Security blog (since 2004)",
+    "Public-interest analysis of NSA surveillance using documents leaked by Edward Snowden (2013)"
+  ]
+}

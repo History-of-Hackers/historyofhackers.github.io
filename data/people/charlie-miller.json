@@ -1,0 +1,98 @@
+{
+  "id": "charlie-miller",
+  "type": "person",
+  "title": "Charlie Miller",
+  "slug": "charlie-miller",
+  "era": "2000s-Present",
+  "tags": [
+    "iPhone hacking",
+    "Pwn2Own",
+    "automotive security",
+    "mobile security",
+    "Jeep hack",
+    "NSA alumnus"
+  ],
+  "summary": "Charlie Miller is an American security researcher and former NSA analyst best known for being the first to remotely exploit the iPhone (2007), for four Pwn2Own competition wins, and for the 2015 remote hack of a Jeep Cherokee with Chris Valasek that triggered a 1.4-million-vehicle recall by Fiat Chrysler.",
+  "whyThisMatters": "Charlie Miller is an American security researcher and former NSA analyst best known for being the first to remotely exploit the iPhone (2007), for four Pwn2Own competition wins, and for the 2015 remote hack of a Jeep Cherokee with Chris Valasek that triggered a 1.4-million-vehicle recall by Fiat Chrysler.",
+  "sections": {
+    "overview": "<p>Charlie Miller is an American computer security researcher known for high-profile work exposing vulnerabilities in Apple products, mobile phones, and automobiles. He holds a Ph.D. in mathematics from the University of Notre Dame and spent five years working for the U.S. National Security Agency before moving into private-sector security research, notably at Independent Security Evaluators (ISE) in Baltimore.</p><h2>Early Mac and iPhone research</h2><p>In August 2007, weeks after Apple released the original iPhone, Miller and colleagues at ISE demonstrated the device's first publicly disclosed remote exploit, presented at the Black Hat USA conference. By crafting a malicious webpage that exploited a flaw in the iPhone's Mobile Safari browser, Miller was able to take control of the device and execute arbitrary code; he had privately notified Apple roughly two and a half weeks beforehand so a patch could ship before his talk. He went on to research vulnerabilities across Apple's ecosystem for years, including an SMS-processing flaw affecting iPhones (2009) and a 2011 proof-of-concept iOS app, \"Instastock,\" that showed how unauthorized code could be smuggled past Apple's App Store review process \u2014 a stunt that led Apple to temporarily remove him from its iOS developer program.</p><h2>Pwn2Own and Android</h2><p>Miller became one of the most decorated competitors at the Pwn2Own hacking contest, winning it four times, more than any other competitor at the time. He won in 2008 for finding a critical bug in the MacBook Air, and again in 2009 for cracking Apple's Safari browser. He was also credited as the first researcher to remotely exploit an Android phone, and he researched Near Field Communication (NFC) vulnerabilities on mobile devices.</p><h2>The 2015 Jeep Cherokee hack</h2><p>Miller's most widely publicized work came in July 2015, when he and fellow researcher Chris Valasek demonstrated a remote, wireless attack on a 2014 Jeep Cherokee for a Wired feature by reporter Andy Greenberg, who drove the vehicle on a St. Louis highway as the hackers remotely operated its air conditioning, radio, windshield wipers, transmission, and brakes from a laptop miles away. The pair exploited a flaw in the vehicle's Uconnect cellular-connected infotainment system, which could be used to reach thousands of vehicles over the internet. The demonstration prompted Fiat Chrysler Automobiles to issue a voluntary recall covering approximately 1.4 million vehicles in the United States to patch the vulnerability.</p><h2>Later career and legacy</h2><p>After the Jeep disclosure, Miller worked on security for Twitter and later for Uber's Advanced Technology Group (ATG) self-driving unit, followed by a stint at Didi Chuxing's autonomous-driving lab. In 2017 he reunited with Chris Valasek at General Motors' self-driving subsidiary Cruise Automation, where the two jointly led the security team. Miller's career, spanning NSA offensive work, Apple and mobile exploitation, and automotive cybersecurity, is widely cited as a driving influence behind the modern emphasis on connected-vehicle security and coordinated vulnerability disclosure with device and vehicle manufacturers.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2007-08-02",
+      "event": "Presented the first publicly disclosed remote exploit of the iPhone at Black Hat USA, using a flaw in Mobile Safari."
+    },
+    {
+      "date": "2008",
+      "event": "Won the Pwn2Own competition for the first time by finding a critical bug in the MacBook Air."
+    },
+    {
+      "date": "2009",
+      "event": "Won Pwn2Own again by cracking Apple's Safari browser; separately disclosed an SMS-processing vulnerability affecting iPhones."
+    },
+    {
+      "date": "2011",
+      "event": "Published proof-of-concept iOS app \"Instastock\" demonstrating a bypass of Apple's App Store review process."
+    },
+    {
+      "date": "2015-07-21",
+      "event": "Wired published \"Hackers Remotely Kill a Jeep on the Highway\u2014With Me in It,\" detailing Miller and Chris Valasek's remote hack of a 2014 Jeep Cherokee."
+    },
+    {
+      "date": "2015-07-24",
+      "event": "Fiat Chrysler Automobiles announced a voluntary recall of about 1.4 million vehicles in response to the Uconnect vulnerability."
+    },
+    {
+      "date": "2017-07",
+      "event": "Miller and Chris Valasek joined GM's Cruise Automation as joint heads of the self-driving subsidiary's security team."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Charlie Miller (security researcher) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charlie_Miller_(security_researcher)"
+    },
+    {
+      "title": "Hacking The iPhone - Forbes (2007)",
+      "url": "https://www.forbes.com/2007/08/04/iphone-apple-mac-tech-cx_ag_0804miller.html"
+    },
+    {
+      "title": "Watch remote hackers easily take control of this Jeep - GeekWire",
+      "url": "https://www.geekwire.com/2015/watch-remote-hackers-easily-take-control-of-this-jeep/"
+    },
+    {
+      "title": "Fiat Chrysler Recalls 1.4 Million Cars Following Jeep Hack - SecurityWeek",
+      "url": "https://www.securityweek.com/fiat-chrysler-recalls-14-million-cars-following-jeep-hack/"
+    },
+    {
+      "title": "Famed Jeep Hackers Charlie Miller, Chris Valasek Join GM's Cruise Automation - The Drive",
+      "url": "https://www.thedrive.com/tech/13042/famed-jeep-hackers-charlie-miller-chris-valasek-join-gms-cruise-automation"
+    },
+    {
+      "title": "Hackers remotely kill Jeep's engine on highway - CNBC",
+      "url": "https://www.cnbc.com/2015/07/21/hackers-remotely-kill-jeep-engine-on-highway.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 6,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Charlie Miller",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "First public remote exploit of the iPhone (2007)",
+    "Four-time Pwn2Own competition winner, including the first MacBook Air hack (2008)",
+    "First to remotely exploit an Android phone",
+    "2015 remote hack of a Jeep Cherokee with Chris Valasek, leading to a 1.4 million vehicle recall by Fiat Chrysler",
+    "Later security work at Twitter, Uber ATG, Didi Chuxing, and Cruise Automation"
+  ]
+}

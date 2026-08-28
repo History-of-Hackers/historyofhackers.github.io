@@ -1,0 +1,106 @@
+{
+  "id": "chris-valasek",
+  "type": "person",
+  "title": "Chris Valasek",
+  "slug": "chris-valasek",
+  "era": "2000s-Present",
+  "tags": [
+    "automotive security",
+    "vehicle hacking",
+    "IOActive",
+    "CAN bus",
+    "Windows exploitation",
+    "Jeep hack"
+  ],
+  "summary": "Chris Valasek is an American security researcher who, with longtime collaborator Charlie Miller, remotely hacked a moving Jeep Cherokee in 2015, a demonstration that triggered a 1.4-million-vehicle recall and helped establish automotive cybersecurity as a mainstream discipline.",
+  "whyThisMatters": "Chris Valasek is an American security researcher who, with longtime collaborator Charlie Miller, remotely hacked a moving Jeep Cherokee in 2015, a demonstration that triggered a 1.4-million-vehicle recall and helped establish automotive cybersecurity as a mainstream discipline.",
+  "sections": {
+    "overview": "<p>Chris Valasek (born June 2, 1982, in Ford City, Pennsylvania) is an American computer security researcher best known for partnering with fellow researcher Charlie Miller to remotely hack a moving Jeep Cherokee in 2015, a landmark demonstration that reshaped how the automotive industry treats software security. He holds a B.S. in computer science from the University of Pittsburgh and has been involved with the hacker conference SummerCon since the mid-2000s.</p><p>Before moving into automotive research, Valasek built a career in traditional Windows exploitation. While working on IBM's ISS X-Force research team, he co-authored, with John McDonald, the Black Hat USA 2009 presentation and paper \"Practical Windows XP/2003 Heap Exploitation,\" which detailed novel techniques for defeating Windows heap-corruption mitigations. He went on to work as a security researcher at Coverity and Accuvant before joining IOActive, where he was named Director of Vehicle Security Research.</p><h2>Automotive Security Research</h2><p>Starting around 2013, Valasek and Charlie Miller turned their attention to the electronic systems inside modern cars. At DEF CON 21 in 2013 they presented \"Adventures in Automotive Networks and Control Units,\" showing how a device connected to a car's OBD-II port could send spoofed CAN-bus messages to control braking, steering, and other functions in a Toyota Prius and Ford Escape. At DEF CON 22 in 2014 they followed up with \"A Survey of Remote Automotive Attack Surfaces,\" broadening the analysis to remote (non-physical) attack vectors across many manufacturers.</p><h2>The 2015 Jeep Cherokee Hack</h2><p>In July 2015, Valasek and Miller, working with IOActive, demonstrated a fully remote exploit of a 2014 Jeep Cherokee's Uconnect infotainment system over the Sprint cellular network. With Wired journalist Andy Greenberg driving the vehicle on a highway, the pair remotely operated the radio, air conditioning, and windshield wipers before cutting the transmission and, in a follow-up test, disabling the brakes, sending the SUV into a ditch. The disclosure led Fiat Chrysler Automobiles to recall approximately 1.4 million vehicles in the United States on July 24, 2015 to patch the flaw. Valasek and Miller presented the full technical details, \"Remote Exploitation of an Unaltered Passenger Vehicle,\" at Black Hat USA and DEF CON 23 in August 2015.</p><h2>Later Career</h2><p>Following the Jeep research, Uber hired Valasek and Miller to work on security for its self-driving car program at the Uber Advanced Technologies Center, with Valasek serving as security lead. In mid-2017 the pair reunited at General Motors' autonomous-vehicle subsidiary, Cruise Automation, where they became joint heads of the vehicle security team.</p><h2>Legacy</h2><p>The Jeep Cherokee hack is widely regarded as one of the most consequential public demonstrations in the history of vehicle cybersecurity: it moved automotive security from a niche academic concern to a boardroom and regulatory issue, and prompted a major manufacturer recall over a cybersecurity flaw for the first time.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1982-06-02",
+      "event": "Born in Ford City, Pennsylvania."
+    },
+    {
+      "date": "2009",
+      "event": "Co-authored (with John McDonald, at IBM ISS X-Force) the Black Hat USA paper 'Practical Windows XP/2003 Heap Exploitation.'"
+    },
+    {
+      "date": "2013-08-02",
+      "event": "Presented 'Adventures in Automotive Networks and Control Units' with Charlie Miller at DEF CON 21."
+    },
+    {
+      "date": "2014-08",
+      "event": "Presented 'A Survey of Remote Automotive Attack Surfaces' with Charlie Miller at DEF CON 22, as Director of Vehicle Security Research at IOActive."
+    },
+    {
+      "date": "2015-07-21",
+      "event": "Wired published Andy Greenberg's account of Valasek and Miller remotely hacking his Jeep Cherokee while he drove on a highway."
+    },
+    {
+      "date": "2015-07-24",
+      "event": "Fiat Chrysler Automobiles recalled approximately 1.4 million vehicles in the U.S. to patch the Uconnect vulnerability."
+    },
+    {
+      "date": "2015-08",
+      "event": "Valasek and Miller presented 'Remote Exploitation of an Unaltered Passenger Vehicle' at Black Hat USA and DEF CON 23."
+    },
+    {
+      "date": "2017-07",
+      "event": "Valasek and Miller joined General Motors' Cruise Automation as joint heads of its vehicle security team."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Chris Valasek - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chris_Valasek"
+    },
+    {
+      "title": "Chris Valasek - About Me (illmatics.com)",
+      "url": "https://chris.illmatics.com/about.html"
+    },
+    {
+      "title": "Practical Windows XP/2003 Heap Exploitation - Black Hat USA 2009 paper",
+      "url": "https://www.blackhat.com/presentations/bh-usa-09/MCDONALD/BHUSA09-McDonald-WindowsHeap-PAPER.pdf"
+    },
+    {
+      "title": "A Survey of Remote Automotive Attack Surfaces - IOActive",
+      "url": "https://www.ioactive.com/a-survey-of-remote-automotive-attack-surfaces/"
+    },
+    {
+      "title": "Fiat Chrysler Recalls 1.4 Million Cars Following Jeep Hack - SecurityWeek",
+      "url": "https://www.securityweek.com/fiat-chrysler-recalls-14-million-cars-following-jeep-hack/"
+    },
+    {
+      "title": "Uber Hires Security Researchers Who Hacked Moving Jeep - NBC News",
+      "url": "https://www.nbcnews.com/tech/security/uber-hires-security-researchers-who-hacked-moving-jeep-n417991"
+    },
+    {
+      "title": "Famed Jeep Hackers Charlie Miller, Chris Valasek Join GM's Cruise Automation - The Drive",
+      "url": "https://www.thedrive.com/tech/13042/famed-jeep-hackers-charlie-miller-chris-valasek-join-gms-cruise-automation"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 7,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Chris Valasek",
+  "born": "1982-06-02",
+  "died": null,
+  "knownFor": [
+    "2015 remote Jeep Cherokee hack with Charlie Miller",
+    "Director of Vehicle Security Research at IOActive",
+    "Early Windows heap-exploitation research (Black Hat USA 2009, with John McDonald)",
+    "DEF CON/Black Hat automotive CAN-bus attack-surface research (2013-2015)",
+    "Post-hack vehicle security leadership roles at Uber ATG and GM's Cruise Automation"
+  ]
+}
