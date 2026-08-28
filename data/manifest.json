@@ -617,5 +617,116 @@
     ],
     "summary": "An exploration of Responsible Disclosure, the ethical framework guiding how security researchers report vulnerabilities to vendors.",
     "url": "fields/responsible-disclosure.html"
+  },
+  {
+    "id": "barnaby-jack",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Barnaby Jack",
+    "slug": "barnaby-jack",
+    "era": "1977-2013",
+    "tags": [
+      "ATM hacking",
+      "jackpotting",
+      "medical device security",
+      "embedded systems",
+      "IOActive",
+      "Black Hat"
+    ],
+    "summary": "Barnaby Jack was a New Zealand-born security researcher best known for publicly demonstrating that ATMs could be forced to dispense cash on command ('jackpotting') and for pioneering research into vulnerabilities in wireless insulin pumps and implantable cardiac devices, work that helped establish medical device security as a distinct field before his sudden death in 2013.",
+    "url": "people/barnaby-jack.html"
+  },
+  {
+    "id": "bruce-schneier",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Bruce Schneier",
+    "slug": "bruce-schneier",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "block ciphers",
+      "security writer",
+      "privacy",
+      "Blowfish",
+      "Twofish",
+      "surveillance policy"
+    ],
+    "summary": "Bruce Schneier is an American cryptographer, computer security professional, and writer whose Blowfish and Twofish ciphers, best-selling books, and long-running Crypto-Gram newsletter and Schneier on Security blog have made him one of the most widely cited public communicators on cryptography and security policy since the 1990s.",
+    "url": "people/bruce-schneier.html"
+  },
+  {
+    "id": "charlie-miller",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Charlie Miller",
+    "slug": "charlie-miller",
+    "era": "2000s-Present",
+    "tags": [
+      "iPhone hacking",
+      "Pwn2Own",
+      "automotive security",
+      "mobile security",
+      "Jeep hack",
+      "NSA alumnus"
+    ],
+    "summary": "Charlie Miller is an American security researcher and former NSA analyst best known for being the first to remotely exploit the iPhone (2007), for four Pwn2Own competition wins, and for the 2015 remote hack of a Jeep Cherokee with Chris Valasek that triggered a 1.4-million-vehicle recall by Fiat Chrysler.",
+    "url": "people/charlie-miller.html"
+  },
+  {
+    "id": "chris-valasek",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Chris Valasek",
+    "slug": "chris-valasek",
+    "era": "2000s-Present",
+    "tags": [
+      "automotive security",
+      "vehicle hacking",
+      "IOActive",
+      "CAN bus",
+      "Windows exploitation",
+      "Jeep hack"
+    ],
+    "summary": "Chris Valasek is an American security researcher who, with longtime collaborator Charlie Miller, remotely hacked a moving Jeep Cherokee in 2015, a demonstration that triggered a 1.4-million-vehicle recall and helped establish automotive cybersecurity as a mainstream discipline.",
+    "url": "people/chris-valasek.html"
+  },
+  {
+    "id": "halvar-flake",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Halvar Flake",
+    "slug": "halvar-flake",
+    "era": "1990s-Present",
+    "tags": [
+      "reverse engineering",
+      "binary diffing",
+      "vulnerability research",
+      "zynamics",
+      "BinDiff",
+      "Rowhammer",
+      "Project Zero"
+    ],
+    "summary": "Halvar Flake, the handle of German mathematician Thomas Dullien, pioneered graph-based binary diffing and reverse-engineering tooling through his company zynamics (acquired by Google in 2011), and later helped surface the Rowhammer hardware exploit and co-founded the profiling startup Optimyze (acquired by Elastic in 2021).",
+    "url": "people/halvar-flake.html"
+  },
+  {
+    "id": "samy-kamkar",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Samy Kamkar",
+    "slug": "samy-kamkar",
+    "era": "2000s-Present",
+    "tags": [
+      "XSS worm",
+      "MySpace",
+      "web security",
+      "IoT hacking",
+      "RF security",
+      "DEF CON",
+      "open-source hardware"
+    ],
+    "summary": "Samy Kamkar is an American privacy and security researcher best known for writing the 2005 'Samy' cross-site-scripting worm that infected over a million MySpace profiles in under 24 hours, resulting in a felony conviction, and for a subsequent career of high-profile open-hardware security research including SkyJack, KeySweeper, and wireless car/garage-door attacks.",
+    "url": "people/samy-kamkar.html"
   }
 ]
