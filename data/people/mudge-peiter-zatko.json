@@ -1,0 +1,125 @@
+{
+  "id": "mudge-peiter-zatko",
+  "type": "person",
+  "title": "Peiter \"Mudge\" Zatko",
+  "slug": "mudge-peiter-zatko",
+  "era": "1990s-Present",
+  "tags": [
+    "L0pht",
+    "buffer overflow",
+    "L0phtCrack",
+    "DARPA",
+    "whistleblower",
+    "Twitter",
+    "cybersecurity policy"
+  ],
+  "summary": "Peiter \"Mudge\" Zatko is an American security researcher who rose to prominence as a leading member of the L0pht hacker collective in the 1990s, later ran cybersecurity programs at DARPA and held security leadership roles at Google, Stripe and Twitter, and in 2022 became internationally known as the whistleblower who accused Twitter of severe security and privacy failures before Congress, the SEC and the FTC.",
+  "whyThisMatters": "Peiter \"Mudge\" Zatko is an American security researcher who rose to prominence as a leading member of the L0pht hacker collective in the 1990s, later ran cybersecurity programs at DARPA and held security leadership roles at Google, Stripe and Twitter, and in 2022 became internationally known as the whistleblower who accused Twitter of severe security and privacy failures before Congress, the SEC and the FTC.",
+  "sections": {
+    "overview": "<p>Peiter C. Zatko, widely known by the handle \"Mudge,\" is an American computer security researcher whose career spans the 1990s hacker underground, U.S. government cybersecurity programs, and corporate security leadership. Born December 1, 1970, he studied at Berklee College of Music before turning to computer science and security research.</p><h2>L0pht and Early Security Research</h2><p>Zatko became one of the most prominent members of L0pht Heavy Industries, the Cambridge, Massachusetts hacker think tank active from the early 1990s to 2000. Individually, he authored the 1995 paper \"How to Write Buffer Overflows,\" one of the earliest public technical treatments of buffer-overflow exploitation, and wrote L0phtCrack, a widely used tool for auditing and cracking Windows password hashes.</p><h2>1998 Senate Testimony and White House Contact</h2><p>On May 19, 1998, Zatko was one of seven L0pht members who testified before the U.S. Senate Committee on Governmental Affairs about the fragility of Internet infrastructure, telling senators that a small, motivated group could disrupt large portions of the Internet in roughly 30 minutes. In the following years he served as an informal adviser to White House cybersecurity coordinator Richard Clarke, and in February 2000 Clarke brought him into a meeting with President Bill Clinton and technology-industry executives convened after a wave of denial-of-service attacks on major websites.</p><h2>From @stake to DARPA</h2><p>After L0pht's assets were absorbed into the security consultancy @stake around 1999-2000, Zatko held roles including vice president of research and development and chief scientist, then worked as a division scientist at BBN Technologies before joining DARPA in 2010 as a program manager. There he launched Cyber Fast Track in 2011, a program that used streamlined contracting to quickly fund small-scale, often hacker-run security research projects. He left DARPA for Google in 2013, then became head of security at the payments company Stripe in 2017.</p><h2>Twitter and the 2022 Whistleblower Disclosure</h2><p>In November 2020, following a high-profile breach in which attackers hijacked accounts of prominent users, Twitter hired Zatko as head of security, reporting to CEO Jack Dorsey. He was fired in January 2022, with Twitter citing poor performance; the company reportedly later agreed to a settlement of roughly $7-7.75 million. In July 2022, represented by the nonprofit Whistleblower Aid, Zatko filed a disclosure with the SEC, the Department of Justice, the FTC, and congressional committees, alleging that Twitter executives misled regulators, investors and its own board about the platform's security and privacy practices. The disclosure became public on August 23, 2022, and on September 13, 2022, Zatko testified before the Senate Judiciary Committee that \"Twitter leadership is misleading the public, lawmakers, regulators and even its own board of directors.\" Zatko subsequently worked as a part-time senior technical adviser at CISA starting in September 2023, and in August 2024 returned to DARPA as its Chief Information Officer.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1970-12-01",
+      "event": "Born in Alabama."
+    },
+    {
+      "date": "1995",
+      "event": "Publishes \"How to Write Buffer Overflows,\" an early technical paper on buffer-overflow exploitation."
+    },
+    {
+      "date": "1998-05-19",
+      "event": "Testifies with six other L0pht members before the U.S. Senate Committee on Governmental Affairs."
+    },
+    {
+      "date": "2010",
+      "event": "Joins DARPA as a cybersecurity program manager."
+    },
+    {
+      "date": "2011",
+      "event": "Launches DARPA's Cyber Fast Track program."
+    },
+    {
+      "date": "2017-05-08",
+      "event": "Hired by Stripe as head of security."
+    },
+    {
+      "date": "2020-11-17",
+      "event": "Hired by Twitter as head of security, reporting to CEO Jack Dorsey."
+    },
+    {
+      "date": "2022-01",
+      "event": "Fired from Twitter; the company cites poor performance."
+    },
+    {
+      "date": "2022-07",
+      "event": "Files a whistleblower disclosure with the SEC, DOJ, FTC and congressional committees regarding Twitter."
+    },
+    {
+      "date": "2022-08-23",
+      "event": "Whistleblower complaint becomes public after being reported by The Washington Post and CNN."
+    },
+    {
+      "date": "2022-09-13",
+      "event": "Testifies before the U.S. Senate Judiciary Committee about Twitter's security practices."
+    },
+    {
+      "date": "2024-08-08",
+      "event": "Appointed Chief Information Officer of DARPA."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Peiter Zatko - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peiter_Zatko"
+    },
+    {
+      "title": "Twitter hires Mudge as security chief - The Register",
+      "url": "https://www.theregister.com/2020/11/17/peiter_zatko_twitter_security_chief/"
+    },
+    {
+      "title": "Stripe has hired renowned security researcher Peiter 'Mudge' Zatko - Recode",
+      "url": "https://www.recode.net/2017/5/8/15557846/stripe-peiter-mudge-zatko-jon-kaltwasser-security-hire"
+    },
+    {
+      "title": "Peiter Zatko: Meet the former Twitter exec blowing the whistle - CNN Business",
+      "url": "https://www.cnn.com/2022/08/24/tech/peiter-zatko-twitter-whistleblower-profile/index.html"
+    },
+    {
+      "title": "Whistleblower: Twitter misled investors, FTC and underplayed spam issues - Washington Post",
+      "url": "https://www.washingtonpost.com/technology/interactive/2022/twitter-whistleblower-sec-spam/"
+    },
+    {
+      "title": "Testimony of Peiter Zatko, Senate Judiciary Committee, 2022-09-13",
+      "url": "https://www.judiciary.senate.gov/download/testimony-zatko-2022-09-13"
+    },
+    {
+      "title": "DARPA hires Twitter whistleblower to serve as its CIO - Nextgov/FCW",
+      "url": "https://www.nextgov.com/people/2024/08/darpa-hires-twitter-whistleblower-serve-its-cio/398666/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 7,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Peiter \"Mudge\" Zatko",
+  "born": "1970-12-01",
+  "died": null,
+  "knownFor": [
+    "Author of the 1995 essay \"How to Write Buffer Overflows\"",
+    "Creator of the L0phtCrack Windows password-auditing tool",
+    "Leading member of L0pht Heavy Industries and participant in its 1998 Senate testimony",
+    "DARPA program manager who created the Cyber Fast Track program",
+    "Head of security at Stripe and later at Twitter",
+    "2022 Twitter whistleblower disclosure to Congress, the SEC and the FTC",
+    "Appointed DARPA Chief Information Officer in 2024"
+  ]
+}

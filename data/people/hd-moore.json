@@ -1,0 +1,106 @@
+{
+  "id": "hd-moore",
+  "type": "person",
+  "title": "H. D. Moore",
+  "slug": "hd-moore",
+  "era": "2000s-Present",
+  "tags": [
+    "Metasploit",
+    "penetration testing",
+    "vulnerability research",
+    "Rapid7",
+    "runZero",
+    "network scanning",
+    "exploit development"
+  ],
+  "summary": "H. D. Moore is a security researcher and entrepreneur best known for founding the Metasploit Project in 2003, which grew into the world's most widely used open-source penetration testing framework; he later led security research at Rapid7 and founded the network-discovery company that became runZero.",
+  "whyThisMatters": "H. D. Moore is a security researcher and entrepreneur best known for founding the Metasploit Project in 2003, which grew into the world's most widely used open-source penetration testing framework; he later led security research at Rapid7 and founded the network-discovery company that became runZero.",
+  "sections": {
+    "overview": "<p>H. D. Moore was born in 1981 and, according to reliable biographical sources, was already writing security software utilities as a teenager. In the summer of 2003 he founded the Metasploit Project with the goal of building a public, freely available resource for exploit code and vulnerability research, at a time when many independent exploit developers had stopped publishing their work or moved into private industry. The project, originally written in Perl and later rewritten in Ruby, grew through word-of-mouth in the hacker and penetration-testing community into the Metasploit Framework, the best-known open-source exploitation platform in the security industry.</p><h2>Early Career</h2><p>Shortly after BreakingPoint Systems was founded in Austin, Texas in September 2005, Moore was hired as the company's Director of Security Research, where he worked on the security-testing features of BreakingPoint's network-testing products. In July 2006 he drew wide industry attention with the \"Month of Browser Bugs,\" publishing a new, previously undisclosed browser vulnerability every day for a month, mostly affecting Internet Explorer but also Safari and Firefox, as a demonstration of the scale of unpatched browser flaws.</p><h2>Rapid7 and Internet-Wide Scanning Research</h2><p>In October 2009, the Metasploit Project was acquired by the Boston-based security firm Rapid7, and Moore joined the company, holding research-leadership titles including Chief Security Officer and Chief Research Officer while remaining chief architect of the Metasploit Framework. At Rapid7 he pushed into large-scale, internet-wide scanning research, first through the Critical.IO project, which scanned the public internet and identified tens of millions of network devices exposed to attack, and later through the successor effort Project Sonar. This scanning work drew both praise for exposing the poor security posture of internet-connected devices and pushback over the legality and ethics of unsolicited internet-wide probing. Moore left Rapid7 on January 29, 2016, after six years with the company, to join a venture-capital firm focused on early-stage security startups.</p><h2>Rumble / runZero</h2><p>In 2018 Moore founded Rumble, Inc., an IT asset-discovery and network-visibility company built around the premise, drawn from his years as a penetration tester, that most organizations cannot accurately inventory the devices on their own networks. The company raised a $5 million funding round in March 2021 followed by a $15 million Series A led by Decibel Partners in March 2022. In 2022 the company was renamed runZero, Inc., where Moore continues to serve as founder and chief executive, focusing on network discovery and exposure management across IT, OT, and IoT environments.</p><h2>Legacy</h2><p>Moore is widely credited within the security industry with helping professionalize penetration testing by giving practitioners a shared, extensible, and freely available exploitation framework, and with popularizing large-scale internet measurement as a vulnerability-research technique.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2003",
+      "event": "Founded the Metasploit Project in the summer of 2003 as a public resource for exploit code and vulnerability research."
+    },
+    {
+      "date": "2005",
+      "event": "Hired as Director of Security Research at BreakingPoint Systems in Austin, Texas."
+    },
+    {
+      "date": "2006-07",
+      "event": "Ran the \"Month of Browser Bugs,\" publishing a new browser vulnerability every day for the month of July."
+    },
+    {
+      "date": "2009-10",
+      "event": "Rapid7 acquired the Metasploit Project; Moore joined Rapid7 and remained chief architect of the Metasploit Framework."
+    },
+    {
+      "date": "2013",
+      "event": "Rapid7's Project Sonar, an internet-wide scanning research effort led by Moore, launched as a successor to the earlier Critical.IO scanning project."
+    },
+    {
+      "date": "2016-01-29",
+      "event": "Departed Rapid7 after six years to join a venture capital firm focused on early-stage security startups."
+    },
+    {
+      "date": "2018",
+      "event": "Founded Rumble, Inc., an IT asset-discovery and network-visibility company."
+    },
+    {
+      "date": "2022",
+      "event": "Rumble, Inc. renamed runZero, Inc., with Moore continuing as founder and CEO."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "H. D. Moore - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/H._D._Moore"
+    },
+    {
+      "title": "Month of bugs - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Month_of_bugs"
+    },
+    {
+      "title": "Discovering a New Path in Asset Discovery: A Q&A with Metasploit Founder HD Moore - Rapid7 Blog",
+      "url": "https://www.rapid7.com/blog/post/2019/12/04/discovering-a-new-path-in-asset-discovery-a-q-a-with-metasploit-founder-hd-moore/"
+    },
+    {
+      "title": "Scanning All The Things - Rapid7 Blog (Project Sonar)",
+      "url": "https://www.rapid7.com/blog/post/2013/09/26/internet-wide-probing-rapid7-sonar/"
+    },
+    {
+      "title": "HD Moore exiting Rapid7 for VC-land - The Register",
+      "url": "https://www.theregister.com/2016/01/21/hd_moore_exiting_rapid7/"
+    },
+    {
+      "title": "Network Discovery and Asset Inventory Leader Rumble Announces $15M Series A - Business Wire",
+      "url": "https://www.businesswire.com/news/home/20220314005172/en"
+    },
+    {
+      "title": "Articles and Resources created by HD Moore - runZero",
+      "url": "https://www.runzero.com/authors/hd-moore/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 7,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "H. D. Moore",
+  "born": "1981",
+  "died": null,
+  "knownFor": [
+    "Metasploit Framework",
+    "Month of Browser Bugs (2006)",
+    "Critical.IO / Project Sonar internet-wide scanning research",
+    "Rumble Network Discovery / runZero"
+  ]
+}

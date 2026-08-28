@@ -1,0 +1,120 @@
+{
+  "id": "katie-moussouris",
+  "type": "person",
+  "title": "Katie Moussouris",
+  "slug": "katie-moussouris",
+  "era": "2000s-Present",
+  "tags": [
+    "bug bounty",
+    "vulnerability disclosure",
+    "Microsoft",
+    "Hack the Pentagon",
+    "Luta Security",
+    "HackerOne",
+    "cybersecurity policy",
+    "Wassenaar Arrangement"
+  ],
+  "summary": "Katie Moussouris is an American security researcher and policy advocate who created Microsoft's first bug bounty program, helped design the U.S. Department of Defense's \"Hack the Pentagon\" pilot, and founded the vulnerability-disclosure consultancy Luta Security.",
+  "whyThisMatters": "Katie Moussouris is an American security researcher and policy advocate who created Microsoft's first bug bounty program, helped design the U.S. Department of Defense's \"Hack the Pentagon\" pilot, and founded the vulnerability-disclosure consultancy Luta Security.",
+  "sections": {
+    "overview": "<h2>Background</h2><p>Katie Moussouris is an American computer security researcher and policy advocate best known for professionalizing vulnerability disclosure and building some of the first formal bug bounty programs in both the private and public sectors. Raised in Boston, Massachusetts, she studied molecular biology and mathematics at Simmons College and worked as a research assistant at the MIT Whitehead Institute before moving into systems administration roles at MIT's Department of Aeronautics and Astronautics and Harvard's School of Engineering and Applied Sciences. She joined the Boston-based penetration-testing firm @stake in 2002, and when Symantec acquired @stake in October 2004, Moussouris moved with it and founded Symantec's Vulnerability Research program.</p><h2>Microsoft and the First Corporate Bug Bounty Program</h2><p>Moussouris joined Microsoft in 2007 as a security strategist, where she founded Microsoft Vulnerability Research (MSVR), a program for coordinating multiparty vulnerability disclosures across the industry. In August 2011 she led the launch of the Microsoft BlueHat Prize, which offered a $200,000 grand prize for work providing novel defenses against entire classes of memory-safety exploits. Building on that effort, Moussouris spent roughly two years persuading Microsoft leadership to adopt a paid disclosure program, pointing to deadline pressure from vulnerability brokers and competition from Google Chrome against Internet Explorer. Microsoft launched its first bug bounty program in 2013, and Moussouris became Senior Security Strategist Lead before leaving the company in 2014.</p><h2>Hack the Pentagon</h2><p>After Microsoft, Moussouris became Chief Policy Officer at HackerOne in 2014. There she helped design \"Hack the Pentagon,\" the pilot through which the U.S. Department of Defense became the first part of the federal government to run a bug bounty. The pilot ran from April 18 to May 12, 2016: more than 1,400 people registered, 250 submitted vulnerability reports, and 138 were confirmed as legitimate, unique, and resolved, at a cost the Department of Defense said was far below that of a comparable traditional security audit. Moussouris left HackerOne in March 2016, shortly before the pilot's public launch.</p><h2>Luta Security and Policy Work</h2><p>In April 2016, Moussouris founded Luta Security, a consultancy that designs and manages vulnerability disclosure and bug bounty programs for governments and corporations. Separately, from 2013 into 2017 Moussouris took part in the U.S. technical effort to renegotiate provisions of the Wassenaar Arrangement, a multilateral export-control agreement, after 2013 language covering \"intrusion software\" was drafted so broadly that it risked requiring export licenses for routine security research. In December 2017, Wassenaar delegates agreed on revised language carving out exemptions for defensive security work. Moussouris also co-authored the ISO/IEC 29147 (vulnerability disclosure) and ISO/IEC 30111 (vulnerability handling) international standards, and has testified before the U.S. Congress on bug bounty programs and disclosure policy, including before the House Committee on Science, Space, and Technology in May 2021.</p><h2>Legacy</h2><p>Moussouris is widely cited in security-industry and policy coverage as a central figure in moving vulnerability disclosure from an adversarial, legally uncertain practice into a codified business and government function. In September 2015 she filed a gender-discrimination lawsuit against Microsoft over pay, promotion, and performance-evaluation practices; she dropped the suit in November 2020, saying she would rather direct her resources toward pay-equity initiatives, and went on to found the Pay Equity Now Foundation.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2002",
+      "event": "Joined penetration-testing firm @stake as a security researcher."
+    },
+    {
+      "date": "2004-10",
+      "event": "Moved to Symantec after its acquisition of @stake and founded Symantec's Vulnerability Research program."
+    },
+    {
+      "date": "2007",
+      "event": "Joined Microsoft as a security strategist, later founding the Microsoft Vulnerability Research (MSVR) program."
+    },
+    {
+      "date": "2011-08-03",
+      "event": "Led the launch of the Microsoft BlueHat Prize, offering a $200,000 grand prize for defensive security research."
+    },
+    {
+      "date": "2013",
+      "event": "Created and launched Microsoft's first bug bounty program."
+    },
+    {
+      "date": "2014-05",
+      "event": "Left Microsoft to become Chief Policy Officer at HackerOne."
+    },
+    {
+      "date": "2016-04-18",
+      "event": "'Hack the Pentagon' pilot program launched, running through May 12, 2016; 138 of 250 submitted reports confirmed as legitimate vulnerabilities."
+    },
+    {
+      "date": "2016-04",
+      "event": "Founded Luta Security, a vulnerability disclosure and bug bounty consultancy."
+    },
+    {
+      "date": "2017-12-06",
+      "event": "Wassenaar Arrangement delegates agreed on revised 'intrusion software' export-control language after years of advocacy involving Moussouris."
+    },
+    {
+      "date": "2021-05-25",
+      "event": "Testified before the U.S. House Committee on Science, Space, and Technology on vulnerability disclosure policy."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Katie Moussouris - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Katie_Moussouris"
+    },
+    {
+      "title": "Founder & CEO - Luta Security",
+      "url": "https://www.lutasecurity.com/founder-ceo"
+    },
+    {
+      "title": "Microsoft's bug bounty turns 10, but are we any more secure? - The Register",
+      "url": "https://www.theregister.com/security/2023/11/22/microsofts-bug-bounty-turns-10-but-are-we-any-more-secure/290742"
+    },
+    {
+      "title": "BlueHat Prize Q&A with Katie Moussouris - Microsoft Security Response Center",
+      "url": "https://www.microsoft.com/en-us/msrc/blog/2011/08/bluehat-prize-qa-with-katie-moussouris"
+    },
+    {
+      "title": "Hack the Pentagon - Report to Congress (USDS)",
+      "url": "https://www.usds.gov/report-to-congress/2016/hack-the-pentagon/"
+    },
+    {
+      "title": "The Wassenaar Arrangement's latest language is making security researchers very happy - CyberScoop",
+      "url": "https://cyberscoop.com/wassenaar-arrangement-cybersecurity-katie-moussouris/"
+    },
+    {
+      "title": "Katie Moussouris on bug bounties, gender equity, and the myth of cybersecurity's 'pipeline problem' - The Record",
+      "url": "https://therecord.media/katie-moussouris-on-bug-bounties-gender-equity-and-the-myth-of-cybersecuritys-pipeline-problem"
+    },
+    {
+      "title": "Researcher Drops Gender Discrimination Lawsuit Against Microsoft - Infosecurity Magazine",
+      "url": "https://www.infosecurity-magazine.com/news/researcher-drops-lawsuit/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 8,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Katie Moussouris",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Creating Microsoft's first bug bounty program",
+    "Helping design the DoD's \"Hack the Pentagon\" bug bounty pilot",
+    "Founding Luta Security",
+    "Wassenaar Arrangement export-control advocacy",
+    "Co-authoring ISO/IEC 29147 and 30111 vulnerability-disclosure standards"
+  ]
+}
