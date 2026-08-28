@@ -1,0 +1,35 @@
+{
+  "_comment": "Template for a future structured historical event record. Copy, fill with sourced data only.",
+  "id": "example-slug",
+  "type": "event",
+  "title": "Event Title",
+  "date": "YYYY-MM-DD or YYYY if only year is confirmed",
+  "era": "e.g. 1990s",
+  "location": "",
+  "fields": [],
+  "whyThisEventMatters": "2-4 neutral sentences.",
+  "summary": "",
+  "content": "",
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "sources": [
+    {
+      "title": "",
+      "author": "",
+      "publisher": "",
+      "date": "",
+      "url": "",
+      "accessDate": "",
+      "type": "PRIMARY | ACADEMIC | CONFERENCE | NEWS | ARCHIVE | INTERVIEW | COMMUNITY"
+    }
+  ],
+  "editorial": {
+    "verified": false,
+    "sourcesCount": 0,
+    "lastReviewed": null,
+    "reviewStatus": "TODO | RESEARCHING | VERIFIED | ARTICLE_READY | PUBLISHED",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "_comment": "Template for a future structured tool record. Copy, fill with sourced data only. Historical framing only, not a usage tutorial.",
+  "id": "example-slug",
+  "type": "tool",
+  "name": "Tool Name",
+  "creators": [
+    { "name": "", "personRef": "slug-if-has-own-page-or-null" }
+  ],
+  "firstReleased": "YYYY or YYYY-MM-DD",
+  "problemItSolved": "",
+  "innovation": "",
+  "fields": [],
+  "whyThisToolMatters": "2-4 neutral sentences.",
+  "sections": {
+    "overview": "",
+    "origin": "",
+    "impact": "",
+    "currentState": ""
+  },
+  "timeline": [
+    { "year": "YYYY", "event": "" }
+  ],
+  "relatedPeople": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "",
+      "author": "",
+      "publisher": "",
+      "date": "",
+      "url": "",
+      "accessDate": "",
+      "type": "PRIMARY | ACADEMIC | CONFERENCE | NEWS | ARCHIVE | INTERVIEW | COMMUNITY"
+    }
+  ],
+  "editorial": {
+    "verified": false,
+    "sourcesCount": 0,
+    "lastReviewed": null,
+    "reviewStatus": "TODO | RESEARCHING | VERIFIED | ARTICLE_READY | PUBLISHED",
+    "reviewer": null
+  }
+}

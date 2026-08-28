@@ -1,0 +1,63 @@
+{
+  "_comment": "Template for a future structured person record. Not yet consumed by index.html — this defines the target schema for the planned data/people/ migration. Copy this file, fill in real sourced data, do not invent any field.",
+  "id": "example-slug",
+  "type": "person",
+  "name": "Full Name",
+  "aliases": [],
+  "born": "YYYY-MM-DD or null if unknown",
+  "died": "YYYY-MM-DD or null if living/unknown",
+  "nationality": "Country, only if confirmed by a reliable source; omit if unknown",
+  "fields": [
+    "e.g. Network Security, Exploit Development"
+  ],
+  "type_tags": [
+    "Researcher | Hacker | Phreaker | Security Engineer | Cryptographer | Malware Researcher | Exploit Developer | Reverse Engineer | Tool Creator | Author"
+  ],
+  "activeYears": "e.g. 1995-present",
+  "knownFor": [
+    "Short phrase per major contribution/discovery"
+  ],
+  "whyThisPersonMatters": "2-4 neutral sentences summarizing historical importance.",
+  "sections": {
+    "overview": "",
+    "earlyYears": "",
+    "entryIntoHackerCulture": "",
+    "majorContributions": "",
+    "majorDiscoveries": "",
+    "research": "",
+    "tools": "",
+    "talks": "",
+    "historicalImpact": "",
+    "legacy": ""
+  },
+  "timeline": [
+    { "year": "YYYY", "event": "Short factual event description" }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "images": [
+    { "url": "", "source": "", "author": "", "license": "" }
+  ],
+  "sources": [
+    {
+      "title": "",
+      "author": "",
+      "publisher": "",
+      "date": "",
+      "url": "",
+      "accessDate": "",
+      "type": "PRIMARY | ACADEMIC | CONFERENCE | NEWS | ARCHIVE | INTERVIEW | COMMUNITY"
+    }
+  ],
+  "editorial": {
+    "verified": false,
+    "sourcesCount": 0,
+    "lastReviewed": null,
+    "reviewStatus": "TODO | RESEARCHING | VERIFIED | ARTICLE_READY | PUBLISHED",
+    "reviewer": null,
+    "impactLevel": "FOUNDATIONAL | MAJOR | NOTABLE"
+  }
+}
