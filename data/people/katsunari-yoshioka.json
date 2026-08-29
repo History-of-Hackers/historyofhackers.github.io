@@ -1,0 +1,88 @@
+{
+  "id": "katsunari-yoshioka",
+  "type": "person",
+  "title": "Katsunari Yoshioka",
+  "slug": "katsunari-yoshioka",
+  "era": "2000s-Present",
+  "tags": [
+    "IoT security",
+    "honeypots",
+    "malware analysis",
+    "Mirai",
+    "network security",
+    "Japan",
+    "academic research",
+    "botnets"
+  ],
+  "summary": "Katsunari Yoshioka is a professor at Yokohama National University who co-created IoTPOT, an influential honeypot and sandbox system for capturing and analyzing Telnet-based IoT malware that documented the surge of insecure-device botnets preceding and paralleling the emergence of Mirai.",
+  "whyThisMatters": "Yoshioka's IoTPOT research gave the security community one of its first systematic, empirical pictures of how attackers were scanning for and compromising Telnet-exposed IoT devices across multiple CPU architectures, years before the 2016 Mirai botnet made that threat impossible to ignore. His long-running work on internet-scale malware monitoring at Japan's National Institute of Information and Communications Technology (NICT) helped establish honeypot-based measurement as a core method for tracking large-scale botnet activity.",
+  "sections": {
+    "overview": "<h2>Academic Background</h2><p>Katsunari Yoshioka holds a Doctor of Engineering degree and is a professor at the Graduate School of Environment and Information Sciences and the Institute of Advanced Sciences at Yokohama National University (YNU), where he also serves as the university's Chief Information Security Officer. His research centers on network security, malware analysis, and honeypot-based measurement of large-scale attacks.</p><h2>NICTER and Internet-Scale Monitoring</h2><p>From 2005, Yoshioka was involved in NICTER (the Network Incident analysis Center for Tactical Emergency Response) at Japan's National Institute of Information and Communications Technology (NICT), a large-scale darknet-monitoring project designed to observe scanning and attack traffic across unused IP address space and detect emerging malware activity in near real time. That work gave Yoshioka's research group a long institutional grounding in measuring malicious traffic at internet scale before IoT devices became a major source of it.</p><h2>IoTPOT: A Honeypot for IoT Threats</h2><p>As Telnet-based attacks against IoT devices sharply increased from 2014 onward, Yoshioka and collaborators, including Yin Minn Pa Pa, Shogo Suzuki, Tsutomu Matsumoto, Takahiro Kasama, and Christian Rossow, built IoTPOT, a honeypot system designed specifically to attract and analyze these attacks. IoTPOT combined a lightweight, low-interaction frontend that mimicked vulnerable Telnet services with a backend called IoTBOX, the first malware-analysis sandbox built to execute captured IoT malware samples across multiple CPU architectures, including ARM, MIPS, and PPC. The team first presented the work at the USENIX Workshop on Offensive Technologies (WOOT) in 2015, with an expanded version later published in the Journal of Information Processing in 2016.</p><h2>Findings and Significance</h2><p>Over an 81-day operational period, IoTPOT logged 481,521 malware download attempts originating from 79,935 distinct IP addresses, and the researchers identified at least five distinct DDoS-oriented malware families targeting Telnet-enabled IoT devices, one of which had evolved to run on as many as nine different CPU architectures. This gave the security community concrete, measured evidence that a large and diversifying wave of IoT-targeting botnet malware was already active well before the Mirai botnet's public emergence in August 2016 made mass Telnet-based IoT compromise a headline-level internet security event; IoTPOT's methodology and data have been widely cited in subsequent research on IoT botnets.</p><h2>Recognition and Continuing Work</h2><p>Yoshioka received a Commendation for Science and Technology from Japan's Minister of Education, Culture, Sports, Science and Technology in 2009, and an award from the Minister of Internal Affairs and Communications in 2016 for distinguished industry-academia-government collaboration. He has continued to lead IoT and network security research at Yokohama National University, publishing further work on malware capability classification and large-scale device fingerprinting.</p><h2>Impact and Legacy</h2><p>IoTPOT's data and design became a reference point for the wave of research that followed Mirai, illustrating how honeypot-based measurement could reveal the scale of insecure, internet-connected embedded devices before those devices were weaponized into some of the largest DDoS botnets ever recorded.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2005",
+      "event": "Began work on NICTER, NICT's large-scale darknet-monitoring project for internet-wide attack traffic, at Yokohama National University."
+    },
+    {
+      "date": "2009",
+      "event": "Received Japan's Commendation for Science and Technology from the Minister of Education, Culture, Sports, Science and Technology."
+    },
+    {
+      "date": "2015",
+      "event": "Presented IoTPOT, an IoT-specific honeypot and malware-analysis sandbox, at the USENIX Workshop on Offensive Technologies (WOOT)."
+    },
+    {
+      "date": "2016",
+      "event": "Published an expanded IoTPOT paper in the Journal of Information Processing; received a Minister of Internal Affairs and Communications award for industry-academia-government collaboration."
+    },
+    {
+      "date": "2016-08",
+      "event": "The Mirai botnet's public emergence brought mass exploitation of Telnet-exposed IoT devices — the same threat class IoTPOT had already documented — to global attention."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "IoTPOT: Analysing the Rise of IoT Compromises (USENIX WOOT 2015)",
+      "url": "https://www.usenix.org/system/files/conference/woot15/woot15-paper-pa.pdf"
+    },
+    {
+      "title": "IoTPOT: A Novel Honeypot for Revealing Current IoT Threats, Journal of Information Processing",
+      "url": "https://www.jstage.jst.go.jp/article/ipsjjip/24/3/24_522/_article"
+    },
+    {
+      "title": "Details of a Researcher: YOSHIOKA Katsunari, Yokohama National University",
+      "url": "https://er-web.ynu.ac.jp/html/YOSHIOKA_Katsunari/en.html"
+    },
+    {
+      "title": "Katsunari Yoshioka, SANS Institute Profile",
+      "url": "https://www.sans.org/profiles/katsunari-yoshioka"
+    },
+    {
+      "title": "Yoshioka Katsunari, J-GLOBAL Researcher Information",
+      "url": "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200901079043264919"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 5,
+    "lastReviewed": "2026-08-29",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "claude-research-2026-08-29"
+  },
+  "name": "Katsunari Yoshioka",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Co-creating IoTPOT, an IoT-focused honeypot and malware-analysis sandbox",
+    "Documenting the rise of Telnet-based IoT botnet malware preceding Mirai",
+    "Leading NICTER internet-scale network monitoring research at NICT",
+    "Serving as professor and Chief Information Security Officer at Yokohama National University",
+    "Co-authoring widely cited USENIX WOOT and IPSJ IoT security research"
+  ]
+}

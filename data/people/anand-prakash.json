@@ -1,0 +1,96 @@
+{
+  "id": "anand-prakash",
+  "type": "person",
+  "title": "Anand Prakash",
+  "slug": "anand-prakash",
+  "era": "2010s-Present",
+  "tags": [
+    "bug bounty",
+    "web security",
+    "account takeover",
+    "cloud security",
+    "CNAPP",
+    "AppSecure",
+    "PingSafe",
+    "India"
+  ],
+  "summary": "Anand Prakash is an Indian bug-bounty researcher and entrepreneur who became one of Facebook's, Twitter's, and Uber's top-ranked vulnerability hunters, then founded the security consultancy AppSecure and co-founded the cloud-security startup PingSafe, acquired by SentinelOne in 2024.",
+  "whyThisMatters": "Prakash's career traces the maturation of bug bounty programs into a viable full-time path for researchers outside the traditional US/European security industry, and his account-takeover findings at Facebook and other major platforms demonstrated how a single authentication-flow flaw could put billions of accounts at risk. His move from independent bounty hunting to founding a CNAPP company acquired for over $100 million also illustrates how bug-bounty credibility can seed cloud-security entrepreneurship.",
+  "sections": {
+    "overview": "<h2>Early Life and Education</h2><p>Anand Prakash grew up in Bhadra, a town in Rajasthan, India, and by his own account experimented with unauthorized \"script kiddie\" activity as a teenager before turning toward legitimate security research. He studied computer science at Vellore Institute of Technology (VIT) in Tamil Nadu, earning a B.Tech degree while freelancing as a bug-bounty hunter reporting vulnerabilities to companies during his college years.</p><h2>Flipkart and Early Bug Bounty Career</h2><p>After graduating, Prakash worked for roughly two and a half years, from 2014, as a security engineer at Flipkart, India's largest e-commerce company, while continuing to hunt for vulnerabilities in his own time. During this period he built a reputation on the bug bounty programs run by major US technology companies, ranking among Facebook's top researchers for several consecutive years and reaching as high as third place worldwide on Twitter's program.</p><h2>The Facebook Account Takeover Bug</h2><p>In 2016, Prakash discovered that Facebook's beta subdomains, beta.facebook.com and mbasic.beta.facebook.com, did not enforce the same rate limit on password-reset code guesses as the main Facebook site. While the production site locked out repeated failed attempts after 10 to 12 tries, the beta endpoints allowed unlimited guesses at the six-digit one-time code sent to a user's phone or email, making it possible to brute-force the code and take over any account, including those with two-factor authentication enabled. Facebook fixed the flaw and paid Prakash a $15,000 bounty, and the disclosure was widely covered as an example of how a lower-profile staging environment could undermine the security of an entire platform's authentication flow.</p><h2>Uber, Twitter, and Tinder Findings</h2><p>Prakash reported additional high-profile vulnerabilities across several companies' bounty programs in the years that followed, including a bug that let riders obtain free Uber trips and a flaw involving Tinder's use of Facebook's Account Kit login system that could expose Tinder accounts to takeover. His cumulative bounty earnings across Facebook, Twitter, Uber, Salesforce, Souq.com, and other programs reportedly passed ₹2 crore (tens of millions of Indian rupees), and he was recognized on Facebook's Whitehat page in multiple years.</p><h2>Founding AppSecure</h2><p>In 2016, Prakash founded AppSecure, a Bangalore-based penetration testing and red-teaming consultancy, initially bootstrapped and built around a small team of researchers. AppSecure went on to work with more than 30 companies, including Flipkart, PhonePe, and Paytm, and in August 2017 the company launched HackerHive, a free responsible-disclosure platform aimed at helping Asian startups such as Swiggy, OYO Rooms, and Zoomcar stand up structured vulnerability-reporting programs. Prakash has said AppSecure has personally helped more than 400 companies improve their security.</p><h2>PingSafe and the SentinelOne Acquisition</h2><p>On July 8, 2021, Prakash co-founded PingSafe with Nishant Mittal, a cloud-native application protection platform (CNAPP) aimed at helping organizations find and fix misconfigurations and vulnerabilities across cloud infrastructure. In January 2024, SentinelOne announced it had agreed to acquire PingSafe in a deal reported at more than $100 million, folding PingSafe's cloud-security capabilities into SentinelOne's platform and giving Prakash, who continued in a cloud-security leadership role at SentinelOne, one of the most visible startup exits by an Indian bug-bounty hunter to date.</p><h2>Recognition</h2><p>Prakash was named to the Forbes 30 Under 30 Asia list in 2017, in the enterprise technology category, recognition that reflected both his bounty-hunting record and his early work building AppSecure.</p><h2>Impact and Legacy</h2><p>Prakash's path from a self-taught teenage hobbyist to a top-ranked bounty hunter on some of the world's largest platforms, and then to founder of a venture-scale cloud-security company, is frequently cited in India's cybersecurity industry as a model for turning bug bounty credibility into a security business. His Facebook account-takeover disclosure remains a widely referenced case study in why staging and beta environments need the same authentication protections as production systems.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2014",
+      "event": "Joined Flipkart as a security engineer while continuing independent bug bounty research."
+    },
+    {
+      "date": "2016-03",
+      "event": "Reported a Facebook account-takeover vulnerability on beta subdomains, receiving a $15,000 bounty."
+    },
+    {
+      "date": "2016",
+      "event": "Founded AppSecure, a penetration testing and red-teaming consultancy based in Bangalore."
+    },
+    {
+      "date": "2017",
+      "event": "Named to the Forbes 30 Under 30 Asia list for enterprise technology; AppSecure launched the HackerHive responsible-disclosure platform."
+    },
+    {
+      "date": "2021-07-08",
+      "event": "Co-founded PingSafe with Nishant Mittal, a cloud-native application protection platform (CNAPP)."
+    },
+    {
+      "date": "2024-01",
+      "event": "SentinelOne announced an agreement to acquire PingSafe for more than $100 million."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Meet Anand Prakash — a white hat hacker who's earned bug bounties from Facebook, Twitter, and Uber",
+      "url": "https://www.freecodecamp.org/news/meet-anand-prakash-a-white-hat-hacker-whos-earned-bug-bounties-from-facebook-twitter-and-uber-74e30d709b97/"
+    },
+    {
+      "title": "Anand Prakash, India's Bug Bounty Champ, Wants to Create a HackerOne Rival",
+      "url": "https://factordaily.com/anand-prakash-indias-bug-bounty-champ-wants-to-create-a-hackerone-rival/"
+    },
+    {
+      "title": "Anand Prakash, Forbes Profile",
+      "url": "https://www.forbes.com/profile/anand-prakash/"
+    },
+    {
+      "title": "Anand Prakash",
+      "url": "https://en.wikipedia.org/wiki/Anand_Prakash"
+    },
+    {
+      "title": "SentinelOne to Expand Cloud Security Capabilities with Acquisition of PingSafe",
+      "url": "https://www.sentinelone.com/press/sentinelone-to-expand-cloud-security-capabilities-with-acquisition-of-pingsafe/"
+    },
+    {
+      "title": "Anand Prakash: Meet the Entrepreneur Whose Cybersecurity Startup Was Acquired for $100 Million",
+      "url": "https://www.globalindian.com/story/cover-story/anand-prakash-meet-the-entrepreneur-whose-cybersecurity-startup-was-acquired-for-100-million/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 6,
+    "lastReviewed": "2026-08-29",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "claude-research-2026-08-29"
+  },
+  "name": "Anand Prakash",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Discovering a Facebook account-takeover vulnerability affecting billions of accounts",
+    "Ranking among the top bug bounty researchers for Facebook, Twitter, and Uber",
+    "Founding the security consultancy AppSecure",
+    "Co-founding the cloud-security startup PingSafe, acquired by SentinelOne",
+    "Forbes 30 Under 30 Asia honoree (2017)"
+  ]
+}

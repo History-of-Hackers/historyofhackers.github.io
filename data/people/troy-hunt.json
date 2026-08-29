@@ -1,0 +1,137 @@
+{
+  "id": "troy-hunt",
+  "type": "person",
+  "title": "Troy Hunt",
+  "slug": "troy-hunt",
+  "era": "2013-Present",
+  "tags": [
+    "Have I Been Pwned",
+    "data breach research",
+    "Australia",
+    "Microsoft MVP",
+    "security education",
+    "Pluralsight",
+    "Gold Coast"
+  ],
+  "summary": "Troy Hunt is an Australian web security consultant and educator who created Have I Been Pwned (HIBP) in December 2013, a free breach-notification search service that has grown to index billions of compromised accounts and become a standard reference point for the public, industry, and governments checking exposure in data breaches.",
+  "whyThisMatters": "Troy Hunt is an Australian web security consultant and educator who created Have I Been Pwned (HIBP) in December 2013, a free breach-notification search service that has grown to index billions of compromised accounts and become a standard reference point for the public, industry, and governments checking exposure in data breaches.",
+  "sections": {
+    "overview": "<p>Troy Adam Hunt (born 1976) is an Australian web security consultant, Microsoft Regional Director, and Microsoft MVP for Developer Security best known as the creator of Have I Been Pwned (HIBP), the free breach-notification search service he launched on December 4, 2013. Based on the Gold Coast, Queensland, Hunt has spent more than a decade turning a personal side project into one of the most widely used and widely trusted tools in consumer and enterprise data-breach response.</p><h2>Background</h2><p>Hunt began web development in 1995, working across Australia and the United Kingdom before joining the pharmaceutical company Pfizer in Sydney in 2001. Over 14 years there he progressed from developer to software architect, managing software delivery across the Asia-Pacific region for systems covering clinical trials, patient safety reporting, and sales-force operations. During this period he also built ASafaWeb, an automated security-scanning tool for ASP.NET websites, and became increasingly active writing and speaking about web application security. He left Pfizer in 2015 to focus full-time on independent security work and HIBP.</p><h2>Creating Have I Been Pwned</h2><p>In late 2013, Hunt was analyzing patterns across recent data breaches when the Adobe Systems breach of October 2013 — which exposed approximately 153 million accounts and included both his own email address and one belonging to Pfizer, tied to Adobe's earlier acquisition of Macromedia — convinced him that ordinary users had no easy way to know whether their own data had been exposed. He built and launched Have I Been Pwned on December 4, 2013, indexing just five breaches at launch: Adobe, Stratfor, Gawker, Yahoo! Voices, and Sony Pictures. The name adopted the hacker slang term \"pwned,\" and the site let anyone enter an email address to check it against known breach dumps for free.</p><h2>Growth and Impact</h2><p>HIBP grew rapidly through subsequent years as major breaches surfaced: by June 2019 the service was handling roughly 160,000 daily visitors, had close to three million active email-notification subscribers, and indexed nearly eight billion account records. In 2017, Hunt added Pwned Passwords, a searchable database of hundreds of millions of previously breached passwords; in February 2018 he introduced a k-anonymity protocol that let services check a password's exposure without ever transmitting the full password or hash to HIBP's servers, a privacy model subsequently echoed by Google's Password Checkup feature. By 2018 Hunt was also running the site largely alone; his wife Charlotte joined in 2021 to handle business operations, and Icelandic developer Stefán Jökull Sigurðarson began contributing part-time development work the same year. In 2019, facing burnout and personal financial pressure from a divorce, Hunt publicly explored selling HIBP under the codename \"Project Svalbard,\" holding talks with several prospective corporate acquirers; the deal ultimately collapsed in 2020 due to a change in the buyer's business circumstances, and Hunt subsequently committed to keeping the project independent, later open-sourcing parts of its codebase starting in 2021.</p><h2>Notable Breaches Surfaced</h2><p>Over the years HIBP became the reference point for numerous major disclosures, including the 2013 Adobe breach that inspired its creation; the 2015 Ashley Madison breach, which exposed more than 30 million user accounts from the affair-oriented dating site and drove a roughly 57,000% spike in HIBP traffic; and, in January 2019, \"Collection #1,\" a 87GB compilation of 772,904,991 unique email addresses and over 21 million unique passwords aggregated from thousands of earlier breaches, which Hunt was the first to publicly report after being alerted to files circulating on the cloud storage service Mega. HIBP has also indexed breaches including MySpace (360 million accounts), LinkedIn (164 million), Tumblr (65 million), and VK/VKontakte (171 million), among hundreds of others.</p><h2>Microsoft Regional Director and Education Work</h2><p>Hunt has held the Microsoft MVP for Developer Security award since 2011 and became a Microsoft Regional Director in 2016. He is a prolific security educator, having authored dozens of courses for Pluralsight covering topics such as the OWASP Top 10, HTTPS, browser security, and ethical hacking, and running a hands-on workshop called \"Hack Yourself First\" that teaches developers to think like attackers. In November 2017 he testified before the United States House Committee on Energy and Commerce about the impact of data breaches on consumers. HIBP's breach-checking API has been integrated into major consumer security tools, including Mozilla's Firefox Monitor (2018) and 1Password's Watchtower feature (2018), and the site has been adopted for domain monitoring by national government computer emergency response teams (CERTs) in dozens of countries, including Australia, the UK, and Spain.</p><h2>Recent Developments</h2><p>Since 2021, both the FBI and the UK's National Crime Agency have fed compromised password data directly into HIBP's Pwned Passwords database through a dedicated law-enforcement ingestion pipeline, supplying hashed (not plaintext) credentials recovered during investigations; in 2024, data recovered from law-enforcement botnet takedowns under \"Operation Endgame\" — roughly 16.5 million email addresses and 13.5 million unique passwords — was loaded into HIBP through this same pipeline. In March 2025, Hunt himself was compromised by a phishing email impersonating Mailchimp, which tricked him into entering his credentials and a one-time passcode on a fake login page; the attackers exported a mailing list of roughly 16,000 subscriber email addresses tied to his personal blog, though HIBP's core breach-search service itself was not affected. Hunt disclosed the incident publicly and added it, transparently, as its own listed breach on HIBP.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1976",
+      "event": "Born in Australia."
+    },
+    {
+      "date": "2001",
+      "event": "Joins Pfizer in Sydney, eventually becoming a software architect over 14 years there."
+    },
+    {
+      "date": "2011",
+      "event": "Named a Microsoft MVP for Developer Security."
+    },
+    {
+      "date": "2013-12-04",
+      "event": "Launches Have I Been Pwned, indexing five initial breaches including Adobe and Gawker."
+    },
+    {
+      "date": "2015",
+      "event": "Leaves Pfizer to work independently on security consulting and HIBP; Ashley Madison breach drives major traffic growth to the site."
+    },
+    {
+      "date": "2016",
+      "event": "Becomes a Microsoft Regional Director."
+    },
+    {
+      "date": "2017-11",
+      "event": "Testifies before the U.S. House Committee on Energy and Commerce on the impact of data breaches."
+    },
+    {
+      "date": "2018",
+      "event": "HIBP's breach-checking API is integrated into Mozilla's Firefox Monitor and 1Password's Watchtower; introduces k-anonymity model for Pwned Passwords."
+    },
+    {
+      "date": "2019-01",
+      "event": "First reports the 773-million-record 'Collection #1' data breach compilation."
+    },
+    {
+      "date": "2019-06",
+      "event": "Publicly announces 'Project Svalbard,' an attempt to sell HIBP amid personal and professional burnout."
+    },
+    {
+      "date": "2020-03",
+      "event": "Sale of HIBP falls through; Hunt commits to keeping the project independent."
+    },
+    {
+      "date": "2021",
+      "event": "Begins open-sourcing parts of HIBP's codebase; wife Charlotte Hunt joins to run business operations."
+    },
+    {
+      "date": "2024",
+      "event": "Law-enforcement 'Operation Endgame' botnet takedown data (16.5 million emails, 13.5 million passwords) is loaded into HIBP via the FBI/NCA ingestion pipeline."
+    },
+    {
+      "date": "2025-03",
+      "event": "Falls victim to a Mailchimp-impersonating phishing attack that exposes roughly 16,000 of his own blog's subscriber email addresses."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Troy Hunt - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Troy_Hunt"
+    },
+    {
+      "title": "Have I Been Pwned? - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Have_I_Been_Pwned"
+    },
+    {
+      "title": "Troy Hunt: Bio and Photos",
+      "url": "https://www.troyhunt.com/bio/"
+    },
+    {
+      "title": "Troy Hunt: A Decade of Have I Been Pwned",
+      "url": "https://www.troyhunt.com/a-decade-of-have-i-been-pwned/"
+    },
+    {
+      "title": "Troy Hunt: The 773 Million Record 'Collection #1' Data Breach",
+      "url": "https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/"
+    },
+    {
+      "title": "The FBI will feed hacked passwords directly into Have I Been Pwned - The Record",
+      "url": "https://therecord.media/the-fbi-will-feed-hacked-passwords-directly-into-have-i-been-pwned"
+    },
+    {
+      "title": "'Have I Been Pwned' Now Built into Firefox, 1Password - Dark Reading",
+      "url": "https://www.darkreading.com/endpoint-security/-have-i-been-pwned-now-built-into-firefox-1password"
+    },
+    {
+      "title": "Troy Hunt: A Sneaky Phish Just Grabbed my Mailchimp Mailing List",
+      "url": "https://www.troyhunt.com/a-sneaky-phish-just-grabbed-my-mailchimp-mailing-list/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 8,
+    "lastReviewed": "2026-08-29",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "research-agent"
+  },
+  "name": "Troy Hunt",
+  "born": "1976",
+  "died": null,
+  "knownFor": [
+    "Creating and operating Have I Been Pwned (HIBP), launched December 4, 2013",
+    "Introducing Pwned Passwords and its privacy-preserving k-anonymity lookup model (2017-2018)",
+    "First publicly reporting the 773-million-record 'Collection #1' breach compilation (2019)",
+    "Integrating HIBP's breach-checking API into Mozilla Firefox Monitor and 1Password Watchtower",
+    "Serving as a Microsoft Regional Director and Microsoft MVP for Developer Security",
+    "Testifying before the U.S. House Committee on Energy and Commerce on data breaches (2017)",
+    "Authoring dozens of web and application security courses for Pluralsight and running 'Hack Yourself First' workshops"
+  ]
+}

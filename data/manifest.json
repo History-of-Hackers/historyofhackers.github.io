@@ -493,7 +493,7 @@
       "open source",
       "port scanning"
     ],
-    "summary": "Gordon Lyon, known by the handle 'Fyodor,' wrote and released the Nmap Security Scanner in 1997 and has remained its lead developer for nearly three decades, while also founding Insecure.Org, SecLists.Org, and SecTools.Org \u2014 long-running pieces of infrastructure that the security research community still relies on.",
+    "summary": "Gordon Lyon, known by the handle 'Fyodor,' wrote and released the Nmap Security Scanner in 1997 and has remained its lead developer for nearly three decades, while also founding Insecure.Org, SecLists.Org, and SecTools.Org — long-running pieces of infrastructure that the security research community still relies on.",
     "url": "people/gordon-lyon.html"
   },
   {
@@ -585,7 +585,7 @@
       "iris recognition",
       "Germany"
     ],
-    "summary": "Jan Krissler, known by the handle 'Starbug', is a German security researcher and long-time Chaos Computer Club member whose public demonstrations against fingerprint and iris authentication systems \u2014 including defeating Apple's Touch ID days after its 2013 launch and reconstructing a German cabinet minister's fingerprint from photographs in 2014 \u2014 became landmark illustrations of the fragility of biometric security.",
+    "summary": "Jan Krissler, known by the handle 'Starbug', is a German security researcher and long-time Chaos Computer Club member whose public demonstrations against fingerprint and iris authentication systems — including defeating Apple's Touch ID days after its 2013 launch and reconstructing a German cabinet minister's fingerprint from photographs in 2014 — became landmark illustrations of the fragility of biometric security.",
     "url": "people/jan-krissler.html"
   },
   {
@@ -921,7 +921,7 @@
     "id": "mikko-hypponen",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Mikko Hypp\u00f6nen",
+    "title": "Mikko Hyppönen",
     "slug": "mikko-hypponen",
     "era": "1990s-Present",
     "tags": [
@@ -932,7 +932,7 @@
       "antivirus",
       "TED speaker"
     ],
-    "summary": "Mikko Hypp\u00f6nen is a Finnish computer security researcher who spent over three decades at F-Secure and its successor WithSecure, becoming one of the most publicly recognized voices in malware research and cybersecurity communication, known for tracking down early virus authors and for widely viewed talks on cybercrime.",
+    "summary": "Mikko Hyppönen is a Finnish computer security researcher who spent over three decades at F-Secure and its successor WithSecure, becoming one of the most publicly recognized voices in malware research and cybersecurity communication, known for tracking down early virus authors and for widely viewed talks on cybercrime.",
     "url": "people/mikko-hypponen.html"
   },
   {
@@ -1025,7 +1025,7 @@
       "Black Hat",
       "GitHub Security Lab"
     ],
-    "summary": "Nicolas \"Nico\" Waisman is an Argentine security researcher who spent over a decade at Immunity, Inc. \u2014 rising to Vice President of Latin America \u2014 where he built a reputation as a globally recognized heap-exploitation expert, later contributing to GitHub's Security Lab research team.",
+    "summary": "Nicolas \"Nico\" Waisman is an Argentine security researcher who spent over a decade at Immunity, Inc. — rising to Vice President of Latin America — where he built a reputation as a globally recognized heap-exploitation expert, later contributing to GitHub's Security Lab research team.",
     "url": "people/nicolas-waisman.html"
   },
   {
@@ -1124,7 +1124,7 @@
       "patents",
       "chief-technology-officer"
     ],
-    "summary": "Renaud Deraison is a French-born security researcher who created the Nessus vulnerability scanner as a lyc\u00e9e student in 1998 and went on to co-found Tenable Network Security in 2002, serving as the company's chief technology officer through its 2018 Nasdaq IPO before moving into advisory and board roles across the cybersecurity industry.",
+    "summary": "Renaud Deraison is a French-born security researcher who created the Nessus vulnerability scanner as a lycée student in 1998 and went on to co-found Tenable Network Security in 2002, serving as the company's chief technology officer through its 2018 Nasdaq IPO before moving into advisory and board roles across the cybersecurity industry.",
     "url": "people/renaud-deraison.html"
   },
   {
@@ -1469,7 +1469,7 @@
       "vulnerability-research",
       "white-hat"
     ],
-    "summary": "DEVCORE (\u6234\u592b\u5bc7\u723e) is a Taipei-based offensive-security firm founded in 2012 as Taiwan's first company to offer red-team exercises, whose research bench \u2014 not just Orange Tsai \u2014 has produced hundreds of CVEs, the ProxyLogon/ProxyShell Exchange Server disclosures, and repeated Pwn2Own titles.",
+    "summary": "DEVCORE (戴夫寇爾) is a Taipei-based offensive-security firm founded in 2012 as Taiwan's first company to offer red-team exercises, whose research bench — not just Orange Tsai — has produced hundreds of CVEs, the ProxyLogon/ProxyShell Exchange Server disclosures, and repeated Pwn2Own titles.",
     "url": "groups/devcore.html"
   },
   {
@@ -1752,7 +1752,7 @@
       "mobile security",
       "open source"
     ],
-    "summary": "Frida is an open-source, JavaScript-scriptable dynamic instrumentation toolkit created by Norwegian developer Ole Andr\u00e9 Vadla Ravn\u00e5s, which lets researchers inject code into running processes on the fly to hook functions and inspect behavior without source code, becoming a foundational tool in mobile app reverse engineering and bug bounty hunting.",
+    "summary": "Frida is an open-source, JavaScript-scriptable dynamic instrumentation toolkit created by Norwegian developer Ole André Vadla Ravnås, which lets researchers inject code into running processes on the fly to hook functions and inspect behavior without source code, becoming a foundational tool in mobile app reverse engineering and bug bounty hunting.",
     "url": "tools/frida.html"
   },
   {
@@ -2526,7 +2526,7 @@
       "media",
       "documentary"
     ],
-    "summary": "How movies and documentaries like WarGames, Hackers, and The Social Network have shaped the public's perception of hacker culture \u2014 for better and for worse.",
+    "summary": "How movies and documentaries like WarGames, Hackers, and The Social Network have shaped the public's perception of hacker culture — for better and for worse.",
     "url": "fields/hackers-in-film.html"
   },
   {
@@ -2640,7 +2640,7 @@
     "id": "loic-duflot",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Lo\u00efc Duflot",
+    "title": "Loïc Duflot",
     "slug": "loic-duflot",
     "era": "2006-2011 (documented research period)",
     "tags": [
@@ -2714,5 +2714,223 @@
     ],
     "summary": "Steve Wozniak is an electronics engineer who, before co-founding Apple Computer with Steve Jobs, built and sold illegal \"blue box\" devices for phone phreaking in the early 1970s -- an episode both men later credited as a formative step toward Apple's creation.",
     "url": "people/steve-wozniak.html"
+  },
+  {
+    "id": "anand-prakash",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Anand Prakash",
+    "slug": "anand-prakash",
+    "era": "2010s-Present",
+    "tags": [
+      "bug bounty",
+      "web security",
+      "account takeover",
+      "cloud security",
+      "CNAPP",
+      "AppSecure",
+      "PingSafe",
+      "India"
+    ],
+    "summary": "Anand Prakash is an Indian bug-bounty researcher and entrepreneur who became one of Facebook's, Twitter's, and Uber's top-ranked vulnerability hunters, then founded the security consultancy AppSecure and co-founded the cloud-security startup PingSafe, acquired by SentinelOne in 2024.",
+    "url": "people/anand-prakash.html"
+  },
+  {
+    "id": "john-mcafee",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John McAfee",
+    "slug": "john-mcafee",
+    "era": "1945-2021",
+    "tags": [
+      "antivirus",
+      "McAfee Associates",
+      "malware research",
+      "shareware",
+      "United Kingdom",
+      "Libertarian Party"
+    ],
+    "summary": "John McAfee was a British-American computer programmer and businessman who founded McAfee Associates in 1987 and created VirusScan, one of the first commercially marketed antivirus products, before leaving the company in the 1990s and later becoming a controversial public figure through a 2012 fugitive episode connected to a murder investigation in Belize, two Libertarian Party presidential campaigns, and a U.S. tax-evasion prosecution that ended with his death in Spanish custody in 2021.",
+    "url": "people/john-mcafee.html"
+  },
+  {
+    "id": "katsunari-yoshioka",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Katsunari Yoshioka",
+    "slug": "katsunari-yoshioka",
+    "era": "2000s-Present",
+    "tags": [
+      "IoT security",
+      "honeypots",
+      "malware analysis",
+      "Mirai",
+      "network security",
+      "Japan",
+      "academic research",
+      "botnets"
+    ],
+    "summary": "Katsunari Yoshioka is a professor at Yokohama National University who co-created IoTPOT, an influential honeypot and sandbox system for capturing and analyzing Telnet-based IoT malware that documented the surge of insecure-device botnets preceding and paralleling the emergence of Mirai.",
+    "url": "people/katsunari-yoshioka.html"
+  },
+  {
+    "id": "phineas-fisher",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Phineas Fisher",
+    "slug": "phineas-fisher",
+    "era": "2014-2020",
+    "tags": [
+      "hacktivism",
+      "anti-surveillance",
+      "surveillance-industry",
+      "spyware",
+      "leaks",
+      "pseudonymous",
+      "2010s"
+    ],
+    "summary": "Phineas Fisher is the pseudonym of an unidentified hacktivist who breached the government-spyware makers Gamma Group/Gamma International (2014) and Hacking Team (2015), publishing hundreds of gigabytes of internal source code, emails, and client lists as an explicit protest against the commercial surveillance industry, and who later claimed a 2016 breach of Turkey's ruling AKP party. Fisher's real identity remains unconfirmed.",
+    "url": "people/phineas-fisher.html"
+  },
+  {
+    "id": "shalev-hulio",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Shalev Hulio",
+    "slug": "shalev-hulio",
+    "era": "2010s-Present",
+    "tags": [
+      "spyware",
+      "mobile security",
+      "NSO Group",
+      "Pegasus",
+      "surveillance",
+      "Israel",
+      "dual-use technology",
+      "zero-click exploits"
+    ],
+    "summary": "Shalev Hulio is an Israeli entrepreneur and former Israel Defense Forces search-and-rescue officer who co-founded NSO Group in 2010 and led development and commercialization of its Pegasus mobile spyware platform, resigning as CEO in 2022 after international reporting and a US blacklisting over its use against journalists, activists, and officials; he later founded the cybersecurity company Dream Security.",
+    "url": "people/shalev-hulio.html"
+  },
+  {
+    "id": "simon-choi",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Simon Choi",
+    "slug": "simon-choi",
+    "era": "2008-Present",
+    "tags": [
+      "APT tracking",
+      "nation-state hacking",
+      "North Korea",
+      "Lazarus Group",
+      "Andariel",
+      "malware analysis",
+      "threat intelligence",
+      "South Korea"
+    ],
+    "summary": "Simon Choi is a South Korean malware researcher who founded the volunteer research group IssueMakersLab in 2008 to track North Korean state-linked hacking, worked as a senior researcher at the antivirus firm Hauri, and founded the Cyber Warfare Intelligence Center.",
+    "url": "people/simon-choi.html"
+  },
+  {
+    "id": "taylor-monahan",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Taylor Monahan",
+    "slug": "taylor-monahan",
+    "era": "2010s-Present",
+    "tags": [
+      "blockchain security",
+      "cryptocurrency",
+      "wallet security",
+      "phishing",
+      "Ethereum",
+      "MyEtherWallet",
+      "MetaMask",
+      "threat intelligence"
+    ],
+    "summary": "Taylor Monahan, known online as \"tayvano,\" co-founded MyEtherWallet in 2015, founded and led MyCrypto from 2018 to 2022, and became one of the most visible investigators of Ethereum wallet hacks and crypto-drain campaigns after joining MetaMask, where she later led security research.",
+    "url": "people/taylor-monahan.html"
+  },
+  {
+    "id": "troy-hunt",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Troy Hunt",
+    "slug": "troy-hunt",
+    "era": "2013-Present",
+    "tags": [
+      "Have I Been Pwned",
+      "data breach research",
+      "Australia",
+      "Microsoft MVP",
+      "security education",
+      "Pluralsight",
+      "Gold Coast"
+    ],
+    "summary": "Troy Hunt is an Australian web security consultant and educator who created Have I Been Pwned (HIBP) in December 2013, a free breach-notification search service that has grown to index billions of compromised accounts and become a standard reference point for the public, industry, and governments checking exposure in data breaches.",
+    "url": "people/troy-hunt.html"
+  },
+  {
+    "id": "costin-raiu",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Costin Raiu",
+    "slug": "costin-raiu",
+    "era": "1990s-Present",
+    "tags": [
+      "threat intelligence",
+      "APT research",
+      "malware analysis",
+      "Kaspersky",
+      "GReAT",
+      "Stuxnet",
+      "Duqu",
+      "Equation Group",
+      "Carbanak",
+      "Lazarus",
+      "Romania"
+    ],
+    "summary": "Costin Raiu is a Romanian malware researcher who led Kaspersky's Global Research and Analysis Team (GReAT) from 2010 to 2023, directing landmark investigations into Stuxnet, Duqu, the Equation Group, Moonlight Maze, Carbanak, and Lazarus/BlueNoroff.",
+    "url": "people/costin-raiu.html"
+  },
+  {
+    "id": "dmitri-alperovitch",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Dmitri Alperovitch",
+    "slug": "dmitri-alperovitch",
+    "era": "2000s-Present",
+    "tags": [
+      "threat intelligence",
+      "APT attribution",
+      "nation-state hacking",
+      "Operation Aurora",
+      "Shady RAT",
+      "DNC breach",
+      "CrowdStrike",
+      "cybersecurity policy"
+    ],
+    "summary": "Dmitri Alperovitch is a threat-intelligence researcher and entrepreneur who co-founded CrowdStrike, led investigations into Operation Aurora, Night Dragon, and Shady RAT, and headed the team that attributed the 2016 Democratic National Committee breach to Russian intelligence services.",
+    "url": "people/dmitri-alperovitch.html"
+  },
+  {
+    "id": "gil-shwed",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Gil Shwed",
+    "slug": "gil-shwed",
+    "era": "1990s-Present",
+    "tags": [
+      "firewall",
+      "stateful inspection",
+      "network security",
+      "Check Point",
+      "Unit 8200",
+      "Israel",
+      "cybersecurity industry"
+    ],
+    "summary": "Gil Shwed is an Israeli entrepreneur who invented and patented stateful inspection, co-founded Check Point Software Technologies in 1993 with Shlomo Kramer and Marius Nacht, and led the company as CEO for three decades before becoming its executive chairman.",
+    "url": "people/gil-shwed.html"
   }
 ]

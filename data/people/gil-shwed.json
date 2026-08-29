@@ -1,0 +1,111 @@
+{
+  "id": "gil-shwed",
+  "type": "person",
+  "title": "Gil Shwed",
+  "slug": "gil-shwed",
+  "era": "1990s-Present",
+  "tags": [
+    "firewall",
+    "stateful inspection",
+    "network security",
+    "Check Point",
+    "Unit 8200",
+    "Israel",
+    "cybersecurity industry"
+  ],
+  "summary": "Gil Shwed is an Israeli entrepreneur who invented and patented stateful inspection, co-founded Check Point Software Technologies in 1993 with Shlomo Kramer and Marius Nacht, and led the company as CEO for three decades before becoming its executive chairman.",
+  "whyThisMatters": "Shwed's stateful inspection patent turned network firewalling from an academic idea into a commercial product category. Check Point's FireWall-1, built on that patent, became one of the founding products of the modern security industry and set the architecture that later generations of firewalls, from appliances to next-generation and cloud firewalls, still build on.",
+  "sections": {
+    "overview": "<h2>Early Life, Unit 8200, and Education</h2><p>Gil Shwed was born in 1968 in Jerusalem, Israel. He began programming as a child, and by his early teens was working as a system administrator at Hebrew University of Jerusalem while simultaneously starting undergraduate computer science studies there while still in high school. During his compulsory Israeli military service, Shwed served in the Israel Defense Forces' Unit 8200, the signals intelligence corps whose alumni later founded a large share of Israel's commercial cybersecurity sector. In Unit 8200, Shwed worked on systems that controlled access to classified military networks based on user privilege levels, an experience he later credited as the conceptual root of stateful inspection.</p><h2>Founding Check Point (1993)</h2><p>After completing his military service around 1990, Shwed joined the Israeli company Optrotech (later Orbotech) as a software developer, where he met Marius Nacht. In 1993, Shwed, Nacht, and Shlomo Kramer, a friend of Shwed's from Unit 8200, founded Check Point Software Technologies in Ramat Gan, Israel, to commercialize a new approach to filtering network traffic for the emerging commercial internet.</p><h2>Stateful Inspection and the Firewall Patent</h2><p>Shwed conceived and developed stateful inspection, a method of network security filtering that tracks the state of active network connections rather than evaluating each packet in isolation. A security policy expressed in high-level rules is compiled into filter code that runs at network checkpoints, deciding in real time whether to permit or reject traffic based on the connection's state and context. Shwed filed the patent application in December 1993, and it was granted as U.S. Patent 5,606,668, \"System for securing inbound and outbound data packet flow in a computer network,\" on February 25, 1997, assigned to Check Point. Stateful inspection became the technical foundation of Check Point's first product, FireWall-1, released in 1994.</p><h2>Check Point's Growth and IPO</h2><p>FireWall-1 debuted at the NetWorld+Interop trade show in Las Vegas in 1994 and won a best-in-show award. Check Point signed an OEM agreement with Sun Microsystems in 1994 and a distribution agreement with Hewlett-Packard in 1995, and by early 1996 IDC ranked it the worldwide firewall market leader with roughly 40% share. Check Point went public on the NASDAQ stock exchange on June 28, 1996, raising about $67 million in its initial public offering. The company grew into one of the world's largest dedicated cybersecurity vendors, later expanding from firewalls into VPN, endpoint, cloud, and threat-prevention products.</p><h2>Long CEO Tenure</h2><p>Shwed served as Check Point's chief executive officer from 1994 until 2024, a tenure of three decades reported as among the longest of any chief executive at a NASDAQ-listed company. Over that period he was widely credited in industry and Israeli press as a central figure in building Israel's cybersecurity sector. He received an honorary doctorate from the Technion in 2005, was named Globes newspaper's Person of the Year in 2014, and in 2018 received the inaugural Israel Prize awarded in the technology category.</p><h2>2024 Transition to Executive Chairman</h2><p>On December 16, 2024, Check Point announced a leadership transition in which Shwed moved from CEO to executive chairman of the board, and Nadav Zafrir, a former commander of Unit 8200 and co-founder of the venture group Team8, was appointed as the company's new CEO. Shwed remained a major shareholder of Check Point and continued in an active governance role as executive chairman following the transition.</p><h2>Impact and Legacy</h2><p>Shwed's stateful inspection patent and the commercial success of FireWall-1 helped define the firewall as a distinct, high-value product category and established Check Point as one of the first major pure-play cybersecurity companies. His long tenure running a publicly traded security vendor, and his background as a Unit 8200 veteran who built a global technology company, made him a frequently cited example in coverage of Israel's cybersecurity industry and its military-to-startup pipeline. Forbes has listed Shwed as a billionaire, tied to his continued ownership stake in Check Point, since he first appeared on its billionaires list in 2001.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1968",
+      "event": "Born in Jerusalem, Israel."
+    },
+    {
+      "date": "1990",
+      "event": "Completed Israeli military service in Unit 8200 of the IDF Intelligence Corps, where he worked on classified-network access control systems."
+    },
+    {
+      "date": "1993-04",
+      "event": "Conceived the idea for stateful inspection and, with Marius Nacht and Shlomo Kramer, began forming what would become Check Point Software Technologies."
+    },
+    {
+      "date": "1993-07",
+      "event": "Co-founded Check Point Software Technologies in Ramat Gan, Israel, with Shlomo Kramer and Marius Nacht."
+    },
+    {
+      "date": "1993-12-15",
+      "event": "Filed the U.S. patent application for stateful inspection network security filtering."
+    },
+    {
+      "date": "1994",
+      "event": "Released FireWall-1, Check Point's first firewall product built on stateful inspection, and became Check Point's CEO."
+    },
+    {
+      "date": "1996-06-28",
+      "event": "Check Point completed its initial public offering on NASDAQ."
+    },
+    {
+      "date": "1997-02-25",
+      "event": "U.S. Patent 5,606,668 for stateful inspection was granted to Shwed, assigned to Check Point."
+    },
+    {
+      "date": "2018",
+      "event": "Received the inaugural Israel Prize in the technology category."
+    },
+    {
+      "date": "2024-12-16",
+      "event": "Transitioned from CEO to executive chairman of Check Point's board; Nadav Zafrir became the company's new CEO."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Gil Shwed",
+      "url": "https://en.wikipedia.org/wiki/Gil_Shwed"
+    },
+    {
+      "title": "Firewall tech pioneer Gil Shwed: Former teen sysadmin on today's infosec biz",
+      "url": "https://www.theregister.com/2013/04/23/check_point_profile/"
+    },
+    {
+      "title": "Gil Shwed profile",
+      "url": "https://www.forbes.com/profile/gil-shwed/"
+    },
+    {
+      "title": "US5606668A - System for securing inbound and outbound data packet flow in a computer network",
+      "url": "https://patents.google.com/patent/US5606668A/en"
+    },
+    {
+      "title": "Gil Shwed Takes on the Role of Executive Chairman of the Board of Directors, Nadav Zafrir Becomes CEO at Check Point Software Technologies",
+      "url": "https://www.checkpoint.com/press-releases/gil-shwed-takes-on-the-role-of-executive-chairman-of-the-board-of-directors-nadav-zafrir-becomes-ceo-at-check-point-software-technologies/"
+    },
+    {
+      "title": "Check Point",
+      "url": "https://en.wikipedia.org/wiki/Check_Point"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 6,
+    "lastReviewed": "2026-08-29",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-research-2026-08-29"
+  },
+  "name": "Gil Shwed",
+  "born": "1968",
+  "died": null,
+  "knownFor": [
+    "Inventing and patenting stateful inspection",
+    "Co-founding Check Point Software Technologies in 1993",
+    "Creating FireWall-1, one of the first commercial firewall products",
+    "Serving as Check Point's CEO from 1994 to 2024",
+    "Unit 8200 veteran"
+  ]
+}

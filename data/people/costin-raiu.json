@@ -1,0 +1,128 @@
+{
+  "id": "costin-raiu",
+  "type": "person",
+  "title": "Costin Raiu",
+  "slug": "costin-raiu",
+  "era": "1990s-Present",
+  "tags": [
+    "threat intelligence",
+    "APT research",
+    "malware analysis",
+    "Kaspersky",
+    "GReAT",
+    "Stuxnet",
+    "Duqu",
+    "Equation Group",
+    "Carbanak",
+    "Lazarus",
+    "Romania"
+  ],
+  "summary": "Costin Raiu is a Romanian malware researcher who led Kaspersky's Global Research and Analysis Team (GReAT) from 2010 to 2023, directing landmark investigations into Stuxnet, Duqu, the Equation Group, Moonlight Maze, Carbanak, and Lazarus/BlueNoroff.",
+  "whyThisMatters": "Costin Raiu turned Kaspersky's GReAT into one of the world's most influential nation-state threat research teams, producing the technical reporting that first documented Stuxnet's sabotage of Iranian centrifuges, the Equation Group's tool-set, and one of the earliest known state cyber-espionage campaigns, Moonlight Maze. His career traces a direct line from a self-taught teenage virus cleaner in post-revolution Romania to a central figure in modern APT attribution and threat intelligence.",
+  "sections": {
+    "overview": "<h2>Early Life and a Teenage Antivirus in Romania</h2><p>Costin Raiu grew up in Romania with an early interest in electronics, encouraged by his engineer father. After the 1989 Romanian revolution opened the country to imported computers, Raiu got his first PC around 1990 and taught himself programming, starting in Basic and progressing to 8086 assembly language. While still in school, he analyzed a virus known as BadSectors.3428 that had infected his school's network and wrote a disinfection tool for it using assembly code. Word spread, and friends began sending him other viruses to clean.</p><p>Working on a 16 MHz 80286 computer, Raiu built on these disinfection tools to create a program he called MScan, which he later renamed RAV (Reliable AntiVirus). Starting in 1994, RAV was distributed commercially through the Romanian company GeCAD, and Raiu worked there as a researcher on the product. In 1996, while looking to exchange virus samples with other researchers, he contacted Eugene Kaspersky, then at AVP; Kaspersky visited him in Bucharest, and the two stayed in touch over the following years.</p><h2>Joining Kaspersky Lab</h2><p>Costin Raiu joined Kaspersky Lab in 2000, initially working as a Chief Security Expert overseeing research efforts across Eastern Europe, the Middle East and Africa (EEMEA). Over the following decade he built a reputation as one of the industry's most capable malware analysts, specializing in advanced persistent threats, exploits, and large-scale espionage campaigns.</p><h2>Leading the Global Research and Analysis Team</h2><p>In 2010, Raiu became Director of Kaspersky's Global Research and Analysis Team (GReAT), a distributed group of researchers focused on discovering and dissecting the world's most sophisticated malware and nation-state hacking operations. Under his leadership, GReAT grew into one of the most cited sources of APT research in the security industry, publishing detailed technical reports on Securelist, Kaspersky's research blog, and presenting findings at Virus Bulletin, the Security Analyst Summit (SAS), and other industry conferences. Raiu was also a member of the Virus Bulletin Technical Advisory Board and the Computer AntiVirus Researchers' Organization (CARO).</p><h2>Stuxnet, Duqu, and the Equation Group</h2><p>GReAT's research under Raiu covered some of the most consequential malware discoveries of the era. The team analyzed <a href=\"../attacks/stuxnet-digital-weapon.html\">Stuxnet</a>, the worm that sabotaged centrifuges at Iran's Natanz nuclear facility, and its related espionage platforms Duqu and Flame. In the spring of 2015, Kaspersky discovered that its own internal network had been compromised by a new malware platform built by the same actor behind the original 2011 Duqu attack; Raiu, as GReAT's director, described the intrusion, dubbed Duqu 2.0, as the work of \"one of the most skilled and powerful APT groups,\" and Kaspersky published the technical findings through Securelist.</p><p>In February 2015, Raiu authored the Securelist report \"Equation: The Death Star of Malware Galaxy,\" documenting the Equation Group, an actor GReAT assessed as the most technically sophisticated it had encountered, with tools linking it to prior operations including Stuxnet and Flame.</p><h2>Carbanak, Moonlight Maze, and Lazarus/BlueNoroff</h2><p>GReAT under Raiu's direction published research on Carbanak, a cybercriminal campaign that used APT-style techniques to steal from banks and financial institutions worldwide, detailed in the February 2015 Securelist report \"The Great Bank Robbery: the Carbanak APT.\" In April 2017, Raiu and fellow GReAT researcher Juan Andres Guerrero-Saade, working with Thomas Rid and Danny Moore of King's College London, published \"Penquin's Moonlit Maze,\" a nine-month reconstruction of Moonlight Maze, a 1996 intrusion campaign against U.S. military, research, and university networks that is regarded as one of the earliest known state-sponsored cyber-espionage operations. The investigation linked decades-old Moonlight Maze code to a Linux backdoor used by the Turla group. GReAT's later research under Raiu also covered the North Korea-linked Lazarus Group and its financially motivated sub-cluster BlueNoroff.</p><h2>Departure from Kaspersky and Later Work</h2><p>On June 16, 2023, Raiu announced on social media that he was leaving Kaspersky after 23 years, writing that it was \"half my life dedicated to protecting the world\" and that the time was right to look for a new challenge. He subsequently co-founded The Art of Noh, described as a think-tank for advancing cybersecurity research, and TLPBLACK, a boutique cybersecurity consulting and threat-intelligence company offering APT tracking, malware analysis, and digital forensics services. Raiu also became a regular co-host, alongside journalist Ryan Naraine and researcher Juan Andres Guerrero-Saade, of the \"Three Buddy Problem\" podcast, which discusses nation-state malware, attribution, and the security industry.</p><h2>Legacy</h2><p>Over more than two decades, Raiu's work at GReAT shaped how the security industry investigates, names, and attributes nation-state and financially motivated cyber operations. His path from a self-taught antivirus developer in 1990s Romania to director of one of the world's most prominent APT research teams is frequently cited as emblematic of Eastern Europe's outsized role in the malware-research field.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1994",
+      "event": "Developed the antivirus program RAV (Reliable AntiVirus), originally called MScan, distributed commercially through the Romanian company GeCAD."
+    },
+    {
+      "date": "1996",
+      "event": "Began exchanging virus samples with Eugene Kaspersky, who visited him in Bucharest."
+    },
+    {
+      "date": "2000",
+      "event": "Joined Kaspersky Lab as Chief Security Expert covering the EEMEA region."
+    },
+    {
+      "date": "2010",
+      "event": "Became Director of Kaspersky's Global Research and Analysis Team (GReAT)."
+    },
+    {
+      "date": "2015-02-16",
+      "event": "GReAT published \"The Great Bank Robbery: the Carbanak APT,\" documenting the Carbanak cybercriminal campaign against banks."
+    },
+    {
+      "date": "2015-03-23",
+      "event": "Authored the Securelist report \"Equation: The Death Star of Malware Galaxy,\" documenting the Equation Group."
+    },
+    {
+      "date": "2015-06-10",
+      "event": "Kaspersky disclosed Duqu 2.0, a cyberespionage platform found on its own internal network, with Raiu as GReAT director describing the actor behind it."
+    },
+    {
+      "date": "2017-04-03",
+      "event": "Published \"Penquin's Moonlit Maze\" with Juan Andres Guerrero-Saade, Thomas Rid, and Danny Moore, reconstructing the 1996 Moonlight Maze espionage campaign."
+    },
+    {
+      "date": "2023-06-16",
+      "event": "Announced his departure from Kaspersky after 23 years leading GReAT."
+    },
+    {
+      "date": "2024",
+      "event": "Co-founded The Art of Noh, a cybersecurity research think-tank, and TLPBLACK, a threat-intelligence consulting company."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Behind the scenes with the head of Kaspersky's GReAT",
+      "url": "https://securelist.com/behind-the-scenes-with-the-head-of-kasperskys-great/102933/"
+    },
+    {
+      "title": "Great GReAT Guys: Costin G. Raiu in the Spotlight",
+      "url": "https://eugene.kaspersky.com/2011/08/04/great-great-guys-costin-g-raiu-in-the-spotlight/"
+    },
+    {
+      "title": "Equation: The Death Star of Malware Galaxy",
+      "url": "https://securelist.com/equation-the-death-star-of-malware-galaxy/68750/"
+    },
+    {
+      "title": "The Mystery of Duqu 2.0: a sophisticated cyberespionage actor returns",
+      "url": "https://securelist.com/the-mystery-of-duqu-2-0-a-sophisticated-cyberespionage-actor-returns/70504/"
+    },
+    {
+      "title": "The Great Bank Robbery: the Carbanak APT",
+      "url": "https://securelist.com/the-great-bank-robbery-the-carbanak-apt/68732/"
+    },
+    {
+      "title": "Penquin's Moonlit Maze",
+      "url": "https://securelist.com/penquins-moonlit-maze/77883/"
+    },
+    {
+      "title": "Author: Costin Raiu",
+      "url": "https://securelist.com/author/costin/"
+    },
+    {
+      "title": "Kaspersky research team leader Costin Raiu quits after 23 years",
+      "url": "https://itwire.com/business-it-news/security/kaspersky-research-team-leader-costin-raiu-quits-after-23-years.html"
+    },
+    {
+      "title": "Costin Raiu: The GReAT exit interview",
+      "url": "https://securityconversations.com/episode/costin-raiu-the-great-exit-interview/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 9,
+    "lastReviewed": "2026-08-29",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-research-2026-08-29"
+  },
+  "name": "Costin Raiu",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Directing Kaspersky's Global Research and Analysis Team (GReAT), 2010-2023",
+    "Leading research on Stuxnet, Duqu, and Duqu 2.0",
+    "Authoring the Equation Group research report",
+    "Co-authoring the Moonlight Maze (Penquin's Moonlit Maze) investigation",
+    "Overseeing GReAT research on Carbanak and Lazarus/BlueNoroff",
+    "Writing the RAV (Reliable AntiVirus) antivirus program as a teenager in Romania"
+  ]
+}

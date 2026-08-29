@@ -1,0 +1,92 @@
+{
+  "id": "taylor-monahan",
+  "type": "person",
+  "title": "Taylor Monahan",
+  "slug": "taylor-monahan",
+  "era": "2010s-Present",
+  "tags": [
+    "blockchain security",
+    "cryptocurrency",
+    "wallet security",
+    "phishing",
+    "Ethereum",
+    "MyEtherWallet",
+    "MetaMask",
+    "threat intelligence"
+  ],
+  "summary": "Taylor Monahan, known online as \"tayvano,\" co-founded MyEtherWallet in 2015, founded and led MyCrypto from 2018 to 2022, and became one of the most visible investigators of Ethereum wallet hacks and crypto-drain campaigns after joining MetaMask, where she later led security research.",
+  "whyThisMatters": "Monahan helped build two of the earliest widely used self-custody Ethereum wallet interfaces at a time when interacting with the blockchain directly required specialized technical knowledge, and her subsequent investigative work — tracing wallet-draining campaigns back to the 2022 LastPass breach and publicly documenting the laundering of the 2025 Bybit hack — turned her into one of the crypto industry's most cited independent security researchers.",
+  "sections": {
+    "overview": "<h2>From Film School to Ethereum</h2><p>Taylor Monahan studied film and television production, with a minor in producing, at New York University between 2008 and 2012, leaving before completing her degree. She taught herself web development and, around 2013 to 2014, began working in the blockchain space. After encountering Ethereum around 2015, she concluded that interacting with the network directly was too complex for most users, since sending or storing ether safely required managing raw private keys and interacting with command-line tools.</p><h2>MyEtherWallet</h2><p>In 2015, Monahan co-founded MyEtherWallet (MEW) with developer Kosala Hemachandra, building a free, open-source, browser-based interface that let users generate and manage Ethereum wallets and interact with smart contracts without running their own node. MyEtherWallet quickly became one of the most widely used Ethereum wallet interfaces, but it also became a frequent target of phishing sites and DNS-hijacking attacks that impersonated the service to steal users' private keys.</p><h2>Founding MyCrypto</h2><p>Monahan and Hemachandra's partnership deteriorated over disagreements about the company's direction, and in February 2018 Monahan launched MyCrypto as an independent wallet service, serving as its founder and CEO. The split became the subject of litigation between the two co-founders in Los Angeles County Superior Court. MyCrypto positioned itself around user education and security, building features intended to help users avoid the phishing and social-engineering attacks that had proliferated around MyEtherWallet.</p><h2>Investigating the LastPass-Linked Wallet Drains</h2><p>Beginning in late 2022, Monahan spent roughly six months investigating a wave of large, unexplained cryptocurrency thefts affecting security-conscious, long-term holders who had not suffered the phishing or account-takeover patterns typically seen before a theft. In September 2023, she published research connecting more than $35 million in losses across at least 150 victims to a single common factor: each victim had at some point stored their wallet seed phrase inside an encrypted LastPass vault. The findings, which drew on the password manager's 2022 data breach, were covered by Krebs on Security and other outlets and helped establish that offline, encrypted vaults could still be cracked and exploited long after a breach if the underlying master passwords were weak enough.</p><h2>MetaMask and the Bybit Hack</h2><p>In February 2022, ConsenSys acquired MyCrypto with the intention of merging it into MetaMask, the Ethereum wallet browser extension and mobile app. Monahan joined MetaMask as lead product manager and, over time, took on a security-focused role, becoming a lead voice behind MetaMask's public monthly security reports. In February 2025, after North Korea's Lazarus Group stole roughly $1.5 billion from the cryptocurrency exchange Bybit in the largest crypto theft on record, Monahan publicly tracked the attackers' laundering of the stolen funds in near-real time, documenting the movement of hundreds of thousands of ether into Bitcoin and warning that recovery prospects were poor.</p><h2>Impact and Legacy</h2><p>Monahan's career spans both sides of Ethereum wallet security: building the accessible interfaces that brought ordinary users onto the network, and then investigating the campaigns that targeted those same users once large sums of value were at stake. Her public, detailed tracing of incidents such as the LastPass-linked drains and the Bybit hack has made her one of the most frequently cited independent voices in cryptocurrency incident response.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2015",
+      "event": "Co-founded MyEtherWallet with Kosala Hemachandra, a widely used browser-based Ethereum wallet interface."
+    },
+    {
+      "date": "2018-02",
+      "event": "Founded MyCrypto as an independent wallet company after splitting from MyEtherWallet, serving as CEO."
+    },
+    {
+      "date": "2022-02",
+      "event": "ConsenSys acquired MyCrypto to merge it into MetaMask; Monahan joined MetaMask as lead product manager."
+    },
+    {
+      "date": "2023-09",
+      "event": "Published research linking more than $35 million in crypto thefts across 150+ victims to the 2022 LastPass breach."
+    },
+    {
+      "date": "2025-02",
+      "event": "Publicly tracked North Korea's Lazarus Group laundering roughly $1.5 billion stolen from the Bybit exchange."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Taylor Monahan - Founder & CEO at MyCrypto",
+      "url": "https://cryptoslate.com/people/taylor-monahan/"
+    },
+    {
+      "title": "Taylor Monahan's Journey: From Film to Crypto Leadership",
+      "url": "https://bitcoinethereumnews.com/crypto/taylor-monahans-journey-from-film-to-crypto-leadership/"
+    },
+    {
+      "title": "ConsenSys Acquires Ethereum Wallet MyCrypto, Plans to Merge It With MetaMask",
+      "url": "https://www.coindesk.com/business/2022/02/01/consensys-acquires-ethereum-wallet-mycrypto-plans-to-merge-it-with-metamask"
+    },
+    {
+      "title": "Experts Fear Crooks are Cracking Keys Stolen in LastPass Breach",
+      "url": "https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/"
+    },
+    {
+      "title": "Bybit hackers move over half the stolen ETH onto Bitcoin, largely using ThorChain",
+      "url": "https://www.theblock.co/post/343855/bybit-hackers-half-the-stolen-eth-bitcoin-fbi-confirms-lazarus"
+    },
+    {
+      "title": "Taylor Monahan, MyCrypto",
+      "url": "https://www.crunchbase.com/person/taylor-monahan"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 6,
+    "lastReviewed": "2026-08-29",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "claude-research-2026-08-29"
+  },
+  "name": "Taylor Monahan",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Co-founding MyEtherWallet",
+    "Founding and leading MyCrypto",
+    "Identifying the LastPass-breach-linked wallet-draining campaign",
+    "Leading wallet security research at MetaMask",
+    "Publicly tracking the laundering of the 2025 Bybit hack"
+  ]
+}

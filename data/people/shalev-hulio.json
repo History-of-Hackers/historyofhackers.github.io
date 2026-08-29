@@ -1,0 +1,114 @@
+{
+  "id": "shalev-hulio",
+  "type": "person",
+  "title": "Shalev Hulio",
+  "slug": "shalev-hulio",
+  "era": "2010s-Present",
+  "tags": [
+    "spyware",
+    "mobile security",
+    "NSO Group",
+    "Pegasus",
+    "surveillance",
+    "Israel",
+    "dual-use technology",
+    "zero-click exploits"
+  ],
+  "summary": "Shalev Hulio is an Israeli entrepreneur and former Israel Defense Forces search-and-rescue officer who co-founded NSO Group in 2010 and led development and commercialization of its Pegasus mobile spyware platform, resigning as CEO in 2022 after international reporting and a US blacklisting over its use against journalists, activists, and officials; he later founded the cybersecurity company Dream Security.",
+  "whyThisMatters": "NSO Group's Pegasus became the most extensively documented example of commercial \"lawful intercept\" spyware sold to government customers, and the 2021 Pegasus Project reporting and subsequent US Commerce Department blacklisting turned Hulio's company into a central case study in the policy debate over the commercial spyware industry, zero-click mobile exploitation, and the human-rights risks of government surveillance tools sold across borders. As a co-founder and the company's public face for over a decade, Hulio's career is inseparable from that debate.",
+  "sections": {
+    "overview": "<h2>Military Background</h2><p>Before entering the technology industry, Shalev Hulio served in the Israel Defense Forces, reaching the rank of major in a search-and-rescue unit and taking part in rescue operations both inside Israel and abroad, including deployments following disasters in countries such as Brazil and Mexico. He and Omri Lavie, a childhood friend, moved into the technology start-up sector together during the mid-2000s before founding NSO Group.</p><h2>Founding NSO Group</h2><p>In 2010, Hulio co-founded NSO Group Technologies with Omri Lavie and Niv Karmi; the company's name is derived from the founders' first initials. The company positioned itself as a vendor of surveillance technology to government intelligence and law-enforcement agencies, developing tools designed to intercept communications and extract data from mobile devices for use in counterterrorism and criminal investigations, marketed under a \"lawful intercept\" framing restricted, according to the company, to vetted government customers.</p><h2>Developing Pegasus</h2><p>NSO's flagship product, Pegasus, is mobile spyware capable of extracting messages, photos, location data, and other information from a target's smartphone, and in later versions of installing itself with \"zero-click\" exploits that require no action from the target. An initial version of Pegasus was finalized in 2011. Because Pegasus exploited previously unknown vulnerabilities in iOS and Android to bypass a phone's security protections, NSO's business model depended on a continuous pipeline of high-value exploit chains; one such chain, dubbed FORCEDENTRY and used to compromise iPhones via iMessage without any user interaction, was reverse-engineered and technically documented by Google's Project Zero team in December 2021.</p><h2>The Pegasus Project and Controversy</h2><p>In July 2021, a consortium of media outlets published the \"Pegasus Project,\" reporting based on a leaked list of phone numbers that researchers and journalists said were of interest to NSO's government clients, and documenting confirmed or suspected Pegasus infections on the phones of journalists, human-rights activists, political dissidents, and at least one sitting European Parliament member who had been investigating spyware abuse. Hulio publicly defended the company in interviews at the time, arguing that Pegasus was sold only to vetted governments for counterterrorism and serious-crime investigations and that misuse by a small number of clients did not reflect the tool's intended purpose.</p><h2>US Blacklisting and Resignation</h2><p>In November 2021, the US Department of Commerce added NSO Group to its Entity List, restricting the export of American technology to the company on the grounds that its tools had been used to enable transnational repression. In August 2022, amid a broader corporate restructuring and workforce reductions as NSO sought to refocus its client base toward NATO-member governments, Hulio resigned as chief executive.</p><h2>Dream Security and Later Ventures</h2><p>In November 2023, Hulio co-founded Dream Security together with former Austrian chancellor Sebastian Kurz, describing the new venture as a shift from offensive intelligence work toward defensive cybersecurity for critical infrastructure such as gas, oil, and water systems. Dream Security raised an initial $33.6 million and, according to reporting in June 2026, a subsequent $260 million funding round at a $3 billion valuation. Hulio has also been reported as involved with The Institute, an AI research and training initiative at Ben-Gurion University launched in 2024, and as an investor in IntelEye, a dark-web-monitoring company founded by former NSO colleagues.</p><h2>Impact and Legacy</h2><p>Hulio's career, from military search-and-rescue service to co-founding and running one of the world's most scrutinized spyware vendors, made NSO Group and Pegasus a defining reference point for public debate over commercial cyber-surveillance, government use of zero-day exploits, and the export controls that attempt to govern dual-use security technology.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2010",
+      "event": "Co-founded NSO Group Technologies with Omri Lavie and Niv Karmi."
+    },
+    {
+      "date": "2011",
+      "event": "An initial version of the Pegasus mobile spyware platform was finalized."
+    },
+    {
+      "date": "2021-07",
+      "event": "The 'Pegasus Project' media investigation reported widespread targeting of journalists, activists, and officials; Hulio publicly defended the company."
+    },
+    {
+      "date": "2021-11",
+      "event": "The US Commerce Department added NSO Group to its Entity List, restricting export of US technology to the company."
+    },
+    {
+      "date": "2021-12",
+      "event": "Google's Project Zero published a technical analysis of the FORCEDENTRY zero-click exploit chain used by Pegasus."
+    },
+    {
+      "date": "2022-08",
+      "event": "Resigned as NSO Group's chief executive amid a company restructuring."
+    },
+    {
+      "date": "2023-11",
+      "event": "Co-founded Dream Security with former Austrian chancellor Sebastian Kurz, focused on critical-infrastructure cybersecurity."
+    },
+    {
+      "date": "2026-06",
+      "event": "Dream Security reported a $260 million funding round at a $3 billion valuation."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [
+    "project-zero"
+  ],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSO Group",
+      "url": "https://en.wikipedia.org/wiki/NSO_Group"
+    },
+    {
+      "title": "'Somebody has to do the dirty work': NSO founders defend the spyware they built",
+      "url": "https://www.washingtonpost.com/world/2021/07/21/shalev-hulio-nso-surveillance/"
+    },
+    {
+      "title": "Shalev Hulio Made Pegasus Spyware, Now He's King of Israeli AI",
+      "url": "https://theintercept.com/2024/05/23/israel-spyware-pegasus-shalev-hulio-ai-inteleye/"
+    },
+    {
+      "title": "NSO Founder Shalev Hulio Gathers Old Team at Dream Security",
+      "url": "https://theintercept.com/2024/01/18/israel-nso-group-shalev-hulio-dream-security/"
+    },
+    {
+      "title": "The man who built a spyware empire says it's time to come out of the shadows",
+      "url": "https://www.technologyreview.com/2020/08/19/1007337/shalev-hulio-nso-group-spyware-interview/"
+    },
+    {
+      "title": "Israel: CEO of Pegasus Spyware Firm NSO to Step Down",
+      "url": "https://www.occrp.org/en/news/israel-ceo-of-pegasus-spyware-firm-nso-to-step-down"
+    },
+    {
+      "title": "'If You're Not A Criminal, Don't Be Afraid' — NSO CEO On 'Insane' Hacking Allegations Facing $1 Billion Spyware Business",
+      "url": "https://www.forbes.com/sites/thomasbrewster/2021/07/22/nso-group-ceo-defends-1-billion-spyware-company-against-pegasus-project-hacking-allegations/"
+    },
+    {
+      "title": "Former NSO Founder and ex-Austrian Leader Raise Millions for New Security Firm",
+      "url": "https://www.haaretz.com/israel-news/tech-news/2026-06-18/ty-article/.premium/nso-co-founders-dream-security-raises-260-million-at-3-billion-valuation/0000019e-da6a-d015-a3be-da7aa96a0000"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 8,
+    "lastReviewed": "2026-08-29",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "claude-research-2026-08-29"
+  },
+  "name": "Shalev Hulio",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Co-founding NSO Group",
+    "Leading development and commercialization of the Pegasus spyware platform",
+    "Publicly defending NSO Group during the 2021 Pegasus Project reporting",
+    "Resigning as CEO amid the 2021 US blacklisting and 2022 company restructuring",
+    "Founding Dream Security"
+  ]
+}
