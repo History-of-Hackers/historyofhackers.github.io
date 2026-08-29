@@ -1,0 +1,98 @@
+{
+  "id": "james-kettle",
+  "type": "person",
+  "title": "James Kettle",
+  "slug": "james-kettle",
+  "era": "2010s-Present",
+  "tags": [
+    "web security",
+    "PortSwigger",
+    "Burp Suite",
+    "HTTP request smuggling",
+    "web cache poisoning",
+    "race conditions"
+  ],
+  "summary": "James Kettle, known online as 'albinowax', is a British web security researcher and Director of Research at PortSwigger (maker of Burp Suite), best known for reviving and popularizing HTTP request smuggling through his 2019 'HTTP Desync Attacks' research, alongside influential work on web cache poisoning and web race conditions.",
+  "whyThisMatters": "James Kettle, known online as 'albinowax', is a British web security researcher and Director of Research at PortSwigger (maker of Burp Suite), best known for reviving and popularizing HTTP request smuggling through his 2019 'HTTP Desync Attacks' research, alongside influential work on web cache poisoning and web race conditions.",
+  "sections": {
+    "overview": "<p>James Kettle, widely known by the handle <em>albinowax</em>, is a British web application security researcher who serves as Director of Research at PortSwigger, the company behind the Burp Suite web vulnerability scanner. He built a research career centered on finding overlooked classes of web vulnerabilities rather than one-off bugs. His early published research includes a 2013 blog post on practical HTTP Host header attacks, documenting password-reset-link poisoning and Host-header-based web cache poisoning techniques.</p><p>At PortSwigger, Kettle has led the research team that develops detection techniques built into Burp Suite's scanner and has personally authored several of the tool's most widely used extensions, including Param Miner, Turbo Intruder, and HTTP Request Smuggler. His 2016 talk 'Hunting Asynchronous Vulnerabilities' described exploit-induced callback techniques for finding blind, out-of-band vulnerabilities, feeding into the out-of-band testing capability PortSwigger built into Burp Collaborator.</p><h2>HTTP Desync Attacks and Request Smuggling</h2><p>Kettle's best-known work is his HTTP request smuggling research, presented as 'HTTP Desync Attacks: Smashing into the Cell Next Door' at Black Hat USA and DEF CON 27 in August 2019. The research showed how disagreements between front-end proxies/CDNs and back-end servers over where one HTTP request ends and the next begins could let a remote, unauthenticated attacker splice their request into another user's connection; it codified the now-standard CL.TE, TE.CL, and TE.TE taxonomy of front-end/back-end desynchronization. Kettle continued this line of research in subsequent years, extending desync techniques to newer HTTP protocol versions.</p><h2>Cache Poisoning and Race Conditions</h2><p>Beyond request smuggling, Kettle produced other influential web security research, most notably 'Practical Web Cache Poisoning: Redefining \"Unexploitable\"', presented at Black Hat USA 2018, which demonstrated how unkeyed HTTP inputs could be used to poison caches on real-world sites, leading him to release the Param Miner tool. In 2023 he presented 'Smashing the State Machine: The True Potential of Web Race Conditions' at DEF CON 31, introducing single-packet attack techniques for reliably triggering race conditions in web applications.</p><h2>Legacy</h2><p>Kettle has presented novel research at Black Hat USA for roughly a decade running. Through this combination of original research, widely used open-source tooling, and public education efforts, Kettle is regarded as one of the more influential figures in contemporary web application security research methodology.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2013-05-01",
+      "event": "Published early research on practical HTTP Host header attacks and password reset poisoning."
+    },
+    {
+      "date": "2016-11-04",
+      "event": "Presented 'Backslash Powered Scanning: Hunting Unknown Vulnerability Classes' at Black Hat Europe 2016."
+    },
+    {
+      "date": "2018-08-09",
+      "event": "Presented 'Practical Web Cache Poisoning' at Black Hat USA 2018, releasing the Param Miner Burp extension."
+    },
+    {
+      "date": "2019-08-07",
+      "event": "Presented 'HTTP Desync Attacks' at Black Hat USA 2019, popularizing HTTP request smuggling."
+    },
+    {
+      "date": "2019-08-11",
+      "event": "Repeated the HTTP Desync Attacks talk at DEF CON 27."
+    },
+    {
+      "date": "2020-08-05",
+      "event": "Presented 'Web Cache Entanglement: Novel Pathways to Poisoning' at Black Hat USA 2020."
+    },
+    {
+      "date": "2021-08-05",
+      "event": "Presented 'HTTP/2: The Sequel is Always Worse' at Black Hat USA 2021."
+    },
+    {
+      "date": "2023-08-12",
+      "event": "Presented 'Smashing the State Machine: The True Potential of Web Race Conditions' at DEF CON 31."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "James Kettle - PortSwigger Research profile",
+      "url": "https://portswigger.net/research/james-kettle"
+    },
+    {
+      "title": "HTTP Desync Attacks: Smashing Into The Cell Next Door (Black Hat USA 2019 whitepaper)",
+      "url": "https://i.blackhat.com/USA-19/Wednesday/us-19-Kettle-HTTP-Desync-Attacks-Smashing-Into-The-Cell-Next-Door.pdf"
+    },
+    {
+      "title": "Web cache poisoning just got real - The Register",
+      "url": "https://www.theregister.com/security/2018/08/17/web-cache-poisoning-just-got-real-how-to-fling-evil-code-at-victims/1316729"
+    },
+    {
+      "title": "Smashing the State Machine: The True Potential of Web Race Conditions - PortSwigger Research",
+      "url": "https://portswigger.net/research/smashing-the-state-machine"
+    },
+    {
+      "title": "Practical HTTP Host Header Attacks - Skeleton Scribe (2013)",
+      "url": "https://www.skeletonscribe.net/2013/05/practical-http-host-header-attacks.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 5,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "James Kettle",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "HTTP request smuggling/desync attack research ('HTTP Desync Attacks', Black Hat USA / DEF CON 2019)",
+    "Director of Research at PortSwigger (Burp Suite)",
+    "Practical web cache poisoning research (Black Hat USA 2018)",
+    "Creator of Burp Suite extensions: Param Miner, Turbo Intruder, HTTP Request Smuggler",
+    "Web race condition ('single-packet attack') research (2023)"
+  ]
+}

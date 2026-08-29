@@ -1,0 +1,103 @@
+{
+  "id": "michal-zalewski",
+  "type": "person",
+  "title": "Michal Zalewski",
+  "slug": "michal-zalewski",
+  "era": "1990s-Present",
+  "tags": [
+    "network security",
+    "fuzzing",
+    "browser security",
+    "OS fingerprinting",
+    "Google",
+    "author"
+  ],
+  "summary": "Polish-born security researcher known online as 'lcamtuf', a prolific Bugtraq-era vulnerability researcher whose passive-fingerprinting tool p0f, web-security books, and coverage-guided fuzzer American Fuzzy Lop (afl) reshaped both browser-security research and modern bug-finding practice.",
+  "whyThisMatters": "Polish-born security researcher known online as 'lcamtuf', a prolific Bugtraq-era vulnerability researcher whose passive-fingerprinting tool p0f, web-security books, and coverage-guided fuzzer American Fuzzy Lop (afl) reshaped both browser-security research and modern bug-finding practice.",
+  "sections": {
+    "overview": "<p>Micha\u0142 Zalewski, widely known by his handle <strong>lcamtuf</strong>, is a Polish-born computer security researcher whose work spans network protocol analysis, browser security, and automated vulnerability discovery. Born January 19, 1981, he grew up in Poland before moving to the United States in 2001. He became active in the security community in the mid-1990s, posting frequently to the Bugtraq mailing list and building a reputation as a prolific, largely self-taught vulnerability researcher on Unix-like systems.</p><p>In June 2000 Zalewski released <em>p0f</em>, a passive TCP/IP fingerprinting tool that identifies a remote host's operating system and network characteristics purely by observing existing traffic rather than sending active probes. This line of research into indirect, passive attack techniques culminated in his first book, <em>Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks</em> (No Starch Press, 2005).</p><h2>Browser and Web Security Research</h2><p>Zalewski subsequently turned his attention to the security of web browsers and web applications. While working at Google he wrote the open-source web security tools Ratproxy and Skipfish, both used for automated reconnaissance and vulnerability probing of web applications. This research was distilled into his second book, <em>The Tangled Web: A Guide to Securing Modern Web Applications</em> (No Starch Press, 2011), a detailed technical account of browser security mechanisms that became a standard reference in the field.</p><h2>American Fuzzy Lop and Fuzzing</h2><p>In November 2013, Zalewski released <strong>American Fuzzy Lop (afl)</strong>, a coverage-guided, compile-time-instrumented fuzzer that used genetic-algorithm-style input mutation to maximize code-path coverage while remaining simple to deploy. afl's design proved dramatically effective, uncovering hundreds of previously unknown bugs in widely used software such as OpenSSL, PHP, Firefox, SQLite, and Bash. It quickly became the de-facto standard fuzzing tool in both industry and academic security research, with the community-maintained fork AFL++ later adopted by Google's OSS-Fuzz infrastructure.</p><h2>Career at Google and Snap</h2><p>Zalewski spent nearly 11 years at Google, where he led an international product-security engineering team responsible for code audits, penetration testing, and vulnerability management. He announced his departure from Google in March 2018, and shortly afterward joined Snap Inc. as Vice President of Security & Privacy Engineering.</p><h2>Legacy</h2><p>Zalewski's legacy in the security field rests chiefly on p0f's role in passive network reconnaissance, his systematic treatment of browser security, and afl's outsized influence in popularizing coverage-guided fuzzing as a mainstream software-testing and vulnerability-discovery technique.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1981-01-19",
+      "event": "Born in Poland."
+    },
+    {
+      "date": "2000-06-10",
+      "event": "Releases p0f, a passive OS/network fingerprinting tool, announced on Bugtraq."
+    },
+    {
+      "date": "2005",
+      "event": "Publishes 'Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks'."
+    },
+    {
+      "date": "2007",
+      "event": "Joins Google, eventually leading its product/information security engineering team."
+    },
+    {
+      "date": "2011",
+      "event": "Publishes 'The Tangled Web: A Guide to Securing Modern Web Applications'."
+    },
+    {
+      "date": "2013-11",
+      "event": "Releases American Fuzzy Lop (afl), a coverage-guided fuzzer widely adopted in security research."
+    },
+    {
+      "date": "2018-03",
+      "event": "Announces his departure from Google after almost 11 years."
+    },
+    {
+      "date": "2018-04",
+      "event": "Joins Snap Inc. as VP of Security & Privacy Engineering."
+    },
+    {
+      "date": "2022-01",
+      "event": "Publishes 'Practical Doomsday: A User's Guide to the End of the World'."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Micha\u0142 Zalewski - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Micha%C5%82_Zalewski"
+    },
+    {
+      "title": "American Fuzzy Lop (software) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/American_Fuzzy_Lop_(software)"
+    },
+    {
+      "title": "Google's director of information security engineering is leaving the company - CyberScoop",
+      "url": "https://cyberscoop.com/michal-zalewski-information-security-google-leaving-company/"
+    },
+    {
+      "title": "Practical Doomsday - No Starch Press",
+      "url": "https://nostarch.com/practical-doomsday"
+    },
+    {
+      "title": "Bugtraq: p0f - passive os fingerprinting tool",
+      "url": "https://seclists.org/bugtraq/2000/Jun/141"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 5,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Michal Zalewski",
+  "born": "1981-01-19",
+  "died": null,
+  "knownFor": [
+    "Creator of p0f, a widely used passive OS/network fingerprinting tool (first released 2000)",
+    "Author of 'Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks' (2005)",
+    "Author of 'The Tangled Web: A Guide to Securing Modern Web Applications' (2011)",
+    "Creator of American Fuzzy Lop (afl), the coverage-guided fuzzer released in 2013 that became a de-facto standard in fuzzing research",
+    "Led Google's product/information security engineering team for nearly 11 years (2007-2018)",
+    "Later VP of Security & Privacy Engineering at Snap Inc."
+  ]
+}

@@ -99,18 +99,17 @@ not use this list to justify skipping verification.
 
 | Candidate | Reason | Area / Country |
 |---|---|---|
-| Mikko Hyppönen | F-Secure/WithSecure chief research officer, long-running malware research and public talks | Malware Research / Finland |
-| Karsten Nohl | GSM/Bluetooth/RFID cryptography research, Security Research Labs founder | Telecom / Wireless / Germany |
-| Ross Anderson | "Security Engineering" author, Cambridge academic security research | Academic Security / UK |
-| Michal Zalewski ("lcamtuf") | "Silence on the Wire," afl fuzzer, long Google security research career | Fuzzing / Poland |
-| Ralf-Philipp Weinmann | GSM baseband exploitation, mobile security research | Mobile Security / Germany-Luxembourg |
-| Adam Laurie | RFID/Bluetooth security research (Bluejacking-era work), DEF CON | Wireless / UK |
-| Felix "FX" Lindner | Phenoelit, router/embedded exploitation research | Embedded Security / Germany |
-| Jan "Starbug" Krissler | Biometric spoofing research (fingerprint/iris demos at CCC) | Biometrics / Germany |
-| Frank Rieger | CCC spokesperson, security commentary | Policy / Germany |
-| James Kettle | Burp Suite research lead, HTTP request smuggling research | Web Security / UK |
-| PortSwigger (Dafydd Stuttard) | Burp Suite creator | Tool Creator / UK |
-| Orange Tsai — see Asia list | | |
+| Mikko Hyppönen | F-Secure/WithSecure malware research, Brain virus author tracking | Malware Research / Finland | See `data/people/mikko-hypponen.json` | PUBLISHED |
+| Karsten Nohl | GSM A5/1 cracking, MIFARE RFID, BadUSB, Security Research Labs founder | Telecom / Wireless / Germany | See `data/people/karsten-nohl.json` | PUBLISHED |
+| Ross Anderson | "Security Engineering" author, Cambridge academic security research, d. 2024 | Academic Security / UK | See `data/people/ross-anderson.json` | PUBLISHED |
+| Michal Zalewski ("lcamtuf") | "Silence on the Wire," afl fuzzer, long Google security research career | Fuzzing / Poland | See `data/people/michal-zalewski.json` | PUBLISHED |
+| Ralf-Philipp Weinmann | GSM baseband exploitation, mobile security research | Mobile Security / Germany-Luxembourg | TODO |
+| Adam Laurie | RFID/Bluetooth security research (Bluejacking-era work), DEF CON | Wireless / UK | TODO |
+| Felix "FX" Lindner | Phenoelit, router/embedded exploitation research | Embedded Security / Germany | TODO |
+| Jan "Starbug" Krissler | Biometric spoofing research (fingerprint/iris demos at CCC) | Biometrics / Germany | TODO |
+| Frank Rieger | CCC spokesperson, security commentary | Policy / Germany | TODO |
+| James Kettle | Burp Suite research lead, HTTP request smuggling/desync research | Web Security / UK | See `data/people/james-kettle.json` | PUBLISHED |
+| PortSwigger (Dafydd Stuttard) | Burp Suite creator | Tool Creator / UK | TODO |
 
 ### People — Asia
 
@@ -118,10 +117,10 @@ Note: verify exact romanization/spelling and identity carefully before
 promoting any of these past `TODO` — several are known primarily by
 handle, and getting a name wrong is worse than not publishing.
 
-| Candidate | Reason | Area / Country |
-|---|---|---|
-| Orange Tsai | DEVCORE researcher, widely cited web/application-server vulnerability research (e.g. ProxyLogon-adjacent work) | Web Security / Taiwan |
-| HITCON community founders | Taiwan's long-running hacker conference — verify as a **group**, not individuals, unless a specific founder is clearly documented | Conferences / Taiwan |
+| Candidate | Reason | Area / Country | Status |
+|---|---|---|---|
+| Orange Tsai | DEVCORE researcher, web/application-server vulnerability research (e.g. ProxyLogon-adjacent work) | Web Security / Taiwan | RESEARCHING |
+| HITCON community founders | Taiwan's long-running hacker conference — verify as a **group**, not individuals, unless a specific founder is clearly documented | Conferences / Taiwan | TODO |
 
 ### Groups
 
@@ -187,9 +186,9 @@ handle, and getting a name wrong is worse than not publishing.
 Genuinely under-covered region; extra care required per SOURCES.md — do
 not add a name just to fill a country slot.
 
-| Candidate | Reason | Country |
-|---|---|---|
-| Cesar Cerrudo | IOActive Labs, Windows/embedded vulnerability research | Argentina |
-| Nicolas Waisman | Immunity/exploit-development research | Argentina |
-| Ekoparty (conference) | Long-running Argentina/LatAm security conference — verify as an event/conference entry | Argentina |
-| Andres Riancho | w3af web-app scanner creator | Argentina |
+| Candidate | Reason | Country | Status |
+|---|---|---|---|
+| Cesar Cerrudo | IOActive Labs CTO, SQL Server/Windows research, smart-city/traffic-control vulnerability research | Argentina | See `data/people/cesar-cerrudo.json` — PUBLISHED |
+| Nicolas Waisman | Immunity/exploit-development research | Argentina | TODO |
+| Ekoparty (conference) | Long-running Argentina/LatAm security conference — verify as an event/conference entry | Argentina | TODO |
+| Andres Riancho | w3af web-app scanner creator | Argentina | TODO |
