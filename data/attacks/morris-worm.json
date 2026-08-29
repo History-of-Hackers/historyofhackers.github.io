@@ -1,6 +1,6 @@
 {
   "id": "morris-worm",
-  "type": "event",
+  "type": "attack",
   "title": "The Morris Worm: The Internet's First Wake-Up Call",
   "slug": "morris-worm",
   "era": "1980s-1990s",

@@ -1,0 +1,89 @@
+{
+  "id": "andres-riancho",
+  "type": "person",
+  "title": "Andres Riancho",
+  "slug": "andres-riancho",
+  "era": "2007-Present",
+  "tags": [
+    "security researcher",
+    "open source",
+    "web application security",
+    "w3af",
+    "Argentina",
+    "penetration testing",
+    "cloud security",
+    "AWS security"
+  ],
+  "summary": "Andres Riancho is an Argentine application-security researcher and open-source developer, based in Buenos Aires, best known for creating w3af (Web Application Attack and Audit Framework), a widely used open-source web vulnerability scanner and exploitation tool.",
+  "whyThisMatters": "Andres Riancho is an Argentine application-security researcher and open-source developer, based in Buenos Aires, best known for creating w3af (Web Application Attack and Audit Framework), a widely used open-source web vulnerability scanner and exploitation tool.",
+  "sections": {
+    "overview": "<p>Andres Riancho is an Argentine application-security researcher and open-source software developer based in Buenos Aires. He is best known as the creator of <strong>w3af</strong> (Web Application Attack and Audit Framework), an open-source, Python-based web application security scanner and exploitation tool that he started in March 2007. w3af combines a core engine with a plug-in architecture\u2014covering discovery, audit, grep, attack, output, mangle, evasion, and brute-force plug-in types\u2014and is distributed under the GPLv2 license. The project is documented at w3af.org and its source is hosted on GitHub, where it has accumulated thousands of stars and over 16,000 commits across its history.</p><p>In July 2010, w3af gained sponsorship from Rapid7, which helped accelerate its development. Riancho subsequently joined Rapid7 as <strong>Director of Web Security</strong>, where he managed a software development team working to improve the web application scanning capabilities of Rapid7's NeXpose product\u2014a shift from purely open-source community work into a commercial security-vendor role.</p><p>Earlier in his career, Riancho worked at Impsat, where he was part of a Security Operations Center deploying intrusion detection systems, and later at Cybsec, an information security consultancy in Buenos Aires that was subsequently acquired by Deloitte; he has described this period as where he learned formal security-assessment methodology. In 2009 he founded his own consulting firm, Bonsai, through which he provided application security services before eventually closing it to work as an independent freelance consultant, serving clients including major Latin American companies such as MercadoLibre and Despegar as well as U.S.-based startups and consulting firms.</p><p>Beyond w3af, Riancho has published several other open-source security tools, including <strong>nimbostratus</strong>, aimed at fingerprinting and exploiting Amazon Web Services cloud infrastructure, and <strong>enumerate-iam</strong>, a tool for enumerating AWS IAM permissions associated with a set of credentials. He has also released proof-of-concept tooling touching on race-condition exploitation, MongoDB ObjectID prediction, and WebSocket fuzzing.</p><p>Riancho has been an accepted speaker at more than 30 international information-security conferences spanning Latin America, Europe, Asia, and the United States. Documented talks include \"Web Application Security Payloads\" at OWASP AppSec USA (2011), \"Pivoting in Amazon Clouds\" at Black Hat USA (2014), and \"Esoteric Web Application Vulnerabilities\" at CODE BLUE (2016). As of the mid-2020s, w3af's original site had experienced periods of downtime, and community development attention has partly shifted to a fork called w4af, aimed at porting the codebase to Python 3, while Riancho continues to work as an independent application-security consultant in Buenos Aires.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2007",
+      "event": "Starts development of w3af (Web Application Attack and Audit Framework), an open-source web application security scanner."
+    },
+    {
+      "date": "2009",
+      "event": "Founds Bonsai, an application-security consulting firm."
+    },
+    {
+      "date": "2010-07",
+      "event": "w3af receives sponsorship and development partnership from Rapid7."
+    },
+    {
+      "date": "2011",
+      "event": "Speaks at OWASP AppSec USA on 'Web Application Security Payloads'."
+    },
+    {
+      "date": "2014",
+      "event": "Speaks at Black Hat USA on 'Pivoting in Amazon Clouds', reflecting his AWS/cloud security research (e.g., the nimbostratus toolset)."
+    },
+    {
+      "date": "2016",
+      "event": "Speaks at CODE BLUE on 'Esoteric Web Application Vulnerabilities'."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Andres Riancho - personal website",
+      "url": "https://andresriancho.com"
+    },
+    {
+      "title": "andresriancho (GitHub profile)",
+      "url": "https://github.com/andresriancho"
+    },
+    {
+      "title": "andresriancho/w3af (GitHub repository)",
+      "url": "https://github.com/andresriancho/w3af"
+    },
+    {
+      "title": "w3af - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/W3af"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Andres Riancho",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Creator and lead maintainer of w3af (Web Application Attack and Audit Framework), an open-source Python-based web application vulnerability scanner and exploitation tool started in March 2007",
+    "Founder of Bonsai, an information-security consulting firm he ran starting in 2009 before transitioning to independent consulting",
+    "Former Director of Web Security at Rapid7, where he managed a development team improving the NeXpose web application scanning capability, following Rapid7's 2010 sponsorship of the w3af project",
+    "Creator of nimbostratus, a tool for fingerprinting and exploiting Amazon Web Services cloud infrastructure, and enumerate-iam, a tool for enumerating AWS IAM permissions",
+    "Speaker at 30+ international security conferences across Latin America, Europe, Asia, and the United States, including OWASP AppSec USA (2011), Black Hat USA (2014), and CODE BLUE (2016)",
+    "Earlier career experience at Impsat (Security Operations Center, intrusion detection) and Cybsec (an information-security consultancy later acquired by Deloitte)"
+  ]
+}

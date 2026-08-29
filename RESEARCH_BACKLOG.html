@@ -35,7 +35,7 @@
   </div>
 </header>
 <nav class="tab-strip" aria-label="Sections">
-<a href="./people/">People</a><a href="./groups/">Groups</a><a href="./tools/">Tools</a><a href="./vulnerabilities/">Vulnerabilities</a><a href="./events/">Events</a><a href="./publications/">Publications</a><a href="./fields/">Fields</a><a href="./timeline/">Timeline</a><a href="./fiction/">Fiction</a>
+<a href="./people/">People</a><a href="./groups/">Groups</a><a href="./tools/">Tools</a><a href="./vulnerabilities/">Vulnerabilities</a><a href="./attacks/">Attacks</a><a href="./events/">Events</a><a href="./publications/">Publications</a><a href="./fields/">Fields</a><a href="./timeline/">Timeline</a><a href="./fiction/">Fiction</a>
 </nav>
 <details class="mobile-nav-toggle">
   <summary>Menu</summary>
@@ -50,7 +50,7 @@
 <div class="sidebar-box">
 <h2>Categories</h2>
 <ul>
-<li><a href="./people/">People</a></li><li><a href="./groups/">Groups</a></li><li><a href="./tools/">Tools</a></li><li><a href="./vulnerabilities/">Vulnerabilities & Discoveries</a></li><li><a href="./events/">Events</a></li><li><a href="./publications/">Publications</a></li><li><a href="./fields/">Fields</a></li>
+<li><a href="./people/">People</a></li><li><a href="./groups/">Groups</a></li><li><a href="./tools/">Tools</a></li><li><a href="./vulnerabilities/">Vulnerabilities & Discoveries</a></li><li><a href="./attacks/">Attacks & Breaches</a></li><li><a href="./events/">Events</a></li><li><a href="./publications/">Publications</a></li><li><a href="./fields/">Fields</a></li>
 </ul>
 </div>
 <div class="sidebar-box">
@@ -88,7 +88,7 @@
 <div class="sidebar-box">
 <h2>Categories</h2>
 <ul>
-<li><a href="./people/">People</a></li><li><a href="./groups/">Groups</a></li><li><a href="./tools/">Tools</a></li><li><a href="./vulnerabilities/">Vulnerabilities & Discoveries</a></li><li><a href="./events/">Events</a></li><li><a href="./publications/">Publications</a></li><li><a href="./fields/">Fields</a></li>
+<li><a href="./people/">People</a></li><li><a href="./groups/">Groups</a></li><li><a href="./tools/">Tools</a></li><li><a href="./vulnerabilities/">Vulnerabilities & Discoveries</a></li><li><a href="./attacks/">Attacks & Breaches</a></li><li><a href="./events/">Events</a></li><li><a href="./publications/">Publications</a></li><li><a href="./fields/">Fields</a></li>
 </ul>
 </div>
 <div class="sidebar-box">
@@ -201,13 +201,13 @@
 <tr><td>Jon Erickson</td><td>Author of "Hacking: The Art of Exploitation"</td><td>Exploit Development</td><td>See <code>data/publications/hacking-art-of-exploitation.json</code> (published as a publication entry — too little independently verifiable biographical detail beyond the book itself) — PUBLISHED</td></tr>
 <tr><td>Jennifer Granick</td><td>Security/privacy lawyer, EFF, Stanford, defended Aaron Swartz</td><td>Policy / Law</td><td>See <code>data/people/jennifer-granick.json</code> — PUBLISHED</td></tr>
 <tr><td>Moxie Marlinspike</td><td>SSLstrip, Signal Protocol, Signal Messenger founder</td><td>Cryptography / Privacy</td><td>See <code>data/people/moxie-marlinspike.json</code> — PUBLISHED</td></tr>
-<tr><td>Nate Cardozo</td><td>EFF security/privacy attorney</td><td>Policy / Law</td><td>TODO</td></tr>
+<tr><td>Nate Cardozo</td><td>EFF security/privacy attorney</td><td>Policy / Law</td><td>See <code>data/people/nate-cardozo.json</code> — PUBLISHED</td></tr>
 <tr><td>Runa Sandvik</td><td>Tor Project, TrackingPoint smart-rifle hack, journalist-security work at NYT</td><td>Privacy / Anonymity</td><td>See <code>data/people/runa-sandvik.json</code> — PUBLISHED</td></tr>
-<tr><td>Kevin Mahaffey</td><td>Lookout Mobile Security co-founder</td><td>Mobile Security</td><td>TODO</td></tr>
-<tr><td>Zach Lanier</td><td>Mobile/IoT security research</td><td>Mobile / IoT Security</td><td>TODO</td></tr>
-<tr><td>Kymberlee Price</td><td>Vulnerability coordination / bug bounty program leadership</td><td>Bug Bounty</td><td>TODO</td></tr>
+<tr><td>Kevin Mahaffey</td><td>Lookout Mobile Security co-founder</td><td>Mobile Security</td><td>See <code>data/people/kevin-mahaffey.json</code> — PUBLISHED</td></tr>
+<tr><td>Zach Lanier</td><td>Mobile/IoT security research</td><td>Mobile / IoT Security</td><td>See <code>data/people/zach-lanier.json</code> — PUBLISHED</td></tr>
+<tr><td>Kymberlee Price</td><td>Vulnerability coordination / bug bounty program leadership</td><td>Bug Bounty</td><td>See <code>data/people/kymberlee-price.json</code> — PUBLISHED</td></tr>
 <tr><td>Casey Ellis</td><td>Bugcrowd founder, disclose.io co-founder</td><td>Bug Bounty</td><td>See <code>data/people/casey-ellis.json</code> — PUBLISHED</td></tr>
-<tr><td>Alex Rice</td><td>HackerOne co-founder</td><td>Bug Bounty</td><td>TODO</td></tr>
+<tr><td>Alex Rice</td><td>HackerOne co-founder</td><td>Bug Bounty</td><td>See <code>data/people/alex-rice.json</code> — PUBLISHED</td></tr>
 <tr><td>Michael "Mudge" Zatko</td><td>Already published — cross-link only</td><td>(published)</td><td>PUBLISHED</td></tr>
 <tr><td>Gordon "Fyodor" Lyon</td><td>Nmap creator, standalone person page</td><td>Network Security Tools</td><td>See <code>data/people/gordon-lyon.json</code> — PUBLISHED</td></tr>
 <tr><td>Marcus Hutchins</td><td>Already published — cross-link only</td><td>(published)</td><td>PUBLISHED</td></tr>
@@ -239,7 +239,7 @@
 <p>handle, and getting a name wrong is worse than not publishing.</p>
 <div style='overflow-x:auto'><table><thead><tr><th>Candidate</th><th>Reason</th><th>Area / Country</th><th>Status</th></tr></thead><tbody>
 <tr><td>Orange Tsai</td><td>DEVCORE researcher, ProxyLogon/ProxyShell Exchange Server disclosures, Pwn2Own record</td><td>Web Security / Taiwan</td><td>See <code>data/people/orange-tsai.json</code> — PUBLISHED</td></tr>
-<tr><td>HITCON community founders</td><td>Taiwan's long-running hacker conference — verify as a <strong>group</strong>, not individuals, unless a specific founder is clearly documented</td><td>Conferences / Taiwan</td><td>TODO</td></tr>
+<tr><td>HITCON community founders</td><td>Taiwan's long-running hacker conference — verify as a <strong>group</strong>, not individuals, unless a specific founder is clearly documented</td><td>Conferences / Taiwan</td><td>See <code>data/groups/hitcon.json</code> — PUBLISHED (no single founder consistently documented; published as a group/organization entry per this row's own guidance)</td></tr>
 </tbody></table></div>
 <h4>Groups</h4>
 <div style='overflow-x:auto'><table><thead><tr><th>Candidate</th><th>Reason</th><th>Region</th></tr></thead><tbody>
@@ -297,9 +297,9 @@
 <p>not add a name just to fill a country slot.</p>
 <div style='overflow-x:auto'><table><thead><tr><th>Candidate</th><th>Reason</th><th>Country</th><th>Status</th></tr></thead><tbody>
 <tr><td>Cesar Cerrudo</td><td>IOActive Labs CTO, SQL Server/Windows research, smart-city/traffic-control vulnerability research</td><td>Argentina</td><td>See <code>data/people/cesar-cerrudo.json</code> — PUBLISHED</td></tr>
-<tr><td>Nicolas Waisman</td><td>Immunity/exploit-development research</td><td>Argentina</td><td>TODO</td></tr>
-<tr><td>Ekoparty (conference)</td><td>Long-running Argentina/LatAm security conference — verify as an event/conference entry</td><td>Argentina</td><td>TODO</td></tr>
-<tr><td>Andres Riancho</td><td>w3af web-app scanner creator</td><td>Argentina</td><td>TODO</td></tr>
+<tr><td>Nicolas Waisman</td><td>Immunity/exploit-development research</td><td>Argentina</td><td>See <code>data/people/nicolas-waisman.json</code> — PUBLISHED</td></tr>
+<tr><td>Ekoparty (conference)</td><td>Long-running Argentina/LatAm security conference — verify as an event/conference entry</td><td>Argentina</td><td>See <code>data/events/ekoparty.json</code> — PUBLISHED</td></tr>
+<tr><td>Andres Riancho</td><td>w3af web-app scanner creator</td><td>Argentina</td><td>See <code>data/people/andres-riancho.json</code> — PUBLISHED</td></tr>
 </tbody></table></div>
 <h3>Fiction / Pop Culture (separate taxonomy — NOT historical entries)</h3>
 <p>Per maintainer request, <code>/fiction/</code> is a deliberately separate section for</p>

@@ -1,6 +1,6 @@
 {
   "id": "solarwinds-sunburst",
-  "type": "event",
+  "type": "attack",
   "title": "SolarWinds / Sunburst Supply-Chain Attack",
   "slug": "solarwinds-sunburst",
   "era": "2020",

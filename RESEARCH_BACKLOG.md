@@ -83,13 +83,13 @@ not use this list to justify skipping verification.
 | Jon Erickson | Author of "Hacking: The Art of Exploitation" | Exploit Development | See `data/publications/hacking-art-of-exploitation.json` (published as a publication entry — too little independently verifiable biographical detail beyond the book itself) — PUBLISHED |
 | Jennifer Granick | Security/privacy lawyer, EFF, Stanford, defended Aaron Swartz | Policy / Law | See `data/people/jennifer-granick.json` — PUBLISHED |
 | Moxie Marlinspike | SSLstrip, Signal Protocol, Signal Messenger founder | Cryptography / Privacy | See `data/people/moxie-marlinspike.json` — PUBLISHED |
-| Nate Cardozo | EFF security/privacy attorney | Policy / Law | TODO |
+| Nate Cardozo | EFF security/privacy attorney | Policy / Law | See `data/people/nate-cardozo.json` — PUBLISHED |
 | Runa Sandvik | Tor Project, TrackingPoint smart-rifle hack, journalist-security work at NYT | Privacy / Anonymity | See `data/people/runa-sandvik.json` — PUBLISHED |
-| Kevin Mahaffey | Lookout Mobile Security co-founder | Mobile Security | TODO |
-| Zach Lanier | Mobile/IoT security research | Mobile / IoT Security | TODO |
-| Kymberlee Price | Vulnerability coordination / bug bounty program leadership | Bug Bounty | TODO |
+| Kevin Mahaffey | Lookout Mobile Security co-founder | Mobile Security | See `data/people/kevin-mahaffey.json` — PUBLISHED |
+| Zach Lanier | Mobile/IoT security research | Mobile / IoT Security | See `data/people/zach-lanier.json` — PUBLISHED |
+| Kymberlee Price | Vulnerability coordination / bug bounty program leadership | Bug Bounty | See `data/people/kymberlee-price.json` — PUBLISHED |
 | Casey Ellis | Bugcrowd founder, disclose.io co-founder | Bug Bounty | See `data/people/casey-ellis.json` — PUBLISHED |
-| Alex Rice | HackerOne co-founder | Bug Bounty | TODO |
+| Alex Rice | HackerOne co-founder | Bug Bounty | See `data/people/alex-rice.json` — PUBLISHED |
 | Michael "Mudge" Zatko | Already published — cross-link only | (published) | PUBLISHED |
 | Gordon "Fyodor" Lyon | Nmap creator, standalone person page | Network Security Tools | See `data/people/gordon-lyon.json` — PUBLISHED |
 | Marcus Hutchins | Already published — cross-link only | (published) | PUBLISHED |
@@ -126,7 +126,7 @@ handle, and getting a name wrong is worse than not publishing.
 | Candidate | Reason | Area / Country | Status |
 |---|---|---|---|
 | Orange Tsai | DEVCORE researcher, ProxyLogon/ProxyShell Exchange Server disclosures, Pwn2Own record | Web Security / Taiwan | See `data/people/orange-tsai.json` — PUBLISHED |
-| HITCON community founders | Taiwan's long-running hacker conference — verify as a **group**, not individuals, unless a specific founder is clearly documented | Conferences / Taiwan | TODO |
+| HITCON community founders | Taiwan's long-running hacker conference — verify as a **group**, not individuals, unless a specific founder is clearly documented | Conferences / Taiwan | See `data/groups/hitcon.json` — PUBLISHED (no single founder consistently documented; published as a group/organization entry per this row's own guidance) |
 
 ### Groups
 
@@ -195,9 +195,9 @@ not add a name just to fill a country slot.
 | Candidate | Reason | Country | Status |
 |---|---|---|---|
 | Cesar Cerrudo | IOActive Labs CTO, SQL Server/Windows research, smart-city/traffic-control vulnerability research | Argentina | See `data/people/cesar-cerrudo.json` — PUBLISHED |
-| Nicolas Waisman | Immunity/exploit-development research | Argentina | TODO |
-| Ekoparty (conference) | Long-running Argentina/LatAm security conference — verify as an event/conference entry | Argentina | TODO |
-| Andres Riancho | w3af web-app scanner creator | Argentina | TODO |
+| Nicolas Waisman | Immunity/exploit-development research | Argentina | See `data/people/nicolas-waisman.json` — PUBLISHED |
+| Ekoparty (conference) | Long-running Argentina/LatAm security conference — verify as an event/conference entry | Argentina | See `data/events/ekoparty.json` — PUBLISHED |
+| Andres Riancho | w3af web-app scanner creator | Argentina | See `data/people/andres-riancho.json` — PUBLISHED |
 
 ## Fiction / Pop Culture (separate taxonomy — NOT historical entries)
 

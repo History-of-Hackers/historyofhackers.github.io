@@ -1,6 +1,6 @@
 {
   "id": "notpetya",
-  "type": "event",
+  "type": "attack",
   "title": "NotPetya",
   "slug": "notpetya",
   "era": "2017",
