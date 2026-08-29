@@ -5,6 +5,7 @@
   <url><loc>https://historyofhackers.org/timeline/</loc></url>
   <url><loc>https://historyofhackers.org/search/</loc></url>
   <url><loc>https://historyofhackers.org/people/</loc></url>
+  <url><loc>https://historyofhackers.org/people/adam-laurie.html</loc></url>
   <url><loc>https://historyofhackers.org/people/adrian-lamo.html</loc></url>
   <url><loc>https://historyofhackers.org/people/alex-stamos.html</loc></url>
   <url><loc>https://historyofhackers.org/people/barnaby-jack.html</loc></url>
@@ -16,6 +17,7 @@
   <url><loc>https://historyofhackers.org/people/chris-valasek.html</loc></url>
   <url><loc>https://historyofhackers.org/people/chris-wysopal.html</loc></url>
   <url><loc>https://historyofhackers.org/people/cuckoos-egg-clifford-stoll.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/dafydd-stuttard.html</loc></url>
   <url><loc>https://historyofhackers.org/people/dan-kaminsky.html</loc></url>
   <url><loc>https://historyofhackers.org/people/dave-aitel.html</loc></url>
   <url><loc>https://historyofhackers.org/people/dino-dai-zovi.html</loc></url>
@@ -23,6 +25,7 @@
   <url><loc>https://historyofhackers.org/people/elias-levy.html</loc></url>
   <url><loc>https://historyofhackers.org/people/eric-corley.html</loc></url>
   <url><loc>https://historyofhackers.org/people/felix-fx-lindner.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/frank-rieger.html</loc></url>
   <url><loc>https://historyofhackers.org/people/george-geohot-hotz.html</loc></url>
   <url><loc>https://historyofhackers.org/people/gordon-lyon.html</loc></url>
   <url><loc>https://historyofhackers.org/people/halvar-flake.html</loc></url>
@@ -50,6 +53,7 @@
   <url><loc>https://historyofhackers.org/people/mudge-peiter-zatko.html</loc></url>
   <url><loc>https://historyofhackers.org/people/natalie-silvanovich.html</loc></url>
   <url><loc>https://historyofhackers.org/people/orange-tsai.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/ralf-philipp-weinmann.html</loc></url>
   <url><loc>https://historyofhackers.org/people/richard-stallman-gnu.html</loc></url>
   <url><loc>https://historyofhackers.org/people/robert-hansen.html</loc></url>
   <url><loc>https://historyofhackers.org/people/robert-tappan-morris.html</loc></url>
@@ -61,10 +65,6 @@
   <url><loc>https://historyofhackers.org/people/the-grugq.html</loc></url>
   <url><loc>https://historyofhackers.org/people/tsutomu-shimomura.html</loc></url>
   <url><loc>https://historyofhackers.org/people/window-snyder.html</loc></url>
-  <url><loc>https://historyofhackers.org/people/adam-laurie.html</loc></url>
-  <url><loc>https://historyofhackers.org/people/dafydd-stuttard.html</loc></url>
-  <url><loc>https://historyofhackers.org/people/frank-rieger.html</loc></url>
-  <url><loc>https://historyofhackers.org/people/ralf-philipp-weinmann.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/</loc></url>
   <url><loc>https://historyofhackers.org/groups/anonymous-hacktivism.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/chaos-computer-club-ccc.html</loc></url>
@@ -74,6 +74,7 @@
   <url><loc>https://historyofhackers.org/groups/masters-of-deception-mod.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/wikileaks-julian-assange.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/</loc></url>
+  <url><loc>https://historyofhackers.org/tools/aircrack-ng.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/bloodhound.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/burp-suite.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/frida.html</loc></url>
@@ -85,14 +86,21 @@
   <url><loc>https://historyofhackers.org/tools/mimikatz.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/nmap-network-mapper.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/radare2.html</loc></url>
-  <url><loc>https://historyofhackers.org/tools/wireshark-network-analyzer.html</loc></url>
-  <url><loc>https://historyofhackers.org/tools/aircrack-ng.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/sqlmap.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/wireshark-network-analyzer.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/kali-linux.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/nessus.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/snort.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/volatility.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/yara.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/</loc></url>
-  <url><loc>https://historyofhackers.org/vulnerabilities/stuxnet-digital-weapon.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/eternalblue.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/heartbleed.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/shellshock.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/stuxnet-digital-weapon.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/krack.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/spectre-meltdown.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/stagefright.html</loc></url>
   <url><loc>https://historyofhackers.org/events/</loc></url>
   <url><loc>https://historyofhackers.org/events/defcon-hacker-conference.html</loc></url>
   <url><loc>https://historyofhackers.org/events/mit-tmrc-hacker-ethic.html</loc></url>
@@ -102,6 +110,7 @@
   <url><loc>https://historyofhackers.org/publications/hacker-manifesto-the-mentor.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/hacking-art-of-exploitation.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/phrack-magazine.html</loc></url>
+  <url><loc>https://historyofhackers.org/publications/bugtraq.html</loc></url>
   <url><loc>https://historyofhackers.org/fields/</loc></url>
   <url><loc>https://historyofhackers.org/fields/bbs-and-warez-scene.html</loc></url>
   <url><loc>https://historyofhackers.org/fields/hackers-in-film.html</loc></url>

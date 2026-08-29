@@ -1,0 +1,95 @@
+{
+  "id": "snort",
+  "type": "tool",
+  "title": "Snort",
+  "slug": "snort",
+  "era": "1998-Present",
+  "tags": [
+    "IDS",
+    "IPS",
+    "network-security",
+    "open-source",
+    "Cisco",
+    "Sourcefire",
+    "Martin Roesch",
+    "GPLv2",
+    "signature-detection"
+  ],
+  "summary": "Snort is a free, open-source network intrusion detection and prevention system created by Martin Roesch in 1998, later commercialized through his company Sourcefire and acquired by Cisco Systems in 2013 for $2.7 billion; it remains one of the most widely deployed IDS/IPS engines in the world.",
+  "whyThisMatters": "Snort is a free, open-source network intrusion detection and prevention system created by Martin Roesch in 1998, later commercialized through his company Sourcefire and acquired by Cisco Systems in 2013 for $2.7 billion; it remains one of the most widely deployed IDS/IPS engines in the world.",
+  "sections": {
+    "overview": "<p>Snort is a network intrusion detection and prevention system (IDS/IPS) originally created by Martin Roesch in 1998. Distributed under the GNU General Public License version 2 (GPLv2+), it performs real-time traffic analysis and packet logging, using a rule-based language that combines signature, protocol, and anomaly-based inspection to detect probes, attacks, buffer overflows, stealth port scans, and other malicious activity on IP networks.</p><h2>From Side Project to Company</h2><p>Roesch built Snort as an open-source packet sniffer and lightweight IDS. Its rule-based detection engine and active community of contributors, who continually submitted new detection signatures, drove rapid adoption in the security community. In 2001, Roesch founded Sourcefire, based in Columbia, Maryland, to commercialize Snort through supported appliances, subscription rule-sets, and enterprise services, while the core engine remained open source. Sourcefire went public in March 2007, raising $86.3 million in its IPO, and later expanded through acquisitions, including the ClamAV open-source antivirus project in August 2007 and cloud-based antivirus vendor Immunet in January 2011. In 2009, Snort was inducted into InfoWorld's Open Source Hall of Fame as one of the greatest open-source software projects of all time. Sourcefire's Vulnerability Research Team (VRT) became known for providing rapid zero-day protection against major malware outbreaks such as Conficker, Netsky, Blaster, and Zotob.</p><h2>Acquisition by Cisco</h2><p>Cisco Systems announced its acquisition of Sourcefire on July 23, 2013, in a deal valued at approximately $2.7 billion; the transaction closed on October 7, 2013. Following the acquisition, Sourcefire's VRT was merged with Cisco's Threat Research, Analysis, and Communications (TRAC) and Security Applications (SecApps) groups in 2014 to form Cisco Talos, which continues to maintain Snort's official rule-sets today. Snort technology also underpins Cisco's Firepower next-generation firewall and intrusion-prevention appliances.</p><h2>Snort Today</h2><p>Snort continues active development under Cisco/Talos. The legacy Snort 2.x branch reached its final release, 2.9.19.0, on December 6, 2021, while the rewritten Snort 3.x branch (C++, with a modernized architecture) has continued receiving updates. In March 2024, Cisco introduced SnortML, an open-source machine-learning detection module aimed at identifying novel exploits targeting known vulnerability classes, extending Snort's traditional signature-based approach. Cisco has also periodically published end-of-life schedules retiring older Snort 2 and Snort 3 releases as the project consolidates around actively maintained branches. Snort remains widely cited as one of the most widely deployed IDS/IPS technologies in use today.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1998",
+      "event": "Martin Roesch creates Snort as an open-source packet sniffer and lightweight intrusion detection system."
+    },
+    {
+      "date": "2001",
+      "event": "Roesch founds Sourcefire in Columbia, Maryland, to commercialize Snort."
+    },
+    {
+      "date": "2007-03",
+      "event": "Sourcefire completes its initial public offering, raising $86.3 million."
+    },
+    {
+      "date": "2007-08",
+      "event": "Sourcefire acquires the ClamAV open-source antivirus project."
+    },
+    {
+      "date": "2009",
+      "event": "Snort is inducted into InfoWorld's Open Source Hall of Fame."
+    },
+    {
+      "date": "2011-01",
+      "event": "Sourcefire acquires cloud-based antivirus vendor Immunet."
+    },
+    {
+      "date": "2013-07-23",
+      "event": "Cisco Systems announces its acquisition of Sourcefire for approximately $2.7 billion."
+    },
+    {
+      "date": "2013-10-07",
+      "event": "Cisco completes the acquisition of Sourcefire."
+    },
+    {
+      "date": "2014",
+      "event": "Sourcefire's Vulnerability Research Team merges with Cisco's TRAC and SecApps groups to form Cisco Talos."
+    },
+    {
+      "date": "2021-12-06",
+      "event": "Snort 2.9.19.0 is released, the final release in the legacy Snort 2.x branch."
+    },
+    {
+      "date": "2024-03",
+      "event": "Cisco launches SnortML, an open-source machine-learning detection engine for Snort 3."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Snort (software) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Snort_(software)"
+    },
+    {
+      "title": "Sourcefire - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sourcefire"
+    },
+    {
+      "title": "Snort Blog (blog.snort.org)",
+      "url": "https://blog.snort.org/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}
