@@ -1269,6 +1269,48 @@
     "url": "groups/cult-of-the-dead-cow-cdc.html"
   },
   {
+    "id": "cypherpunks-mailing-list",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "Cypherpunks",
+    "slug": "cypherpunks-mailing-list",
+    "era": "1992-Present",
+    "tags": [
+      "cryptography",
+      "privacy",
+      "mailing-list",
+      "PGP",
+      "crypto-wars",
+      "remailers",
+      "bitcoin-precursor",
+      "digital-rights"
+    ],
+    "summary": "The Cypherpunks were an informal collective and mailing list founded in 1992 by Eric Hughes, Timothy C. May, and John Gilmore to promote privacy through cryptography, whose members' code, essays, and debates shaped PGP adoption, the Crypto Wars, and the ideological groundwork for Bitcoin.",
+    "url": "groups/cypherpunks-mailing-list.html"
+  },
+  {
+    "id": "devcore",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "DEVCORE",
+    "slug": "devcore",
+    "era": "2012-Present",
+    "tags": [
+      "taiwan",
+      "company",
+      "red-team",
+      "penetration-testing",
+      "microsoft-exchange",
+      "proxylogon",
+      "proxyshell",
+      "pwn2own",
+      "vulnerability-research",
+      "white-hat"
+    ],
+    "summary": "DEVCORE (\u6234\u592b\u5bc7\u723e) is a Taipei-based offensive-security firm founded in 2012 as Taiwan's first company to offer red-team exercises, whose research bench \u2014 not just Orange Tsai \u2014 has produced hundreds of CVEs, the ProxyLogon/ProxyShell Exchange Server disclosures, and repeated Pwn2Own titles.",
+    "url": "groups/devcore.html"
+  },
+  {
     "id": "hitcon",
     "type": "group",
     "typeLabel": "Group",
@@ -1287,6 +1329,25 @@
     ],
     "summary": "HITCON (Hacks In Taiwan Conference) is Taiwan's longest-running vendor-neutral hacker and security conference, held annually since 2005 by the island's hacker/security community. It has grown from a single-track gathering into a multi-track event covering research talks, CTF competitions, enterprise and CISO tracks, and cyber-range training.",
     "url": "groups/hitcon.html"
+  },
+  {
+    "id": "keen-security-lab",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "Keen Security Lab",
+    "slug": "keen-security-lab",
+    "era": "2016-Present",
+    "tags": [
+      "automotive-security",
+      "connected-car",
+      "china",
+      "tencent",
+      "vulnerability-research",
+      "iot",
+      "vehicle-hacking"
+    ],
+    "summary": "Tencent Keen Security Lab is a China-based vulnerability research team best known for a series of published remote and physical attacks against Tesla, BMW, Mercedes-Benz, and Lexus vehicles, disclosed responsibly to manufacturers between 2016 and 2021.",
+    "url": "groups/keen-security-lab.html"
   },
   {
     "id": "l0pht-senate-testimony",
@@ -1321,6 +1382,30 @@
     "url": "groups/legion-of-doom-lod.html"
   },
   {
+    "id": "lulzsec",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "LulzSec",
+    "slug": "lulzsec",
+    "era": "2011",
+    "tags": [
+      "LulzSec",
+      "hacktivism",
+      "Anonymous",
+      "AntiSec",
+      "data breach",
+      "DDoS",
+      "Sabu",
+      "FBI informant",
+      "Sony breach",
+      "PBS breach",
+      "gray hat",
+      "2011"
+    ],
+    "summary": "LulzSec (Lulz Security) was a short-lived hacktivist collective active from May to June 2011, loosely linked to Anonymous, that carried out a rapid string of high-profile breaches and DDoS attacks against Sony, PBS, Fox, InfraGard, Arizona DPS, and others before publicly disbanding after 50 days.",
+    "url": "groups/lulzsec.html"
+  },
+  {
     "id": "masters-of-deception-mod",
     "type": "group",
     "typeLabel": "Group",
@@ -1335,6 +1420,65 @@
     ],
     "summary": "The story of the Masters of Deception (MOD), a New York-based hacker group whose expertise in telephony and epic rivalry with the Legion of Doom (LOD) defined an era.",
     "url": "groups/masters-of-deception-mod.html"
+  },
+  {
+    "id": "phone-losers-of-america",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "Phone Losers of America",
+    "slug": "phone-losers-of-america",
+    "era": "1994-Present",
+    "tags": [
+      "phone phreaking",
+      "prank calls",
+      "hacking zine",
+      "BBS culture",
+      "podcast",
+      "internet culture",
+      "unauthorized computer access case"
+    ],
+    "summary": "Phone Losers of America (PLA) is a long-running phone phreaking and prank-call community founded in 1994 by Brad Carter (also known online as RBCP) and a collaborator known as Zak (el_jefe), which grew from a photocopied hacking zine into an internet radio show and podcast still active today.",
+    "url": "groups/phone-losers-of-america.html"
+  },
+  {
+    "id": "project-zero",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "Project Zero",
+    "slug": "project-zero",
+    "era": "2014-Present",
+    "tags": [
+      "Google",
+      "vulnerability research",
+      "zero-day",
+      "bug bounty",
+      "responsible disclosure",
+      "security team",
+      "white hat",
+      "organization"
+    ],
+    "summary": "Project Zero is a team of security researchers employed by Google, founded in 2014 to find and privately report zero-day vulnerabilities in any software, not just Google's own, under a public 90-day disclosure deadline.",
+    "url": "groups/project-zero.html"
+  },
+  {
+    "id": "shadowcrew",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "ShadowCrew",
+    "slug": "shadowcrew",
+    "era": "2002-2004",
+    "tags": [
+      "carding",
+      "identity theft",
+      "credit card fraud",
+      "cybercrime forum",
+      "Operation Firewall",
+      "U.S. Secret Service",
+      "Albert Gonzalez",
+      "law enforcement investigation"
+    ],
+    "summary": "ShadowCrew was an online carding and identity-fraud forum active from 2002 to 2004 whose members traded stolen credit card data, forged documents, and hacking tutorials; it was dismantled in October 2004 by the U.S. Secret Service's Operation Firewall, which led to 19 federal indictments and later revealed that a top member, Albert Gonzalez, had been a cooperating government informant.",
+    "url": "groups/shadowcrew.html"
   },
   {
     "id": "wikileaks-julian-assange",
@@ -2174,6 +2318,25 @@
     "url": "publications/phrack-magazine.html"
   },
   {
+    "id": "uninformed",
+    "type": "publication",
+    "typeLabel": "Publication",
+    "title": "Uninformed",
+    "slug": "uninformed",
+    "era": "2005-2008",
+    "tags": [
+      "exploitation",
+      "reverse-engineering",
+      "vulnerability-research",
+      "windows-internals",
+      "kernel-exploitation",
+      "rootkits",
+      "ezine"
+    ],
+    "summary": "Uninformed (uninformed.org) was a technical journal published from 2005 to 2008 covering exploitation techniques, reverse engineering, and low-level Windows security research, producing 10 volumes and 47 articles before going dormant.",
+    "url": "publications/uninformed.html"
+  },
+  {
     "id": "bbs-and-warez-scene",
     "type": "field",
     "typeLabel": "Field",
@@ -2252,166 +2415,165 @@
     "url": "fields/responsible-disclosure.html"
   },
   {
-    "id": "cypherpunks-mailing-list",
-    "type": "group",
-    "typeLabel": "Group",
-    "title": "Cypherpunks",
-    "slug": "cypherpunks-mailing-list",
-    "era": "1992-Present",
+    "id": "chris-eagle",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Chris Eagle",
+    "slug": "chris-eagle",
+    "era": "1980s-Present",
     "tags": [
-      "cryptography",
-      "privacy",
-      "mailing-list",
-      "PGP",
-      "crypto-wars",
-      "remailers",
-      "bitcoin-precursor",
-      "digital-rights"
-    ],
-    "summary": "The Cypherpunks were an informal collective and mailing list founded in 1992 by Eric Hughes, Timothy C. May, and John Gilmore to promote privacy through cryptography, whose members' code, essays, and debates shaped PGP adoption, the Crypto Wars, and the ideological groundwork for Bitcoin.",
-    "url": "groups/cypherpunks-mailing-list.html"
-  },
-  {
-    "id": "devcore",
-    "type": "group",
-    "typeLabel": "Group",
-    "title": "DEVCORE",
-    "slug": "devcore",
-    "era": "2012-Present",
-    "tags": [
-      "taiwan",
-      "company",
-      "red-team",
-      "penetration-testing",
-      "microsoft-exchange",
-      "proxylogon",
-      "proxyshell",
-      "pwn2own",
-      "vulnerability-research",
-      "white-hat"
-    ],
-    "summary": "DEVCORE (\u6234\u592b\u5bc7\u723e) is a Taipei-based offensive-security firm founded in 2012 as Taiwan's first company to offer red-team exercises, whose research bench \u2014 not just Orange Tsai \u2014 has produced hundreds of CVEs, the ProxyLogon/ProxyShell Exchange Server disclosures, and repeated Pwn2Own titles.",
-    "url": "groups/devcore.html"
-  },
-  {
-    "id": "keen-security-lab",
-    "type": "group",
-    "typeLabel": "Group",
-    "title": "Keen Security Lab",
-    "slug": "keen-security-lab",
-    "era": "2016-Present",
-    "tags": [
-      "automotive-security",
-      "connected-car",
-      "china",
-      "tencent",
-      "vulnerability-research",
-      "iot",
-      "vehicle-hacking"
-    ],
-    "summary": "Tencent Keen Security Lab is a China-based vulnerability research team best known for a series of published remote and physical attacks against Tesla, BMW, Mercedes-Benz, and Lexus vehicles, disclosed responsibly to manufacturers between 2016 and 2021.",
-    "url": "groups/keen-security-lab.html"
-  },
-  {
-    "id": "lulzsec",
-    "type": "group",
-    "typeLabel": "Group",
-    "title": "LulzSec",
-    "slug": "lulzsec",
-    "era": "2011",
-    "tags": [
-      "LulzSec",
-      "hacktivism",
-      "Anonymous",
-      "AntiSec",
-      "data breach",
-      "DDoS",
-      "Sabu",
-      "FBI informant",
-      "Sony breach",
-      "PBS breach",
-      "gray hat",
-      "2011"
-    ],
-    "summary": "LulzSec (Lulz Security) was a short-lived hacktivist collective active from May to June 2011, loosely linked to Anonymous, that carried out a rapid string of high-profile breaches and DDoS attacks against Sony, PBS, Fox, InfraGard, Arizona DPS, and others before publicly disbanding after 50 days.",
-    "url": "groups/lulzsec.html"
-  },
-  {
-    "id": "phone-losers-of-america",
-    "type": "group",
-    "typeLabel": "Group",
-    "title": "Phone Losers of America",
-    "slug": "phone-losers-of-america",
-    "era": "1994-Present",
-    "tags": [
-      "phone phreaking",
-      "prank calls",
-      "hacking zine",
-      "BBS culture",
-      "podcast",
-      "internet culture",
-      "unauthorized computer access case"
-    ],
-    "summary": "Phone Losers of America (PLA) is a long-running phone phreaking and prank-call community founded in 1994 by Brad Carter (also known online as RBCP) and a collaborator known as Zak (el_jefe), which grew from a photocopied hacking zine into an internet radio show and podcast still active today.",
-    "url": "groups/phone-losers-of-america.html"
-  },
-  {
-    "id": "project-zero",
-    "type": "group",
-    "typeLabel": "Group",
-    "title": "Project Zero",
-    "slug": "project-zero",
-    "era": "2014-Present",
-    "tags": [
-      "Google",
-      "vulnerability research",
-      "zero-day",
-      "bug bounty",
-      "responsible disclosure",
-      "security team",
-      "white hat",
-      "organization"
-    ],
-    "summary": "Project Zero is a team of security researchers employed by Google, founded in 2014 to find and privately report zero-day vulnerabilities in any software, not just Google's own, under a public 90-day disclosure deadline.",
-    "url": "groups/project-zero.html"
-  },
-  {
-    "id": "shadowcrew",
-    "type": "group",
-    "typeLabel": "Group",
-    "title": "ShadowCrew",
-    "slug": "shadowcrew",
-    "era": "2002-2004",
-    "tags": [
-      "carding",
-      "identity theft",
-      "credit card fraud",
-      "cybercrime forum",
-      "Operation Firewall",
-      "U.S. Secret Service",
-      "Albert Gonzalez",
-      "law enforcement investigation"
-    ],
-    "summary": "ShadowCrew was an online carding and identity-fraud forum active from 2002 to 2004 whose members traded stolen credit card data, forged documents, and hacking tutorials; it was dismantled in October 2004 by the U.S. Secret Service's Operation Firewall, which led to 19 federal indictments and later revealed that a top member, Albert Gonzalez, had been a cooperating government informant.",
-    "url": "groups/shadowcrew.html"
-  },
-  {
-    "id": "uninformed",
-    "type": "publication",
-    "typeLabel": "Publication",
-    "title": "Uninformed",
-    "slug": "uninformed",
-    "era": "2005-2008",
-    "tags": [
-      "exploitation",
       "reverse-engineering",
-      "vulnerability-research",
-      "windows-internals",
-      "kernel-exploitation",
-      "rootkits",
-      "ezine"
+      "IDA-Pro",
+      "Ghidra",
+      "cybersecurity-education",
+      "CTF",
+      "Naval-Postgraduate-School",
+      "DARPA",
+      "malware-analysis",
+      "author"
     ],
-    "summary": "Uninformed (uninformed.org) was a technical journal published from 2005 to 2008 covering exploitation techniques, reverse engineering, and low-level Windows security research, producing 10 volumes and 47 articles before going dormant.",
-    "url": "publications/uninformed.html"
+    "summary": "Chris Eagle is a computer security researcher and long-time Computer Science faculty member at the Naval Postgraduate School, best known as the author of The IDA Pro Book, co-author of The Ghidra Book, creator of widely used IDA Pro reverse-engineering plugins, a member of DARPA's Cyber Grand Challenge Competition Framework Team, and a longtime DEF CON CTF organizer under the DDTEK banner.",
+    "url": "people/chris-eagle.html"
+  },
+  {
+    "id": "david-litchfield",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "David Litchfield",
+    "slug": "david-litchfield",
+    "era": "1975-Present",
+    "tags": [
+      "security research",
+      "vulnerability research",
+      "database security",
+      "Oracle",
+      "Microsoft SQL Server",
+      "NGSSoftware",
+      "British hacker",
+      "infosec",
+      "buffer overflow",
+      "exploit development"
+    ],
+    "summary": "David Litchfield is a British security researcher and co-founder of Next Generation Security Software (NGSSoftware), known for extensive Oracle Database and Microsoft SQL Server vulnerability research and for co-authoring \"The Shellcoder's Handbook\" and \"The Database Hacker's Handbook.\"",
+    "url": "people/david-litchfield.html"
+  },
+  {
+    "id": "marion-marschalek",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Marion Marschalek",
+    "slug": "marion-marschalek",
+    "era": "2011-Present",
+    "tags": [
+      "malware-analysis",
+      "reverse-engineering",
+      "austria",
+      "women-in-security",
+      "blackhoodie",
+      "cloud-security",
+      "open-source-tools"
+    ],
+    "summary": "Marion Marschalek is an Austrian-born reverse engineer and malware analyst whose confirmed career spans Ikarus Security Software, Intel's STORM hardware-security team, and AWS GuardDuty, and who now runs her own reverse-engineering consultancy, Hack & Cheese, while remaining active in the BlackHoodie women-in-reverse-engineering community.",
+    "url": "people/marion-marschalek.html"
+  },
+  {
+    "id": "peter-van-eeckhoutte",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Peter Van Eeckhoutte",
+    "slug": "peter-van-eeckhoutte",
+    "era": "2007-Present",
+    "tags": [
+      "exploit development",
+      "Corelan Team",
+      "security training",
+      "Belgium",
+      "memory corruption",
+      "reverse engineering"
+    ],
+    "summary": "Peter Van Eeckhoutte is a Belgian security researcher and trainer who founded the Corelan Security Team in 2009 and authored the widely used Corelan Exploit Writing Tutorials, becoming a leading figure in Windows exploit-development education.",
+    "url": "people/peter-van-eeckhoutte.html"
+  },
+  {
+    "id": "rain-forest-puppy",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Rain Forest Puppy",
+    "slug": "rain-forest-puppy",
+    "era": "1998-2002",
+    "tags": [
+      "security-research",
+      "sql-injection",
+      "vulnerability-disclosure",
+      "phrack",
+      "hacker-culture",
+      "pseudonymous",
+      "1990s",
+      "2000s"
+    ],
+    "summary": "Rain Forest Puppy (rfp) was the pseudonym of a security researcher who published one of the earliest widely-read technical descriptions of SQL injection, built the Whisker web-vulnerability scanner, and proposed RFPolicy, an early formal framework for coordinating vulnerability disclosure with vendors.",
+    "url": "people/rain-forest-puppy.html"
+  },
+  {
+    "id": "renaud-deraison",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Renaud Deraison",
+    "slug": "renaud-deraison",
+    "era": "1998-Present",
+    "tags": [
+      "Nessus",
+      "Tenable",
+      "vulnerability-management",
+      "cybersecurity-entrepreneur",
+      "France",
+      "CVE",
+      "SecurityScorecard",
+      "Sekoia.io",
+      "patents",
+      "chief-technology-officer"
+    ],
+    "summary": "Renaud Deraison is a French-born security researcher who created the Nessus vulnerability scanner as a lyc\u00e9e student in 1998 and went on to co-found Tenable Network Security in 2002, serving as the company's chief technology officer through its 2018 Nasdaq IPO before moving into advisory and board roles across the cybersecurity industry.",
+    "url": "people/renaud-deraison.html"
+  },
+  {
+    "id": "roberto-preatoni",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Roberto Preatoni",
+    "slug": "roberto-preatoni",
+    "era": "2002-Present",
+    "tags": [
+      "hacker",
+      "security researcher",
+      "penetration tester",
+      "Zone-H",
+      "website defacement",
+      "Italy",
+      "internet entrepreneur",
+      "WabiSabiLabi",
+      "Telecom Italia scandal"
+    ],
+    "summary": "Italian penetration tester and internet entrepreneur best known as the founder of Zone-H, the long-running website-defacement archive, and of WabiSabiLabi, an early online vulnerability marketplace; in November 2007 he was arrested in Milan as part of the wide-ranging Telecom Italia \"Tiger Team\" wiretapping and corporate-espionage investigation.",
+    "url": "people/roberto-preatoni.html"
+  },
+  {
+    "id": "silvio-cesare",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Silvio Cesare",
+    "slug": "silvio-cesare",
+    "era": "1993-Present",
+    "tags": [
+      "security-researcher",
+      "malware-research",
+      "virus-research",
+      "phrack",
+      "academia",
+      "australia",
+      "software-similarity"
+    ],
+    "summary": "Silvio Cesare is an Australian security researcher active since the early 1990s, known for Phrack articles on binary infection techniques, a Snort IDS-evasion discovery, and later academic work on malware classification at Deakin University; he now runs the Canberra security firm InfoSect.",
+    "url": "people/silvio-cesare.html"
   }
 ]

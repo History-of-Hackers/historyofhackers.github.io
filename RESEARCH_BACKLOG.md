@@ -199,6 +199,19 @@ not add a name just to fill a country slot.
 | Ekoparty (conference) | Long-running Argentina/LatAm security conference — verify as an event/conference entry | Argentina | See `data/events/ekoparty.json` — PUBLISHED |
 | Andres Riancho | w3af web-app scanner creator | Argentina | See `data/people/andres-riancho.json` — PUBLISHED |
 
+### Oceania / Continental Europe / additional research (self-sourced batch, deliberate regional diversification beyond the original candidate list above)
+
+| Candidate | Reason | Country | Status |
+|---|---|---|---|
+| Silvio Cesare | Phrack ELF/PLT-infection research, Snort IDS-evasion discovery, InfoSect founder | Australia | See `data/people/silvio-cesare.json` — PUBLISHED |
+| Chris Eagle | "The IDA Pro Book" / "The Ghidra Book" author, DARPA Cyber Grand Challenge, DEF CON CTF (DDTEK) organizer | US | See `data/people/chris-eagle.json` — PUBLISHED |
+| Rain Forest Puppy (rfp) | Early public SQL injection documentation (Phrack, 1998), Whisker scanner, RFPolicy disclosure framework — pseudonymous, real identity unconfirmed/disputed | US | See `data/people/rain-forest-puppy.json` — PUBLISHED |
+| David Litchfield | NGSSoftware co-founder, Oracle/SQL Server vulnerability research, SQL Slammer-linked disclosure, "Shellcoder's Handbook" co-author | UK | See `data/people/david-litchfield.json` — PUBLISHED |
+| Marion Marschalek | Malware reverse engineer (Ikarus, Intel STORM, AWS GuardDuty), BlackHoodie contributor | Austria | See `data/people/marion-marschalek.json` — PUBLISHED |
+| Peter Van Eeckhoutte | Corelan Security Team founder, Corelan Exploit Writing Tutorials, mona.py | Belgium | See `data/people/peter-van-eeckhoutte.json` — PUBLISHED |
+| Renaud Deraison | Nessus creator, Tenable co-founder/CTO (standalone person page; tool history remains in the Nessus tool entry) | France | See `data/people/renaud-deraison.json` — PUBLISHED |
+| Roberto Preatoni | Zone-H founder, WabiSabiLabi co-founder, Telecom Italia "Tiger Team" wiretapping case defendant — legal outcome specific to him not documented, treated as unverified | Italy | See `data/people/roberto-preatoni.json` — PUBLISHED |
+
 ## Fiction / Pop Culture (separate taxonomy — NOT historical entries)
 
 Per maintainer request, `/fiction/` is a deliberately separate section for

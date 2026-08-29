@@ -1,0 +1,110 @@
+{
+  "id": "david-litchfield",
+  "type": "person",
+  "title": "David Litchfield",
+  "slug": "david-litchfield",
+  "era": "1975-Present",
+  "tags": [
+    "security research",
+    "vulnerability research",
+    "database security",
+    "Oracle",
+    "Microsoft SQL Server",
+    "NGSSoftware",
+    "British hacker",
+    "infosec",
+    "buffer overflow",
+    "exploit development"
+  ],
+  "summary": "David Litchfield is a British security researcher and co-founder of Next Generation Security Software (NGSSoftware), known for extensive Oracle Database and Microsoft SQL Server vulnerability research and for co-authoring \"The Shellcoder's Handbook\" and \"The Database Hacker's Handbook.\"",
+  "whyThisMatters": "David Litchfield is a British security researcher and co-founder of Next Generation Security Software (NGSSoftware), known for extensive Oracle Database and Microsoft SQL Server vulnerability research and for co-authoring \"The Shellcoder's Handbook\" and \"The Database Hacker's Handbook.\"",
+  "sections": {
+    "overview": "<p>David Litchfield is a British computer security researcher best known for extensive vulnerability research into Oracle Database and Microsoft SQL Server, and for co-founding the security consultancy Next Generation Security Software (NGSSoftware, later known as NGS). Along with his brother Mark Litchfield, he was named among the \"World's Best Bug Hunters\" by <em>Information Security</em> magazine in December 2003.</p><h2>Early career and Cerberus</h2><p>Before founding NGSSoftware, Litchfield established Cerberus Information Security, a UK-based security consultancy of unrecorded founding date. Cerberus was acquired by the U.S. security firm @stake in 2000. He subsequently co-founded Next Generation Security Software (around 2001, per Wikipedia) alongside colleagues and family members, reportedly including his brother Mark and his father.</p><h2>SQL Server research and the SQL Slammer worm</h2><p>In July 2002, Litchfield presented proof-of-concept exploit code for a buffer-overflow vulnerability in Microsoft SQL Server 2000 at the Black Hat Briefings. Per Wikipedia's account of the SQL Slammer worm, that code became the template for the worm that spread rapidly across the internet on January 25, 2003, exploiting the underlying flaw (CVE-2002-0649) roughly six months after Microsoft had already made a patch available. Litchfield's disclosure and demonstration predate and are distinct from the worm itself, which was written and released by unknown parties; the episode is frequently cited as an early, stark illustration of the gap between patch availability and real-world exploitation.</p><h2>Database security research and publications</h2><p>Litchfield built a reputation as one of the most prolific researchers targeting commercial database software, credited with discovering large numbers of flaws in Oracle, Microsoft, and IBM products over the course of his career. He later focused increasingly on Oracle database forensics, publishing a multi-part \"Oracle Forensics\" whitepaper series and developing an open-source tool called the Forensic Examiner's Database Scalpel (F.E.D.S).</p><p>He co-authored <em>The Shellcoder's Handbook: Discovering and Exploiting Security Holes</em> (Wiley, 2004) with Jack Koziol, Dave Aitel, Chris Anley, Sinan \"noir\" Eren, Neel Mehta, and Riley Hassell. He also co-authored <em>The Database Hacker's Handbook: Defending Database Servers</em> (Wiley, 2005) with Chris Anley, John Heasman, and Bill Grindlay, and wrote <em>The Oracle Hacker's Handbook: Hacking and Defending Oracle</em> (Wiley, 2007) as sole author, in addition to contributing to <em>SQL Server Security</em>.</p><h2>Recognition and later career</h2><p>NGSSoftware received several industry and national honors during Litchfield's tenure, including the Queen's Award for Enterprise (2007) and an SC Award for Best Security Company in Europe (2008). Wikipedia's article on Litchfield also states he later held the title \"Director of Information Security Assurance\" at Apple; this specific claim could not be independently corroborated during this research (no second source was found) and should be treated as unverified. Likewise, his exact birth date and the precise founding date of NGSSoftware are not firmly pinned down in available sourcing \u2014 only the birth year (1975) and an approximate founding year (2001) are given by Wikipedia, which itself carries no inline citations for several biographical details.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2000",
+      "event": "Cerberus Information Security, the consultancy Litchfield had founded, was acquired by @stake."
+    },
+    {
+      "date": "2001",
+      "event": "Co-founded Next Generation Security Software (NGSSoftware) with brother Mark Litchfield and reportedly other family members (year approximate, per Wikipedia)."
+    },
+    {
+      "date": "2002-07",
+      "event": "Presented proof-of-concept exploit code for a Microsoft SQL Server 2000 buffer-overflow vulnerability at Black Hat Briefings."
+    },
+    {
+      "date": "2003-01-25",
+      "event": "SQL Slammer worm spreads globally, based on the buffer-overflow flaw (CVE-2002-0649) Litchfield had disclosed and demonstrated."
+    },
+    {
+      "date": "2003-12",
+      "event": "Named, with brother Mark Litchfield, among 'World's Best Bug Hunters' by Information Security magazine."
+    },
+    {
+      "date": "2004",
+      "event": "Co-authored The Shellcoder's Handbook: Discovering and Exploiting Security Holes (Wiley)."
+    },
+    {
+      "date": "2005",
+      "event": "Co-authored The Database Hacker's Handbook: Defending Database Servers (Wiley)."
+    },
+    {
+      "date": "2007",
+      "event": "Authored The Oracle Hacker's Handbook: Hacking and Defending Oracle (Wiley); NGSSoftware received the Queen's Award for Enterprise."
+    },
+    {
+      "date": "2008",
+      "event": "NGSSoftware received an International Trade Award for Innovation and an SC Award for Best Security Company in Europe."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "David Litchfield - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/David_Litchfield"
+    },
+    {
+      "title": "SQL Slammer - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SQL_Slammer"
+    },
+    {
+      "title": "The Shellcoder's Handbook - Open Library",
+      "url": "https://openlibrary.org/works/OL18539531W/The_shellcoder's_handbook"
+    },
+    {
+      "title": "The Database Hacker's Handbook - Open Library",
+      "url": "https://openlibrary.org/works/OL23935005W/The_database_hacker's_handbook"
+    },
+    {
+      "title": "The Oracle Hacker's Handbook - Open Library",
+      "url": "https://openlibrary.org/works/OL18813100W"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 5,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "David Litchfield",
+  "born": "1975",
+  "died": null,
+  "knownFor": [
+    "Discovering the Microsoft SQL Server 2000 buffer-overflow vulnerability whose proof-of-concept exploit code, presented at Black Hat in July 2002, became the basis for the January 2003 SQL Slammer worm",
+    "Co-founding Next Generation Security Software (NGSSoftware) with his brother Mark Litchfield",
+    "Founding Cerberus Information Security, later acquired by @stake in 2000",
+    "Discovering large numbers of vulnerabilities in Oracle, Microsoft, and IBM database products over his career",
+    "Co-authoring The Shellcoder's Handbook: Discovering and Exploiting Security Holes (Wiley, 2004)",
+    "Co-authoring The Database Hacker's Handbook: Defending Database Servers (Wiley, 2005)",
+    "Authoring The Oracle Hacker's Handbook: Hacking and Defending Oracle (Wiley, 2007)",
+    "Publishing a multi-part \"Oracle Forensics\" whitepaper series and developing the Forensic Examiner's Database Scalpel (F.E.D.S) tool",
+    "Named, with his brother Mark, among the \"World's Best Bug Hunters\" by Information Security magazine (December 2003)"
+  ]
+}

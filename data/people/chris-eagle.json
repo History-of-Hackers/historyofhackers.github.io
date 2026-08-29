@@ -1,0 +1,131 @@
+{
+  "id": "chris-eagle",
+  "type": "person",
+  "title": "Chris Eagle",
+  "slug": "chris-eagle",
+  "era": "1980s-Present",
+  "tags": [
+    "reverse-engineering",
+    "IDA-Pro",
+    "Ghidra",
+    "cybersecurity-education",
+    "CTF",
+    "Naval-Postgraduate-School",
+    "DARPA",
+    "malware-analysis",
+    "author"
+  ],
+  "summary": "Chris Eagle is a computer security researcher and long-time Computer Science faculty member at the Naval Postgraduate School, best known as the author of The IDA Pro Book, co-author of The Ghidra Book, creator of widely used IDA Pro reverse-engineering plugins, a member of DARPA's Cyber Grand Challenge Competition Framework Team, and a longtime DEF CON CTF organizer under the DDTEK banner.",
+  "whyThisMatters": "Chris Eagle is a computer security researcher and long-time Computer Science faculty member at the Naval Postgraduate School, best known as the author of The IDA Pro Book, co-author of The Ghidra Book, creator of widely used IDA Pro reverse-engineering plugins, a member of DARPA's Cyber Grand Challenge Competition Framework Team, and a longtime DEF CON CTF organizer under the DDTEK banner.",
+  "sections": {
+    "overview": "<p>Chris Eagle is an American computer security researcher and educator known for decades of practical and academic work in software reverse engineering. He has taught in the Computer Science Department at the Naval Postgraduate School (NPS) in Monterey, California; a 2008 DEF CON speaker biography describes him as Associate Chairman of that department, while his publisher's more recent author bio identifies him as Senior Lecturer of Computer Science at NPS. Neither source gives an exact start or end date for his tenure, and he does not currently appear on NPS's public faculty-listing pages.</p><p>Eagle is best known outside academia as the sole author of <em>The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler</em> (No Starch Press), published in a first edition in June 2008 and a revised second edition in 2011. For years it served as the standard reference for IDA Pro, the disassembler and interactive debugger central to binary reverse-engineering work. In 2020 he returned to the same territory with <em>The Ghidra Book: The Definitive Guide</em>, co-written with Kara Nance, covering the NSA's open-source Ghidra suite. Open Library's edition records also credit him as an author on the original 2004 first edition and the 2015 fourth edition of the long-running, multi-author reference <em>Gray Hat Hacking: The Ethical Hacker's Handbook</em> (he is not listed on the 2nd, 3rd, or 5th editions).</p><p>Under the GitHub handle \"cseagle,\" Eagle built and released a series of practical reverse-engineering tools, including sk3wldbg, an IDA Pro debugger plugin backed by the Unicorn emulation engine; the earlier x86emu embedded emulator; collabREate, enabling multi-analyst collaborative reversing sessions inside IDA Pro; and blc, which integrates Ghidra's decompiler as an IDA Pro plugin. Note: the IDA Pro plugin \"IDA Sploiter\" is sometimes associated with Eagle in casual references, but it was in fact authored by a different researcher, Peter Kacherginsky (GitHub handle \"iphelix\"), and does not appear among Eagle's own repositories.</p><p>Eagle has a long history in competitive and organized hacking. DARPA's own promotional video for its 2016 Cyber Grand Challenge \u2014 the first all-machine hacking competition, held alongside DEF CON 24 \u2014 identifies him as a member of the event's Competition Framework Team, explaining the design's \"consensus evaluation\" mechanism; he also gave a related talk at ShmooCon 2017 on designing and executing the competition. Separately, at DEF CON 25 (2017) he appeared on a panel of long-running CTF organizers representing \"DDTEK,\" the crew that ran the DEF CON CTF contest itself for several years, and he built or contributed IDA and infrastructure tooling used in later DEF CON CTF finals, including a loader for DARPA CGC binaries and tools for the 2017 finals' custom \"cLEMENCy\" architecture. He has also spoken at DEF CON on multiple other occasions, including DEF CON 14 (2006) and DEF CON 16 (2008, with Tim Vidas, on collaborative reversing with IDA Pro and collabREate). No dedicated Wikipedia article exists for him as of this writing, and his formal educational background could not be independently verified from available sources.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2004",
+      "event": "Credited as an author on the first edition of Gray Hat Hacking: The Ethical Hacker's Handbook."
+    },
+    {
+      "date": "2006",
+      "event": "Speaks at DEF CON 14 (\"Ripples in the Gene Pool\")."
+    },
+    {
+      "date": "2008-06-15",
+      "event": "The IDA Pro Book, 1st edition, published by No Starch Press."
+    },
+    {
+      "date": "2008",
+      "event": "Speaks at DEF CON 16 with Tim Vidas on \"Next Generation Collaborative Reversing with Ida Pro and CollabREate\"; bio lists him as Associate Chairman of the Computer Science Department at the Naval Postgraduate School."
+    },
+    {
+      "date": "2011",
+      "event": "The IDA Pro Book, 2nd edition, published by No Starch Press."
+    },
+    {
+      "date": "2015",
+      "event": "Credited as an author on the fourth edition of Gray Hat Hacking: The Ethical Hacker's Handbook."
+    },
+    {
+      "date": "2016",
+      "event": "Serves on DARPA's Cyber Grand Challenge Competition Framework Team (DEF CON 24); also speaks at DEF CON 24 on the sk3wldbg IDA Pro emulation plugin."
+    },
+    {
+      "date": "2017",
+      "event": "Speaks at ShmooCon on designing and executing the DARPA Cyber Grand Challenge; appears on a DEF CON 25 panel of DEF CON CTF organizers representing \"DDTEK\"; releases IDA tooling (ida_clemency) for that year's CTF finals."
+    },
+    {
+      "date": "2020",
+      "event": "The Ghidra Book: The Definitive Guide, co-authored with Kara Nance, published by No Starch Press."
+    },
+    {
+      "date": "2022",
+      "event": "Publishes infrastructure/challenge code for the DEF CON 30 CTF finals' \"LiveCTF\" event."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "No Starch Press - The IDA Pro Book, 2nd Edition (author bio)",
+      "url": "https://nostarch.com/idapro2.htm"
+    },
+    {
+      "title": "DEF CON 16 (2008) Speaker Archive - Chris Eagle bio",
+      "url": "https://www.defcon.org/html/defcon-16/dc-16-speakers.html"
+    },
+    {
+      "title": "DEF CON 24 (2016) Speaker Archive - Chris Eagle bio",
+      "url": "https://www.defcon.org/html/defcon-24/dc-24-speakers.html"
+    },
+    {
+      "title": "DEF CON CTF Archive (organizer history)",
+      "url": "https://www.defcon.org/html/links/dc-ctf.html"
+    },
+    {
+      "title": "DARPA - Chris Eagle on Consensus Evaluation (Cyber Grand Challenge)",
+      "url": "https://www.youtube.com/watch?v=WWG8YKfisMw"
+    },
+    {
+      "title": "DEF CON 25 - \"The Last CTF Talk You'll Ever Need\" (panel incl. Chris Eagle/DDTEK)",
+      "url": "https://www.youtube.com/watch?v=i21lz91Hn_E"
+    },
+    {
+      "title": "GitHub - cseagle (Chris Eagle) repositories",
+      "url": "https://github.com/cseagle"
+    },
+    {
+      "title": "Open Library - The IDA Pro Book (editions)",
+      "url": "https://openlibrary.org/works/OL282990W"
+    },
+    {
+      "title": "Open Library - The Ghidra Book",
+      "url": "https://openlibrary.org/works/OL21686152W"
+    },
+    {
+      "title": "Open Library - Gray Hat Hacking: The Ethical Hacker's Handbook (edition/author records)",
+      "url": "https://openlibrary.org/works/OL15111477W/editions.json"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 10,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Chris Eagle",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Author of The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler (No Starch Press; 1st ed. 2008, 2nd ed. 2011), sole-authored both editions",
+    "Co-author, with Kara Nance, of The Ghidra Book: The Definitive Guide (No Starch Press, 2020)",
+    "Credited author on the 1st edition (2004) and 4th edition (2015) of the multi-author text Gray Hat Hacking: The Ethical Hacker's Handbook",
+    "Creator/maintainer (GitHub: cseagle) of widely used IDA Pro reverse-engineering plugins, including sk3wldbg (a Unicorn-Engine-backed emulating debugger), x86emu, collabREate (collaborative reverse engineering), fREedom, blc (a Ghidra-decompiler bridge for IDA), and patchdiff2",
+    "Computer Science faculty at the Naval Postgraduate School (NPS), Monterey, CA -- described in his 2008 DEF CON bio as Associate Chairman of the department, and in his publisher (No Starch Press) bio as Senior Lecturer of Computer Science",
+    "Member of the DARPA Cyber Grand Challenge (2016) 'Competition Framework Team,' as stated in DARPA's own published video on the event",
+    "Longtime DEF CON CTF organizer representing the \"DDTEK\" organizing crew, per DEF CON 25's own 'over 20 years of CTF organizers' panel; built IDA tooling (ida_clemency, cgc_ldr, LiveCTF-DEFCON30 infrastructure) supporting later DEF CON CTF finals"
+  ]
+}
