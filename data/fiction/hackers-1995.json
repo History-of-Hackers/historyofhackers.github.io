@@ -1,0 +1,79 @@
+{
+  "id": "hackers-1995",
+  "type": "fiction",
+  "title": "Hackers",
+  "work": "Hackers (1995 film)",
+  "releaseYear": "1995",
+  "creator": "Directed by Iain Softley",
+  "summary": "A 1995 techno-thriller about a crew of young New York hackers framed for a corporate embezzlement scheme who must out-hack the real perpetrator to clear their names; a box-office flop and critical punching bag on release, it became a touchstone cult classic credited with shaping hacker/cyberpunk fashion and attitude in pop culture.",
+  "sections": {
+    "overview": "<p>Directed by Iain Softley from a screenplay by Rafael Moreu, <em>Hackers</em> was released in the United States on September 15, 1995. It stars Jonny Lee Miller as Dade &quot;Zero Cool&quot;/&quot;Crash Override&quot; Murphy and Angelina Jolie, in one of her first lead roles, as Kate &quot;Acid Burn&quot; Libby, alongside Fisher Stevens as antagonist Eugene &quot;The Plague&quot; Belford. Rather than CGI, the stylized &quot;cyberspace&quot; visuals used motion control, animation, models, and rotoscoping.</p><h2>Real-World Hacking Connections</h2><p>The film's best-documented real-world hacking connection is Mark Abene, the New York hacker known as &quot;Phiber Optik,&quot; who had spent much of 1994 in prison for computer trespass. Abene has said on the record that screenwriter Rafael Moreu spent time with him and other hackers in the East Village while developing the script. Separately, the character name Emmanuel Goldstein doubles as an in-joke reference to Eric Corley, the real-life publisher of <em>2600: The Hacker Quarterly</em>, who is listed as an uncredited consultant on the film. A widely repeated but unconfirmed claim is that Kevin Mitnick also consulted on the production; an unqualified &quot;consultant&quot; credit appears on IMDb's crew listing, but no interview or journalistic source corroborates the claim or reconciles it with Mitnick's arrest by the FBI in February 1995, roughly midway through the film's production &mdash; so this specific claim should be treated as disputed rather than established fact.</p><h2>Reception and Legacy</h2><p>Critical reception at release was mixed-to-negative, and it was a box-office failure, earning roughly $7.5 million domestically against a $20 million budget. Despite that rocky debut, <em>Hackers</em> built a lasting cult following, especially among teenage and hacker-adjacent audiences who embraced its neon cyber-goth wardrobe, techno soundtrack, and quotable lines like &quot;Hack the planet!&quot; The film is still cited in hacker and security circles as an influential, if technically fanciful, artifact of how 1990s pop culture imagined hacking.</p>"
+  },
+  "characters": [
+    {
+      "name": "Dade Murphy",
+      "alias": "Zero Cool / Crash Override",
+      "actor": "Jonny Lee Miller",
+      "description": "The protagonist, banned from using computers as a child after crashing 1,507 systems; as a teenager in New York he resumes hacking under a new alias and leads the group's effort to expose Belford's scheme."
+    },
+    {
+      "name": "Kate Libby",
+      "alias": "Acid Burn",
+      "actor": "Angelina Jolie",
+      "description": "A skilled rival-turned-ally hacker who competes with and eventually partners with Dade, helping the crew uncover and broadcast evidence of Belford's embezzlement plot."
+    },
+    {
+      "name": "Emmanuel Goldstein",
+      "alias": "Cereal Killer",
+      "actor": "Matthew Lillard",
+      "description": "An eccentric, comic-relief member of the hacker crew with phone-phreaking and computer skills; his name is an in-film homage to 2600 Magazine publisher Eric Corley, who used the same pseudonym."
+    },
+    {
+      "name": "Paul Cook",
+      "alias": "Lord Nikon",
+      "actor": "Laurence Mason",
+      "description": "A hacker crew member known for his photographic (eidetic) memory, useful for recalling passwords and data."
+    },
+    {
+      "name": "Ram\u00f3n S\u00e1nchez",
+      "alias": "The Phantom Phreak",
+      "actor": "Renoly Santiago",
+      "description": "A hacker crew member who specializes in phone phreaking, manipulating telephone systems to aid the group's operations."
+    },
+    {
+      "name": "Joey Pardella",
+      "alias": null,
+      "actor": "Jesse Bradford",
+      "description": "The youngest and least experienced member of the group, eager to prove himself; his download of a corrupted file from Ellingson Mineral Corporation sets the plot in motion."
+    },
+    {
+      "name": "Eugene Belford",
+      "alias": "The Plague",
+      "actor": "Fisher Stevens",
+      "description": "The film's antagonist, Ellingson Mineral Corporation's head of computer security, who embezzles company funds via a hidden worm and frames the young hackers to cover his tracks."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hackers (film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hackers_(film)"
+    },
+    {
+      "title": "Hackers (1995) - Rotten Tomatoes",
+      "url": "https://www.rottentomatoes.com/m/hackers"
+    },
+    {
+      "title": "The Weird True Story Behind 'Hackers' - Slashfilm oral history",
+      "url": "https://www.slashfilm.com/541326/hackers-oral-history/"
+    },
+    {
+      "title": "Hackers movie review - Roger Ebert (1995)",
+      "url": "https://www.rogerebert.com/reviews/hackers-1995"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "reviewStatus": "PUBLISHED"
+  }
+}
