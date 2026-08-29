@@ -392,6 +392,23 @@
     "url": "people/james-kettle.html"
   },
   {
+    "id": "jeff-moss",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jeff Moss",
+    "slug": "jeff-moss",
+    "era": "1990s-Present",
+    "tags": [
+      "Dark Tangent",
+      "DEF CON",
+      "Black Hat",
+      "ICANN",
+      "cybersecurity policy"
+    ],
+    "summary": "Jeff Moss, known by the handle 'The Dark Tangent,' founded the DEF CON and Black Hat Briefings security conferences and later moved into institutional roles including ICANN Chief Security Officer and U.S. Department of Homeland Security Advisory Council member, becoming one of the clearest examples of a hacker-scene figure crossing into mainstream security and internet-governance institutions.",
+    "url": "people/jeff-moss.html"
+  },
+  {
     "id": "jeremiah-grossman",
     "type": "person",
     "typeLabel": "Person",
@@ -592,6 +609,23 @@
     "url": "people/marcus-hutchins-wannacry.html"
   },
   {
+    "id": "marcus-ranum",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Marcus Ranum",
+    "slug": "marcus-ranum",
+    "era": "1980s-Present",
+    "tags": [
+      "firewalls",
+      "network security",
+      "intrusion detection",
+      "TIS Firewall Toolkit",
+      "NFR Security"
+    ],
+    "summary": "Marcus J. Ranum is an American computer security researcher and engineer credited with designing some of the earliest commercial firewall systems and later founding a pioneering network intrusion-detection company, making him one of the formative figures in modern network perimeter security.",
+    "url": "people/marcus-ranum.html"
+  },
+  {
     "id": "michal-zalewski",
     "type": "person",
     "typeLabel": "Person",
@@ -714,6 +748,23 @@
     ],
     "summary": "The story of how hacker Richard Stallman launched the Free Software Movement and the GNU Project, creating the philosophical and legal foundations for open source.",
     "url": "people/richard-stallman-gnu.html"
+  },
+  {
+    "id": "robert-hansen",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Robert Hansen",
+    "slug": "robert-hansen",
+    "era": "2000s-Present",
+    "tags": [
+      "XSS",
+      "web application security",
+      "clickjacking",
+      "ha.ckers.org",
+      "Slowloris"
+    ],
+    "summary": "Robert Hansen, known by the handle 'RSnake,' is a web application security researcher who built the influential ha.ckers.org security community and XSS Cheat Sheet, co-coined the term 'clickjacking' with Jeremiah Grossman in 2008, and created the Slowloris denial-of-service tool.",
+    "url": "people/robert-hansen.html"
   },
   {
     "id": "robert-tappan-morris",
@@ -839,6 +890,24 @@
     ],
     "summary": "A computational physicist and security researcher at the San Diego Supercomputer Center, Shimomura became internationally known after a December 1994 attack on his own home systems led him to help the FBI track and arrest fugitive hacker Kevin Mitnick, a chase he later recounted in the book Takedown.",
     "url": "people/tsutomu-shimomura.html"
+  },
+  {
+    "id": "window-snyder",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Window Snyder",
+    "slug": "window-snyder",
+    "era": "1990s-Present",
+    "tags": [
+      "security architecture",
+      "threat modeling",
+      "Microsoft",
+      "Mozilla",
+      "Apple",
+      "CISO"
+    ],
+    "summary": "Window Snyder is a security engineer and executive who rose from the 1990s Boston hacker scene through @stake and Microsoft's Trustworthy Computing initiative to become one of the most senior women in security leadership, later holding chief security roles at Mozilla, Apple, Fastly, Intel, and Square/Block.",
+    "url": "people/window-snyder.html"
   },
   {
     "id": "anonymous-hacktivism",
@@ -1315,72 +1384,87 @@
     "url": "fields/responsible-disclosure.html"
   },
   {
-    "id": "jeff-moss",
+    "id": "casey-ellis",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Jeff Moss",
-    "slug": "jeff-moss",
-    "era": "1990s-Present",
+    "title": "Casey Ellis",
+    "slug": "casey-ellis",
+    "era": "2010s-Present",
     "tags": [
-      "Dark Tangent",
-      "DEF CON",
-      "Black Hat",
-      "ICANN",
-      "cybersecurity policy"
+      "bug bounty",
+      "Bugcrowd",
+      "crowdsourced security",
+      "vulnerability disclosure",
+      "disclose.io"
     ],
-    "summary": "Jeff Moss, known by the handle 'The Dark Tangent,' founded the DEF CON and Black Hat Briefings security conferences and later moved into institutional roles including ICANN Chief Security Officer and U.S. Department of Homeland Security Advisory Council member, becoming one of the clearest examples of a hacker-scene figure crossing into mainstream security and internet-governance institutions.",
-    "url": "people/jeff-moss.html"
+    "summary": "Casey Ellis is an Australian security researcher and entrepreneur who founded Bugcrowd in 2012, one of the first companies to commercialize crowdsourced bug bounty and vulnerability disclosure programs, helping mainstream the practice across the cybersecurity industry.",
+    "url": "people/casey-ellis.html"
   },
   {
-    "id": "marcus-ranum",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Marcus Ranum",
-    "slug": "marcus-ranum",
-    "era": "1980s-Present",
+    "id": "frida",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Frida",
+    "slug": "frida",
+    "era": "2013-Present",
     "tags": [
-      "firewalls",
-      "network security",
-      "intrusion detection",
-      "TIS Firewall Toolkit",
-      "NFR Security"
+      "dynamic instrumentation",
+      "reverse engineering",
+      "mobile security",
+      "open source"
     ],
-    "summary": "Marcus J. Ranum is an American computer security researcher and engineer credited with designing some of the earliest commercial firewall systems and later founding a pioneering network intrusion-detection company, making him one of the formative figures in modern network perimeter security.",
-    "url": "people/marcus-ranum.html"
+    "summary": "Frida is an open-source, JavaScript-scriptable dynamic instrumentation toolkit created by Norwegian developer Ole Andr\u00e9 Vadla Ravn\u00e5s, which lets researchers inject code into running processes on the fly to hook functions and inspect behavior without source code, becoming a foundational tool in mobile app reverse engineering and bug bounty hunting.",
+    "url": "tools/frida.html"
   },
   {
-    "id": "robert-hansen",
+    "id": "hashcat",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Hashcat",
+    "slug": "hashcat",
+    "era": "2010s-Present",
+    "tags": [
+      "password cracking",
+      "GPU computing",
+      "open source",
+      "penetration testing"
+    ],
+    "summary": "Hashcat is the world's most widely used GPU-accelerated password recovery tool, created by Jens 'atom' Steube; by proving that consumer graphics cards could crack password hashes orders of magnitude faster than CPUs, it reshaped both offensive password auditing and defensive password-hashing practice.",
+    "url": "tools/hashcat.html"
+  },
+  {
+    "id": "jan-krissler",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Robert Hansen",
-    "slug": "robert-hansen",
+    "title": "Jan Krissler",
+    "slug": "jan-krissler",
     "era": "2000s-Present",
     "tags": [
-      "XSS",
-      "web application security",
-      "clickjacking",
-      "ha.ckers.org",
-      "Slowloris"
+      "Chaos Computer Club",
+      "biometrics",
+      "fingerprint spoofing",
+      "Touch ID",
+      "iris recognition",
+      "Germany"
     ],
-    "summary": "Robert Hansen, known by the handle 'RSnake,' is a web application security researcher who built the influential ha.ckers.org security community and XSS Cheat Sheet, co-coined the term 'clickjacking' with Jeremiah Grossman in 2008, and created the Slowloris denial-of-service tool.",
-    "url": "people/robert-hansen.html"
+    "summary": "Jan Krissler, known by the handle 'Starbug', is a German security researcher and long-time Chaos Computer Club member whose public demonstrations against fingerprint and iris authentication systems \u2014 including defeating Apple's Touch ID days after its 2013 launch and reconstructing a German cabinet minister's fingerprint from photographs in 2014 \u2014 became landmark illustrations of the fragility of biometric security.",
+    "url": "people/jan-krissler.html"
   },
   {
-    "id": "window-snyder",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Window Snyder",
-    "slug": "window-snyder",
-    "era": "1990s-Present",
+    "id": "radare2",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "radare2",
+    "slug": "radare2",
+    "era": "2006-Present",
     "tags": [
-      "security architecture",
-      "threat modeling",
-      "Microsoft",
-      "Mozilla",
-      "Apple",
-      "CISO"
+      "reverse engineering",
+      "disassembler",
+      "open source",
+      "CTF",
+      "binary analysis"
     ],
-    "summary": "Window Snyder is a security engineer and executive who rose from the 1990s Boston hacker scene through @stake and Microsoft's Trustworthy Computing initiative to become one of the most senior women in security leadership, later holding chief security roles at Mozilla, Apple, Fastly, Intel, and Square/Block.",
-    "url": "people/window-snyder.html"
+    "summary": "radare2 is a free, open-source, command-line-first reverse-engineering framework created by Sergi 'pancake' Alvarez, valued for turning binary disassembly, debugging, and forensic analysis into a fully scriptable, cross-platform toolchain that anyone can inspect, extend, and run without a commercial license.",
+    "url": "tools/radare2.html"
   }
 ]

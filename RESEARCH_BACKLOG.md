@@ -88,7 +88,7 @@ not use this list to justify skipping verification.
 | Kevin Mahaffey | Lookout Mobile Security co-founder | Mobile Security | TODO |
 | Zach Lanier | Mobile/IoT security research | Mobile / IoT Security | TODO |
 | Kymberlee Price | Vulnerability coordination / bug bounty program leadership | Bug Bounty | TODO |
-| Casey Ellis | Bugcrowd founder | Bug Bounty | TODO |
+| Casey Ellis | Bugcrowd founder, disclose.io co-founder | Bug Bounty | See `data/people/casey-ellis.json` — PUBLISHED |
 | Alex Rice | HackerOne co-founder | Bug Bounty | TODO |
 | Michael "Mudge" Zatko | Already published — cross-link only | (published) | PUBLISHED |
 | Gordon "Fyodor" Lyon | Nmap creator, standalone person page | Network Security Tools | See `data/people/gordon-lyon.json` — PUBLISHED |
@@ -112,7 +112,7 @@ not use this list to justify skipping verification.
 | Ralf-Philipp Weinmann | GSM baseband exploitation, mobile security research | Mobile Security / Germany-Luxembourg | TODO |
 | Adam Laurie | RFID/Bluetooth security research (Bluejacking-era work), DEF CON | Wireless / UK | TODO |
 | Felix "FX" Lindner | Phenoelit, router/embedded exploitation research | Embedded Security / Germany | TODO |
-| Jan "Starbug" Krissler | Biometric spoofing research (fingerprint/iris demos at CCC) | Biometrics / Germany | TODO |
+| Jan "Starbug" Krissler | Biometric spoofing research (Touch ID, iris, fingerprint reconstruction from photos) | Biometrics / Germany | See `data/people/jan-krissler.json` — PUBLISHED |
 | Frank Rieger | CCC spokesperson, security commentary | Policy / Germany | TODO |
 | James Kettle | Burp Suite research lead, HTTP request smuggling/desync research | Web Security / UK | See `data/people/james-kettle.json` — PUBLISHED |
 | PortSwigger (Dafydd Stuttard) | Burp Suite creator | Tool Creator / UK | TODO |
@@ -150,9 +150,9 @@ handle, and getting a name wrong is worse than not publishing.
 | Mimikatz | Windows credential-extraction tool, huge impact on AD security practice | See `data/tools/mimikatz.json` — PUBLISHED |
 | BloodHound | Active Directory attack-path analysis | See `data/tools/bloodhound.json` — PUBLISHED |
 | IDA Pro | Long-standing commercial disassembler/decompiler standard | See `data/tools/ida-pro.json` — PUBLISHED |
-| radare2 | Open-source reverse-engineering framework | TODO |
-| Frida | Dynamic instrumentation toolkit | TODO |
-| Hashcat | GPU-accelerated password recovery | TODO |
+| radare2 | Open-source reverse-engineering framework | See `data/tools/radare2.json` — PUBLISHED |
+| Frida | Dynamic instrumentation toolkit | See `data/tools/frida.json` — PUBLISHED |
+| Hashcat | GPU-accelerated password recovery | See `data/tools/hashcat.json` — PUBLISHED |
 | Aircrack-ng | Wi-Fi security auditing suite |
 | sqlmap | Automated SQL injection tool |
 | Snort | Open-source intrusion detection, Sourcefire origin |

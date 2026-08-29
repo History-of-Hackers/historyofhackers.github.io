@@ -1,0 +1,72 @@
+{
+  "id": "casey-ellis",
+  "type": "person",
+  "title": "Casey Ellis",
+  "slug": "casey-ellis",
+  "era": "2010s-Present",
+  "tags": [
+    "bug bounty",
+    "Bugcrowd",
+    "crowdsourced security",
+    "vulnerability disclosure",
+    "disclose.io"
+  ],
+  "summary": "Casey Ellis is an Australian security researcher and entrepreneur who founded Bugcrowd in 2012, one of the first companies to commercialize crowdsourced bug bounty and vulnerability disclosure programs, helping mainstream the practice across the cybersecurity industry.",
+  "whyThisMatters": "Casey Ellis is an Australian security researcher and entrepreneur who founded Bugcrowd in 2012, one of the first companies to commercialize crowdsourced bug bounty and vulnerability disclosure programs, helping mainstream the practice across the cybersecurity industry.",
+  "sections": {
+    "overview": "<p>Casey Ellis is an Australian cybersecurity entrepreneur and security researcher best known as the founder of Bugcrowd, one of the first companies to commercialize crowdsourced vulnerability disclosure and 'bug bounty' programs at scale. Before founding Bugcrowd, Ellis worked in the security industry as a penetration tester and security researcher.</p><h2>Founding Bugcrowd</h2><p>In 2012, Ellis founded Bugcrowd in Sydney, Australia, together with co-founders Chris Raethke and Sergei Belokamen. The company pioneered what Ellis termed \"Crowdsourced Security-as-a-Service,\" building a platform that let organizations run structured bug bounty and vulnerability disclosure programs by tapping a global community of independent security researchers. Bugcrowd relocated its headquarters to San Francisco in 2018 while retaining offices in Sydney and London, growing into one of the largest bug bounty and penetration-testing-as-a-service companies, with a researcher community reported at more than 500,000 hackers by 2024.</p><h2>Mainstreaming Bug Bounty Programs</h2><p>Alongside rival platform HackerOne, Bugcrowd played a central role in normalizing bug bounty programs as standard corporate security practice during the 2010s, helping shift the once-controversial idea of paying outside hackers to find flaws into a budgeted line item for governments and large enterprises alike.</p><h2>Policy Advocacy and disclose.io</h2><p>Beyond running Bugcrowd, Ellis has been an outspoken advocate for legal protections for good-faith security researchers. In 2018, Bugcrowd joined the #LegalBugBounty project to launch disclose.io, an open-source project providing standardized legal 'safe harbor' language and vulnerability disclosure policy templates intended to shield researchers from prosecution when reporting bugs in good faith. Ellis has also advised U.S. government bodies, including the Department of Defense and CISA, and has weighed in on reform of the Computer Fraud and Abuse Act.</p><h2>Legacy</h2><p>Ellis's title at Bugcrowd shifted as the company matured, from founder and CTO to Chief Strategy Officer, and later to Founder and Advisor as professional management took over day-to-day operations. Regardless of title, Ellis is widely credited within the security industry as one of the founding figures of the modern, professionalized bug bounty industry.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2012",
+      "event": "Founds Bugcrowd in Sydney, Australia, with co-founders Chris Raethke and Sergei Belokamen."
+    },
+    {
+      "date": "2018",
+      "event": "Bugcrowd relocates its headquarters to San Francisco; co-launches disclose.io, an open-source vulnerability disclosure and legal safe-harbor framework."
+    },
+    {
+      "date": "2024-02-12",
+      "event": "Bugcrowd raises $102 million in funding, reporting a community of more than 500,000 security researchers."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bugcrowd - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bugcrowd"
+    },
+    {
+      "title": "Bugcrowd - About Us",
+      "url": "https://www.bugcrowd.com/about/"
+    },
+    {
+      "title": "disclose.io",
+      "url": "https://disclose.io/"
+    },
+    {
+      "title": "TechCrunch: Security startup Bugcrowd on crowdsourcing bug bounties",
+      "url": "https://techcrunch.com/2019/05/31/bugcrowd-crowdsourcing-cybersecurity/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Casey Ellis",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Founding Bugcrowd (2012), one of the first crowdsourced bug bounty platforms",
+    "Pioneering the 'Crowdsourced Security-as-a-Service' business model",
+    "Co-founding disclose.io (2018), an open-source vulnerability disclosure and legal safe-harbor framework",
+    "Advising U.S. government bodies on cybersecurity policy and CFAA reform"
+  ]
+}

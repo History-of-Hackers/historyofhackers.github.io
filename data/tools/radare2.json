@@ -1,0 +1,67 @@
+{
+  "id": "radare2",
+  "type": "tool",
+  "title": "radare2",
+  "slug": "radare2",
+  "era": "2006-Present",
+  "tags": [
+    "reverse engineering",
+    "disassembler",
+    "open source",
+    "CTF",
+    "binary analysis"
+  ],
+  "summary": "radare2 is a free, open-source, command-line-first reverse-engineering framework created by Sergi 'pancake' Alvarez, valued for turning binary disassembly, debugging, and forensic analysis into a fully scriptable, cross-platform toolchain that anyone can inspect, extend, and run without a commercial license.",
+  "whyThisMatters": "radare2 is a free, open-source, command-line-first reverse-engineering framework created by Sergi 'pancake' Alvarez, valued for turning binary disassembly, debugging, and forensic analysis into a fully scriptable, cross-platform toolchain that anyone can inspect, extend, and run without a commercial license.",
+  "sections": {
+    "overview": "<h2>Origins as a Data-Recovery Hex Editor</h2><p>radare2 traces back to 2006, when Spanish security researcher Sergi Alvarez, known as 'pancake', wrote the original radare as a small, free command-line hexadecimal editor supporting 64-bit offsets. The tool grew out of a personal need to recover deleted files from a Mac G3, and its name is reportedly derived from the first letters of 'raw', 'data', and 'recovery'.</p><h2>From Hex Editor to Reverse-Engineering Framework</h2><p>A rewrite begun around 2009 produced radare2 (often shortened to r2): a pluggable, library-based framework rather than a single monolithic program. Written in C and released under the LGPL, radare2 grew to support disassembly and assembly across a wide range of CPU architectures, static and dynamic analysis, binary diffing, ROP-gadget search, and a native debugger. Automation is central to the design: radare2 exposes its functionality through r2pipe, a scripting API usable from Python, JavaScript, and other languages.</p><h2>Command-Line Philosophy vs. GUI-First Tools</h2><p>Where commercial disassemblers like IDA Pro, and later the NSA's Ghidra, built their reputations around graphical interfaces, radare2 deliberately kept the terminal and its terse, composable commands as the primary interface. That minimal-dependency, script-first approach made radare2 attractive to reverse engineers who wanted a free tool that could be embedded into automated pipelines.</p><h2>Cutter and the GUI Ecosystem</h2><p>To make the framework more approachable, the community built graphical front ends on top of it, including a Qt-based interface called Cutter. In December 2020, a group of former radare2 and Cutter core developers split off a fork called Rizin, citing an unsustainable project environment; Cutter's team moved with them, and Cutter has since run on Rizin as its backend.</p><h2>Adoption and Legacy</h2><p>Despite that split, radare2 itself remained active and widely used, appearing repeatedly in Capture the Flag competitions and professional malware analysis, and it has been the subject of talks at security conferences including Recon, Hack.lu, and the Chaos Communication Congress. The project also spawned its own annual community conference, r2con, first held in Barcelona in 2016. radare2 endures as one of the reverse-engineering community's most enduring examples of a free, deeply scriptable alternative to expensive commercial disassembly suites.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2006",
+      "event": "Sergi Alvarez ('pancake') begins the original radare project as a free command-line hexadecimal editor."
+    },
+    {
+      "date": "2009",
+      "event": "The codebase is rewritten from scratch as radare2, a pluggable, library-based reverse-engineering framework."
+    },
+    {
+      "date": "2016",
+      "event": "The first r2con community conference dedicated to radare2 is held in Barcelona."
+    },
+    {
+      "date": "2020-12-08",
+      "event": "A group of former core contributors forks radare2 into Rizin, citing an unsustainable project environment."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Radare2 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Radare2"
+    },
+    {
+      "title": "radareorg/radare2 - GitHub repository",
+      "url": "https://github.com/radareorg/radare2"
+    },
+    {
+      "title": "Announcing Rizin - Rizin Project",
+      "url": "https://rizin.re/posts/announcing-rizin/"
+    },
+    {
+      "title": "Cutter - Free and Open Source Reverse Engineering Platform",
+      "url": "https://cutter.re/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}
