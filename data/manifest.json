@@ -88,6 +88,23 @@
     "url": "people/bruce-schneier.html"
   },
   {
+    "id": "casey-ellis",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Casey Ellis",
+    "slug": "casey-ellis",
+    "era": "2010s-Present",
+    "tags": [
+      "bug bounty",
+      "Bugcrowd",
+      "crowdsourced security",
+      "vulnerability disclosure",
+      "disclose.io"
+    ],
+    "summary": "Casey Ellis is an Australian security researcher and entrepreneur who founded Bugcrowd in 2012, one of the first companies to commercialize crowdsourced bug bounty and vulnerability disclosure programs, helping mainstream the practice across the cybersecurity industry.",
+    "url": "people/casey-ellis.html"
+  },
+  {
     "id": "cesar-cerrudo",
     "type": "person",
     "typeLabel": "Person",
@@ -390,6 +407,24 @@
     ],
     "summary": "James Kettle, known online as 'albinowax', is a British web security researcher and Director of Research at PortSwigger (maker of Burp Suite), best known for reviving and popularizing HTTP request smuggling through his 2019 'HTTP Desync Attacks' research, alongside influential work on web cache poisoning and web race conditions.",
     "url": "people/james-kettle.html"
+  },
+  {
+    "id": "jan-krissler",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jan Krissler",
+    "slug": "jan-krissler",
+    "era": "2000s-Present",
+    "tags": [
+      "Chaos Computer Club",
+      "biometrics",
+      "fingerprint spoofing",
+      "Touch ID",
+      "iris recognition",
+      "Germany"
+    ],
+    "summary": "Jan Krissler, known by the handle 'Starbug', is a German security researcher and long-time Chaos Computer Club member whose public demonstrations against fingerprint and iris authentication systems \u2014 including defeating Apple's Touch ID days after its 2013 launch and reconstructing a German cabinet minister's fingerprint from photographs in 2014 \u2014 became landmark illustrations of the fragility of biometric security.",
+    "url": "people/jan-krissler.html"
   },
   {
     "id": "jeff-moss",
@@ -1057,6 +1092,22 @@
     "url": "tools/burp-suite.html"
   },
   {
+    "id": "frida",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Frida",
+    "slug": "frida",
+    "era": "2013-Present",
+    "tags": [
+      "dynamic instrumentation",
+      "reverse engineering",
+      "mobile security",
+      "open source"
+    ],
+    "summary": "Frida is an open-source, JavaScript-scriptable dynamic instrumentation toolkit created by Norwegian developer Ole Andr\u00e9 Vadla Ravn\u00e5s, which lets researchers inject code into running processes on the fly to hook functions and inspect behavior without source code, becoming a foundational tool in mobile app reverse engineering and bug bounty hunting.",
+    "url": "tools/frida.html"
+  },
+  {
     "id": "ghidra",
     "type": "tool",
     "typeLabel": "Tool",
@@ -1073,6 +1124,22 @@
     ],
     "summary": "Ghidra is a free, open-source software reverse engineering framework created by the NSA's Research Directorate, used internally by the agency for years before its unprecedented public release in 2019; it broke the commercial monopoly on high-end disassembly and decompilation tooling by giving researchers worldwide a no-cost alternative to IDA Pro.",
     "url": "tools/ghidra.html"
+  },
+  {
+    "id": "hashcat",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Hashcat",
+    "slug": "hashcat",
+    "era": "2010s-Present",
+    "tags": [
+      "password cracking",
+      "GPU computing",
+      "open source",
+      "penetration testing"
+    ],
+    "summary": "Hashcat is the world's most widely used GPU-accelerated password recovery tool, created by Jens 'atom' Steube; by proving that consumer graphics cards could crack password hashes orders of magnitude faster than CPUs, it reshaped both offensive password auditing and defensive password-hashing practice.",
+    "url": "tools/hashcat.html"
   },
   {
     "id": "ida-pro",
@@ -1156,6 +1223,23 @@
     ],
     "summary": "The story of Nmap, the essential open-source utility for network discovery and security auditing, created by Gordon 'Fyodor' Lyon.",
     "url": "tools/nmap-network-mapper.html"
+  },
+  {
+    "id": "radare2",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "radare2",
+    "slug": "radare2",
+    "era": "2006-Present",
+    "tags": [
+      "reverse engineering",
+      "disassembler",
+      "open source",
+      "CTF",
+      "binary analysis"
+    ],
+    "summary": "radare2 is a free, open-source, command-line-first reverse-engineering framework created by Sergi 'pancake' Alvarez, valued for turning binary disassembly, debugging, and forensic analysis into a fully scriptable, cross-platform toolchain that anyone can inspect, extend, and run without a commercial license.",
+    "url": "tools/radare2.html"
   },
   {
     "id": "wireshark-network-analyzer",
@@ -1384,87 +1468,38 @@
     "url": "fields/responsible-disclosure.html"
   },
   {
-    "id": "casey-ellis",
+    "id": "jennifer-granick",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Casey Ellis",
-    "slug": "casey-ellis",
-    "era": "2010s-Present",
+    "title": "Jennifer Granick",
+    "slug": "jennifer-granick",
+    "era": "1990s-Present",
     "tags": [
-      "bug bounty",
-      "Bugcrowd",
-      "crowdsourced security",
-      "vulnerability disclosure",
-      "disclose.io"
+      "digital rights",
+      "computer crime law",
+      "EFF",
+      "ACLU",
+      "Stanford Law",
+      "surveillance law"
     ],
-    "summary": "Casey Ellis is an Australian security researcher and entrepreneur who founded Bugcrowd in 2012, one of the first companies to commercialize crowdsourced bug bounty and vulnerability disclosure programs, helping mainstream the practice across the cybersecurity industry.",
-    "url": "people/casey-ellis.html"
+    "summary": "Jennifer Granick is an American attorney who began her career defending accused computer hackers in the 1990s and went on to become one of the United States' leading legal voices on digital civil liberties, directing Stanford Law School's Center for Internet and Society and holding senior counsel roles at the Electronic Frontier Foundation and the ACLU.",
+    "url": "people/jennifer-granick.html"
   },
   {
-    "id": "frida",
-    "type": "tool",
-    "typeLabel": "Tool",
-    "title": "Frida",
-    "slug": "frida",
-    "era": "2013-Present",
-    "tags": [
-      "dynamic instrumentation",
-      "reverse engineering",
-      "mobile security",
-      "open source"
-    ],
-    "summary": "Frida is an open-source, JavaScript-scriptable dynamic instrumentation toolkit created by Norwegian developer Ole Andr\u00e9 Vadla Ravn\u00e5s, which lets researchers inject code into running processes on the fly to hook functions and inspect behavior without source code, becoming a foundational tool in mobile app reverse engineering and bug bounty hunting.",
-    "url": "tools/frida.html"
-  },
-  {
-    "id": "hashcat",
-    "type": "tool",
-    "typeLabel": "Tool",
-    "title": "Hashcat",
-    "slug": "hashcat",
-    "era": "2010s-Present",
-    "tags": [
-      "password cracking",
-      "GPU computing",
-      "open source",
-      "penetration testing"
-    ],
-    "summary": "Hashcat is the world's most widely used GPU-accelerated password recovery tool, created by Jens 'atom' Steube; by proving that consumer graphics cards could crack password hashes orders of magnitude faster than CPUs, it reshaped both offensive password auditing and defensive password-hashing practice.",
-    "url": "tools/hashcat.html"
-  },
-  {
-    "id": "jan-krissler",
+    "id": "runa-sandvik",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Jan Krissler",
-    "slug": "jan-krissler",
+    "title": "Runa Sandvik",
+    "slug": "runa-sandvik",
     "era": "2000s-Present",
     "tags": [
-      "Chaos Computer Club",
-      "biometrics",
-      "fingerprint spoofing",
-      "Touch ID",
-      "iris recognition",
-      "Germany"
+      "Tor Project",
+      "digital security",
+      "journalism security",
+      "newsroom security",
+      "press freedom"
     ],
-    "summary": "Jan Krissler, known by the handle 'Starbug', is a German security researcher and long-time Chaos Computer Club member whose public demonstrations against fingerprint and iris authentication systems \u2014 including defeating Apple's Touch ID days after its 2013 launch and reconstructing a German cabinet minister's fingerprint from photographs in 2014 \u2014 became landmark illustrations of the fragility of biometric security.",
-    "url": "people/jan-krissler.html"
-  },
-  {
-    "id": "radare2",
-    "type": "tool",
-    "typeLabel": "Tool",
-    "title": "radare2",
-    "slug": "radare2",
-    "era": "2006-Present",
-    "tags": [
-      "reverse engineering",
-      "disassembler",
-      "open source",
-      "CTF",
-      "binary analysis"
-    ],
-    "summary": "radare2 is a free, open-source, command-line-first reverse-engineering framework created by Sergi 'pancake' Alvarez, valued for turning binary disassembly, debugging, and forensic analysis into a fully scriptable, cross-platform toolchain that anyone can inspect, extend, and run without a commercial license.",
-    "url": "tools/radare2.html"
+    "summary": "Runa Sandvik is a Norwegian-American computer security researcher who moved from Tor Project development and smart-weapon hacking research into building digital-security programs for newsrooms, most notably as director of information security at The New York Times.",
+    "url": "people/runa-sandvik.html"
   }
 ]
