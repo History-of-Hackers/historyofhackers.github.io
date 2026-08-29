@@ -63,37 +63,43 @@ not use this list to justify skipping verification.
 
 ### People — United States
 
-| Candidate | Reason | Area |
-|---|---|---|
-| Alex Stamos | Former Yahoo/Facebook CSO, election-security and disinformation research | Security Leadership / Policy |
-| Window Snyder | Security architecture at Microsoft, Mozilla, Apple, Intel; co-author "Threat Modeling" | Security Engineering |
-| Chris Wysopal | @stake co-founder, L0pht member, Veracode co-founder | Application Security |
-| Marc Maiffret | eEye Digital Security co-founder, early Windows vulnerability research | Vulnerability Research |
-| Jeff Moss ("The Dark Tangent") | DEF CON/Black Hat founder | Conferences (cross-check vs. existing DEF CON event page) |
-| Elias Levy ("Aleph One") | "Smashing the Stack for Fun and Profit," Bugtraq moderator | Exploit Development |
-| Dave Aitel | Immunity Inc. founder, former NSA | Exploit Development |
-| Dino Dai Zovi | Early Mac OS X exploitation research, Pwn2Own | Exploit Development |
-| Natalie Silvanovich | PUBLISHED — Google Project Zero, zero-click iMessage/messaging-app vulnerability research. See `data/people/natalie-silvanovich.json` | Vulnerability Research |
-| James Forshaw | Google Project Zero, Windows security research, "Attacking Network Protocols" author | Vulnerability Research |
-| Tavis Ormandy | Google Project Zero, long history of OS/sandbox vulnerability research | Vulnerability Research |
-| Jeremiah Grossman | WhiteHat Security founder, web application security research | Web Security |
-| Robert Hansen ("RSnake") | XSS research, ha.ckers.org | Web Security |
-| Marcus Ranum | Early firewall design (DEC SEAL, TIS), intrusion detection research | Network Security |
-| Brian Krebs | Investigative security journalist, Krebs on Security | Threat Research / Journalism |
-| Jon Erickson | Author of "Hacking: The Art of Exploitation" | Exploit Development |
-| Window Snyder | (see above) | |
-| Jennifer Granick | Security/privacy lawyer, EFF, Stanford | Policy / Law |
-| Moxie Marlinspike | PUBLISHED — SSLstrip, Signal Protocol, Signal Messenger founder. See `data/people/moxie-marlinspike.json` | Cryptography / Privacy |
-| Nate Cardozo | EFF security/privacy attorney | Policy / Law |
-| Runa Sandvik | Tor Project, journalist-security work at NYT | Privacy / Anonymity |
-| Kevin Mahaffey | Lookout Mobile Security co-founder | Mobile Security |
-| Zach Lanier | Mobile/IoT security research | Mobile / IoT Security |
-| Kymberlee Price | Vulnerability coordination / bug bounty program leadership | Bug Bounty |
-| Casey Ellis | Bugcrowd founder | Bug Bounty |
-| Alex Rice | HackerOne co-founder | Bug Bounty |
-| Michael "Mudge" Zatko | Already published — cross-link only | (published) |
-| Gordon "Fyodor" Lyon | Nmap creator — standalone person page (tool already covered) | Network Security Tools |
-| Marcus Hutchins | Already published — cross-link only | (published) |
+| Candidate | Reason | Area | Status |
+|---|---|---|---|
+| Alex Stamos | Former Yahoo/Facebook CSO, election-security and disinformation research | Security Leadership / Policy | See `data/people/alex-stamos.json` — PUBLISHED |
+| Window Snyder | Security architecture at Microsoft, Mozilla, Apple, Intel; co-author "Threat Modeling" | Security Engineering | TODO |
+| Chris Wysopal | @stake co-founder, L0pht member, Veracode co-founder | Application Security | See `data/people/chris-wysopal.json` — PUBLISHED |
+| Marc Maiffret | eEye Digital Security co-founder, Code Red worm analysis | Vulnerability Research | See `data/people/marc-maiffret.json` — PUBLISHED |
+| Jeff Moss ("The Dark Tangent") | DEF CON/Black Hat founder | Conferences (cross-check vs. existing DEF CON event page) | TODO |
+| Elias Levy ("Aleph One") | "Smashing the Stack for Fun and Profit," Bugtraq moderator | Exploit Development | See `data/people/elias-levy.json` — PUBLISHED |
+| Dave Aitel | Immunity Inc. founder, former NSA, CANVAS/SPIKE | Exploit Development | See `data/people/dave-aitel.json` — PUBLISHED |
+| Dino Dai Zovi | Early Mac OS X exploitation research, first Pwn2Own win (2007) | Exploit Development | See `data/people/dino-dai-zovi.json` — PUBLISHED |
+| Natalie Silvanovich | Google Project Zero, zero-click iMessage/messaging-app vulnerability research | Vulnerability Research | See `data/people/natalie-silvanovich.json` — PUBLISHED |
+| James Forshaw | Google Project Zero, Windows security research, "Attacking Network Protocols" author | Vulnerability Research | See `data/people/james-forshaw.json` — PUBLISHED |
+| Tavis Ormandy | Google Project Zero founding member, Cloudbleed, Zenbleed | Vulnerability Research | See `data/people/tavis-ormandy.json` — PUBLISHED |
+| Jeremiah Grossman | WhiteHat Security founder, web application security research | Web Security | See `data/people/jeremiah-grossman.json` — PUBLISHED |
+| Robert Hansen ("RSnake") | XSS research, ha.ckers.org | Web Security | TODO |
+| Marcus Ranum | Early firewall design (DEC SEAL, TIS), intrusion detection research | Network Security | TODO |
+| Brian Krebs | Investigative security journalist, Krebs on Security, Mirai/vDOS reporting | Threat Research / Journalism | See `data/people/brian-krebs.json` — PUBLISHED |
+| Jon Erickson | Author of "Hacking: The Art of Exploitation" | Exploit Development | See `data/publications/hacking-art-of-exploitation.json` (published as a publication entry — too little independently verifiable biographical detail beyond the book itself) — PUBLISHED |
+| Jennifer Granick | Security/privacy lawyer, EFF, Stanford | Policy / Law | TODO |
+| Moxie Marlinspike | SSLstrip, Signal Protocol, Signal Messenger founder | Cryptography / Privacy | See `data/people/moxie-marlinspike.json` — PUBLISHED |
+| Nate Cardozo | EFF security/privacy attorney | Policy / Law | TODO |
+| Runa Sandvik | Tor Project, journalist-security work at NYT | Privacy / Anonymity | TODO |
+| Kevin Mahaffey | Lookout Mobile Security co-founder | Mobile Security | TODO |
+| Zach Lanier | Mobile/IoT security research | Mobile / IoT Security | TODO |
+| Kymberlee Price | Vulnerability coordination / bug bounty program leadership | Bug Bounty | TODO |
+| Casey Ellis | Bugcrowd founder | Bug Bounty | TODO |
+| Alex Rice | HackerOne co-founder | Bug Bounty | TODO |
+| Michael "Mudge" Zatko | Already published — cross-link only | (published) | PUBLISHED |
+| Gordon "Fyodor" Lyon | Nmap creator, standalone person page | Network Security Tools | See `data/people/gordon-lyon.json` — PUBLISHED |
+| Marcus Hutchins | Already published — cross-link only | (published) | PUBLISHED |
+| Edward Snowden | 2013 NSA mass-surveillance disclosures, former CIA/NSA contractor | Whistleblowing / Surveillance Policy | See `data/people/edward-snowden.json` — PUBLISHED |
+| Julian Assange | Teenage hacker 'Mendax', WikiLeaks founder, Espionage Act case (standalone person page; org history remains in the group entry) | Whistleblowing / Press Freedom | See `data/people/julian-assange.json` — PUBLISHED |
+| Linus Torvalds | Creator of the Linux kernel and Git | Open Source / OS History | See `data/people/linus-torvalds.json` — PUBLISHED |
+| Eric Corley ("Emmanuel Goldstein") | 2600 founder, Off The Hook radio, HOPE conference, DeCSS DMCA case (standalone person page; magazine history remains in the publication entry) | Hacker Culture / Media | See `data/people/eric-corley.json` — PUBLISHED |
+| John Draper ("Captain Crunch") | 2600 Hz whistle discovery, blue box phreaking, EasyWriter, Apple connection | Phreaking History | See `data/people/john-draper.json` — PUBLISHED |
+| Kevin Poulsen | 'Dark Dante', KIIS-FM Porsche hack, Wired journalist, Manning/Lamo story, SecureDrop | Phreaking / Journalism | See `data/people/kevin-poulsen.json` — PUBLISHED |
+| the Grugq | Pseudonymous anti-forensics researcher, reported exploit broker, OPSEC commentator | Anti-Forensics / OPSEC | See `data/people/the-grugq.json` — PUBLISHED |
 
 ### People — Europe
 
@@ -135,7 +141,7 @@ handle, and getting a name wrong is worse than not publishing.
 | DEVCORE | Web security research firm (Orange Tsai's team) | Taiwan |
 | ShadowCrew | Early-2000s carding/identity-fraud forum, notable for the resulting Secret Service operation | US |
 
-### Tools (8 published: Nmap, Wireshark, Metasploit, John the Ripper, Burp Suite, Ghidra, Mimikatz, BloodHound)
+### Tools (9 published: Nmap, Wireshark, Metasploit, John the Ripper, Burp Suite, Ghidra, Mimikatz, BloodHound, IDA Pro)
 
 | Candidate | Reason | Status |
 |---|---|---|
@@ -143,7 +149,7 @@ handle, and getting a name wrong is worse than not publishing.
 | Ghidra | NSA-released reverse-engineering suite | See `data/tools/ghidra.json` — PUBLISHED |
 | Mimikatz | Windows credential-extraction tool, huge impact on AD security practice | See `data/tools/mimikatz.json` — PUBLISHED |
 | BloodHound | Active Directory attack-path analysis | See `data/tools/bloodhound.json` — PUBLISHED |
-| IDA Pro | Long-standing commercial disassembler/decompiler standard | TODO |
+| IDA Pro | Long-standing commercial disassembler/decompiler standard | See `data/tools/ida-pro.json` — PUBLISHED |
 | radare2 | Open-source reverse-engineering framework | TODO |
 | Frida | Dynamic instrumentation toolkit | TODO |
 | Hashcat | GPU-accelerated password recovery | TODO |
@@ -192,3 +198,18 @@ not add a name just to fill a country slot.
 | Nicolas Waisman | Immunity/exploit-development research | Argentina | TODO |
 | Ekoparty (conference) | Long-running Argentina/LatAm security conference — verify as an event/conference entry | Argentina | TODO |
 | Andres Riancho | w3af web-app scanner creator | Argentina | TODO |
+
+## Fiction / Pop Culture (separate taxonomy — NOT historical entries)
+
+Per maintainer request, `/fiction/` is a deliberately separate section for
+fictional hackers and hacker-themed media, kept apart from every real,
+sourced entry on the site so nobody mistakes a movie character for a
+documented historical figure. Facts here are still sourced (to the actual
+film/show/reviews), just not treated as history.
+
+| Work | Reason | Status |
+|---|---|---|
+| Mr. Robot (TV series) | Elliot Alderson / fsociety; widely cited for unusually realistic hacking depiction | See `data/fiction/mr-robot.json` — PUBLISHED |
+| The Matrix (1999 film) | Neo/Trinity/Morpheus as hackers; major cyberpunk cultural touchstone | See `data/fiction/the-matrix.json` — PUBLISHED |
+| Cyberchase (animated series) | PBS Kids villain "the Hacker" (voiced by Christopher Lloyd) — purely fictional/educational, no technical accuracy claim | See `data/fiction/cyberchase.json` — PUBLISHED |
+| Hackers (1995 film) | Zero Cool/Crash Override, Acid Burn, Cereal Killer, and cult hacker-aesthetic origin | RESEARCHING |

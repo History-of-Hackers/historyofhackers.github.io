@@ -1,0 +1,86 @@
+{
+  "id": "eric-corley",
+  "type": "person",
+  "title": "Eric Corley",
+  "slug": "eric-corley",
+  "era": "1980s-Present",
+  "tags": [
+    "hacker culture",
+    "phreaking",
+    "digital rights",
+    "DMCA",
+    "2600",
+    "HOPE conference"
+  ],
+  "summary": "Eric Corley, known publicly by the pen name Emmanuel Goldstein, is an American publisher and broadcaster whose radio program, biennial HOPE hacker conference, and role as lead defendant in the DeCSS anti-circumvention lawsuit made him one of the most visible individual figures in American hacker culture from the 1980s onward.",
+  "whyThisMatters": "Eric Corley, known publicly by the pen name Emmanuel Goldstein, is an American publisher and broadcaster whose radio program, biennial HOPE hacker conference, and role as lead defendant in the DeCSS anti-circumvention lawsuit made him one of the most visible individual figures in American hacker culture from the 1980s onward.",
+  "sections": {
+    "overview": "<p>Eric Corley was born on December 16, 1959, in Suffolk County, New York, and studied English at Stony Brook University. Within hacker, phone-phreaking, and digital-rights communities he is known almost exclusively by his pen name, Emmanuel Goldstein, borrowed from George Orwell's novel <em>Nineteen Eighty-Four</em>.</p><h2>Founding 2600 and Public Role</h2><p>In January 1984 Corley co-founded 2600: The Hacker Quarterly with David Ruderman, taking on the name Emmanuel Goldstein as editor and publisher, a role he has held ever since. In 1993 he testified before a U.S. House of Representatives Telecommunications Subcommittee about hacker-community issues and the pending Communications Assistance for Law Enforcement Act (CALEA).</p><h2>Off The Hook</h2><p>Since October 7, 1988, Corley has hosted 'Off The Hook,' a weekly technology and civil-liberties talk program on New York's listener-supported WBAI 99.5 FM. The program mixes hacker and technology news with unscreened listener calls and has run continuously for decades, making it one of the longest-running hacker-affiliated media programs in the United States.</p><h2>HOPE Conferences</h2><p>To mark 2600's tenth anniversary, Corley organized the first Hackers On Planet Earth (HOPE) conference on August 13-14, 1994, at the Hotel Pennsylvania in Manhattan, drawing more than 1,000 attendees. Corley has remained the conference's primary organizer through its traditionally biennial run.</p><h2>The DeCSS Lawsuit</h2><p>Corley became a central figure in digital-copyright law when eight major film studios sued him, 2600 Enterprises, and co-defendants over the magazine's distribution of and links to DeCSS, a DVD-decryption program. In August 2000, a federal judge ruled against the defendants, holding that the DMCA's anti-circumvention provisions did not violate the First Amendment. On November 28, 2001, the Second Circuit Court of Appeals affirmed in Universal City Studios, Inc. v. Corley, a foundational precedent in U.S. digital-copyright law.</p><h2>Legacy</h2><p>Beyond the courtroom, Corley directed the 2001 documentary 'Freedom Downtime,' examining the prosecution of hacker Kevin Mitnick. Through the combined reach of his magazine, radio program, conference series, and legal fight, Corley helped shape hacker culture's public identity and its engagement with press freedom and digital-rights law.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1959-12-16",
+      "event": "Born in Suffolk County, New York."
+    },
+    {
+      "date": "1984-01",
+      "event": "Co-founds 2600: The Hacker Quarterly, taking the pen name Emmanuel Goldstein."
+    },
+    {
+      "date": "1988-10-07",
+      "event": "Hosts the first broadcast of 'Off The Hook' on WBAI 99.5 FM."
+    },
+    {
+      "date": "1994-08-13",
+      "event": "Organizes the first HOPE conference in Manhattan."
+    },
+    {
+      "date": "2001-11-28",
+      "event": "The Second Circuit Court of Appeals decides Universal City Studios, Inc. v. Corley, upholding the DMCA anti-circumvention provisions."
+    },
+    {
+      "date": "2001",
+      "event": "Directs the documentary 'Freedom Downtime.'"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Eric Corley - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eric_Corley"
+    },
+    {
+      "title": "Universal City Studios, Inc. v. Corley - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Universal_City_Studios,_Inc._v._Corley"
+    },
+    {
+      "title": "Hackers on Planet Earth - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hackers_on_Planet_Earth"
+    },
+    {
+      "title": "Off the Hook (radio program) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Off_the_Hook_(radio_program)"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Eric Corley",
+  "born": "1959-12-16",
+  "died": null,
+  "knownFor": [
+    "Co-founding 2600: The Hacker Quarterly in 1984 under the pen name 'Emmanuel Goldstein'",
+    "Hosting the WBAI-FM radio show 'Off The Hook' continuously since October 1988",
+    "Founding and organizing the biennial HOPE (Hackers on Planet Earth) conference series starting in 1994",
+    "Serving as lead defendant in Universal City Studios v. Corley, the 2000-2001 DeCSS/DMCA anti-circumvention lawsuit",
+    "Directing the 2001 documentary 'Freedom Downtime' about the prosecution of Kevin Mitnick"
+  ]
+}

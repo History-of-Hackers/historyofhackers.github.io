@@ -1,0 +1,77 @@
+{
+  "id": "marc-maiffret",
+  "type": "person",
+  "title": "Marc Maiffret",
+  "slug": "marc-maiffret",
+  "era": "1990s-Present",
+  "tags": [
+    "eEye Digital Security",
+    "Code Red worm",
+    "vulnerability research",
+    "Windows/IIS security",
+    "BeyondTrust"
+  ],
+  "summary": "Marc Maiffret is an American security researcher who, as a teenage former hacker, co-founded eEye Digital Security in 1998 and went on to discover and publicly analyze the 2001 Code Red worm, becoming an early and influential figure in commercial Windows/IIS vulnerability research.",
+  "whyThisMatters": "Marc Maiffret is an American security researcher who, as a teenage former hacker, co-founded eEye Digital Security in 1998 and went on to discover and publicly analyze the 2001 Code Red worm, becoming an early and influential figure in commercial Windows/IIS vulnerability research.",
+  "sections": {
+    "overview": "<p>Marc Maiffret was born on November 28, 1980, in Aliso Viejo, California. Before becoming a commercial security researcher, he was active as a teenage hacker under handles including 'Chameleon.' His early hacking activity attracted law-enforcement attention while he was still a minor, a background later covered in mainstream media, including a 1999 appearance on MTV's <em>True Life: I'm a Hacker</em>.</p><h2>Founding eEye Digital Security</h2><p>In 1998, while still a teenager, Maiffret co-founded eEye Digital Security together with Firas Bushnaq. eEye became one of the more prominent early commercial vulnerability-research and security-product firms, with its research team publishing a stream of critical findings affecting Microsoft Windows and IIS web server software during the late 1990s and early 2000s.</p><h2>The Code Red Worm</h2><p>eEye's research culture produced its most widely known moment in July 2001, when the Code Red worm began spreading rapidly across the internet. Maiffret and eEye colleague Ryan Permeh discovered and analyzed the worm, which exploited a buffer-overflow flaw in Microsoft IIS. By July 19, 2001, Code Red had infected roughly 359,000 machines, and it is regarded as one of the first major worms to successfully target enterprise networks across North America, Europe, and Asia.</p><h2>Later Career</h2><p>After some years at eEye, Maiffret served as Chief Security Architect at FireEye. He returned to eEye in July 2010. In May 2012, BeyondTrust acquired eEye Digital Security, and Maiffret subsequently became Chief Technology Officer at BeyondTrust, leading the company's Advanced Research Labs. He has testified before the United States Congress on cybersecurity matters.</p><h2>Legacy</h2><p>Maiffret is regarded as an early figure in the commercialization of vulnerability research, helping establish eEye as one of the first security companies to build a business around discovering and disclosing serious flaws in mainstream software, and his analysis of Code Red remains a frequently cited case study in the history of internet worms.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1980-11-28",
+      "event": "Born in Aliso Viejo, California."
+    },
+    {
+      "date": "1998",
+      "event": "Co-founds eEye Digital Security with Firas Bushnaq as a teenager."
+    },
+    {
+      "date": "2001-07",
+      "event": "Discovers and analyzes the Code Red worm with eEye colleague Ryan Permeh."
+    },
+    {
+      "date": "2010-07",
+      "event": "Returns to eEye Digital Security after serving as Chief Security Architect at FireEye."
+    },
+    {
+      "date": "2012-05",
+      "event": "BeyondTrust acquires eEye Digital Security."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Marc Maiffret - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marc_Maiffret"
+    },
+    {
+      "title": "Code Red (computer worm) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Code_Red_(computer_worm)"
+    },
+    {
+      "title": "BeyondTrust - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BeyondTrust"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Marc Maiffret",
+  "born": "1980-11-28",
+  "died": null,
+  "knownFor": [
+    "Co-founding eEye Digital Security as a teenager in 1998",
+    "Early commercial Windows/IIS vulnerability research at eEye",
+    "Discovering and publicly analyzing the 2001 Code Red worm with fellow researcher Ryan Permeh",
+    "Serving as Chief Security Architect at FireEye",
+    "Chief Technology Officer at BeyondTrust after its acquisition of eEye"
+  ]
+}

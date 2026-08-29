@@ -1,0 +1,95 @@
+{
+  "id": "kevin-poulsen",
+  "type": "person",
+  "title": "Kevin Poulsen",
+  "slug": "kevin-poulsen",
+  "era": "1980s-Present",
+  "tags": [
+    "phone phreaking",
+    "Dark Dante",
+    "KIIS-FM",
+    "Wired",
+    "SecureDrop"
+  ],
+  "summary": "Kevin Poulsen, known by the handle 'Dark Dante,' was a phone phreaker and hacker who rigged a 1990 radio-station phone contest to win a Porsche and later reinvented himself as an award-winning Wired News journalist who helped uncover Chelsea Manning as the source of the WikiLeaks military and diplomatic leaks.",
+  "whyThisMatters": "Kevin Poulsen, known by the handle 'Dark Dante,' was a phone phreaker and hacker who rigged a 1990 radio-station phone contest to win a Porsche and later reinvented himself as an award-winning Wired News journalist who helped uncover Chelsea Manning as the source of the WikiLeaks military and diplomatic leaks.",
+  "sections": {
+    "overview": "<p>Kevin Lee Poulsen was born on November 30, 1965, in Pasadena, California. Under the handle 'Dark Dante,' he became one of the more notorious phone phreakers and computer hackers of the 1980s.</p><h2>The KIIS-FM Porsche Hack</h2><p>Poulsen's most famous exploit came on June 1, 1990, when he took over all of the telephone lines belonging to Los Angeles radio station KIIS-FM. By seizing control of the station's phone system, he guaranteed that he would be the contest's 102nd caller, the position needed to win the on-air prize: a Porsche 944 S2.</p><h2>Fugitive, Arrest, and Conviction</h2><p>As federal investigators closed in on his hacking activities, Poulsen went underground as a fugitive from the FBI. He was arrested in April 1991. In June 1994, Poulsen pleaded guilty to seven counts of conspiracy, fraud, and wiretapping, and was sentenced to 51 months in federal prison, along with a three-year post-release ban on using computers and the internet. He was released in 1999.</p><h2>Reinvention as a Journalist</h2><p>After his release, Poulsen pivoted from hacking to writing about it, joining the security news outlet SecurityFocus around 2000. In June 2005 he moved to Wired News as a senior editor, where he ran a security-focused blog later renamed 'Threat Level.'</p><h2>The Chelsea Manning/Adrian Lamo Story</h2><p>In May 2010, U.S. Army intelligence analyst Chelsea Manning confided by chat to former hacker Adrian Lamo that she had leaked classified military and diplomatic material to WikiLeaks. Lamo passed the story to Poulsen under embargo. Poulsen, together with Wired colleague Kim Zetter, broke the story on June 6, 2010, publishing a portion of the Lamo-Manning chat logs; Wired released the remaining logs in July 2011.</p><h2>Legacy</h2><p>Poulsen went on to co-create SecureDrop (originally called DeadDrop, then Strongbox) with programmer-activist Aaron Swartz and developer James Dolan, an open-source platform that lets journalists receive material from anonymous sources securely. He also authored the 2011 book 'Kingpin,' about cybercrime. Poulsen is frequently cited as an example of a hacker whose criminal past led into a substantial career in investigative technology journalism.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1965-11-30",
+      "event": "Born in Pasadena, California."
+    },
+    {
+      "date": "1990-06-01",
+      "event": "Takes over KIIS-FM's phone lines to win a Porsche 944 S2."
+    },
+    {
+      "date": "1991-04",
+      "event": "Arrested by the FBI after a period as a fugitive."
+    },
+    {
+      "date": "1994-06",
+      "event": "Pleads guilty to seven counts of conspiracy, fraud, and wiretapping."
+    },
+    {
+      "date": "1999",
+      "event": "Released from federal prison."
+    },
+    {
+      "date": "2005-06",
+      "event": "Joins Wired News as senior editor."
+    },
+    {
+      "date": "2010-06-06",
+      "event": "Publishes the story identifying Chelsea Manning as the WikiLeaks source."
+    },
+    {
+      "date": "2011",
+      "event": "Publishes the book 'Kingpin.'"
+    },
+    {
+      "date": "2013-05-15",
+      "event": "SecureDrop, co-created by Poulsen, launches at The New Yorker."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Kevin Poulsen - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kevin_Poulsen"
+    },
+    {
+      "title": "Adrian Lamo - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adrian_Lamo"
+    },
+    {
+      "title": "SecureDrop - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SecureDrop"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Kevin Poulsen",
+  "born": "1965-11-30",
+  "died": null,
+  "knownFor": [
+    "Hacker handle 'Dark Dante'",
+    "1990 KIIS-FM radio phone-line hack that took over the station's telephone lines to win a Porsche 944 S2",
+    "1994 guilty plea to seven counts of conspiracy, fraud, and wiretapping",
+    "Post-prison career as senior editor at Wired News running the 'Threat Level' security blog",
+    "Helping break the 2010 story identifying Chelsea Manning as the WikiLeaks source",
+    "Co-creating SecureDrop with Aaron Swartz and James Dolan",
+    "Author of the book 'Kingpin' (2011)"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "tavis-ormandy",
+  "type": "person",
+  "title": "Tavis Ormandy",
+  "slug": "tavis-ormandy",
+  "era": "2000s-2025",
+  "tags": [
+    "Google Project Zero",
+    "vulnerability research",
+    "disclosure ethics",
+    "antivirus security",
+    "sandbox escapes"
+  ],
+  "summary": "Tavis Ormandy is a British computer security researcher and a founding member of Google Project Zero, known both for a long record of high-impact vulnerability discoveries (Sophos, Cloudflare's Cloudbleed, AMD's Zenbleed) and for a 2010 disclosure dispute with Microsoft that became a touchstone in debates over responsible versus full disclosure.",
+  "whyThisMatters": "Tavis Ormandy is a British computer security researcher and a founding member of Google Project Zero, known both for a long record of high-impact vulnerability discoveries (Sophos, Cloudflare's Cloudbleed, AMD's Zenbleed) and for a 2010 disclosure dispute with Microsoft that became a touchstone in debates over responsible versus full disclosure.",
+  "sections": {
+    "overview": "<p>Tavis Ormandy is a British computer security researcher best known for roughly two decades of vulnerability research, much of it conducted at Google, including as a founding member of Google Project Zero, the company's team dedicated to finding and coordinating disclosure of zero-day vulnerabilities across the software industry. Earlier in his career he was active in the Gentoo Linux community as a security auditor before moving into a full-time security engineering role at Google.</p><h2>The 2010 Windows Help and Support Center Controversy</h2><p>In June 2010, Ormandy reported a critical remote-code-execution flaw in the Windows Help and Support Center's \"HCP\" URL handler to Microsoft. Five days later, on June 10, 2010, he published full technical details and a working exploit on the Full Disclosure mailing list, arguing that the bug was likely already known to attackers. The early public release, before Microsoft had a patch ready, drew criticism from Microsoft and other researchers who favored longer coordinated-disclosure windows, and the episode became one of the most frequently cited flashpoints in the industry's disclosure debate. Microsoft subsequently confirmed active in-the-wild exploitation and shipped an out-of-band critical bulletin, MS10-042, on July 13, 2010.</p><h2>Sophail and Antivirus Research</h2><p>In work published in 2011 and expanded in 2012 under the title \"Sophail,\" Ormandy detailed multiple exploitable vulnerabilities and design flaws in Sophos's antivirus engine, arguing that antivirus and endpoint-security software, despite running with high system privileges, was not being held to the same security scrutiny as other software.</p><h2>Google Project Zero and Later Work</h2><p>When Google publicly announced Project Zero on July 15, 2014, Ormandy was among its founding researchers. In the years that followed he continued to find and disclose high-impact bugs: severe FireEye network-appliance vulnerabilities disclosed with colleague Natalie Silvanovich in December 2015, and, in February 2017, \"Cloudbleed,\" a Cloudflare reverse-proxy memory-disclosure bug that had been leaking private user data across large numbers of unrelated websites. In 2023 he discovered \"Zenbleed,\" a data-leak vulnerability in AMD's Zen 2 processor microarchitecture.</p><p>Ormandy left Google in October 2025. His body of work is frequently cited in discussions of vulnerability disclosure norms: the 2010 Windows Help Center episode remains a reference point in arguments over how much time researchers owe vendors before going public.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2010-06-10",
+      "event": "Publishes full exploit details on the Full Disclosure mailing list five days after notifying Microsoft, sparking a public dispute over disclosure timelines."
+    },
+    {
+      "date": "2010-07-13",
+      "event": "Microsoft ships out-of-band security bulletin MS10-042 (CVE-2010-1885)."
+    },
+    {
+      "date": "2011",
+      "event": "Publishes 'Sophail,' a critical analysis of vulnerabilities in Sophos antivirus software."
+    },
+    {
+      "date": "2014-07-15",
+      "event": "Google publicly announces Project Zero; Ormandy is among its founding researchers."
+    },
+    {
+      "date": "2017-02-17",
+      "event": "Discovers and reports 'Cloudbleed,' a Cloudflare memory-disclosure bug."
+    },
+    {
+      "date": "2023-05-15",
+      "event": "Reports 'Zenbleed' (CVE-2023-20593), a data-leak vulnerability in AMD Zen 2 processors."
+    },
+    {
+      "date": "2025-10-10",
+      "event": "Leaves Google."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Tavis Ormandy - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tavis_Ormandy"
+    },
+    {
+      "title": "Google Project Zero - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Project_Zero"
+    },
+    {
+      "title": "Microsoft Security Bulletin MS10-042 (CVE-2010-1885)",
+      "url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-042"
+    },
+    {
+      "title": "Sophail: Applied Attacks against Sophos Antivirus (paper)",
+      "url": "https://lock.cmpxchg8b.com/sophailv2.pdf"
+    },
+    {
+      "title": "Cloudbleed - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cloudbleed"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 5,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Tavis Ormandy",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Founding member of Google Project Zero (2014)",
+    "The 2010 Windows Help and Support Center (CVE-2010-1885) zero-day disclosure controversy with Microsoft",
+    "'Sophail' (2011-2012) critical analysis of Sophos antivirus vulnerabilities",
+    "Discovery of the 2017 Cloudflare 'Cloudbleed' memory-disclosure bug",
+    "Discovery of the 2023 AMD 'Zenbleed' CPU vulnerability (CVE-2023-20593)"
+  ]
+}

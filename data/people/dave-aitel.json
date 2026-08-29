@@ -1,0 +1,74 @@
+{
+  "id": "dave-aitel",
+  "type": "person",
+  "title": "Dave Aitel",
+  "slug": "dave-aitel",
+  "era": "1990s-Present",
+  "tags": [
+    "exploit development",
+    "Immunity Inc",
+    "CANVAS",
+    "SPIKE",
+    "fuzzing",
+    "INFILTRATE"
+  ],
+  "summary": "Dave Aitel is an American computer security researcher and former NSA research scientist who founded Immunity, Inc. in 2002, building the commercial CANVAS exploitation framework and SPIKE fuzzing toolset, and who later became an influential voice in cybersecurity policy commentary.",
+  "whyThisMatters": "Dave Aitel is an American computer security researcher and former NSA research scientist who founded Immunity, Inc. in 2002, building the commercial CANVAS exploitation framework and SPIKE fuzzing toolset, and who later became an influential voice in cybersecurity policy commentary.",
+  "sections": {
+    "overview": "<p>Dave Aitel (born 1976) is an American computer security professional whose career spans government signals intelligence, commercial exploit-development tooling, and cybersecurity policy commentary. He joined the National Security Agency as a research scientist at age 18 and worked there for six years, after which he spent three years as a consultant at the security firm @stake.</p><p>In 2002, Aitel founded the security software company Immunity, Inc., where he served as Chief Technology Officer until December 31, 2020. Immunity became best known for CANVAS, a commercial exploitation and penetration-testing framework often listed alongside Metasploit and Core Impact as a principal commercial peer. Aitel is also credited with creating SPIKE, a block-based fuzzing framework used to discover vulnerabilities in network protocols, and SPIKE Proxy, a related tool for web application security assessment.</p><h2>INFILTRATE and Industry Role</h2><p>Aitel founded and organized INFILTRATE, an annual security conference held in Miami Beach devoted specifically to offensive security research. In January 2018, Cyxtera Technologies acquired Immunity, with Aitel continuing on as Cyxtera's Chief Security Technical Officer and agreeing to keep organizing INFILTRATE.</p><p>Beyond tool-building, Aitel co-authored several security books, including The Shellcoder's Handbook. He has written op-eds on cybersecurity policy topics including international cyber norms and the limits of vulnerability disclosure as a policy tool, continuing this writing through his own blog covering supply-chain security and AI-assisted vulnerability discovery.</p><h2>Legacy</h2><p>Aitel's legacy rests principally on Immunity's commercial exploit-development tooling, which helped define the commercial penetration-testing tool market of the 2000s, and on INFILTRATE, which carved out a recurring venue dedicated specifically to offensive security research.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1976",
+      "event": "Born."
+    },
+    {
+      "date": "2002",
+      "event": "Founds Immunity, Inc., serving as its CTO."
+    },
+    {
+      "date": "2018-01-08",
+      "event": "Cyxtera Technologies acquires Immunity Inc.; Aitel becomes Cyxtera's Chief Security Technical Officer."
+    },
+    {
+      "date": "2020-12-31",
+      "event": "Steps down as CTO of Immunity."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Dave Aitel - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dave_Aitel"
+    },
+    {
+      "title": "Metasploit - Wikipedia (CANVAS/Immunity reference)",
+      "url": "https://en.wikipedia.org/wiki/Metasploit"
+    },
+    {
+      "title": "Cyxtera Technologies to acquire offensive cyber firm Immunity - CyberScoop",
+      "url": "https://cyberscoop.com/cyxtera-immunity-acquisition-dave-aitel/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Dave Aitel",
+  "born": "1976",
+  "died": null,
+  "knownFor": [
+    "Former NSA research scientist",
+    "Founding Immunity, Inc. in 2002 and serving as its CTO",
+    "Developing SPIKE, a block-based fuzzing framework, and SPIKE Proxy",
+    "Immunity's commercial CANVAS exploitation framework",
+    "Founding and hosting the INFILTRATE offensive-security conference"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "ida-pro",
+  "type": "tool",
+  "title": "IDA Pro",
+  "slug": "ida-pro",
+  "era": "1991-Present",
+  "tags": [
+    "disassembler",
+    "decompiler",
+    "reverse engineering",
+    "malware analysis",
+    "Hex-Rays"
+  ],
+  "summary": "IDA Pro is the commercial disassembler and decompiler created by Ilfak Guilfanov that became the de facto industry standard for reverse engineering and malware analysis for nearly three decades, shaping how professional researchers read compiled binaries until free alternatives like Ghidra emerged.",
+  "whyThisMatters": "IDA Pro is the commercial disassembler and decompiler created by Ilfak Guilfanov that became the de facto industry standard for reverse engineering and malware analysis for nearly three decades, shaping how professional researchers read compiled binaries until free alternatives like Ghidra emerged.",
+  "sections": {
+    "overview": "<p>IDA (Interactive Disassembler) was created by Ilfak Guilfanov, a mathematician and graduate of Moscow State University, who began developing the tool around 1990 and first released it as shareware on May 21, 1991. In 1996 the Belgian company DataRescue took over development and began commercializing it under the name IDA Pro, and in 1999 the software gained its first graphical user interface with version 4.0.</p><h2>From Shareware to Industry Standard</h2><p>Over the following two decades IDA Pro's support for dozens of processor architectures and executable formats, combined with features like the FLIRT library-recognition technology, made it the default tool professional reverse engineers reached for when analyzing unknown or malicious binaries. Security researchers, malware analysts, and vulnerability hunters adopted it as a baseline tool, and it came to be described as the \"de facto industry standard\" for static binary analysis.</p><h2>Hex-Rays and the Decompiler</h2><p>In 2005 Guilfanov founded Hex-Rays as a dedicated company to build the Hex-Rays Decompiler, a plugin that translates disassembled machine code into readable, C-like pseudocode rather than raw assembly, dramatically speeding up analysis of large or complex binaries. In January 2008 Hex-Rays formally assumed development and support of IDA itself from DataRescue, consolidating the disassembler and decompiler under one company. In 2022 the company was acquired by an investor consortium led by the Belgian firm Smartfin, in a deal reported at 81 million euros.</p><h2>Competitive Pressure from Ghidra</h2><p>IDA Pro's dominant, largely unchallenged position was disrupted in March 2019 when the U.S. National Security Agency publicly released Ghidra, a free and eventually open-source disassembly and decompilation suite. Ghidra's release gave the reverse-engineering community, including students and smaller security teams who could not afford IDA Pro's licensing costs, a capable no-cost alternative for the first time.</p><h2>Legacy</h2><p>Despite the competitive pressure from Ghidra and other newer tools, IDA Pro and its Hex-Rays Decompiler have remained fixtures of professional reverse engineering, malware analysis, and vulnerability research workflows, valued for platform maturity, decompiler quality, and decades of accumulated tooling and plugin ecosystems.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1991-05-21",
+      "event": "IDA is first released as a shareware disassembler."
+    },
+    {
+      "date": "1996",
+      "event": "Belgian company DataRescue takes over development and commercializes the tool as IDA Pro."
+    },
+    {
+      "date": "1999",
+      "event": "IDA Pro 4.0 ships with the software's first graphical user interface."
+    },
+    {
+      "date": "2005",
+      "event": "Ilfak Guilfanov founds Hex-Rays to develop the Hex-Rays Decompiler for IDA."
+    },
+    {
+      "date": "2008-01",
+      "event": "Hex-Rays formally takes over development and support of IDA from DataRescue."
+    },
+    {
+      "date": "2019-03-05",
+      "event": "The NSA publicly unveils Ghidra, a free alternative to IDA Pro, at the RSA Conference."
+    },
+    {
+      "date": "2022",
+      "event": "Hex-Rays is acquired by an investor consortium led by Smartfin for a reported 81 million euros."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Interactive Disassembler - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Interactive_Disassembler"
+    },
+    {
+      "title": "Ilfak Guilfanov - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ilfak_Guilfanov"
+    },
+    {
+      "title": "Hex-Rays - Company homepage",
+      "url": "https://hex-rays.com/"
+    },
+    {
+      "title": "Ghidra - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ghidra"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

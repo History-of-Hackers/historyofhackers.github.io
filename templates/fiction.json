@@ -1,0 +1,25 @@
+{
+  "_comment": "Template for a FICTIONAL hacker character/work entry. This is a SEPARATE taxonomy from People/Groups/Events/Tools -- these are not real historical figures. Never mix a fiction entry into the real people/groups directories, and never let a fiction page's tone imply the character is a documented real person. Facts here should be accurate to the actual film/show/book (verified via reviews, cast lists, official sources), not invented lore beyond what the work itself established.",
+  "id": "example-slug",
+  "type": "fiction",
+  "title": "Work or Character Title",
+  "work": "Full title of the film/show/book (Year)",
+  "releaseYear": "YYYY or YYYY-YYYY",
+  "creator": "Director / creator / author",
+  "summary": "1-2 sentence neutral description of the work and its significance to hacker pop culture.",
+  "overviewHtml": "<p>...</p>",
+  "characters": [
+    { "name": "Character full name", "alias": "hacker handle used in-story, if any", "actor": "Actor/voice actor name or null", "description": "1-2 sentence factual description of the character's role, sourced to the work itself." }
+  ],
+  "relatedFields": ["e.g. hackers-in-film"],
+  "sources": [
+    { "title": "Source name", "url": "https://..." }
+  ],
+  "editorial": {
+    "verified": false,
+    "sourcesCount": 0,
+    "lastReviewed": null,
+    "reviewStatus": "TODO | RESEARCHING | VERIFIED | ARTICLE_READY | PUBLISHED",
+    "reviewer": null
+  }
+}

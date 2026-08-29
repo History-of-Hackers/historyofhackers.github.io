@@ -1,0 +1,90 @@
+{
+  "id": "chris-wysopal",
+  "type": "person",
+  "title": "Chris Wysopal",
+  "slug": "chris-wysopal",
+  "era": "1990s-Present",
+  "tags": [
+    "L0pht",
+    "Senate testimony",
+    "stake",
+    "Veracode",
+    "responsible disclosure",
+    "application security"
+  ],
+  "summary": "Chris Wysopal, known by the handle 'Weld Pond' during his time with the hacker think tank L0pht Heavy Industries, was one of seven L0pht members who warned the U.S. Senate in 1998 that they could take down the internet in 30 minutes; he went on to co-found the security consultancy @stake and later the application-security testing company Veracode.",
+  "whyThisMatters": "Chris Wysopal, known by the handle 'Weld Pond' during his time with the hacker think tank L0pht Heavy Industries, was one of seven L0pht members who warned the U.S. Senate in 1998 that they could take down the internet in 30 minutes; he went on to co-found the security consultancy @stake and later the application-security testing company Veracode.",
+  "sections": {
+    "overview": "<p>Chris Wysopal is an American computer security researcher and executive best known for his role in the hacker collective L0pht Heavy Industries and his subsequent career building commercial application-security companies. He was born on December 1, 1965, in New Haven, Connecticut, and earned a bachelor's degree in Computer and Systems Engineering from Rensselaer Polytechnic Institute in 1987.</p><h2>L0pht and the 1998 Senate Testimony</h2><p>Under the handle 'Weld Pond,' Wysopal was a member of L0pht Heavy Industries, the Boston-based hacker think tank that publicized weaknesses in widely used commercial software during the 1990s. Within the group he worked on vulnerability research and development, contributing to tools including L0phtCrack. On May 19, 1998, Wysopal was one of seven L0pht members who testified before a U.S. Senate committee, warning that vulnerabilities in commercial software were severe enough that the group could shut down the entire Internet in 30 minutes.</p><h2>@stake and Responsible Disclosure Advocacy</h2><p>In January 2000, L0pht merged into the newly formed security consultancy @stake. At @stake he managed the firm's research group and later served as Vice President of Research and Development. During this period Wysopal became one of the more prominent voices arguing for structured, cooperative approaches to reporting and fixing software vulnerabilities, establishing the VulnWatch mailing list in 2001 and, in February 2002, co-authoring an IETF Internet-Draft titled 'Responsible Vulnerability Disclosure Process' with Steve Christey of MITRE.</p><h2>Founding Veracode</h2><p>In March 2006, Wysopal co-founded Veracode with fellow former @stake and L0pht engineer Christien Rioux ('Dildog'). Veracode built an automated binary and static-analysis platform for testing software for security flaws. Wysopal served as the company's Chief Technology Officer for many years before transitioning to Chief Security Evangelist in 2024. CA Technologies acquired Veracode for approximately $614 million in 2017; it was later resold to Thoma Bravo for $950 million, and in 2022 TA Associates acquired the company at a $2.5 billion valuation.</p><h2>Legacy</h2><p>Wysopal's career traces a broader arc in the security industry from underground vulnerability research to institutionalized, commercial application-security practice, and Veracode became one of the establishing companies in the application security testing market.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1965-12-01",
+      "event": "Born in New Haven, Connecticut."
+    },
+    {
+      "date": "1998-05-19",
+      "event": "Testified before the U.S. Senate as one of seven L0pht members."
+    },
+    {
+      "date": "2000-01",
+      "event": "L0pht merged into the security consultancy @stake."
+    },
+    {
+      "date": "2002-02",
+      "event": "Co-authored the IETF Internet-Draft 'Responsible Vulnerability Disclosure Process.'"
+    },
+    {
+      "date": "2006-03",
+      "event": "Co-founded Veracode with Christien Rioux ('Dildog')."
+    },
+    {
+      "date": "2017-04-03",
+      "event": "CA Technologies completed its acquisition of Veracode for approximately $614 million."
+    },
+    {
+      "date": "2022-03",
+      "event": "TA Associates acquired Veracode at a $2.5 billion valuation."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Chris Wysopal - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chris_Wysopal"
+    },
+    {
+      "title": "Veracode - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Veracode"
+    },
+    {
+      "title": "Chris Wysopal - Veracode Leadership page",
+      "url": "https://www.veracode.com/about/leadership/"
+    },
+    {
+      "title": "Responsible Vulnerability Disclosure Process (IETF Internet-Draft)",
+      "url": "https://datatracker.ietf.org/doc/html/draft-christey-wysopal-vuln-disclosure-00"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Chris Wysopal",
+  "born": "1965-12-01",
+  "died": null,
+  "knownFor": [
+    "L0pht Heavy Industries member (handle 'Weld Pond')",
+    "1998 U.S. Senate testimony on internet and government computer security weaknesses",
+    "Co-developer of L0phtCrack",
+    "Early responsible-disclosure advocacy: co-author of the 2002 IETF draft 'Responsible Vulnerability Disclosure Process'",
+    "Co-founding Veracode in 2006 and serving as CTO"
+  ]
+}

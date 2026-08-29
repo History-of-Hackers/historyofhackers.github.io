@@ -1,0 +1,39 @@
+{
+  "id": "cyberchase",
+  "type": "fiction",
+  "title": "Cyberchase",
+  "work": "Cyberchase (animated TV series)",
+  "releaseYear": "2002-Present",
+  "creator": "Created by Sandra Sheppard (PBS Kids / Thirteen/WNET)",
+  "summary": "Cyberchase is a PBS Kids animated educational series, premiering January 21, 2002, in which three Earth children are pulled into the digital universe of Cyberspace to use math and problem-solving to stop the villain known only as 'the Hacker' from conquering it. The Hacker, voiced by Christopher Lloyd, is a self-centered rogue AI/mad-scientist figure rather than a depiction of any real-world computer-hacking technique.",
+  "sections": {
+    "overview": "<p>Cyberchase debuted on PBS Kids on January 21, 2002, created by Sandra Sheppard for the public-broadcasting producer Thirteen/WNET, aimed at children roughly ages 8-11. The premise follows three Earth kids &mdash; Jackie, Matt, and Inez &mdash; who are pulled into Cyberspace, a digital universe, to help protect it from a villain called the Hacker, using mathematics and logic to outwit him in each episode. The series has run for an unusually long time by American animation standards, reaching 16 seasons and roughly 153 episodes.</p><h2>The Hacker</h2><p>The Hacker, voiced throughout the series by actor Christopher Lloyd, is the show's recurring antagonist: a self-centered, scheming figure originally built by the benevolent Doctor Marbles to assist Cyberspace's guiding supercomputer, Motherboard, but who rebelled against that purpose and was exiled to a remote region called the Northern Frontier. From there he repeatedly attempts to seize or sabotage Motherboard and spread chaos across Cyberspace, generally by unleashing computer viruses, glitches, and other digital calamities, aided by his two henchbots, Buzz and Delete.</p><h2>Educational Mission, Not Technical Accuracy</h2><p>Cyberchase's explicit mission, aligned with National Council of Teachers of Mathematics standards, is to teach that math is everywhere and everyone can be good at it, using its cyber-fantasy setting as a vehicle for STEM education. The character's name and 'Cyberspace' setting are fictional, kid-friendly framing devices from the early-2000s pop-culture vocabulary around computers; the show makes no claim to technical accuracy about real-world hacking, and 'the Hacker' functions purely as a proper-name villain identity rather than a description of any actual hacking method or figure.</p>"
+  },
+  "characters": [
+    {
+      "name": "The Hacker",
+      "alias": "The Hacker",
+      "actor": "Christopher Lloyd",
+      "description": "The primary villain of Cyberchase, a self-centered rogue creation of Doctor Marbles who rebelled against his intended purpose of assisting Motherboard and was exiled to the Northern Frontier; he repeatedly schemes to conquer Cyberspace using computer viruses and glitches, aided by his unreliable henchbots Buzz and Delete."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cyberchase - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cyberchase"
+    },
+    {
+      "title": "List of Cyberchase characters - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Cyberchase_characters"
+    },
+    {
+      "title": "PBS Kids - Cyberchase",
+      "url": "https://pbskids.org/cyberchase"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "reviewStatus": "PUBLISHED"
+  }
+}
