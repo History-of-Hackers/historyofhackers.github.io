@@ -53,6 +53,25 @@
     "url": "people/bruce-schneier.html"
   },
   {
+    "id": "cesar-cerrudo",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Cesar Cerrudo",
+    "slug": "cesar-cerrudo",
+    "era": "2000s-Present",
+    "tags": [
+      "Argentina",
+      "IOActive",
+      "smart cities",
+      "IoT security",
+      "SQL Server",
+      "critical infrastructure",
+      "Ekoparty"
+    ],
+    "summary": "Cesar Cerrudo is an Argentine security researcher known for early vulnerability research in Microsoft SQL Server and Windows, and for later work as CTO of IOActive Labs exposing widespread security weaknesses in traffic-control systems and other smart-city infrastructure.",
+    "url": "people/cesar-cerrudo.html"
+  },
+  {
     "id": "charlie-miller",
     "type": "person",
     "typeLabel": "Person",
@@ -178,6 +197,24 @@
     "url": "people/hd-moore.html"
   },
   {
+    "id": "james-kettle",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "James Kettle",
+    "slug": "james-kettle",
+    "era": "2010s-Present",
+    "tags": [
+      "web security",
+      "PortSwigger",
+      "Burp Suite",
+      "HTTP request smuggling",
+      "web cache poisoning",
+      "race conditions"
+    ],
+    "summary": "James Kettle, known online as 'albinowax', is a British web security researcher and Director of Research at PortSwigger (maker of Burp Suite), best known for reviving and popularizing HTTP request smuggling through his 2019 'HTTP Desync Attacks' research, alongside influential work on web cache poisoning and web race conditions.",
+    "url": "people/james-kettle.html"
+  },
+  {
     "id": "joanna-rutkowska",
     "type": "person",
     "typeLabel": "Person",
@@ -196,6 +233,25 @@
     ],
     "summary": "Joanna Rutkowska is a Polish computer security researcher best known for the 2006 \"Blue Pill\" hardware-virtualization rootkit concept, for founding Invisible Things Lab, and for creating the security-by-isolation desktop operating system Qubes OS.",
     "url": "people/joanna-rutkowska.html"
+  },
+  {
+    "id": "karsten-nohl",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Karsten Nohl",
+    "slug": "karsten-nohl",
+    "era": "2000s-Present",
+    "tags": [
+      "cryptography",
+      "GSM security",
+      "RFID",
+      "BadUSB",
+      "mobile security",
+      "Security Research Labs",
+      "SS7"
+    ],
+    "summary": "Karsten Nohl is a German cryptographer and security researcher best known for cracking the GSM A5/1 cipher and the MIFARE Classic RFID card encryption, and for co-discovering the 2014 BadUSB firmware vulnerability; he leads Security Research Labs, a Berlin-based security research consultancy.",
+    "url": "people/karsten-nohl.html"
   },
   {
     "id": "katie-moussouris",
@@ -253,6 +309,42 @@
     "url": "people/marcus-hutchins-wannacry.html"
   },
   {
+    "id": "michal-zalewski",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Michal Zalewski",
+    "slug": "michal-zalewski",
+    "era": "1990s-Present",
+    "tags": [
+      "network security",
+      "fuzzing",
+      "browser security",
+      "OS fingerprinting",
+      "Google",
+      "author"
+    ],
+    "summary": "Polish-born security researcher known online as 'lcamtuf', a prolific Bugtraq-era vulnerability researcher whose passive-fingerprinting tool p0f, web-security books, and coverage-guided fuzzer American Fuzzy Lop (afl) reshaped both browser-security research and modern bug-finding practice.",
+    "url": "people/michal-zalewski.html"
+  },
+  {
+    "id": "mikko-hypponen",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Mikko Hypp\u00f6nen",
+    "slug": "mikko-hypponen",
+    "era": "1990s-Present",
+    "tags": [
+      "malware research",
+      "F-Secure",
+      "WithSecure",
+      "Finland",
+      "antivirus",
+      "TED speaker"
+    ],
+    "summary": "Mikko Hypp\u00f6nen is a Finnish computer security researcher who spent over three decades at F-Secure and its successor WithSecure, becoming one of the most publicly recognized voices in malware research and cybersecurity communication, known for tracking down early virus authors and for widely viewed talks on cybercrime.",
+    "url": "people/mikko-hypponen.html"
+  },
+  {
     "id": "mudge-peiter-zatko",
     "type": "person",
     "typeLabel": "Person",
@@ -305,6 +397,25 @@
     ],
     "summary": "Robert Tappan Morris is an American computer scientist who, as a Cornell graduate student in 1988, released the first worm to spread widely across the early Internet and became the first person convicted under the Computer Fraud and Abuse Act; he later co-founded Viaweb and Y Combinator and is now a tenured MIT professor of computer science.",
     "url": "people/robert-tappan-morris.html"
+  },
+  {
+    "id": "ross-anderson",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ross Anderson",
+    "slug": "ross-anderson",
+    "era": "1980s-2024",
+    "tags": [
+      "security engineering",
+      "cryptography",
+      "banking security",
+      "chip and pin",
+      "security economics",
+      "Cambridge",
+      "surveillance policy"
+    ],
+    "summary": "Ross Anderson was a British computer scientist and Professor of Security Engineering at the University of Cambridge whose research on cryptography, banking and ATM fraud, and the economics of information security helped establish security engineering as a recognized academic discipline, and whose 2001 textbook 'Security Engineering' became a standard reference in the field.",
+    "url": "people/ross-anderson.html"
   },
   {
     "id": "samy-kamkar",
@@ -730,114 +841,126 @@
     "url": "fields/responsible-disclosure.html"
   },
   {
-    "id": "cesar-cerrudo",
+    "id": "orange-tsai",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Cesar Cerrudo",
-    "slug": "cesar-cerrudo",
-    "era": "2000s-Present",
-    "tags": [
-      "Argentina",
-      "IOActive",
-      "smart cities",
-      "IoT security",
-      "SQL Server",
-      "critical infrastructure",
-      "Ekoparty"
-    ],
-    "summary": "Cesar Cerrudo is an Argentine security researcher known for early vulnerability research in Microsoft SQL Server and Windows, and for later work as CTO of IOActive Labs exposing widespread security weaknesses in traffic-control systems and other smart-city infrastructure.",
-    "url": "people/cesar-cerrudo.html"
-  },
-  {
-    "id": "james-kettle",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "James Kettle",
-    "slug": "james-kettle",
+    "title": "Orange Tsai",
+    "slug": "orange-tsai",
     "era": "2010s-Present",
     "tags": [
       "web security",
-      "PortSwigger",
-      "Burp Suite",
-      "HTTP request smuggling",
-      "web cache poisoning",
-      "race conditions"
+      "DEVCORE",
+      "Taiwan",
+      "Pwn2Own",
+      "ProxyLogon",
+      "vulnerability research"
     ],
-    "summary": "James Kettle, known online as 'albinowax', is a British web security researcher and Director of Research at PortSwigger (maker of Burp Suite), best known for reviving and popularizing HTTP request smuggling through his 2019 'HTTP Desync Attacks' research, alongside influential work on web cache poisoning and web race conditions.",
-    "url": "people/james-kettle.html"
+    "summary": "Orange Tsai is a Taiwan-based web application security researcher and principal researcher at DEVCORE whose disclosures of Microsoft Exchange Server vulnerabilities in early 2021 became known as ProxyLogon, and whose repeated Pwn2Own 'Master of Pwn' titles and Pwnie Award wins have made him one of the most recognized application-security researchers in Asia.",
+    "url": "people/orange-tsai.html"
   },
   {
-    "id": "karsten-nohl",
+    "id": "bloodhound",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "BloodHound",
+    "slug": "bloodhound",
+    "era": "2016-Present",
+    "tags": [
+      "Active Directory",
+      "red team",
+      "attack path mapping",
+      "graph theory",
+      "SpecterOps"
+    ],
+    "summary": "BloodHound is an open-source tool that maps Active Directory environments as a graph rather than a list, exposing hidden privilege-escalation paths that took defenders and pentesters weeks to find manually and revealing them in minutes, which made it a staple of both red-team operations and enterprise AD defense.",
+    "url": "tools/bloodhound.html"
+  },
+  {
+    "id": "burp-suite",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Burp Suite",
+    "slug": "burp-suite",
+    "era": "2003-Present",
+    "tags": [
+      "web security",
+      "penetration testing",
+      "intercepting proxy",
+      "PortSwigger",
+      "vulnerability scanner"
+    ],
+    "summary": "Burp Suite is an intercepting-proxy-based web application security testing toolkit created by Dafydd Stuttard (aka 'PortSwigger'), which became the de facto industry-standard platform for manual and automated web penetration testing.",
+    "url": "tools/burp-suite.html"
+  },
+  {
+    "id": "ghidra",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Ghidra",
+    "slug": "ghidra",
+    "era": "1999 (internal origins) - 2019-Present (public tool)",
+    "tags": [
+      "reverse engineering",
+      "NSA",
+      "open source",
+      "decompiler",
+      "disassembler",
+      "Vault 7"
+    ],
+    "summary": "Ghidra is a free, open-source software reverse engineering framework created by the NSA's Research Directorate, used internally by the agency for years before its unprecedented public release in 2019; it broke the commercial monopoly on high-end disassembly and decompilation tooling by giving researchers worldwide a no-cost alternative to IDA Pro.",
+    "url": "tools/ghidra.html"
+  },
+  {
+    "id": "mimikatz",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Mimikatz",
+    "slug": "mimikatz",
+    "era": "2007-Present",
+    "tags": [
+      "credential theft",
+      "post-exploitation",
+      "windows security",
+      "active directory",
+      "pass the hash",
+      "open source"
+    ],
+    "summary": "Mimikatz is an open-source Windows post-exploitation tool created by French programmer Benjamin Delpy that extracts plaintext passwords, hashes, and Kerberos tickets from system memory, becoming one of the most widely used credential-theft utilities in both legitimate penetration testing and real-world cyberattacks, including major ransomware outbreaks.",
+    "url": "tools/mimikatz.html"
+  },
+  {
+    "id": "moxie-marlinspike",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Karsten Nohl",
-    "slug": "karsten-nohl",
+    "title": "Moxie Marlinspike",
+    "slug": "moxie-marlinspike",
     "era": "2000s-Present",
     "tags": [
+      "SSL/TLS security",
+      "encrypted messaging",
+      "Signal Protocol",
       "cryptography",
-      "GSM security",
-      "RFID",
-      "BadUSB",
-      "mobile security",
-      "Security Research Labs",
-      "SS7"
+      "privacy tools"
     ],
-    "summary": "Karsten Nohl is a German cryptographer and security researcher best known for cracking the GSM A5/1 cipher and the MIFARE Classic RFID card encryption, and for co-discovering the 2014 BadUSB firmware vulnerability; he leads Security Research Labs, a Berlin-based security research consultancy.",
-    "url": "people/karsten-nohl.html"
+    "summary": "Moxie Marlinspike is an American security researcher who exposed foundational weaknesses in SSL/TLS certificate trust with tools like sslsniff and SSLstrip, then went on to co-create the Signal Protocol, the end-to-end encryption system now used by Signal, WhatsApp, and other major messaging platforms.",
+    "url": "people/moxie-marlinspike.html"
   },
   {
-    "id": "michal-zalewski",
+    "id": "natalie-silvanovich",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Michal Zalewski",
-    "slug": "michal-zalewski",
-    "era": "1990s-Present",
+    "title": "Natalie Silvanovich",
+    "slug": "natalie-silvanovich",
+    "era": "2010s-Present",
     "tags": [
-      "network security",
-      "fuzzing",
-      "browser security",
-      "OS fingerprinting",
+      "Project Zero",
       "Google",
-      "author"
+      "zero-click",
+      "iMessage",
+      "mobile security",
+      "vulnerability research"
     ],
-    "summary": "Polish-born security researcher known online as 'lcamtuf', a prolific Bugtraq-era vulnerability researcher whose passive-fingerprinting tool p0f, web-security books, and coverage-guided fuzzer American Fuzzy Lop (afl) reshaped both browser-security research and modern bug-finding practice.",
-    "url": "people/michal-zalewski.html"
-  },
-  {
-    "id": "mikko-hypponen",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Mikko Hypp\u00f6nen",
-    "slug": "mikko-hypponen",
-    "era": "1990s-Present",
-    "tags": [
-      "malware research",
-      "F-Secure",
-      "WithSecure",
-      "Finland",
-      "antivirus",
-      "TED speaker"
-    ],
-    "summary": "Mikko Hypp\u00f6nen is a Finnish computer security researcher who spent over three decades at F-Secure and its successor WithSecure, becoming one of the most publicly recognized voices in malware research and cybersecurity communication, known for tracking down early virus authors and for widely viewed talks on cybercrime.",
-    "url": "people/mikko-hypponen.html"
-  },
-  {
-    "id": "ross-anderson",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Ross Anderson",
-    "slug": "ross-anderson",
-    "era": "1980s-2024",
-    "tags": [
-      "security engineering",
-      "cryptography",
-      "banking security",
-      "chip and pin",
-      "security economics",
-      "Cambridge",
-      "surveillance policy"
-    ],
-    "summary": "Ross Anderson was a British computer scientist and Professor of Security Engineering at the University of Cambridge whose research on cryptography, banking and ATM fraud, and the economics of information security helped establish security engineering as a recognized academic discipline, and whose 2001 textbook 'Security Engineering' became a standard reference in the field.",
-    "url": "people/ross-anderson.html"
+    "summary": "Natalie Silvanovich is a security researcher on Google's Project Zero team known for pioneering research into 'interaction-less' (zero-click) vulnerabilities in mobile messaging and video-calling applications, most notably a 2019 study of iMessage that uncovered multiple remotely exploitable bugs requiring no user interaction.",
+    "url": "people/natalie-silvanovich.html"
   }
 ]

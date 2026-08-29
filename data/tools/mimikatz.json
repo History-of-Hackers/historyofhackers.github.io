@@ -1,0 +1,80 @@
+{
+  "id": "mimikatz",
+  "type": "tool",
+  "title": "Mimikatz",
+  "slug": "mimikatz",
+  "era": "2007-Present",
+  "tags": [
+    "credential theft",
+    "post-exploitation",
+    "windows security",
+    "active directory",
+    "pass the hash",
+    "open source"
+  ],
+  "summary": "Mimikatz is an open-source Windows post-exploitation tool created by French programmer Benjamin Delpy that extracts plaintext passwords, hashes, and Kerberos tickets from system memory, becoming one of the most widely used credential-theft utilities in both legitimate penetration testing and real-world cyberattacks, including major ransomware outbreaks.",
+  "whyThisMatters": "Mimikatz is an open-source Windows post-exploitation tool created by French programmer Benjamin Delpy that extracts plaintext passwords, hashes, and Kerberos tickets from system memory, becoming one of the most widely used credential-theft utilities in both legitimate penetration testing and real-world cyberattacks, including major ransomware outbreaks.",
+  "sections": {
+    "overview": "<p>Mimikatz was created by French programmer <strong>Benjamin Delpy</strong>, known by the online handle <strong>gentilkiwi</strong>. According to accounts of its origin, Delpy discovered while teaching himself the C programming language that Windows systems could, under certain conditions, hold both an encrypted copy of a user's password and the key needed to decrypt it in memory at the same time. Delpy reported the weakness to Microsoft, but the company reportedly told him the finding was not a serious concern because it would require a machine to already be compromised. Delpy built Mimikatz as a proof-of-concept exploiting the issue.</p><p>Delpy released the first version of Mimikatz in May 2011 as closed-source software. Its capabilities spread quickly: by September 2011 the technique had already surfaced in the breach of Dutch certificate authority DigiNotar, an attack attributed to Iranian-linked actors that led to fraudulent certificates and DigiNotar's eventual collapse. Delpy later released the Mimikatz source code publicly after presenting the tool at the Positive Hack Days security conference in Moscow, reasoning that defenders needed access to the code to understand and counter the attack technique it demonstrated.</p><h2>How Mimikatz Works</h2><p>Mimikatz's core technique targets the Local Security Authority Subsystem Service (LSASS), the Windows process responsible for enforcing security policy and handling user authentication. LSASS caches credential material in memory so users are not repeatedly prompted for passwords; Mimikatz reads this memory space to recover plaintext passwords, NTLM password hashes, and Kerberos tickets, typically requiring administrator or SYSTEM-level access. Extracted material can be reused directly in pass-the-hash and pass-the-ticket attacks. More advanced Mimikatz functions can forge Kerberos tickets outright, granting domain-wide access in Active Directory environments once an initial foothold is gained.</p><h2>Dual-Use Legacy and Real-World Impact</h2><p>Mimikatz occupies a dual-use role in computer security. Penetration testers and red teams use it to demonstrate credential-theft risks in authorized assessments, while it has also been abused extensively by real-world attackers. Beyond the 2011 DigiNotar breach, it has been associated with the Carbanak banking-fraud campaign and the cyberattack on the German Bundestag. Its most destructive documented use came in June 2017, when the NotPetya wiper malware incorporated a modified Mimikatz-based credential-dumping component to harvest Windows credentials and spread laterally across networks, combining this with the leaked EternalBlue exploit to cause billions of dollars in global damage.</p><p>Mimikatz's success prompted direct defensive responses from Microsoft. Windows 8.1 disabled the WDigest authentication protocol by default, closing off a common source of recoverable plaintext passwords in LSASS memory. More significantly, Microsoft introduced Windows Defender Credential Guard, which uses virtualization-based security to isolate derived credentials from the operating system. Despite these mitigations, Mimikatz remains one of the most consequential and enduring post-exploitation tools in the history of Windows security.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2011-05",
+      "event": "Mimikatz is first publicly released by Benjamin Delpy as closed-source software."
+    },
+    {
+      "date": "2011-09",
+      "event": "The Mimikatz technique is used in the breach of Dutch certificate authority DigiNotar."
+    },
+    {
+      "date": "2012",
+      "event": "Delpy presents Mimikatz at the Positive Hack Days conference in Moscow and releases its source code publicly."
+    },
+    {
+      "date": "2013-10",
+      "event": "Microsoft ships Windows 8.1, disabling the WDigest protocol by default in response to credential-theft risk."
+    },
+    {
+      "date": "2017-06",
+      "event": "The NotPetya wiper malware uses a modified Mimikatz-based credential-dumping module combined with EternalBlue to spread worldwide."
+    },
+    {
+      "date": "2017-10",
+      "event": "The BadRabbit ransomware outbreak incorporates Mimikatz-derived credential harvesting for network propagation."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Mimikatz - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mimikatz"
+    },
+    {
+      "title": "gentilkiwi/mimikatz - GitHub repository",
+      "url": "https://github.com/gentilkiwi/mimikatz"
+    },
+    {
+      "title": "Origin story of the Mimikatz password cracker - Boing Boing",
+      "url": "https://boingboing.net/2017/11/09/password123.html"
+    },
+    {
+      "title": "What is Mimikatz? And how this password-stealing tool works - CSO Online",
+      "url": "https://www.csoonline.com/article/566987/what-is-mimikatz-and-how-to-defend-against-this-password-stealing-tool.html"
+    },
+    {
+      "title": "Credential Guard overview - Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 5,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

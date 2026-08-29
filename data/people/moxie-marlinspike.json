@@ -1,0 +1,106 @@
+{
+  "id": "moxie-marlinspike",
+  "type": "person",
+  "title": "Moxie Marlinspike",
+  "slug": "moxie-marlinspike",
+  "era": "2000s-Present",
+  "tags": [
+    "SSL/TLS security",
+    "encrypted messaging",
+    "Signal Protocol",
+    "cryptography",
+    "privacy tools"
+  ],
+  "summary": "Moxie Marlinspike is an American security researcher who exposed foundational weaknesses in SSL/TLS certificate trust with tools like sslsniff and SSLstrip, then went on to co-create the Signal Protocol, the end-to-end encryption system now used by Signal, WhatsApp, and other major messaging platforms.",
+  "whyThisMatters": "Moxie Marlinspike is an American security researcher who exposed foundational weaknesses in SSL/TLS certificate trust with tools like sslsniff and SSLstrip, then went on to co-create the Signal Protocol, the end-to-end encryption system now used by Signal, WhatsApp, and other major messaging platforms.",
+  "sections": {
+    "overview": "<p>Moxie Marlinspike is an American computer security researcher, cryptographer, and entrepreneur best known for exposing systemic weaknesses in the SSL/TLS certificate system and for later co-creating the Signal Protocol, the end-to-end encryption technology that underlies the Signal messaging app and secures conversations on WhatsApp, Facebook Messenger, and other major platforms.</p><h2>Early SSL/TLS Research</h2><p>As early as 2002, Marlinspike published research showing that many SSL/TLS implementations failed to properly verify certificate chains, allowing an attacker holding any valid CA-signed certificate to mint seemingly valid certificates for arbitrary domains. He packaged related techniques into a man-in-the-middle tool called sslsniff, and in 2009 expanded this work with the SSLstrip tool, presented at Black Hat DC and Black Hat USA. SSLstrip transparently downgraded a victim's HTTPS connections to plaintext HTTP, demonstrating how easily real-world SSL deployments could be bypassed.</p><h2>Whisper Systems and the Twitter Acquisition</h2><p>In 2010, Marlinspike co-founded the mobile security startup Whisper Systems with Stuart Anderson, releasing the encrypted texting app TextSecure and the encrypted voice-calling app RedPhone. On November 28, 2011, Twitter acquired Whisper Systems, bringing Marlinspike on board; Twitter subsequently open-sourced TextSecure under the GPLv3 license.</p><h2>Open Whisper Systems and the Signal Protocol</h2><p>After leaving Twitter, Marlinspike founded Open Whisper Systems in 2013 to continue developing TextSecure and RedPhone as open-source projects. Working with cryptographer Trevor Perrin, he co-developed what became known as the Signal Protocol, first integrated into TextSecure in February 2014. In November 2015, TextSecure and RedPhone were unified into a single application called Signal. WhatsApp completed the rollout of full end-to-end encryption using the protocol for all users in April 2016, and it was subsequently adopted by Facebook Messenger, Google Messages, and Skype. Marlinspike and Perrin received the 2017 Levchin Prize for Real World Cryptography for this work.</p><h2>Signal Foundation and Later Career</h2><p>On February 21, 2018, Marlinspike co-founded the nonprofit Signal Foundation with WhatsApp co-founder Brian Acton, and served as the first CEO of Signal Messenger LLC. On January 10, 2022, he stepped down as CEO, remaining on Signal's board.</p><h2>Legacy</h2><p>Marlinspike's career spans two related contributions to computer security: demonstrating how fragile real-world implementations of 'secure' protocols could be, and then building Signal into the de facto standard for end-to-end encrypted communication used by billions of people worldwide.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2002",
+      "event": "Publishes research on SSL/TLS certificate-chain verification flaws and releases the sslsniff tool."
+    },
+    {
+      "date": "2009",
+      "event": "Presents null-prefix SSL certificate attacks and releases SSLstrip at Black Hat."
+    },
+    {
+      "date": "2010",
+      "event": "Co-founds Whisper Systems, releasing the encrypted apps TextSecure and RedPhone."
+    },
+    {
+      "date": "2011-11-28",
+      "event": "Twitter acquires Whisper Systems; TextSecure is later open-sourced under the GPLv3."
+    },
+    {
+      "date": "2013",
+      "event": "Founds Open Whisper Systems to continue independent development of TextSecure and RedPhone."
+    },
+    {
+      "date": "2014-02",
+      "event": "The Signal Protocol, co-developed with Trevor Perrin, is first integrated into TextSecure."
+    },
+    {
+      "date": "2015-11",
+      "event": "TextSecure and RedPhone are merged into a single app called Signal."
+    },
+    {
+      "date": "2016-04-05",
+      "event": "WhatsApp completes rollout of full end-to-end encryption using the Signal Protocol."
+    },
+    {
+      "date": "2018-02-21",
+      "event": "Co-founds the nonprofit Signal Foundation with Brian Acton and becomes the first CEO of Signal Messenger LLC."
+    },
+    {
+      "date": "2022-01-10",
+      "event": "Steps down as CEO of Signal, remaining on its board."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Moxie Marlinspike - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Moxie_Marlinspike"
+    },
+    {
+      "title": "Signal Protocol - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Signal_Protocol"
+    },
+    {
+      "title": "Twitter Acquires Moxie Marlinspike's Encryption Startup Whisper Systems - Forbes",
+      "url": "https://www.forbes.com/sites/andygreenberg/2011/11/28/twitter-acquires-moxie-marlinspikes-encryption-startup-whisper-systems/"
+    },
+    {
+      "title": "Signal founder Moxie Marlinspike steps down as CEO - Engadget",
+      "url": "https://www.engadget.com/signal-founder-moxie-marlinspike-steps-down-as-ceo-074852298.html"
+    },
+    {
+      "title": "Signal Foundation - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Signal_Foundation"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 5,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Moxie Marlinspike",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "sslsniff MITM tool exploiting SSL certificate-chain flaws",
+    "SSLstrip tool and SSL-stripping attack technique",
+    "Co-founding Whisper Systems (TextSecure, RedPhone)",
+    "Co-creating the Signal Protocol with Trevor Perrin",
+    "Founding Open Whisper Systems and the Signal Foundation",
+    "First CEO of Signal Messenger"
+  ]
+}
