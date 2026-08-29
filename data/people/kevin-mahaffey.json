@@ -1,0 +1,114 @@
+{
+  "id": "kevin-mahaffey",
+  "type": "person",
+  "title": "Kevin Mahaffey",
+  "slug": "kevin-mahaffey",
+  "era": "2009-Present",
+  "tags": [
+    "cybersecurity",
+    "mobile security",
+    "Lookout",
+    "vulnerability research",
+    "car hacking",
+    "angel investor"
+  ],
+  "summary": "Kevin Mahaffey is a cybersecurity entrepreneur and researcher best known as co-founder and CTO of Lookout, the mobile security company, and for co-discovering critical remote-exploit vulnerabilities in the Tesla Model S alongside researcher Marc Rogers in 2015.",
+  "whyThisMatters": "Kevin Mahaffey is a cybersecurity entrepreneur and researcher best known as co-founder and CTO of Lookout, the mobile security company, and for co-discovering critical remote-exploit vulnerabilities in the Tesla Model S alongside researcher Marc Rogers in 2015.",
+  "sections": {
+    "overview": "<p>Kevin Mahaffey is a cybersecurity entrepreneur and vulnerability researcher who co-founded Lookout, a mobile security company, and served as its Chief Technology Officer for over a decade. He is best known publicly for high-profile hardware security research, including a widely covered demonstration of remote vulnerabilities in the Tesla Model S.</p><h2>Lookout</h2><p>According to TechCrunch's company history of Lookout, the company was established in San Francisco around 2009 as a consumer-focused smartphone security and data-backup business. Mahaffey is consistently identified in contemporaneous press coverage as \"co-founder and CTO of mobile security leader Lookout,\" alongside John Hering, who is identified as the company's CEO and co-founder. Under this leadership, Lookout raised a $40 million round led by Andreessen Horowitz in 2011 (reaching roughly 12 million users at the time), and a $55 million round led by Deutsche Telekom in 2013 as it launched an enterprise-focused security suite and a partnership with Samsung. By 2023, Lookout sold its consumer cybersecurity business to F-Secure for approximately $223 million, refocusing entirely on enterprise security under CEO Jim Dolce.</p><h2>Tesla Model S Research</h2><p>In August 2015, Mahaffey and Marc Rogers \u2014 then principal security researcher at Cloudflare \u2014 presented findings at Black Hat on a chain of six vulnerabilities affecting the Tesla Model S. Their most notable exploit allowed a remotely triggered shutdown of the vehicle: below 5 mph, the brakes would engage, and above 5 mph the car would shift into neutral. The pair worked with Tesla ahead of the public disclosure, and Tesla shipped an over-the-air software patch the same day the research was announced, in contrast to the physical recall process other automakers used for comparable vulnerabilities that year.</p><h2>Later Activity and an Unverified Claim</h2><p>Mahaffey has also written published commentary on cybersecurity policy and remained active as an angel investor; a 2021 TechCrunch article on incident-response startup BreachQuest identifies him, by then, simply as \"Lookout founder Kevin Mahaffey,\" investing alongside Slow Ventures and Tinder co-founders Sean Rad and Justin Mateen. Some secondary sources have claimed Mahaffey later founded the cloud security company Lacework. That claim could not be verified: contemporaneous reporting on Lacework's major funding rounds names Dan Hubbard as CEO, industry coverage of the company's 2024 acquisition talks and eventual June 2024 acquisition by Fortinet does not name Mahaffey as a founder, and no article surfaced in this research links him to Lacework in any capacity. This claim should be treated as disputed/unverified unless confirmed by a primary source such as Lacework's own founding announcement.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2005",
+      "event": "Presented on passive RFID security at Black Hat, an early public security research credit predating Lookout."
+    },
+    {
+      "date": "2009",
+      "event": "Lookout is established in San Francisco as a smartphone security and data-backup company; Mahaffey serves as co-founder and CTO alongside CEO/co-founder John Hering."
+    },
+    {
+      "date": "2011-09-21",
+      "event": "Lookout raises a $40 million round led by Andreessen Horowitz, reaching roughly 12 million users."
+    },
+    {
+      "date": "2013-11-19",
+      "event": "Lookout launches an enterprise security suite and a partnership with Samsung, backed by a $55 million round led by Deutsche Telekom."
+    },
+    {
+      "date": "2015-08-06",
+      "event": "Mahaffey and Marc Rogers disclose six Tesla Model S vulnerabilities at Black Hat; Tesla issues a same-day over-the-air fix."
+    },
+    {
+      "date": "2015-09-12",
+      "event": "Mahaffey publishes a TechCrunch guest column on addressing automotive cybersecurity threats."
+    },
+    {
+      "date": "2015-12-01",
+      "event": "Mahaffey publishes a TechCrunch guest column arguing legacy IT security systems will be replaced amid the shift to cloud and mobile."
+    },
+    {
+      "date": "2021-08-25",
+      "event": "Identified as \"Lookout founder Kevin Mahaffey\" while angel-investing in incident-response startup BreachQuest's $4.4 million seed round."
+    },
+    {
+      "date": "2023-04-26",
+      "event": "Lookout sells its consumer cybersecurity business to F-Secure for about $223 million, becoming an enterprise-only company under CEO Jim Dolce."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "TechCrunch author bio and op-ed: \"Here Is How To Address Car Hacking Threats\"",
+      "url": "https://techcrunch.com/2015/09/12/to-protect-cars-from-cyber-attacks-a-call-for-action/"
+    },
+    {
+      "title": "TechCrunch: \"Researchers Hack A Model S, Tesla Sends Out Over-The-Air Fix\"",
+      "url": "https://techcrunch.com/2015/08/06/researchers-hack-a-model-s-tesla-sends-out-over-the-air-fix/"
+    },
+    {
+      "title": "TechCrunch op-ed: \"Humility, Accountability And Creative Thinking Can Fix IT Security\"",
+      "url": "https://techcrunch.com/2015/12/01/humility-accountability-and-creative-thinking-can-fix-it-security/"
+    },
+    {
+      "title": "TechCrunch: \"BreachQuest emerges from stealth with $4.4M to modernize incident response\"",
+      "url": "https://techcrunch.com/2021/08/25/breachquest-emerges-from-stealth-with-4-4m-to-modernize-incident-response/"
+    },
+    {
+      "title": "TechCrunch: \"Andreessen Horowitz Leads $40M Round In Smartphone Security Company Lookout\"",
+      "url": "https://techcrunch.com/2011/09/21/andreessen-horowitz-leads-40m-round-in-smartphone-security-company-lookout/"
+    },
+    {
+      "title": "TechCrunch: \"Lookout sells its consumer cybersecurity business to F-Secure and goes all-in on the enterprise\"",
+      "url": "https://techcrunch.com/2023/04/26/lookout-sells-its-consumer-cybersecurity-business-to-f-secure-and-goes-all-in-on-the-enterprise/"
+    },
+    {
+      "title": "Wikipedia: Fortinet (acquisition of Lacework, June 2024)",
+      "url": "https://en.wikipedia.org/wiki/Fortinet"
+    },
+    {
+      "title": "Wikipedia: Marc Rogers (security researcher) (Tesla Model S research)",
+      "url": "https://en.wikipedia.org/wiki/Marc_Rogers_(security_researcher)"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 8,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Kevin Mahaffey",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Co-founder and Chief Technology Officer of Lookout, a mobile security company founded in San Francisco",
+    "Co-discovered six vulnerabilities in the Tesla Model S with researcher Marc Rogers, disclosed at Black Hat in August 2015, prompting an over-the-air Tesla security fix",
+    "Early security researcher, credited with a Black Hat presentation on passive RFID security in the mid-2000s",
+    "Active angel investor in cybersecurity startups, including a seed investment in incident-response firm BreachQuest (2021)",
+    "Public commentator on IT and automotive cybersecurity policy, writing guest columns for TechCrunch"
+  ]
+}

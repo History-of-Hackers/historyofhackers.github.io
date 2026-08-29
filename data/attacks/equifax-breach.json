@@ -1,6 +1,6 @@
 {
   "id": "equifax-breach",
-  "type": "event",
+  "type": "attack",
   "title": "Equifax Data Breach",
   "slug": "equifax-breach",
   "era": "2017",

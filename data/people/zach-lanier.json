@@ -1,0 +1,131 @@
+{
+  "id": "zach-lanier",
+  "type": "person",
+  "title": "Zach Lanier",
+  "slug": "zach-lanier",
+  "era": "2009-Present",
+  "tags": [
+    "mobile security",
+    "IoT security",
+    "embedded systems",
+    "Android security",
+    "reverse engineering",
+    "penetration testing",
+    "Duo Security",
+    "Accuvant LABS",
+    "Cylance",
+    "Android Hacker's Handbook"
+  ],
+  "summary": "Zach Lanier (handle @quine) is an application, mobile, and embedded-systems security researcher who co-authored the Android Hacker's Handbook and presented widely on Android permissions, IoT device flaws, and embedded-hardware reversing while working at Veracode, Intrepidus Group, Accuvant LABS, Duo Security, and Cylance.",
+  "whyThisMatters": "Zach Lanier (handle @quine) is an application, mobile, and embedded-systems security researcher who co-authored the Android Hacker's Handbook and presented widely on Android permissions, IoT device flaws, and embedded-hardware reversing while working at Veracode, Intrepidus Group, Accuvant LABS, Duo Security, and Cylance.",
+  "sections": {
+    "overview": "<p>Zach Lanier, known online by the handle <strong>@quine</strong>, is a security researcher whose public work spans application, network, mobile, and embedded-device security. According to his own conference biographies, he describes himself as \"an old net/web/app pen tester type\" who began researching mobile and embedded device security around 2009.</p><h2>Career</h2><p>Across speaker bios collected from Black Hat and DEF CON archives, Lanier's documented career path runs through several well-known security firms: he was a Security Researcher at Veracode, then a Principal Consultant at Intrepidus Group, before becoming a Senior Research Consultant / Senior Research Scientist at Accuvant LABS (documented in 2013). By August 2014 his conference bios list him as a Senior Security Researcher at Duo Security. A Summercon 2015 bio unusually lists him again as \"Senior Research Scientist with Accuvant Labs,\" describing Duo Security as a prior role \u2014 a discrepancy that could reflect either a brief return to Accuvant or simply a stale/reused bio submitted to organizers; this detail should be treated as unconfirmed. By 2016, his Black Hat Asia bio lists him as Director of Research at Cylance. No verifiable source found in this research confirms he was ever directly employed by Cisco; Cisco acquired Duo Security in October 2018, after the period in which Lanier's bios place him at Duo.</p><h2>Research and Talks</h2><p>Lanier's research output, documented across multiple conference archives, includes a Black Hat USA 2012 talk with Andrew Reiter mapping the evolution of Android's permission system across API versions. At DEF CON 21 (2013), he and Todd Manning presented on reverse-engineering the GoPro Hero 3 camera as an embedded platform, examining its hardware and software attack surface. In 2014 he partnered with Mark Stanislav (then Security Evangelist at Duo Security) on a run of Internet-of-Things security talks \u2014 at BSidesSF, in a Black Hat USA embedded-devices roundtable with Don Bailey, and at DEF CON 22 with \"The Internet of Fails\" \u2014 which discussed the BuildItSecure.ly initiative aimed at helping smaller IoT vendors adopt coordinated vulnerability disclosure. Separately, with Kelly Lum (\"Aloria\"), he ran a recurring \"DLP Security Bake-Off\" series probing weaknesses in data-loss-prevention products, presented at Black Hat USA 2014, Summercon 2015, and Black Hat Asia 2016.</p><h2>Publications</h2><p>Lanier is a co-author of the <em>Android Hacker's Handbook</em> (Wiley, 2014), a technical reference on Android platform security co-written with Joshua J. Drake, Pau Oliva Fora, Collin Mulliner, Stephen A. Ridley, and Georg Wicherski.</p><p><em>Note: No standalone Wikipedia article or comprehensive independent biography was found for Zach Lanier during this research; the details above are drawn from conference-archive records (InfoconDB) of his own submitted speaker bios and talk abstracts. Personal details such as birth date are not publicly documented and are marked unknown here.</em></p>"
+  },
+  "timeline": [
+    {
+      "date": "2009",
+      "event": "Began researching mobile and embedded device security, per his own conference biography, after prior work as a general network/web/app penetration tester."
+    },
+    {
+      "date": "2012-07-26",
+      "event": "Presented 'Mapping and Evolution of Android Permissions' with Andrew Reiter at Black Hat USA 2012, while a Senior Research Consultant at Accuvant LABS."
+    },
+    {
+      "date": "2013-08-03",
+      "event": "Presented 'GoPro or GTFO: A Tale of Reversing an Embedded System' with Todd Manning at DEF CON 21."
+    },
+    {
+      "date": "2014",
+      "event": "Android Hacker's Handbook (Wiley), co-authored with Joshua J. Drake, Pau Oliva Fora, Collin Mulliner, Stephen A. Ridley, and Georg Wicherski, published."
+    },
+    {
+      "date": "2014-02-23",
+      "event": "Presented 'The Internet of Things: We've Got to Chat' with Mark Stanislav at BSidesSF 2014, as Senior Security Researcher at Duo Security."
+    },
+    {
+      "date": "2014-08-06",
+      "event": "Co-presented an 'Embedded Devices Roundtable' with Don Bailey at Black Hat USA 2014."
+    },
+    {
+      "date": "2014-08-07",
+      "event": "Presented 'Stay Out of the Kitchen: A DLP Security Bake-Off' with Kelly Lum at Black Hat USA 2014."
+    },
+    {
+      "date": "2014-08-09",
+      "event": "Presented 'The Internet of Fails: Where IoT Has Gone Wrong and How We're Making It Right' with Mark Stanislav at DEF CON 22, discussing the BuildItSecure.ly disclosure initiative."
+    },
+    {
+      "date": "2015-07-17",
+      "event": "Presented 'Back to the Kitchen: DLP Security Bakeoff, THE SEQUEL' with Kelly Lum at Summercon 2015."
+    },
+    {
+      "date": "2016",
+      "event": "Presented 'The Kitchen's Finally Burned Down: DLP Security Bakeoff' with Kelly Lum at Black Hat Asia 2016, by which point his bio listed him as Director of Research at Cylance."
+    },
+    {
+      "date": "2018-10-01",
+      "event": "Cisco completed its acquisition of Duo Security (~$2.35 billion), a firm where Lanier had previously worked as a researcher; no evidence found that Lanier himself joined Cisco."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "InfoconDB - Zach Lanier talk listing",
+      "url": "https://infocondb.org/search?q=zach+lanier"
+    },
+    {
+      "title": "InfoconDB - Mapping and Evolution of Android Permissions (Black Hat USA 2012)",
+      "url": "https://infocondb.org/con/black-hat/black-hat-usa-2012/mapping-and-evolution-of-android-permissions"
+    },
+    {
+      "title": "InfoconDB - GoPro or GTFO (DEF CON 21, 2013)",
+      "url": "https://infocondb.org/con/def-con/def-con-21/gopro-or-gtfo-a-tale-of-reversing-an-embedded-system"
+    },
+    {
+      "title": "InfoconDB - The Internet of Fails (DEF CON 22, 2014)",
+      "url": "https://infocondb.org/con/def-con/def-con-22/the-internet-of-fails-where-iot-has-gone-wrong-and-how-were-making-it-right"
+    },
+    {
+      "title": "InfoconDB - Stay Out of the Kitchen: A DLP Security Bake-Off (Black Hat USA 2014)",
+      "url": "https://infocondb.org/con/black-hat/black-hat-usa-2014/stay-out-of-the-kitchen-a-dlp-security-bake-off"
+    },
+    {
+      "title": "InfoconDB - Back to the Kitchen: DLP Security Bakeoff, THE SEQUEL (Summercon 2015)",
+      "url": "https://infocondb.org/con/summercon/summercon-2015/back-to-the-kitchen-dlp-security-bakeoff-the-sequel"
+    },
+    {
+      "title": "InfoconDB - The Kitchen's Finally Burned Down: DLP Security Bakeoff (Black Hat Asia 2016)",
+      "url": "https://infocondb.org/con/black-hat/black-hat-asia-2016/the-kitchens-finally-burned-down-dlp-security-bakeoff"
+    },
+    {
+      "title": "Open Library - Android Hacker's Handbook",
+      "url": "https://openlibrary.org/search.json?q=Android+Hacker%27s+Handbook"
+    },
+    {
+      "title": "Wikipedia - Duo Security (Cisco acquisition)",
+      "url": "https://en.wikipedia.org/wiki/Duo_Security"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 9,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Zach Lanier",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Co-author of the Android Hacker's Handbook (Wiley, 2014), with Joshua J. Drake, Pau Oliva Fora, Collin Mulliner, Stephen A. Ridley, and Georg Wicherski",
+    "Black Hat USA 2012 talk with Andrew Reiter mapping and tracking the evolution of Android's permission model",
+    "DEF CON 21 (2013) talk with Todd Manning reverse-engineering the GoPro Hero 3 as an embedded system",
+    "IoT security research and the BuildItSecure.ly coordinated-disclosure initiative with Mark Stanislav (BSidesSF 2014, DEF CON 22 2014, 'The Internet of Fails')",
+    "Recurring 'DLP Security Bake-Off' talk series with Kelly Lum examining data-loss-prevention product weaknesses (Black Hat USA 2014, Summercon 2015, Black Hat Asia 2016)",
+    "Held security-research roles at Veracode, Intrepidus Group, Accuvant LABS, Duo Security, and (by 2016) Director of Research at Cylance"
+  ]
+}

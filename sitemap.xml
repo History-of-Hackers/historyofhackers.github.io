@@ -7,7 +7,9 @@
   <url><loc>https://historyofhackers.org/people/</loc></url>
   <url><loc>https://historyofhackers.org/people/adam-laurie.html</loc></url>
   <url><loc>https://historyofhackers.org/people/adrian-lamo.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/alex-rice.html</loc></url>
   <url><loc>https://historyofhackers.org/people/alex-stamos.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/andres-riancho.html</loc></url>
   <url><loc>https://historyofhackers.org/people/barnaby-jack.html</loc></url>
   <url><loc>https://historyofhackers.org/people/brian-krebs.html</loc></url>
   <url><loc>https://historyofhackers.org/people/bruce-schneier.html</loc></url>
@@ -43,6 +45,7 @@
   <url><loc>https://historyofhackers.org/people/katie-moussouris.html</loc></url>
   <url><loc>https://historyofhackers.org/people/kevin-mitnick-complete-history.html</loc></url>
   <url><loc>https://historyofhackers.org/people/kevin-poulsen.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/kymberlee-price.html</loc></url>
   <url><loc>https://historyofhackers.org/people/linus-torvalds.html</loc></url>
   <url><loc>https://historyofhackers.org/people/marc-maiffret.html</loc></url>
   <url><loc>https://historyofhackers.org/people/marcus-hutchins-wannacry.html</loc></url>
@@ -52,6 +55,7 @@
   <url><loc>https://historyofhackers.org/people/moxie-marlinspike.html</loc></url>
   <url><loc>https://historyofhackers.org/people/mudge-peiter-zatko.html</loc></url>
   <url><loc>https://historyofhackers.org/people/natalie-silvanovich.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/nate-cardozo.html</loc></url>
   <url><loc>https://historyofhackers.org/people/orange-tsai.html</loc></url>
   <url><loc>https://historyofhackers.org/people/ralf-philipp-weinmann.html</loc></url>
   <url><loc>https://historyofhackers.org/people/richard-stallman-gnu.html</loc></url>
@@ -65,10 +69,14 @@
   <url><loc>https://historyofhackers.org/people/the-grugq.html</loc></url>
   <url><loc>https://historyofhackers.org/people/tsutomu-shimomura.html</loc></url>
   <url><loc>https://historyofhackers.org/people/window-snyder.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/zach-lanier.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/kevin-mahaffey.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/nicolas-waisman.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/</loc></url>
   <url><loc>https://historyofhackers.org/groups/anonymous-hacktivism.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/chaos-computer-club-ccc.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/cult-of-the-dead-cow-cdc.html</loc></url>
+  <url><loc>https://historyofhackers.org/groups/hitcon.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/l0pht-senate-testimony.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/legion-of-doom-lod.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/masters-of-deception-mod.html</loc></url>
@@ -102,14 +110,16 @@
   <url><loc>https://historyofhackers.org/vulnerabilities/shellshock.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/spectre-meltdown.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/stagefright.html</loc></url>
-  <url><loc>https://historyofhackers.org/vulnerabilities/stuxnet-digital-weapon.html</loc></url>
+  <url><loc>https://historyofhackers.org/attacks/</loc></url>
+  <url><loc>https://historyofhackers.org/attacks/equifax-breach.html</loc></url>
+  <url><loc>https://historyofhackers.org/attacks/morris-worm.html</loc></url>
+  <url><loc>https://historyofhackers.org/attacks/notpetya.html</loc></url>
+  <url><loc>https://historyofhackers.org/attacks/solarwinds-sunburst.html</loc></url>
+  <url><loc>https://historyofhackers.org/attacks/stuxnet-digital-weapon.html</loc></url>
   <url><loc>https://historyofhackers.org/events/</loc></url>
   <url><loc>https://historyofhackers.org/events/defcon-hacker-conference.html</loc></url>
-  <url><loc>https://historyofhackers.org/events/equifax-breach.html</loc></url>
+  <url><loc>https://historyofhackers.org/events/ekoparty.html</loc></url>
   <url><loc>https://historyofhackers.org/events/mit-tmrc-hacker-ethic.html</loc></url>
-  <url><loc>https://historyofhackers.org/events/morris-worm.html</loc></url>
-  <url><loc>https://historyofhackers.org/events/notpetya.html</loc></url>
-  <url><loc>https://historyofhackers.org/events/solarwinds-sunburst.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/</loc></url>
   <url><loc>https://historyofhackers.org/publications/2600-hacker-quarterly.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/bugtraq.html</loc></url>

@@ -1,6 +1,6 @@
 {
   "id": "stuxnet-digital-weapon",
-  "type": "vulnerability",
+  "type": "attack",
   "title": "Stuxnet: The World's First Digital Weapon",
   "slug": "stuxnet-digital-weapon",
   "era": "2010s",

@@ -36,6 +36,25 @@
     "url": "people/adrian-lamo.html"
   },
   {
+    "id": "alex-rice",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Alex Rice",
+    "slug": "alex-rice",
+    "era": "2012-Present",
+    "tags": [
+      "cybersecurity",
+      "bug-bounty",
+      "vulnerability-disclosure",
+      "hackerone",
+      "cto",
+      "entrepreneur",
+      "product-security"
+    ],
+    "summary": "Alex Rice is a co-founder and the Chief Technology Officer (and Chief Information Security Officer) of HackerOne, the vulnerability coordination and bug bounty platform he helped launch in 2012 after leading product security at Facebook.",
+    "url": "people/alex-rice.html"
+  },
+  {
     "id": "alex-stamos",
     "type": "person",
     "typeLabel": "Person",
@@ -52,6 +71,26 @@
     ],
     "summary": "Alex Stamos is an American cybersecurity researcher and executive who, as Facebook's Chief Security Officer, led the investigation into Russian interference in the 2016 U.S. election, and later founded the Stanford Internet Observatory to study online disinformation and platform abuse.",
     "url": "people/alex-stamos.html"
+  },
+  {
+    "id": "andres-riancho",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Andres Riancho",
+    "slug": "andres-riancho",
+    "era": "2007-Present",
+    "tags": [
+      "security researcher",
+      "open source",
+      "web application security",
+      "w3af",
+      "Argentina",
+      "penetration testing",
+      "cloud security",
+      "AWS security"
+    ],
+    "summary": "Andres Riancho is an Argentine application-security researcher and open-source developer, based in Buenos Aires, best known for creating w3af (Web Application Attack and Audit Framework), a widely used open-source web vulnerability scanner and exploitation tool.",
+    "url": "people/andres-riancho.html"
   },
   {
     "id": "barnaby-jack",
@@ -690,6 +729,28 @@
     "url": "people/kevin-poulsen.html"
   },
   {
+    "id": "kymberlee-price",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Kymberlee Price",
+    "slug": "kymberlee-price",
+    "era": "2005-Present",
+    "tags": [
+      "security researcher",
+      "vulnerability coordination",
+      "bug bounty programs",
+      "product security",
+      "Microsoft",
+      "MSRC",
+      "Bugcrowd",
+      "BlueHat",
+      "New Relic",
+      "Zatik Security"
+    ],
+    "summary": "Kymberlee Price is an American product security executive whose two-decade career at Microsoft, BlackBerry, Synack, Bugcrowd, and New Relic centers on building vulnerability coordination and bug bounty programs, including Microsoft's first security researcher outreach effort and the BlueHat conference she co-started in 2005.",
+    "url": "people/kymberlee-price.html"
+  },
+  {
     "id": "linus-torvalds",
     "type": "person",
     "typeLabel": "Person",
@@ -847,6 +908,25 @@
     ],
     "summary": "Natalie Silvanovich is a security researcher on Google's Project Zero team known for pioneering research into 'interaction-less' (zero-click) vulnerabilities in mobile messaging and video-calling applications, most notably a 2019 study of iMessage that uncovered multiple remotely exploitable bugs requiring no user interaction.",
     "url": "people/natalie-silvanovich.html"
+  },
+  {
+    "id": "nate-cardozo",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Nate Cardozo",
+    "slug": "nate-cardozo",
+    "era": "2012-2019 (EFF)",
+    "tags": [
+      "EFF",
+      "privacy law",
+      "surveillance",
+      "encryption",
+      "digital civil liberties",
+      "coders' rights",
+      "cybersecurity policy"
+    ],
+    "summary": "Nate Cardozo is an American attorney who spent about six and a half years as a Senior Staff Attorney at the Electronic Frontier Foundation, where he worked on encryption policy, government surveillance oversight, and coders' rights, before moving into privacy roles at WhatsApp/Facebook and later Google.",
+    "url": "people/nate-cardozo.html"
   },
   {
     "id": "orange-tsai",
@@ -1081,6 +1161,28 @@
     "url": "people/window-snyder.html"
   },
   {
+    "id": "zach-lanier",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Zach Lanier",
+    "slug": "zach-lanier",
+    "era": "2009-Present",
+    "tags": [
+      "mobile security",
+      "IoT security",
+      "embedded systems",
+      "Android security",
+      "reverse engineering",
+      "penetration testing",
+      "Duo Security",
+      "Accuvant LABS",
+      "Cylance",
+      "Android Hacker's Handbook"
+    ],
+    "summary": "Zach Lanier (handle @quine) is an application, mobile, and embedded-systems security researcher who co-authored the Android Hacker's Handbook and presented widely on Android permissions, IoT device flaws, and embedded-hardware reversing while working at Veracode, Intrepidus Group, Accuvant LABS, Duo Security, and Cylance.",
+    "url": "people/zach-lanier.html"
+  },
+  {
     "id": "anonymous-hacktivism",
     "type": "group",
     "typeLabel": "Group",
@@ -1127,6 +1229,26 @@
     ],
     "summary": "The influential hacker group known for its high-profile pranks, coining the term 'hacktivism', and releasing controversial but powerful tools like Back Orifice.",
     "url": "groups/cult-of-the-dead-cow-cdc.html"
+  },
+  {
+    "id": "hitcon",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "HITCON (Hacks In Taiwan Conference)",
+    "slug": "hitcon",
+    "era": "2005-Present",
+    "tags": [
+      "conference",
+      "taiwan",
+      "cybersecurity",
+      "hacking",
+      "ctf",
+      "asia-pacific",
+      "organization",
+      "community"
+    ],
+    "summary": "HITCON (Hacks In Taiwan Conference) is Taiwan's longest-running vendor-neutral hacker and security conference, held annually since 2005 by the island's hacker/security community. It has grown from a single-track gathering into a multi-track event covering research talks, CTF competitions, enterprise and CISO tracks, and cyber-range training.",
+    "url": "groups/hitcon.html"
   },
   {
     "id": "l0pht-senate-testimony",
@@ -1715,9 +1837,89 @@
     "url": "vulnerabilities/stagefright.html"
   },
   {
+    "id": "equifax-breach",
+    "type": "attack",
+    "typeLabel": "Attack / Breach",
+    "title": "Equifax Data Breach",
+    "slug": "equifax-breach",
+    "era": "2017",
+    "tags": [
+      "data-breach",
+      "apache-struts",
+      "cve-2017-5638",
+      "credit-reporting",
+      "critical-infrastructure",
+      "doj-indictment",
+      "china",
+      "privacy"
+    ],
+    "summary": "In 2017, attackers exploited an unpatched Apache Struts vulnerability (CVE-2017-5638) to breach credit-reporting giant Equifax, exposing the personal data of roughly 147 million people and triggering record regulatory fines and a rare DOJ indictment of foreign state hackers.",
+    "url": "attacks/equifax-breach.html"
+  },
+  {
+    "id": "morris-worm",
+    "type": "attack",
+    "typeLabel": "Attack / Breach",
+    "title": "The Morris Worm: The Internet's First Wake-Up Call",
+    "slug": "morris-worm",
+    "era": "1980s-1990s",
+    "tags": [
+      "worm",
+      "security",
+      "internet history",
+      "Cornell"
+    ],
+    "summary": "In 1988, a Cornell graduate student unleashed the first major internet worm, accidentally crippling a significant portion of the early internet and leading to the first felony conviction under the Computer Fraud and Abuse Act.",
+    "url": "attacks/morris-worm.html"
+  },
+  {
+    "id": "notpetya",
+    "type": "attack",
+    "typeLabel": "Attack / Breach",
+    "title": "NotPetya",
+    "slug": "notpetya",
+    "era": "2017",
+    "tags": [
+      "wiper",
+      "supply-chain-attack",
+      "ransomware-disguise",
+      "ukraine",
+      "russia",
+      "gru",
+      "sandworm",
+      "eternalblue",
+      "destructive-malware",
+      "state-sponsored"
+    ],
+    "summary": "In June 2017, destructive wiper malware disguised as ransomware spread worldwide after attackers compromised the update mechanism of the Ukrainian accounting software M.E.Doc, using EternalBlue and stolen credentials for rapid lateral movement; it caused billions of dollars in damage at firms including Maersk, Merck, and FedEx, and was later attributed by the US, UK, and Australian governments to Russia's GRU military intelligence.",
+    "url": "attacks/notpetya.html"
+  },
+  {
+    "id": "solarwinds-sunburst",
+    "type": "attack",
+    "typeLabel": "Attack / Breach",
+    "title": "SolarWinds / Sunburst Supply-Chain Attack",
+    "slug": "solarwinds-sunburst",
+    "era": "2020",
+    "tags": [
+      "supply-chain-attack",
+      "nation-state",
+      "apt29",
+      "cozy-bear",
+      "backdoor",
+      "government-breach",
+      "russia",
+      "fireeye",
+      "mandiant",
+      "sunburst"
+    ],
+    "summary": "Attackers compromised SolarWinds' software build process and inserted the SUNBURST backdoor into Orion network-monitoring updates, a compromise uncovered in December 2020 after FireEye disclosed its own breach, exposing numerous U.S. federal agencies and private companies to Russian government-linked intrusion.",
+    "url": "attacks/solarwinds-sunburst.html"
+  },
+  {
     "id": "stuxnet-digital-weapon",
-    "type": "vulnerability",
-    "typeLabel": "Vulnerability / Discovery",
+    "type": "attack",
+    "typeLabel": "Attack / Breach",
     "title": "Stuxnet: The World's First Digital Weapon",
     "slug": "stuxnet-digital-weapon",
     "era": "2010s",
@@ -1729,7 +1931,7 @@
       "zero-day"
     ],
     "summary": "The story of Stuxnet, a sophisticated computer worm that physically destroyed centrifuges in an Iranian nuclear facility, heralding a new era of digital warfare.",
-    "url": "vulnerabilities/stuxnet-digital-weapon.html"
+    "url": "attacks/stuxnet-digital-weapon.html"
   },
   {
     "id": "defcon-hacker-conference",
@@ -1748,24 +1950,24 @@
     "url": "events/defcon-hacker-conference.html"
   },
   {
-    "id": "equifax-breach",
+    "id": "ekoparty",
     "type": "event",
     "typeLabel": "Event",
-    "title": "Equifax Data Breach",
-    "slug": "equifax-breach",
-    "era": "2017",
+    "title": "Ekoparty",
+    "slug": "ekoparty",
+    "era": "2001-Present (disputed founding date; see notes)",
     "tags": [
-      "data-breach",
-      "apache-struts",
-      "cve-2017-5638",
-      "credit-reporting",
-      "critical-infrastructure",
-      "doj-indictment",
-      "china",
-      "privacy"
+      "hacking conference",
+      "information security",
+      "Argentina",
+      "Latin America",
+      "CTF",
+      "lockpicking",
+      "wardriving",
+      "community"
     ],
-    "summary": "In 2017, attackers exploited an unpatched Apache Struts vulnerability (CVE-2017-5638) to breach credit-reporting giant Equifax, exposing the personal data of roughly 147 million people and triggering record regulatory fines and a rare DOJ indictment of foreign state hackers.",
-    "url": "events/equifax-breach.html"
+    "summary": "Ekoparty is an annual computer security conference held in Buenos Aires, Argentina, widely regarded as one of the most important hacking and information-security gatherings in Latin America, featuring talks, workshops, CTFs, lockpicking, and wardriving.",
+    "url": "events/ekoparty.html"
   },
   {
     "id": "mit-tmrc-hacker-ethic",
@@ -1782,66 +1984,6 @@
     ],
     "summary": "How the term 'hack' and the foundational principles of the hacker ethic emerged from a student club at MIT dedicated to model trains.",
     "url": "events/mit-tmrc-hacker-ethic.html"
-  },
-  {
-    "id": "morris-worm",
-    "type": "event",
-    "typeLabel": "Event",
-    "title": "The Morris Worm: The Internet's First Wake-Up Call",
-    "slug": "morris-worm",
-    "era": "1980s-1990s",
-    "tags": [
-      "worm",
-      "security",
-      "internet history",
-      "Cornell"
-    ],
-    "summary": "In 1988, a Cornell graduate student unleashed the first major internet worm, accidentally crippling a significant portion of the early internet and leading to the first felony conviction under the Computer Fraud and Abuse Act.",
-    "url": "events/morris-worm.html"
-  },
-  {
-    "id": "notpetya",
-    "type": "event",
-    "typeLabel": "Event",
-    "title": "NotPetya",
-    "slug": "notpetya",
-    "era": "2017",
-    "tags": [
-      "wiper",
-      "supply-chain-attack",
-      "ransomware-disguise",
-      "ukraine",
-      "russia",
-      "gru",
-      "sandworm",
-      "eternalblue",
-      "destructive-malware",
-      "state-sponsored"
-    ],
-    "summary": "In June 2017, destructive wiper malware disguised as ransomware spread worldwide after attackers compromised the update mechanism of the Ukrainian accounting software M.E.Doc, using EternalBlue and stolen credentials for rapid lateral movement; it caused billions of dollars in damage at firms including Maersk, Merck, and FedEx, and was later attributed by the US, UK, and Australian governments to Russia's GRU military intelligence.",
-    "url": "events/notpetya.html"
-  },
-  {
-    "id": "solarwinds-sunburst",
-    "type": "event",
-    "typeLabel": "Event",
-    "title": "SolarWinds / Sunburst Supply-Chain Attack",
-    "slug": "solarwinds-sunburst",
-    "era": "2020",
-    "tags": [
-      "supply-chain-attack",
-      "nation-state",
-      "apt29",
-      "cozy-bear",
-      "backdoor",
-      "government-breach",
-      "russia",
-      "fireeye",
-      "mandiant",
-      "sunburst"
-    ],
-    "summary": "Attackers compromised SolarWinds' software build process and inserted the SUNBURST backdoor into Orion network-monitoring updates, a compromise uncovered in December 2020 after FireEye disclosed its own breach, exposing numerous U.S. federal agencies and private companies to Russian government-linked intrusion.",
-    "url": "events/solarwinds-sunburst.html"
   },
   {
     "id": "2600-hacker-quarterly",
@@ -2070,5 +2212,43 @@
     ],
     "summary": "An exploration of Responsible Disclosure, the ethical framework guiding how security researchers report vulnerabilities to vendors.",
     "url": "fields/responsible-disclosure.html"
+  },
+  {
+    "id": "kevin-mahaffey",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Kevin Mahaffey",
+    "slug": "kevin-mahaffey",
+    "era": "2009-Present",
+    "tags": [
+      "cybersecurity",
+      "mobile security",
+      "Lookout",
+      "vulnerability research",
+      "car hacking",
+      "angel investor"
+    ],
+    "summary": "Kevin Mahaffey is a cybersecurity entrepreneur and researcher best known as co-founder and CTO of Lookout, the mobile security company, and for co-discovering critical remote-exploit vulnerabilities in the Tesla Model S alongside researcher Marc Rogers in 2015.",
+    "url": "people/kevin-mahaffey.html"
+  },
+  {
+    "id": "nicolas-waisman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Nicolas Waisman",
+    "slug": "nicolas-waisman",
+    "era": "2004-Present",
+    "tags": [
+      "exploit development",
+      "Argentina",
+      "Immunity Inc.",
+      "heap exploitation",
+      "Infiltrate conference",
+      "ekoparty",
+      "Black Hat",
+      "GitHub Security Lab"
+    ],
+    "summary": "Nicolas \"Nico\" Waisman is an Argentine security researcher who spent over a decade at Immunity, Inc. \u2014 rising to Vice President of Latin America \u2014 where he built a reputation as a globally recognized heap-exploitation expert, later contributing to GitHub's Security Lab research team.",
+    "url": "people/nicolas-waisman.html"
   }
 ]
