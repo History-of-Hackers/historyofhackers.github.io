@@ -1,0 +1,63 @@
+{
+  "id": "mr-robot",
+  "type": "fiction",
+  "title": "Mr. Robot",
+  "work": "Mr. Robot (TV series)",
+  "releaseYear": "2015-2019",
+  "creator": "Created by Sam Esmail",
+  "summary": "Mr. Robot is a USA Network psychological thriller (2015-2019) about cybersecurity engineer and hacker Elliot Alderson, who is drawn into the hacktivist collective fsociety; it is widely praised by real security professionals for depicting hacking techniques, tools, and jargon with unusual technical accuracy for a mainstream drama.",
+  "sections": {
+    "overview": "<p>Mr. Robot, created by Sam Esmail, aired on USA Network for four seasons (June 2015 - December 2019). It follows Elliot Alderson (Rami Malek), a socially anxious cybersecurity engineer at Allsafe Cybersecurity who moonlights as a vigilante hacker. Elliot is recruited by the mysterious &quot;Mr. Robot&quot; (Christian Slater) into fsociety, an anarchist hacktivist collective whose stated goal is to destroy consumer debt records by encrypting the financial data of E Corp, described in the show as the world's largest conglomerate. Elliot's story is complicated by his struggles with clinical depression, social anxiety, and dissociative identity disorder, a condition later revealed to be tied directly to the Mr. Robot persona itself.</p><h2>Technical Accuracy</h2><p>The show developed an unusual reputation among cybersecurity professionals for the accuracy of its hacking depictions, a rarity in film and television. Creator Sam Esmail assembled a team of technical and security advisors, including former Toyota security analyst Kor Adana, ex-FBI cyber crimes agent Michael Bazzell, DEF CON/Black Hat founder Jeff Moss, and security researcher Marc Rogers, to vet scripts and hacking sequences. The series correctly references real tools and techniques such as Kali Linux, along with terminal commands and protocols that function as depicted rather than as meaningless prop-code. This realism is frequently contrasted with the exaggerated &quot;hacking&quot; tropes of 1990s and early-2000s films.</p><h2>Reception and Legacy</h2><p>The series received significant critical acclaim, including two Golden Globe Awards, a Primetime Emmy Award for Rami Malek's lead performance, and a Peabody Award. It left a lasting legacy as a benchmark for &quot;realistic&quot; hacker fiction, referenced by later media and security commentators as a corrective to decades of implausible hacking portrayals.</p>"
+  },
+  "characters": [
+    {
+      "name": "Elliot Alderson",
+      "alias": "Sam Sepiol / samsepi0l",
+      "actor": "Rami Malek",
+      "description": "A cybersecurity engineer at Allsafe Cybersecurity and the show's protagonist, recruited into the hacktivist group fsociety; his narrative is shaped by dissociative identity disorder, clinical depression, and social anxiety."
+    },
+    {
+      "name": "Mr. Robot / Edward Alderson",
+      "alias": "Mr. Robot",
+      "actor": "Christian Slater",
+      "description": "An anarchist figure who recruits Elliot into fsociety; revealed over the series to be a manifestation of Elliot's deceased father, Edward Alderson, arising from Elliot's dissociative identity disorder."
+    },
+    {
+      "name": "Darlene Alderson",
+      "alias": "fsociety member",
+      "actor": "Carly Chaikin",
+      "description": "Elliot's younger sister, a skilled malware coder and core member of fsociety."
+    },
+    {
+      "name": "fsociety",
+      "alias": "fsociety (hacktivist collective)",
+      "actor": null,
+      "description": "A fictional underground hacktivist group with anarchist ideology, based out of an arcade on Coney Island, whose primary goal is to cancel global consumer debt by encrypting E Corp's financial records."
+    },
+    {
+      "name": "Dark Army",
+      "alias": "Dark Army",
+      "actor": null,
+      "description": "A powerful, internationally connected cyber-terrorist organization led by Whiterose (BD Wong), who is also depicted as China's Minister of State Security."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Mr. Robot - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mr._Robot"
+    },
+    {
+      "title": "List of Mr. Robot characters - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Mr._Robot_characters"
+    },
+    {
+      "title": "Fsociety - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fsociety"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "reviewStatus": "PUBLISHED"
+  }
+}

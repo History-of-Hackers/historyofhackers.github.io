@@ -1,0 +1,90 @@
+{
+  "id": "linus-torvalds",
+  "type": "person",
+  "title": "Linus Torvalds",
+  "slug": "linus-torvalds",
+  "era": "1991-Present",
+  "tags": [
+    "Linux",
+    "kernel",
+    "open source",
+    "Git",
+    "version control",
+    "hacker culture"
+  ],
+  "summary": "Finnish-American software engineer who created the Linux kernel in 1991 and Git in 2005, becoming the central technical authority behind the dominant open-source operating system underlying most internet servers, Android devices, and much of the world's computing infrastructure.",
+  "whyThisMatters": "Finnish-American software engineer who created the Linux kernel in 1991 and Git in 2005, becoming the central technical authority behind the dominant open-source operating system underlying most internet servers, Android devices, and much of the world's computing infrastructure.",
+  "sections": {
+    "overview": "<p>Linus Benedict Torvalds was born on December 28, 1969, in Helsinki, Finland. He studied computer science at the University of Helsinki from 1988 to 1996. It was as a student, working on a new Intel 80386-based PC, that he began the project that would define his career.</p><p>On August 25, 1991, Torvalds posted a now-famous message to the comp.os.minix Usenet newsgroup announcing he was \"doing a (free) operating system... for 386(486) AT clones.\" The first public release, version 0.01, followed on September 17, 1991. After hearing Richard Stallman speak later that year, Torvalds relicensed the kernel under the GNU General Public License, a decision that tied Linux's fate to the broader free-software movement.</p><h2>Growth and Security Role</h2><p>Linux 1.0 shipped in 1994, and by the 2010s the kernel had grown to tens of millions of lines of code, powering the majority of the world's web servers, cloud infrastructure, and Android smartphones. As the kernel's central maintainer, Torvalds has remained the final integrator of patches into the mainline tree, giving him ongoing influence over security-relevant architectural decisions. His open, peer-reviewed development model is closely associated with \"Linus's Law,\" the principle that \"given enough eyeballs, all bugs are shallow.\"</p><h2>Creating Git</h2><p>In 2002 the Linux kernel project adopted the proprietary tool BitKeeper for source-code management. When its free license was withdrawn in 2005 amid a licensing dispute, Torvalds responded by writing his own distributed version-control system from scratch. Beginning April 3, 2005, he built Git in a matter of days. He handed maintenance to Junio Hamano within months, but Git went on to become the de facto standard for source-code collaboration worldwide, underpinning platforms such as GitHub and GitLab.</p><h2>Communication Style and Legacy</h2><p>Torvalds has long been known for blunt, sometimes abrasive criticism of contributors on kernel mailing lists. In September 2018, he acknowledged that his behavior had been unprofessional, took a temporary break from kernel maintenance, and returned after the project adopted a formal Contributor Covenant code of conduct. Torvalds has received numerous honors, including the 2012 Millennium Technology Prize. Within hacker and computational culture, Torvalds is regarded as the architect of the open, peer-reviewed development infrastructure on which much of modern security research and internet infrastructure now depends.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1969-12-28",
+      "event": "Born in Helsinki, Finland."
+    },
+    {
+      "date": "1991-08-25",
+      "event": "Posted the original Usenet announcement of the Linux project to comp.os.minix."
+    },
+    {
+      "date": "1991-09-17",
+      "event": "Released the first public version of the Linux kernel, version 0.01."
+    },
+    {
+      "date": "1994-03-14",
+      "event": "Released Linux kernel version 1.0."
+    },
+    {
+      "date": "2005-04-03",
+      "event": "Began writing Git after BitKeeper's free license was withdrawn."
+    },
+    {
+      "date": "2012",
+      "event": "Awarded the Millennium Technology Prize."
+    },
+    {
+      "date": "2018-09",
+      "event": "Took a temporary break from Linux kernel maintenance and apologized for his conduct, as the project adopted a formal code of conduct."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Linus Torvalds - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Linus_Torvalds"
+    },
+    {
+      "title": "Git (software) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Git"
+    },
+    {
+      "title": "History of Linux - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Linux"
+    },
+    {
+      "title": "Millennium Technology Prize - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Millennium_Technology_Prize"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Linus Torvalds",
+  "born": "1969-12-28",
+  "died": null,
+  "knownFor": [
+    "Creating the Linux kernel (1991)",
+    "Creating Git (2005)",
+    "Originating and popularizing distributed version control for collaborative software development",
+    "Namesake of 'Linus's Law' ('given enough eyeballs, all bugs are shallow')",
+    "Millennium Technology Prize laureate (2012)"
+  ]
+}

@@ -16,6 +16,24 @@
     "url": "people/adrian-lamo.html"
   },
   {
+    "id": "alex-stamos",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Alex Stamos",
+    "slug": "alex-stamos",
+    "era": "2000s-Present",
+    "tags": [
+      "trust and safety",
+      "election security",
+      "disinformation",
+      "Facebook",
+      "Yahoo",
+      "Stanford Internet Observatory"
+    ],
+    "summary": "Alex Stamos is an American cybersecurity researcher and executive who, as Facebook's Chief Security Officer, led the investigation into Russian interference in the 2016 U.S. election, and later founded the Stanford Internet Observatory to study online disinformation and platform abuse.",
+    "url": "people/alex-stamos.html"
+  },
+  {
     "id": "barnaby-jack",
     "type": "person",
     "typeLabel": "Person",
@@ -32,6 +50,23 @@
     ],
     "summary": "Barnaby Jack was a New Zealand-born security researcher best known for publicly demonstrating that ATMs could be forced to dispense cash on command ('jackpotting') and for pioneering research into vulnerabilities in wireless insulin pumps and implantable cardiac devices, work that helped establish medical device security as a distinct field before his sudden death in 2013.",
     "url": "people/barnaby-jack.html"
+  },
+  {
+    "id": "brian-krebs",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Brian Krebs",
+    "slug": "brian-krebs",
+    "era": "2000s-Present",
+    "tags": [
+      "cybercrime journalism",
+      "data breach reporting",
+      "DDoS",
+      "Mirai botnet",
+      "investigative journalism"
+    ],
+    "summary": "Brian Krebs is an American investigative journalist who became one of the most influential chroniclers of cybercrime, breaking major stories such as the 2013 Target data breach and, through his deep sourcing in underground carding and cybercrime forums, turning his independent blog KrebsOnSecurity into a top-tier source on the cybercriminal underground.",
+    "url": "people/brian-krebs.html"
   },
   {
     "id": "bruce-schneier",
@@ -108,6 +143,24 @@
     "url": "people/chris-valasek.html"
   },
   {
+    "id": "chris-wysopal",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Chris Wysopal",
+    "slug": "chris-wysopal",
+    "era": "1990s-Present",
+    "tags": [
+      "L0pht",
+      "Senate testimony",
+      "stake",
+      "Veracode",
+      "responsible disclosure",
+      "application security"
+    ],
+    "summary": "Chris Wysopal, known by the handle 'Weld Pond' during his time with the hacker think tank L0pht Heavy Industries, was one of seven L0pht members who warned the U.S. Senate in 1998 that they could take down the internet in 30 minutes; he went on to co-found the security consultancy @stake and later the application-security testing company Veracode.",
+    "url": "people/chris-wysopal.html"
+  },
+  {
     "id": "cuckoos-egg-clifford-stoll",
     "type": "person",
     "typeLabel": "Person",
@@ -142,6 +195,95 @@
     "url": "people/dan-kaminsky.html"
   },
   {
+    "id": "dave-aitel",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Dave Aitel",
+    "slug": "dave-aitel",
+    "era": "1990s-Present",
+    "tags": [
+      "exploit development",
+      "Immunity Inc",
+      "CANVAS",
+      "SPIKE",
+      "fuzzing",
+      "INFILTRATE"
+    ],
+    "summary": "Dave Aitel is an American computer security researcher and former NSA research scientist who founded Immunity, Inc. in 2002, building the commercial CANVAS exploitation framework and SPIKE fuzzing toolset, and who later became an influential voice in cybersecurity policy commentary.",
+    "url": "people/dave-aitel.html"
+  },
+  {
+    "id": "dino-dai-zovi",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Dino Dai Zovi",
+    "slug": "dino-dai-zovi",
+    "era": "2000s-Present",
+    "tags": [
+      "Pwn2Own",
+      "macOS security",
+      "exploit development",
+      "Trail of Bits",
+      "Pwnie Awards"
+    ],
+    "summary": "Dino Dai Zovi is an American security researcher best known for exploiting a zero-day QuickTime/Safari vulnerability that produced the first-ever Pwn2Own win at CanSecWest 2007, for co-authoring 'The Mac Hacker's Handbook' and 'iOS Hacker's Handbook', and for co-founding the security firms Trail of Bits and Capsule8.",
+    "url": "people/dino-dai-zovi.html"
+  },
+  {
+    "id": "edward-snowden",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Edward Snowden",
+    "slug": "edward-snowden",
+    "era": "2000s-Present",
+    "tags": [
+      "NSA",
+      "whistleblower",
+      "mass surveillance",
+      "PRISM",
+      "CIA",
+      "Espionage Act",
+      "digital rights"
+    ],
+    "summary": "Edward Snowden is a former CIA and NSA contractor who in June 2013 disclosed thousands of classified U.S. government documents revealing global mass-surveillance programs, triggering an international debate on privacy, security, and government transparency and leading to U.S. Espionage Act charges against him.",
+    "url": "people/edward-snowden.html"
+  },
+  {
+    "id": "elias-levy",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Elias Levy",
+    "slug": "elias-levy",
+    "era": "1990s-2000s",
+    "tags": [
+      "buffer overflow",
+      "Phrack",
+      "Bugtraq",
+      "full disclosure",
+      "SecurityFocus"
+    ],
+    "summary": "Elias Levy, using the handle 'Aleph One,' wrote the 1996 Phrack article 'Smashing The Stack For Fun And Profit,' the tutorial widely credited with popularizing stack-based buffer overflow exploitation, and for over five years moderated the Bugtraq mailing list at the center of the 1990s-2000s full-disclosure movement.",
+    "url": "people/elias-levy.html"
+  },
+  {
+    "id": "eric-corley",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Eric Corley",
+    "slug": "eric-corley",
+    "era": "1980s-Present",
+    "tags": [
+      "hacker culture",
+      "phreaking",
+      "digital rights",
+      "DMCA",
+      "2600",
+      "HOPE conference"
+    ],
+    "summary": "Eric Corley, known publicly by the pen name Emmanuel Goldstein, is an American publisher and broadcaster whose radio program, biennial HOPE hacker conference, and role as lead defendant in the DeCSS anti-circumvention lawsuit made him one of the most visible individual figures in American hacker culture from the 1980s onward.",
+    "url": "people/eric-corley.html"
+  },
+  {
     "id": "george-geohot-hotz",
     "type": "person",
     "typeLabel": "Person",
@@ -157,6 +299,23 @@
     ],
     "summary": "The story of George Hotz, the prodigious hacker who first carrier-unlocked the iPhone and later took on Sony's PlayStation 3.",
     "url": "people/george-geohot-hotz.html"
+  },
+  {
+    "id": "gordon-lyon",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Gordon Lyon",
+    "slug": "gordon-lyon",
+    "era": "1990s-Present",
+    "tags": [
+      "Nmap",
+      "Fyodor",
+      "network security",
+      "open source",
+      "port scanning"
+    ],
+    "summary": "Gordon Lyon, known by the handle 'Fyodor,' wrote and released the Nmap Security Scanner in 1997 and has remained its lead developer for nearly three decades, while also founding Insecure.Org, SecLists.Org, and SecTools.Org \u2014 long-running pieces of infrastructure that the security research community still relies on.",
+    "url": "people/gordon-lyon.html"
   },
   {
     "id": "halvar-flake",
@@ -197,6 +356,24 @@
     "url": "people/hd-moore.html"
   },
   {
+    "id": "james-forshaw",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "James Forshaw",
+    "slug": "james-forshaw",
+    "era": "2010s-Present",
+    "tags": [
+      "Google Project Zero",
+      "Windows internals",
+      "vulnerability research",
+      "Pwn2Own",
+      "bug bounty",
+      "author"
+    ],
+    "summary": "James Forshaw is a British computer security researcher on Google's Project Zero team renowned for deep Windows internals vulnerability research, a record-setting Microsoft bug bounty, competitive exploit wins at Pwn2Own, and authorship of widely used security textbooks on network protocols and Windows security.",
+    "url": "people/james-forshaw.html"
+  },
+  {
     "id": "james-kettle",
     "type": "person",
     "typeLabel": "Person",
@@ -213,6 +390,23 @@
     ],
     "summary": "James Kettle, known online as 'albinowax', is a British web security researcher and Director of Research at PortSwigger (maker of Burp Suite), best known for reviving and popularizing HTTP request smuggling through his 2019 'HTTP Desync Attacks' research, alongside influential work on web cache poisoning and web race conditions.",
     "url": "people/james-kettle.html"
+  },
+  {
+    "id": "jeremiah-grossman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jeremiah Grossman",
+    "slug": "jeremiah-grossman",
+    "era": "1990s-Present",
+    "tags": [
+      "web application security",
+      "cross-site scripting",
+      "WhiteHat Security",
+      "WASC",
+      "clickjacking"
+    ],
+    "summary": "Jeremiah Grossman is an American computer security researcher who founded WhiteHat Security in 2001 after working as Yahoo!'s information security officer, becoming one of the earliest professional voices in cross-site scripting and web application security research and helping to institutionalize the field through the Web Application Security Consortium and the annual 'Top 10 Web Hacking Techniques' list.",
+    "url": "people/jeremiah-grossman.html"
   },
   {
     "id": "joanna-rutkowska",
@@ -233,6 +427,43 @@
     ],
     "summary": "Joanna Rutkowska is a Polish computer security researcher best known for the 2006 \"Blue Pill\" hardware-virtualization rootkit concept, for founding Invisible Things Lab, and for creating the security-by-isolation desktop operating system Qubes OS.",
     "url": "people/joanna-rutkowska.html"
+  },
+  {
+    "id": "john-draper",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John Draper",
+    "slug": "john-draper",
+    "era": "1970s-Present",
+    "tags": [
+      "phreaking",
+      "blue box",
+      "2600 Hz",
+      "Captain Crunch",
+      "Apple",
+      "EasyWriter"
+    ],
+    "summary": "John Draper, known as 'Captain Crunch,' is a foundational figure of phone phreaking whose discovery that a cereal-box toy whistle reproduced AT&T's 2600 Hz control tone helped launch blue-box phreaking and, indirectly, informed the founding partnership between Steve Wozniak and Steve Jobs.",
+    "url": "people/john-draper.html"
+  },
+  {
+    "id": "julian-assange",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Julian Assange",
+    "slug": "julian-assange",
+    "era": "1980s-Present",
+    "tags": [
+      "Mendax",
+      "International Subversives",
+      "hacker",
+      "WikiLeaks",
+      "Espionage Act",
+      "extradition",
+      "press freedom"
+    ],
+    "summary": "A teenage Australian hacker turned publisher, Julian Assange went from breaching military and telecom networks under the handle 'Mendax' to founding WikiLeaks and becoming the central, polarizing figure in a decades-long legal battle over the boundaries of journalism, national security, and personal accountability.",
+    "url": "people/julian-assange.html"
   },
   {
     "id": "karsten-nohl",
@@ -292,6 +523,58 @@
     "url": "people/kevin-mitnick-complete-history.html"
   },
   {
+    "id": "kevin-poulsen",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Kevin Poulsen",
+    "slug": "kevin-poulsen",
+    "era": "1980s-Present",
+    "tags": [
+      "phone phreaking",
+      "Dark Dante",
+      "KIIS-FM",
+      "Wired",
+      "SecureDrop"
+    ],
+    "summary": "Kevin Poulsen, known by the handle 'Dark Dante,' was a phone phreaker and hacker who rigged a 1990 radio-station phone contest to win a Porsche and later reinvented himself as an award-winning Wired News journalist who helped uncover Chelsea Manning as the source of the WikiLeaks military and diplomatic leaks.",
+    "url": "people/kevin-poulsen.html"
+  },
+  {
+    "id": "linus-torvalds",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Linus Torvalds",
+    "slug": "linus-torvalds",
+    "era": "1991-Present",
+    "tags": [
+      "Linux",
+      "kernel",
+      "open source",
+      "Git",
+      "version control",
+      "hacker culture"
+    ],
+    "summary": "Finnish-American software engineer who created the Linux kernel in 1991 and Git in 2005, becoming the central technical authority behind the dominant open-source operating system underlying most internet servers, Android devices, and much of the world's computing infrastructure.",
+    "url": "people/linus-torvalds.html"
+  },
+  {
+    "id": "marc-maiffret",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Marc Maiffret",
+    "slug": "marc-maiffret",
+    "era": "1990s-Present",
+    "tags": [
+      "eEye Digital Security",
+      "Code Red worm",
+      "vulnerability research",
+      "Windows/IIS security",
+      "BeyondTrust"
+    ],
+    "summary": "Marc Maiffret is an American security researcher who, as a teenage former hacker, co-founded eEye Digital Security in 1998 and went on to discover and publicly analyze the 2001 Code Red worm, becoming an early and influential figure in commercial Windows/IIS vulnerability research.",
+    "url": "people/marc-maiffret.html"
+  },
+  {
     "id": "marcus-hutchins-wannacry",
     "type": "person",
     "typeLabel": "Person",
@@ -345,6 +628,23 @@
     "url": "people/mikko-hypponen.html"
   },
   {
+    "id": "moxie-marlinspike",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Moxie Marlinspike",
+    "slug": "moxie-marlinspike",
+    "era": "2000s-Present",
+    "tags": [
+      "SSL/TLS security",
+      "encrypted messaging",
+      "Signal Protocol",
+      "cryptography",
+      "privacy tools"
+    ],
+    "summary": "Moxie Marlinspike is an American security researcher who exposed foundational weaknesses in SSL/TLS certificate trust with tools like sslsniff and SSLstrip, then went on to co-create the Signal Protocol, the end-to-end encryption system now used by Signal, WhatsApp, and other major messaging platforms.",
+    "url": "people/moxie-marlinspike.html"
+  },
+  {
     "id": "mudge-peiter-zatko",
     "type": "person",
     "typeLabel": "Person",
@@ -362,6 +662,42 @@
     ],
     "summary": "Peiter \"Mudge\" Zatko is an American security researcher who rose to prominence as a leading member of the L0pht hacker collective in the 1990s, later ran cybersecurity programs at DARPA and held security leadership roles at Google, Stripe and Twitter, and in 2022 became internationally known as the whistleblower who accused Twitter of severe security and privacy failures before Congress, the SEC and the FTC.",
     "url": "people/mudge-peiter-zatko.html"
+  },
+  {
+    "id": "natalie-silvanovich",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Natalie Silvanovich",
+    "slug": "natalie-silvanovich",
+    "era": "2010s-Present",
+    "tags": [
+      "Project Zero",
+      "Google",
+      "zero-click",
+      "iMessage",
+      "mobile security",
+      "vulnerability research"
+    ],
+    "summary": "Natalie Silvanovich is a security researcher on Google's Project Zero team known for pioneering research into 'interaction-less' (zero-click) vulnerabilities in mobile messaging and video-calling applications, most notably a 2019 study of iMessage that uncovered multiple remotely exploitable bugs requiring no user interaction.",
+    "url": "people/natalie-silvanovich.html"
+  },
+  {
+    "id": "orange-tsai",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Orange Tsai",
+    "slug": "orange-tsai",
+    "era": "2010s-Present",
+    "tags": [
+      "web security",
+      "DEVCORE",
+      "Taiwan",
+      "Pwn2Own",
+      "ProxyLogon",
+      "vulnerability research"
+    ],
+    "summary": "Orange Tsai is a Taiwan-based web application security researcher and principal researcher at DEVCORE whose disclosures of Microsoft Exchange Server vulnerabilities in early 2021 became known as ProxyLogon, and whose repeated Pwn2Own 'Master of Pwn' titles and Pwnie Award wins have made him one of the most recognized application-security researchers in Asia.",
+    "url": "people/orange-tsai.html"
   },
   {
     "id": "richard-stallman-gnu",
@@ -452,6 +788,40 @@
     ],
     "summary": "Solar Designer (Alexander Peslyak) created the John the Ripper password cracker in 1996 and founded the Openwall Project, becoming one of the most influential figures in open-source Linux security hardening and exploitation research.",
     "url": "people/solar-designer.html"
+  },
+  {
+    "id": "tavis-ormandy",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Tavis Ormandy",
+    "slug": "tavis-ormandy",
+    "era": "2000s-2025",
+    "tags": [
+      "Google Project Zero",
+      "vulnerability research",
+      "disclosure ethics",
+      "antivirus security",
+      "sandbox escapes"
+    ],
+    "summary": "Tavis Ormandy is a British computer security researcher and a founding member of Google Project Zero, known both for a long record of high-impact vulnerability discoveries (Sophos, Cloudflare's Cloudbleed, AMD's Zenbleed) and for a 2010 disclosure dispute with Microsoft that became a touchstone in debates over responsible versus full disclosure.",
+    "url": "people/tavis-ormandy.html"
+  },
+  {
+    "id": "the-grugq",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "the Grugq",
+    "slug": "the-grugq",
+    "era": "2000s-Present",
+    "tags": [
+      "anti-forensics",
+      "OPSEC",
+      "pseudonymous",
+      "Black Hat",
+      "cyber strategy"
+    ],
+    "summary": "The Grugq is a pseudonymous information-security researcher, reportedly of South African origin, best known for pioneering early anti-forensics research in the 2000s, later reported involvement as a broker of zero-day exploits, and an ongoing career as an influential public commentator on operational security (OPSEC) and cyber conflict.",
+    "url": "people/the-grugq.html"
   },
   {
     "id": "tsutomu-shimomura",
@@ -584,6 +954,75 @@
     "url": "groups/wikileaks-julian-assange.html"
   },
   {
+    "id": "bloodhound",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "BloodHound",
+    "slug": "bloodhound",
+    "era": "2016-Present",
+    "tags": [
+      "Active Directory",
+      "red team",
+      "attack path mapping",
+      "graph theory",
+      "SpecterOps"
+    ],
+    "summary": "BloodHound is an open-source tool that maps Active Directory environments as a graph rather than a list, exposing hidden privilege-escalation paths that took defenders and pentesters weeks to find manually and revealing them in minutes, which made it a staple of both red-team operations and enterprise AD defense.",
+    "url": "tools/bloodhound.html"
+  },
+  {
+    "id": "burp-suite",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Burp Suite",
+    "slug": "burp-suite",
+    "era": "2003-Present",
+    "tags": [
+      "web security",
+      "penetration testing",
+      "intercepting proxy",
+      "PortSwigger",
+      "vulnerability scanner"
+    ],
+    "summary": "Burp Suite is an intercepting-proxy-based web application security testing toolkit created by Dafydd Stuttard (aka 'PortSwigger'), which became the de facto industry-standard platform for manual and automated web penetration testing.",
+    "url": "tools/burp-suite.html"
+  },
+  {
+    "id": "ghidra",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Ghidra",
+    "slug": "ghidra",
+    "era": "1999 (internal origins) - 2019-Present (public tool)",
+    "tags": [
+      "reverse engineering",
+      "NSA",
+      "open source",
+      "decompiler",
+      "disassembler",
+      "Vault 7"
+    ],
+    "summary": "Ghidra is a free, open-source software reverse engineering framework created by the NSA's Research Directorate, used internally by the agency for years before its unprecedented public release in 2019; it broke the commercial monopoly on high-end disassembly and decompilation tooling by giving researchers worldwide a no-cost alternative to IDA Pro.",
+    "url": "tools/ghidra.html"
+  },
+  {
+    "id": "ida-pro",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "IDA Pro",
+    "slug": "ida-pro",
+    "era": "1991-Present",
+    "tags": [
+      "disassembler",
+      "decompiler",
+      "reverse engineering",
+      "malware analysis",
+      "Hex-Rays"
+    ],
+    "summary": "IDA Pro is the commercial disassembler and decompiler created by Ilfak Guilfanov that became the de facto industry standard for reverse engineering and malware analysis for nearly three decades, shaping how professional researchers read compiled binaries until free alternatives like Ghidra emerged.",
+    "url": "tools/ida-pro.html"
+  },
+  {
     "id": "john-the-ripper",
     "type": "tool",
     "typeLabel": "Tool",
@@ -614,6 +1053,24 @@
     ],
     "summary": "The evolution of the Metasploit Framework, from H. D. Moore's open-source project to a powerful platform that made exploit development and penetration testing accessible.",
     "url": "tools/metasploit-framework.html"
+  },
+  {
+    "id": "mimikatz",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Mimikatz",
+    "slug": "mimikatz",
+    "era": "2007-Present",
+    "tags": [
+      "credential theft",
+      "post-exploitation",
+      "windows security",
+      "active directory",
+      "pass the hash",
+      "open source"
+    ],
+    "summary": "Mimikatz is an open-source Windows post-exploitation tool created by French programmer Benjamin Delpy that extracts plaintext passwords, hashes, and Kerberos tickets from system memory, becoming one of the most widely used credential-theft utilities in both legitimate penetration testing and real-world cyberattacks, including major ransomware outbreaks.",
+    "url": "tools/mimikatz.html"
   },
   {
     "id": "nmap-network-mapper",
@@ -746,6 +1203,23 @@
     "url": "publications/hacker-manifesto-the-mentor.html"
   },
   {
+    "id": "hacking-art-of-exploitation",
+    "type": "publication",
+    "typeLabel": "Publication",
+    "title": "Hacking: The Art of Exploitation",
+    "slug": "hacking-art-of-exploitation",
+    "era": "2003-Present",
+    "tags": [
+      "book",
+      "exploit development",
+      "education",
+      "buffer overflow",
+      "shellcode"
+    ],
+    "summary": "Hacking: The Art of Exploitation by Jon Erickson is a widely used security education text that teaches exploit development from first principles through C programming and assembly rather than as a catalog of ready-made tools, shipped with a bootable Linux LiveCD for hands-on practice.",
+    "url": "publications/hacking-art-of-exploitation.html"
+  },
+  {
     "id": "phrack-magazine",
     "type": "publication",
     "typeLabel": "Publication",
@@ -839,128 +1313,5 @@
     ],
     "summary": "An exploration of Responsible Disclosure, the ethical framework guiding how security researchers report vulnerabilities to vendors.",
     "url": "fields/responsible-disclosure.html"
-  },
-  {
-    "id": "orange-tsai",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Orange Tsai",
-    "slug": "orange-tsai",
-    "era": "2010s-Present",
-    "tags": [
-      "web security",
-      "DEVCORE",
-      "Taiwan",
-      "Pwn2Own",
-      "ProxyLogon",
-      "vulnerability research"
-    ],
-    "summary": "Orange Tsai is a Taiwan-based web application security researcher and principal researcher at DEVCORE whose disclosures of Microsoft Exchange Server vulnerabilities in early 2021 became known as ProxyLogon, and whose repeated Pwn2Own 'Master of Pwn' titles and Pwnie Award wins have made him one of the most recognized application-security researchers in Asia.",
-    "url": "people/orange-tsai.html"
-  },
-  {
-    "id": "bloodhound",
-    "type": "tool",
-    "typeLabel": "Tool",
-    "title": "BloodHound",
-    "slug": "bloodhound",
-    "era": "2016-Present",
-    "tags": [
-      "Active Directory",
-      "red team",
-      "attack path mapping",
-      "graph theory",
-      "SpecterOps"
-    ],
-    "summary": "BloodHound is an open-source tool that maps Active Directory environments as a graph rather than a list, exposing hidden privilege-escalation paths that took defenders and pentesters weeks to find manually and revealing them in minutes, which made it a staple of both red-team operations and enterprise AD defense.",
-    "url": "tools/bloodhound.html"
-  },
-  {
-    "id": "burp-suite",
-    "type": "tool",
-    "typeLabel": "Tool",
-    "title": "Burp Suite",
-    "slug": "burp-suite",
-    "era": "2003-Present",
-    "tags": [
-      "web security",
-      "penetration testing",
-      "intercepting proxy",
-      "PortSwigger",
-      "vulnerability scanner"
-    ],
-    "summary": "Burp Suite is an intercepting-proxy-based web application security testing toolkit created by Dafydd Stuttard (aka 'PortSwigger'), which became the de facto industry-standard platform for manual and automated web penetration testing.",
-    "url": "tools/burp-suite.html"
-  },
-  {
-    "id": "ghidra",
-    "type": "tool",
-    "typeLabel": "Tool",
-    "title": "Ghidra",
-    "slug": "ghidra",
-    "era": "1999 (internal origins) - 2019-Present (public tool)",
-    "tags": [
-      "reverse engineering",
-      "NSA",
-      "open source",
-      "decompiler",
-      "disassembler",
-      "Vault 7"
-    ],
-    "summary": "Ghidra is a free, open-source software reverse engineering framework created by the NSA's Research Directorate, used internally by the agency for years before its unprecedented public release in 2019; it broke the commercial monopoly on high-end disassembly and decompilation tooling by giving researchers worldwide a no-cost alternative to IDA Pro.",
-    "url": "tools/ghidra.html"
-  },
-  {
-    "id": "mimikatz",
-    "type": "tool",
-    "typeLabel": "Tool",
-    "title": "Mimikatz",
-    "slug": "mimikatz",
-    "era": "2007-Present",
-    "tags": [
-      "credential theft",
-      "post-exploitation",
-      "windows security",
-      "active directory",
-      "pass the hash",
-      "open source"
-    ],
-    "summary": "Mimikatz is an open-source Windows post-exploitation tool created by French programmer Benjamin Delpy that extracts plaintext passwords, hashes, and Kerberos tickets from system memory, becoming one of the most widely used credential-theft utilities in both legitimate penetration testing and real-world cyberattacks, including major ransomware outbreaks.",
-    "url": "tools/mimikatz.html"
-  },
-  {
-    "id": "moxie-marlinspike",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Moxie Marlinspike",
-    "slug": "moxie-marlinspike",
-    "era": "2000s-Present",
-    "tags": [
-      "SSL/TLS security",
-      "encrypted messaging",
-      "Signal Protocol",
-      "cryptography",
-      "privacy tools"
-    ],
-    "summary": "Moxie Marlinspike is an American security researcher who exposed foundational weaknesses in SSL/TLS certificate trust with tools like sslsniff and SSLstrip, then went on to co-create the Signal Protocol, the end-to-end encryption system now used by Signal, WhatsApp, and other major messaging platforms.",
-    "url": "people/moxie-marlinspike.html"
-  },
-  {
-    "id": "natalie-silvanovich",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Natalie Silvanovich",
-    "slug": "natalie-silvanovich",
-    "era": "2010s-Present",
-    "tags": [
-      "Project Zero",
-      "Google",
-      "zero-click",
-      "iMessage",
-      "mobile security",
-      "vulnerability research"
-    ],
-    "summary": "Natalie Silvanovich is a security researcher on Google's Project Zero team known for pioneering research into 'interaction-less' (zero-click) vulnerabilities in mobile messaging and video-calling applications, most notably a 2019 study of iMessage that uncovered multiple remotely exploitable bugs requiring no user interaction.",
-    "url": "people/natalie-silvanovich.html"
   }
 ]

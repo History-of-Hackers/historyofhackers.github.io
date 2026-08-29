@@ -1,0 +1,93 @@
+{
+  "id": "dino-dai-zovi",
+  "type": "person",
+  "title": "Dino Dai Zovi",
+  "slug": "dino-dai-zovi",
+  "era": "2000s-Present",
+  "tags": [
+    "Pwn2Own",
+    "macOS security",
+    "exploit development",
+    "Trail of Bits",
+    "Pwnie Awards"
+  ],
+  "summary": "Dino Dai Zovi is an American security researcher best known for exploiting a zero-day QuickTime/Safari vulnerability that produced the first-ever Pwn2Own win at CanSecWest 2007, for co-authoring 'The Mac Hacker's Handbook' and 'iOS Hacker's Handbook', and for co-founding the security firms Trail of Bits and Capsule8.",
+  "whyThisMatters": "Dino Dai Zovi is an American security researcher best known for exploiting a zero-day QuickTime/Safari vulnerability that produced the first-ever Pwn2Own win at CanSecWest 2007, for co-authoring 'The Mac Hacker's Handbook' and 'iOS Hacker's Handbook', and for co-founding the security firms Trail of Bits and Capsule8.",
+  "sections": {
+    "overview": "<p>Dino Dai Zovi is an American computer security researcher known for offensive security research on Apple platforms, for his role in the origin of the Pwn2Own hacking contest, and for co-founding several security companies. He earned a B.S. in Computer Science from the University of New Mexico.</p><h2>Early Research: KARMA and Pwnie Awards Origins</h2><p>In 2004, Dai Zovi and Shane Macaulay published some of the first public details of the KARMA attack, which abuses Wi-Fi client devices that broadcast their list of previously connected networks, allowing an attacker to impersonate a trusted access point. In 2007, following his own discovery of a cross-platform QuickTime vulnerability and Alexander Sotirov's discovery of a Windows ANI-file vulnerability, the two researchers co-founded the Pwnie Awards.</p><h2>Pwn2Own 2007</h2><p>Dai Zovi is closely associated with the first-ever Pwn2Own contest, held at CanSecWest in Vancouver in April 2007. Working overnight, he found and exploited a previously unknown vulnerability in the QuickTime library as loaded by Safari on Mac OS X. Because the contest required competitors to be physically present and Dai Zovi was not at the conference, his acquaintance Shane Macaulay hosted the exploit on a website to claim the MacBook Pro prize on Dai Zovi's behalf, while Dai Zovi separately sold the underlying vulnerability to TippingPoint's Zero Day Initiative for $10,000.</p><h2>Books and Company Leadership</h2><p>Dai Zovi went on to co-author two influential technical books on Apple platform security: 'The Mac Hacker's Handbook' (2009), written with Charlie Miller, and 'iOS Hacker's Handbook' (2012). In 2012, Dai Zovi co-founded the New York-based security research and consulting firm Trail of Bits alongside Alexander Sotirov and Dan Guido. In 2016, he co-founded Capsule8, a startup focused on Linux and cloud/container security; Capsule8 was acquired by Sophos in July 2021.</p><h2>Legacy</h2><p>Dai Zovi's 2007 exploit is widely credited as the win that established Pwn2Own as an annual fixture of the security research calendar. Alongside his books and the Pwnie Awards, his work is frequently cited as foundational to the emergence of Apple/Mac platform security research as a distinct area of offensive security study.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2004",
+      "event": "Co-published, with Shane Macaulay, early details of the KARMA Wi-Fi client attack."
+    },
+    {
+      "date": "2007-04",
+      "event": "Found and exploited a zero-day QuickTime-in-Safari vulnerability at the first CanSecWest Pwn2Own contest."
+    },
+    {
+      "date": "2007",
+      "event": "Co-founded the Pwnie Awards with Alexander Sotirov."
+    },
+    {
+      "date": "2009",
+      "event": "Co-authored 'The Mac Hacker's Handbook' with Charlie Miller."
+    },
+    {
+      "date": "2012",
+      "event": "Co-founded the security research firm Trail of Bits."
+    },
+    {
+      "date": "2016",
+      "event": "Co-founded Linux/cloud security startup Capsule8."
+    },
+    {
+      "date": "2021-07",
+      "event": "Capsule8 was acquired by Sophos."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Pwn2Own - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pwn2Own"
+    },
+    {
+      "title": "Pwnie Awards - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pwnie_Awards"
+    },
+    {
+      "title": "KARMA attack - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/KARMA_attack"
+    },
+    {
+      "title": "Trail of Bits - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trail_of_Bits"
+    },
+    {
+      "title": "Charlie Miller (security researcher) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charlie_Miller_(security_researcher)"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 5,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Dino Dai Zovi",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Discovering and exploiting the QuickTime-in-Safari zero-day behind the first Pwn2Own win at CanSecWest 2007",
+    "Co-authoring 'The Mac Hacker's Handbook' (2009) with Charlie Miller",
+    "Co-authoring 'iOS Hacker's Handbook' (2012)",
+    "Co-founding the Pwnie Awards (2007) with Alexander Sotirov",
+    "Co-founding security firms Trail of Bits (2012) and Capsule8 (2016)"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "elias-levy",
+  "type": "person",
+  "title": "Elias Levy",
+  "slug": "elias-levy",
+  "era": "1990s-2000s",
+  "tags": [
+    "buffer overflow",
+    "Phrack",
+    "Bugtraq",
+    "full disclosure",
+    "SecurityFocus"
+  ],
+  "summary": "Elias Levy, using the handle 'Aleph One,' wrote the 1996 Phrack article 'Smashing The Stack For Fun And Profit,' the tutorial widely credited with popularizing stack-based buffer overflow exploitation, and for over five years moderated the Bugtraq mailing list at the center of the 1990s-2000s full-disclosure movement.",
+  "whyThisMatters": "Elias Levy, using the handle 'Aleph One,' wrote the 1996 Phrack article 'Smashing The Stack For Fun And Profit,' the tutorial widely credited with popularizing stack-based buffer overflow exploitation, and for over five years moderated the Bugtraq mailing list at the center of the 1990s-2000s full-disclosure movement.",
+  "sections": {
+    "overview": "<p>Elias Levy is a Venezuelan computer scientist better known in the security community by his handle \"Aleph One.\" He is best remembered as the author of \"Smashing The Stack For Fun And Profit,\" a tutorial published in Phrack Magazine, Volume Seven, Issue 49, dated November 8, 1996, which walks the reader through the mechanics of stack layout and how overflowing a stack-allocated buffer can be used to redirect program execution.</p><h2>Impact of the Phrack Paper</h2><p>\"Smashing The Stack For Fun And Profit\" is widely described as the first high-quality, publicly available, step-by-step introduction to stack-based buffer overflow exploitation. While buffer overflows had already been exploited in the wild (most famously by the 1988 Morris worm), Levy's article is generally credited with systematizing the technique into a reproducible methodology for a broad audience. It became a foundational reference for a generation of exploit developers.</p><h2>Bugtraq and the Full-Disclosure Movement</h2><p>Levy moderated Bugtraq, the security mailing list originally founded by Scott Chasin in 1993, from 1996 until October 15, 2001. Under his moderation the list grew from a few thousand subscribers to tens of thousands, becoming the primary venue through which independent researchers publicly disclosed software vulnerabilities, often before or without a vendor patch being available.</p><h2>SecurityFocus and the Symantec Acquisition</h2><p>In 1999 Levy co-founded SecurityFocus alongside Oliver Friedrichs, Alfred Huger, and Arthur Wong, serving as the company's Chief Technology Officer. Bugtraq was folded into SecurityFocus's offerings. Symantec acquired SecurityFocus on August 6, 2002, a sale that drew criticism from parts of the community and is frequently cited as part of the backdrop to the creation of the separate Full-Disclosure mailing list in mid-2002.</p><h2>Legacy</h2><p>Levy stepped down as Bugtraq moderator shortly before the Symantec acquisition closed. His enduring legacy rests on the combination of the Phrack paper, which helped train a generation of exploit developers, and his stewardship of Bugtraq during the formative years of vulnerability disclosure as practiced today.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1996-11-08",
+      "event": "Under the handle 'Aleph One,' Levy publishes 'Smashing The Stack For Fun And Profit' in Phrack, issue 49."
+    },
+    {
+      "date": "1996",
+      "event": "Becomes moderator of the Bugtraq mailing list."
+    },
+    {
+      "date": "1999",
+      "event": "Co-founds SecurityFocus and becomes its CTO; Bugtraq moves to SecurityFocus."
+    },
+    {
+      "date": "2001-10-15",
+      "event": "Steps down as Bugtraq moderator after roughly five years."
+    },
+    {
+      "date": "2002-08-06",
+      "event": "Symantec acquires SecurityFocus."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Elias Levy - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Elias_Levy"
+    },
+    {
+      "title": "Bugtraq - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bugtraq"
+    },
+    {
+      "title": "Smashing The Stack For Fun And Profit, Phrack issue 49",
+      "url": "http://phrack.org/issues/49/smashing-the-stack-for-fun-and-profit.html"
+    },
+    {
+      "title": "Full disclosure (mailing list) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Full_disclosure_(mailing_list)"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Elias Levy",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Author of 'Smashing The Stack For Fun And Profit', Phrack issue 49 (1996), under the handle 'Aleph One'",
+    "Moderator of the Bugtraq full-disclosure mailing list (1996-2001)",
+    "Co-founder and CTO of SecurityFocus (founded 1999, acquired by Symantec in 2002)"
+  ]
+}

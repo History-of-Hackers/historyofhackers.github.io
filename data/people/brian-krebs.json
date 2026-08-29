@@ -1,0 +1,112 @@
+{
+  "id": "brian-krebs",
+  "type": "person",
+  "title": "Brian Krebs",
+  "slug": "brian-krebs",
+  "era": "2000s-Present",
+  "tags": [
+    "cybercrime journalism",
+    "data breach reporting",
+    "DDoS",
+    "Mirai botnet",
+    "investigative journalism"
+  ],
+  "summary": "Brian Krebs is an American investigative journalist who became one of the most influential chroniclers of cybercrime, breaking major stories such as the 2013 Target data breach and, through his deep sourcing in underground carding and cybercrime forums, turning his independent blog KrebsOnSecurity into a top-tier source on the cybercriminal underground.",
+  "whyThisMatters": "Brian Krebs is an American investigative journalist who became one of the most influential chroniclers of cybercrime, breaking major stories such as the 2013 Target data breach and, through his deep sourcing in underground carding and cybercrime forums, turning his independent blog KrebsOnSecurity into a top-tier source on the cybercriminal underground.",
+  "sections": {
+    "overview": "<p>Brian Krebs is an American journalist born in 1972 who has spent more than two decades investigating computer crime, cybercriminal marketplaces, and large-scale data breaches. He earned a B.A. in International Relations from George Mason University in 1994 and joined The Washington Post in 1995. In 2005 he launched 'Security Fix,' a blog dedicated to computer security and cybercrime that ran until 2009 and produced more than 1,300 posts.</p><p>In December 2009 Krebs left the Post and founded KrebsOnSecurity.com, an independently run blog that became his primary journalistic platform. Even before going independent, his reporting had real-world impact: in 2008 his investigation into the hosting firm McColo led to its takedown in November 2008, an event credited with reducing global spam volume by an estimated 40 to 70 percent.</p><h2>Breaking the Target Breach and Other Major Stories</h2><p>Krebs's most widely cited scoop came on December 18, 2013, when he reported that retail giant Target was investigating a data breach that appeared to have compromised tens of millions of customer payment cards. Target later confirmed that roughly 40 million payment card accounts had been affected. In 2014, Krebs published the book Spam Nation, chronicling the organized cybercriminal groups behind global spam and pharmaceutical fraud networks.</p><h2>The vDOS Story and the Mirai Botnet Attack</h2><p>On September 8, 2016, Krebs published an investigation exposing vDOS, an Israeli-run DDoS-for-hire service that had earned its operators more than $600,000 over two years; the story led to the arrest of two Israeli suspects. Less than two weeks later, on September 20, 2016, KrebsOnSecurity was hit by a distributed denial-of-service attack measured at roughly 620 gigabits per second, at the time one of the largest DDoS attacks ever publicly recorded, apparently launched in retaliation for the vDOS reporting. The attack was powered by a botnet of hacked Internet-of-Things devices.</p><p>On September 30, 2016, the source code for the botnet malware, later named Mirai, was released publicly by a user calling themselves 'Anna-Senpai.' Weeks later, a Mirai-powered botnet was used to attack the DNS provider Dyn, causing widespread outages at major sites including Twitter, Netflix, and Reddit. In January 2017, Krebs published an investigation identifying Paras Jha, a New Jersey college student, as the likely author behind the 'Anna-Senpai' alias.</p><h2>Legacy</h2><p>Krebs remains one of the most closely followed independent cybersecurity journalists, known for combining old-fashioned sourcing inside criminal communities with detailed technical analysis, and for his own site's role as a real-world case study in the risks investigative reporters face from the criminals and threat actors they cover.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1995",
+      "event": "Krebs joins The Washington Post."
+    },
+    {
+      "date": "2005",
+      "event": "Krebs launches the 'Security Fix' blog on washingtonpost.com."
+    },
+    {
+      "date": "2008-11",
+      "event": "Krebs's investigation into hosting provider McColo leads to its takedown, cutting global spam volume sharply."
+    },
+    {
+      "date": "2009-12",
+      "event": "Krebs leaves The Washington Post and founds KrebsOnSecurity.com."
+    },
+    {
+      "date": "2013-12-18",
+      "event": "Krebs breaks the story of the Target data breach, later confirmed to have compromised about 40 million payment cards."
+    },
+    {
+      "date": "2014",
+      "event": "Krebs publishes the book 'Spam Nation.'"
+    },
+    {
+      "date": "2016-09-08",
+      "event": "Krebs publishes an investigation exposing the Israeli DDoS-for-hire service vDOS."
+    },
+    {
+      "date": "2016-09-20",
+      "event": "KrebsOnSecurity is hit by a record-breaking ~620 Gbps DDoS attack from a Mirai IoT botnet."
+    },
+    {
+      "date": "2016-09-30",
+      "event": "The source code for the Mirai botnet malware is publicly released by 'Anna-Senpai.'"
+    },
+    {
+      "date": "2016-10-21",
+      "event": "A Mirai-powered botnet attacks DNS provider Dyn, disrupting major internet services."
+    },
+    {
+      "date": "2017-01",
+      "event": "Krebs publishes an investigation identifying Paras Jha as the likely author behind the 'Anna-Senpai' Mirai alias."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Brian Krebs - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brian_Krebs"
+    },
+    {
+      "title": "KrebsOnSecurity Hit With Record DDoS",
+      "url": "https://krebsonsecurity.com/2016/09/krebsonsecurity-hit-with-record-ddos/"
+    },
+    {
+      "title": "Sources: Target Investigating Data Breach - KrebsOnSecurity",
+      "url": "https://krebsonsecurity.com/2013/12/sources-target-investigating-data-breach/"
+    },
+    {
+      "title": "Who is Anna-Senpai, the Mirai Worm Author? - KrebsOnSecurity",
+      "url": "https://krebsonsecurity.com/2017/01/who-is-anna-senpai-the-mirai-worm-author/"
+    },
+    {
+      "title": "Hacked Cameras, DVRs Powered Today's Massive Internet Outage - KrebsOnSecurity",
+      "url": "https://krebsonsecurity.com/2016/10/hacked-cameras-dvrs-powered-todays-massive-internet-outage/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 5,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Brian Krebs",
+  "born": "1972",
+  "died": null,
+  "knownFor": [
+    "Washington Post 'Security Fix' blog (2005-2009)",
+    "Founding the independent blog KrebsOnSecurity.com in December 2009",
+    "Breaking the 2013 Target data breach story",
+    "2008 reporting that led to the shutdown of the McColo hosting provider, cutting global spam volume",
+    "Exposing the Israeli DDoS-for-hire service vDOS in September 2016",
+    "Surviving a record-breaking ~620 Gbps Mirai botnet DDoS attack against his own site in September 2016",
+    "Identifying suspected Mirai author 'Anna-Senpai' as Paras Jha in January 2017",
+    "Author of the book Spam Nation (2014)"
+  ]
+}
