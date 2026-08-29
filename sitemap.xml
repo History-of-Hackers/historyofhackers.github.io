@@ -27,6 +27,7 @@
   <url><loc>https://historyofhackers.org/people/hd-moore.html</loc></url>
   <url><loc>https://historyofhackers.org/people/james-forshaw.html</loc></url>
   <url><loc>https://historyofhackers.org/people/james-kettle.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/jeff-moss.html</loc></url>
   <url><loc>https://historyofhackers.org/people/jeremiah-grossman.html</loc></url>
   <url><loc>https://historyofhackers.org/people/joanna-rutkowska.html</loc></url>
   <url><loc>https://historyofhackers.org/people/john-draper.html</loc></url>
@@ -38,6 +39,7 @@
   <url><loc>https://historyofhackers.org/people/linus-torvalds.html</loc></url>
   <url><loc>https://historyofhackers.org/people/marc-maiffret.html</loc></url>
   <url><loc>https://historyofhackers.org/people/marcus-hutchins-wannacry.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/marcus-ranum.html</loc></url>
   <url><loc>https://historyofhackers.org/people/michal-zalewski.html</loc></url>
   <url><loc>https://historyofhackers.org/people/mikko-hypponen.html</loc></url>
   <url><loc>https://historyofhackers.org/people/moxie-marlinspike.html</loc></url>
@@ -45,6 +47,7 @@
   <url><loc>https://historyofhackers.org/people/natalie-silvanovich.html</loc></url>
   <url><loc>https://historyofhackers.org/people/orange-tsai.html</loc></url>
   <url><loc>https://historyofhackers.org/people/richard-stallman-gnu.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/robert-hansen.html</loc></url>
   <url><loc>https://historyofhackers.org/people/robert-tappan-morris.html</loc></url>
   <url><loc>https://historyofhackers.org/people/ross-anderson.html</loc></url>
   <url><loc>https://historyofhackers.org/people/samy-kamkar.html</loc></url>
@@ -52,10 +55,9 @@
   <url><loc>https://historyofhackers.org/people/tavis-ormandy.html</loc></url>
   <url><loc>https://historyofhackers.org/people/the-grugq.html</loc></url>
   <url><loc>https://historyofhackers.org/people/tsutomu-shimomura.html</loc></url>
-  <url><loc>https://historyofhackers.org/people/jeff-moss.html</loc></url>
-  <url><loc>https://historyofhackers.org/people/marcus-ranum.html</loc></url>
-  <url><loc>https://historyofhackers.org/people/robert-hansen.html</loc></url>
   <url><loc>https://historyofhackers.org/people/window-snyder.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/casey-ellis.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/jan-krissler.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/</loc></url>
   <url><loc>https://historyofhackers.org/groups/anonymous-hacktivism.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/chaos-computer-club-ccc.html</loc></url>
@@ -74,6 +76,9 @@
   <url><loc>https://historyofhackers.org/tools/mimikatz.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/nmap-network-mapper.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/wireshark-network-analyzer.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/frida.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/hashcat.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/radare2.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/stuxnet-digital-weapon.html</loc></url>
   <url><loc>https://historyofhackers.org/events/</loc></url>
