@@ -66,10 +66,10 @@ not use this list to justify skipping verification.
 | Candidate | Reason | Area | Status |
 |---|---|---|---|
 | Alex Stamos | Former Yahoo/Facebook CSO, election-security and disinformation research | Security Leadership / Policy | See `data/people/alex-stamos.json` — PUBLISHED |
-| Window Snyder | Security architecture at Microsoft, Mozilla, Apple, Intel; co-author "Threat Modeling" | Security Engineering | TODO |
+| Window Snyder | Security architecture at Microsoft, Mozilla, Apple, Intel; co-author "Threat Modeling" | Security Engineering | See `data/people/window-snyder.json` — PUBLISHED |
 | Chris Wysopal | @stake co-founder, L0pht member, Veracode co-founder | Application Security | See `data/people/chris-wysopal.json` — PUBLISHED |
 | Marc Maiffret | eEye Digital Security co-founder, Code Red worm analysis | Vulnerability Research | See `data/people/marc-maiffret.json` — PUBLISHED |
-| Jeff Moss ("The Dark Tangent") | DEF CON/Black Hat founder | Conferences (cross-check vs. existing DEF CON event page) | TODO |
+| Jeff Moss ("The Dark Tangent") | DEF CON/Black Hat founder, ICANN CSO, DHS Advisory Council | Conferences / Policy | See `data/people/jeff-moss.json` — PUBLISHED |
 | Elias Levy ("Aleph One") | "Smashing the Stack for Fun and Profit," Bugtraq moderator | Exploit Development | See `data/people/elias-levy.json` — PUBLISHED |
 | Dave Aitel | Immunity Inc. founder, former NSA, CANVAS/SPIKE | Exploit Development | See `data/people/dave-aitel.json` — PUBLISHED |
 | Dino Dai Zovi | Early Mac OS X exploitation research, first Pwn2Own win (2007) | Exploit Development | See `data/people/dino-dai-zovi.json` — PUBLISHED |
@@ -77,8 +77,8 @@ not use this list to justify skipping verification.
 | James Forshaw | Google Project Zero, Windows security research, "Attacking Network Protocols" author | Vulnerability Research | See `data/people/james-forshaw.json` — PUBLISHED |
 | Tavis Ormandy | Google Project Zero founding member, Cloudbleed, Zenbleed | Vulnerability Research | See `data/people/tavis-ormandy.json` — PUBLISHED |
 | Jeremiah Grossman | WhiteHat Security founder, web application security research | Web Security | See `data/people/jeremiah-grossman.json` — PUBLISHED |
-| Robert Hansen ("RSnake") | XSS research, ha.ckers.org | Web Security | TODO |
-| Marcus Ranum | Early firewall design (DEC SEAL, TIS), intrusion detection research | Network Security | TODO |
+| Robert Hansen ("RSnake") | XSS research, ha.ckers.org, clickjacking, Slowloris | Web Security | See `data/people/robert-hansen.json` — PUBLISHED |
+| Marcus Ranum | Early firewall design (DEC SEAL, TIS), intrusion detection research | Network Security | See `data/people/marcus-ranum.json` — PUBLISHED |
 | Brian Krebs | Investigative security journalist, Krebs on Security, Mirai/vDOS reporting | Threat Research / Journalism | See `data/people/brian-krebs.json` — PUBLISHED |
 | Jon Erickson | Author of "Hacking: The Art of Exploitation" | Exploit Development | See `data/publications/hacking-art-of-exploitation.json` (published as a publication entry — too little independently verifiable biographical detail beyond the book itself) — PUBLISHED |
 | Jennifer Granick | Security/privacy lawyer, EFF, Stanford | Policy / Law | TODO |

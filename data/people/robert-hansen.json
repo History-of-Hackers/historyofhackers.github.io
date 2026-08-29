@@ -1,0 +1,69 @@
+{
+  "id": "robert-hansen",
+  "type": "person",
+  "title": "Robert Hansen",
+  "slug": "robert-hansen",
+  "era": "2000s-Present",
+  "tags": [
+    "XSS",
+    "web application security",
+    "clickjacking",
+    "ha.ckers.org",
+    "Slowloris"
+  ],
+  "summary": "Robert Hansen, known by the handle 'RSnake,' is a web application security researcher who built the influential ha.ckers.org security community and XSS Cheat Sheet, co-coined the term 'clickjacking' with Jeremiah Grossman in 2008, and created the Slowloris denial-of-service tool.",
+  "whyThisMatters": "Robert Hansen, known by the handle 'RSnake,' is a web application security researcher who built the influential ha.ckers.org security community and XSS Cheat Sheet, co-coined the term 'clickjacking' with Jeremiah Grossman in 2008, and created the Slowloris denial-of-service tool.",
+  "sections": {
+    "overview": "<p>Robert Hansen, widely known in the security community by his handle \"RSnake,\" is a web application security researcher recognized for popularizing cross-site scripting (XSS) research and for co-coining the term \"clickjacking.\"</p><h2>ha.ckers.org and the XSS Cheat Sheet</h2><p>Hansen ran ha.ckers.org, a web security blog and community site that hosted his XSS Cheat Sheet, a widely referenced catalog of techniques for bypassing XSS input filters. The Open Web Application Security Project (OWASP) later built its own XSS Filter Evasion Cheat Sheet directly on top of Hansen's original work, crediting it explicitly as the basis for the resource.</p><h2>Clickjacking</h2><p>In 2008, working under his company SecTheory, Hansen and fellow researcher Jeremiah Grossman found that Adobe Flash Player could be manipulated through a UI-redress technique that tricked users into clicking on hidden or disguised page elements. The pair coined the term \"clickjacking\" to describe the attack class, and Hansen authored a paper formally defining the term and laying out a coordinated disclosure timeline.</p><h2>Slowloris and Denial-of-Service Research</h2><p>In 2009, Hansen released Slowloris, a tool that could take down web servers using comparatively little bandwidth by opening many partial HTTP connections and holding them open. Slowloris drew public attention when it was used as a low-bandwidth denial-of-service tool during the protests following the 2009 Iranian presidential election. Around the same period, Hansen also researched DNS rebinding attacks.</p><h2>Legacy</h2><p>Hansen's legacy lies chiefly in community-building around web application security: ha.ckers.org and its associated cheat sheets helped standardize practical XSS testing knowledge while the field was still maturing, and his and Grossman's clickjacking research named an entire category of UI-based web attacks that remains part of standard web security terminology.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2008",
+      "event": "Along with Jeremiah Grossman, coined the term 'clickjacking.'"
+    },
+    {
+      "date": "2009-06-17",
+      "event": "Released Slowloris, a low-bandwidth HTTP denial-of-service tool."
+    },
+    {
+      "date": "2009",
+      "event": "Slowloris was used as a denial-of-service tool during protests following the Iranian presidential election."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Clickjacking - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Clickjacking"
+    },
+    {
+      "title": "Slowloris (cyber attack) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Slowloris_(cyber_attack)"
+    },
+    {
+      "title": "OWASP Cheat Sheet Series - XSS Filter Evasion Cheat Sheet",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Robert Hansen",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Handle 'RSnake'",
+    "Founding ha.ckers.org and its XSS Cheat Sheet",
+    "Co-coining the term 'clickjacking' with Jeremiah Grossman in 2008",
+    "Creating the Slowloris low-bandwidth HTTP denial-of-service tool (2009)",
+    "DNS rebinding attack research"
+  ]
+}
