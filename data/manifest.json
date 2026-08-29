@@ -444,6 +444,24 @@
     "url": "people/jeff-moss.html"
   },
   {
+    "id": "jennifer-granick",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jennifer Granick",
+    "slug": "jennifer-granick",
+    "era": "1990s-Present",
+    "tags": [
+      "digital rights",
+      "computer crime law",
+      "EFF",
+      "ACLU",
+      "Stanford Law",
+      "surveillance law"
+    ],
+    "summary": "Jennifer Granick is an American attorney who began her career defending accused computer hackers in the 1990s and went on to become one of the United States' leading legal voices on digital civil liberties, directing Stanford Law School's Center for Internet and Society and holding senior counsel roles at the Electronic Frontier Foundation and the ACLU.",
+    "url": "people/jennifer-granick.html"
+  },
+  {
     "id": "jeremiah-grossman",
     "type": "person",
     "typeLabel": "Person",
@@ -838,6 +856,23 @@
     ],
     "summary": "Ross Anderson was a British computer scientist and Professor of Security Engineering at the University of Cambridge whose research on cryptography, banking and ATM fraud, and the economics of information security helped establish security engineering as a recognized academic discipline, and whose 2001 textbook 'Security Engineering' became a standard reference in the field.",
     "url": "people/ross-anderson.html"
+  },
+  {
+    "id": "runa-sandvik",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Runa Sandvik",
+    "slug": "runa-sandvik",
+    "era": "2000s-Present",
+    "tags": [
+      "Tor Project",
+      "digital security",
+      "journalism security",
+      "newsroom security",
+      "press freedom"
+    ],
+    "summary": "Runa Sandvik is a Norwegian-American computer security researcher who moved from Tor Project development and smart-weapon hacking research into building digital-security programs for newsrooms, most notably as director of information security at The New York Times.",
+    "url": "people/runa-sandvik.html"
   },
   {
     "id": "samy-kamkar",
@@ -1468,38 +1503,21 @@
     "url": "fields/responsible-disclosure.html"
   },
   {
-    "id": "jennifer-granick",
+    "id": "felix-fx-lindner",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Jennifer Granick",
-    "slug": "jennifer-granick",
-    "era": "1990s-Present",
+    "title": "Felix \"FX\" Lindner",
+    "slug": "felix-fx-lindner",
+    "era": "1990s-2026",
     "tags": [
-      "digital rights",
-      "computer crime law",
-      "EFF",
-      "ACLU",
-      "Stanford Law",
-      "surveillance law"
+      "Phenoelit",
+      "Cisco IOS",
+      "router exploitation",
+      "Recurity Labs",
+      "Germany",
+      "CCC"
     ],
-    "summary": "Jennifer Granick is an American attorney who began her career defending accused computer hackers in the 1990s and went on to become one of the United States' leading legal voices on digital civil liberties, directing Stanford Law School's Center for Internet and Society and holding senior counsel roles at the Electronic Frontier Foundation and the ACLU.",
-    "url": "people/jennifer-granick.html"
-  },
-  {
-    "id": "runa-sandvik",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Runa Sandvik",
-    "slug": "runa-sandvik",
-    "era": "2000s-Present",
-    "tags": [
-      "Tor Project",
-      "digital security",
-      "journalism security",
-      "newsroom security",
-      "press freedom"
-    ],
-    "summary": "Runa Sandvik is a Norwegian-American computer security researcher who moved from Tor Project development and smart-weapon hacking research into building digital-security programs for newsrooms, most notably as director of information security at The New York Times.",
-    "url": "people/runa-sandvik.html"
+    "summary": "Felix \"FX\" Lindner was a German security researcher and founder of the Phenoelit hacking group, best known as a pioneer of Cisco IOS and embedded-router exploitation research, and later founder of the Berlin-based security firm Recurity Labs.",
+    "url": "people/felix-fx-lindner.html"
   }
 ]
