@@ -1248,6 +1248,32 @@
     "url": "tools/burp-suite.html"
   },
   {
+    "id": "cobalt-strike",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Cobalt Strike",
+    "slug": "cobalt-strike",
+    "era": "2012-Present",
+    "tags": [
+      "red-team-tool",
+      "adversary-simulation",
+      "c2-framework",
+      "raphael-mudge",
+      "fortra",
+      "helpsystems",
+      "strategic-cyber-llc",
+      "dual-use",
+      "ransomware",
+      "apt",
+      "cybercrime",
+      "penetration-testing",
+      "armitage",
+      "metasploit"
+    ],
+    "summary": "Cobalt Strike is a commercial adversary-simulation platform created by Raphael Mudge as a paid evolution of his open-source Armitage tool; now owned by Fortra, it is a mainstay of legitimate red-team engagements and, via cracked or misappropriated copies, one of the most widely abused post-exploitation frameworks among ransomware gangs and state-sponsored hacking groups.",
+    "url": "tools/cobalt-strike.html"
+  },
+  {
     "id": "frida",
     "type": "tool",
     "typeLabel": "Tool",
@@ -1331,6 +1357,28 @@
     "url": "tools/john-the-ripper.html"
   },
   {
+    "id": "kali-linux",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Kali Linux",
+    "slug": "kali-linux",
+    "era": "2013-Present",
+    "tags": [
+      "linux-distribution",
+      "penetration-testing",
+      "security-auditing",
+      "debian-based",
+      "backtrack-successor",
+      "offensive-security",
+      "open-source",
+      "digital-forensics",
+      "rolling-release",
+      "cybersecurity-toolset"
+    ],
+    "summary": "Kali Linux is a Debian-based, open-source Linux distribution built for penetration testing and security auditing, released in March 2013 as a ground-up rebuild of Offensive Security's earlier BackTrack Linux.",
+    "url": "tools/kali-linux.html"
+  },
+  {
     "id": "metasploit-framework",
     "type": "tool",
     "typeLabel": "Tool",
@@ -1363,6 +1411,28 @@
     ],
     "summary": "Mimikatz is an open-source Windows post-exploitation tool created by French programmer Benjamin Delpy that extracts plaintext passwords, hashes, and Kerberos tickets from system memory, becoming one of the most widely used credential-theft utilities in both legitimate penetration testing and real-world cyberattacks, including major ransomware outbreaks.",
     "url": "tools/mimikatz.html"
+  },
+  {
+    "id": "nessus",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Nessus",
+    "slug": "nessus",
+    "era": "1998-Present",
+    "tags": [
+      "vulnerability-scanner",
+      "tool",
+      "network-security",
+      "open-source-origin",
+      "commercial-software",
+      "Tenable",
+      "Renaud Deraison",
+      "CVE",
+      "compliance-scanning",
+      "OpenVAS"
+    ],
+    "summary": "Nessus is a vulnerability scanner originally released in 1998 by Renaud Deraison as a free, open-source (GPL) security tool; it was folded into Tenable Network Security upon that company's founding in 2002 and switched to proprietary licensing in 2005, becoming one of the most widely deployed commercial vulnerability assessment products.",
+    "url": "tools/nessus.html"
   },
   {
     "id": "nmap-network-mapper",
@@ -1398,6 +1468,27 @@
     "url": "tools/radare2.html"
   },
   {
+    "id": "snort",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Snort",
+    "slug": "snort",
+    "era": "1998-Present",
+    "tags": [
+      "IDS",
+      "IPS",
+      "network-security",
+      "open-source",
+      "Cisco",
+      "Sourcefire",
+      "Martin Roesch",
+      "GPLv2",
+      "signature-detection"
+    ],
+    "summary": "Snort is a free, open-source network intrusion detection and prevention system created by Martin Roesch in 1998, later commercialized through his company Sourcefire and acquired by Cisco Systems in 2013 for $2.7 billion; it remains one of the most widely deployed IDS/IPS engines in the world.",
+    "url": "tools/snort.html"
+  },
+  {
     "id": "sqlmap",
     "type": "tool",
     "typeLabel": "Tool",
@@ -1417,6 +1508,28 @@
     "url": "tools/sqlmap.html"
   },
   {
+    "id": "volatility",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Volatility Framework",
+    "slug": "volatility",
+    "era": "2007-Present",
+    "tags": [
+      "memory forensics",
+      "incident response",
+      "malware analysis",
+      "open source",
+      "DFIR",
+      "digital forensics",
+      "Python",
+      "RAM analysis",
+      "Aaron Walters",
+      "Volatility Foundation"
+    ],
+    "summary": "The Volatility Framework is an open-source Python toolset for extracting forensic artifacts from volatile memory (RAM) dumps, used worldwide in incident response and malware analysis since its 2007 debut.",
+    "url": "tools/volatility.html"
+  },
+  {
     "id": "wireshark-network-analyzer",
     "type": "tool",
     "typeLabel": "Tool",
@@ -1431,6 +1544,28 @@
     ],
     "summary": "How a project started by Gerald Combs, originally named Ethereal, became the world's foremost network protocol analyzer.",
     "url": "tools/wireshark-network-analyzer.html"
+  },
+  {
+    "id": "yara",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "YARA",
+    "slug": "yara",
+    "era": "2013-Present",
+    "tags": [
+      "malware-analysis",
+      "open-source",
+      "pattern-matching",
+      "virustotal",
+      "threat-detection",
+      "signature-based-detection",
+      "yara-x",
+      "google",
+      "reverse-engineering",
+      "cybersecurity-tooling"
+    ],
+    "summary": "YARA is an open-source, rule-based pattern-matching engine designed by Victor Manuel Alvarez at VirusTotal to help malware researchers identify and classify malware samples using textual and binary patterns.",
+    "url": "tools/yara.html"
   },
   {
     "id": "eternalblue",
@@ -1476,6 +1611,45 @@
     "url": "vulnerabilities/heartbleed.html"
   },
   {
+    "id": "krack",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability / Discovery",
+    "title": "KRACK (Key Reinstallation Attack)",
+    "slug": "krack",
+    "era": "2017",
+    "tags": [
+      "WPA2",
+      "Wi-Fi",
+      "wireless security",
+      "protocol vulnerability",
+      "nonce reuse",
+      "network security",
+      "Mathy Vanhoef"
+    ],
+    "summary": "KRACK is a set of vulnerabilities in the WPA2 Wi-Fi protocol's four-way handshake, disclosed in October 2017 by researcher Mathy Vanhoef, that let an attacker within radio range force reinstallation of an already-in-use encryption key to decrypt, replay, or inject traffic.",
+    "url": "vulnerabilities/krack.html"
+  },
+  {
+    "id": "log4shell",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability / Discovery",
+    "title": "Log4Shell (CVE-2021-44228)",
+    "slug": "log4shell",
+    "era": "2021",
+    "tags": [
+      "log4j",
+      "rce",
+      "java",
+      "jndi",
+      "supply-chain",
+      "critical-infrastructure",
+      "open-source",
+      "2021"
+    ],
+    "summary": "Log4Shell was a critical remote-code-execution flaw in Apache Log4j 2, a Java logging library embedded in an enormous share of enterprise and cloud software, that let an attacker achieve full server compromise simply by getting a single crafted string logged.",
+    "url": "vulnerabilities/log4shell.html"
+  },
+  {
     "id": "shellshock",
     "type": "vulnerability",
     "typeLabel": "Vulnerability / Discovery",
@@ -1495,6 +1669,50 @@
     ],
     "summary": "Shellshock was a family of critical vulnerabilities in the GNU Bash shell, first disclosed on September 24, 2014, that allowed remote attackers to execute arbitrary code by embedding malicious commands in environment variables processed by Bash.",
     "url": "vulnerabilities/shellshock.html"
+  },
+  {
+    "id": "spectre-meltdown",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability / Discovery",
+    "title": "Spectre and Meltdown",
+    "slug": "spectre-meltdown",
+    "era": "2018",
+    "tags": [
+      "CVE-2017-5753",
+      "CVE-2017-5715",
+      "CVE-2017-5754",
+      "speculative execution",
+      "side-channel attack",
+      "Google Project Zero",
+      "Graz University of Technology",
+      "Cyberus Technology",
+      "KPTI",
+      "retpoline",
+      "hardware vulnerability",
+      "2018"
+    ],
+    "summary": "Spectre and Meltdown were two classes of speculative-execution side-channel vulnerabilities affecting virtually all modern CPUs, disclosed on January 3, 2018 after independent discovery by multiple research teams including Google Project Zero, Graz University of Technology, and Cyberus Technology.",
+    "url": "vulnerabilities/spectre-meltdown.html"
+  },
+  {
+    "id": "stagefright",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability / Discovery",
+    "title": "Stagefright",
+    "slug": "stagefright",
+    "era": "2015",
+    "tags": [
+      "android",
+      "libstagefright",
+      "remote-code-execution",
+      "mobile-security",
+      "mms",
+      "integer-overflow",
+      "zimperium",
+      "cve-2015"
+    ],
+    "summary": "Stagefright was a family of critical remote-code-execution vulnerabilities in Android's libstagefright media library, discovered by Joshua Drake of Zimperium in 2015, that could be triggered by a single malicious MMS message on an estimated 950 million devices.",
+    "url": "vulnerabilities/stagefright.html"
   },
   {
     "id": "stuxnet-digital-weapon",
@@ -1530,6 +1748,26 @@
     "url": "events/defcon-hacker-conference.html"
   },
   {
+    "id": "equifax-breach",
+    "type": "event",
+    "typeLabel": "Event",
+    "title": "Equifax Data Breach",
+    "slug": "equifax-breach",
+    "era": "2017",
+    "tags": [
+      "data-breach",
+      "apache-struts",
+      "cve-2017-5638",
+      "credit-reporting",
+      "critical-infrastructure",
+      "doj-indictment",
+      "china",
+      "privacy"
+    ],
+    "summary": "In 2017, attackers exploited an unpatched Apache Struts vulnerability (CVE-2017-5638) to breach credit-reporting giant Equifax, exposing the personal data of roughly 147 million people and triggering record regulatory fines and a rare DOJ indictment of foreign state hackers.",
+    "url": "events/equifax-breach.html"
+  },
+  {
     "id": "mit-tmrc-hacker-ethic",
     "type": "event",
     "typeLabel": "Event",
@@ -1562,6 +1800,50 @@
     "url": "events/morris-worm.html"
   },
   {
+    "id": "notpetya",
+    "type": "event",
+    "typeLabel": "Event",
+    "title": "NotPetya",
+    "slug": "notpetya",
+    "era": "2017",
+    "tags": [
+      "wiper",
+      "supply-chain-attack",
+      "ransomware-disguise",
+      "ukraine",
+      "russia",
+      "gru",
+      "sandworm",
+      "eternalblue",
+      "destructive-malware",
+      "state-sponsored"
+    ],
+    "summary": "In June 2017, destructive wiper malware disguised as ransomware spread worldwide after attackers compromised the update mechanism of the Ukrainian accounting software M.E.Doc, using EternalBlue and stolen credentials for rapid lateral movement; it caused billions of dollars in damage at firms including Maersk, Merck, and FedEx, and was later attributed by the US, UK, and Australian governments to Russia's GRU military intelligence.",
+    "url": "events/notpetya.html"
+  },
+  {
+    "id": "solarwinds-sunburst",
+    "type": "event",
+    "typeLabel": "Event",
+    "title": "SolarWinds / Sunburst Supply-Chain Attack",
+    "slug": "solarwinds-sunburst",
+    "era": "2020",
+    "tags": [
+      "supply-chain-attack",
+      "nation-state",
+      "apt29",
+      "cozy-bear",
+      "backdoor",
+      "government-breach",
+      "russia",
+      "fireeye",
+      "mandiant",
+      "sunburst"
+    ],
+    "summary": "Attackers compromised SolarWinds' software build process and inserted the SUNBURST backdoor into Orion network-monitoring updates, a compromise uncovered in December 2020 after FireEye disclosed its own breach, exposing numerous U.S. federal agencies and private companies to Russian government-linked intrusion.",
+    "url": "events/solarwinds-sunburst.html"
+  },
+  {
     "id": "2600-hacker-quarterly",
     "type": "publication",
     "typeLabel": "Publication",
@@ -1577,6 +1859,69 @@
     ],
     "summary": "The history of 2600, the iconic green-covered magazine that has served as a vital source of information and community for the hacker underground for decades.",
     "url": "publications/2600-hacker-quarterly.html"
+  },
+  {
+    "id": "bugtraq",
+    "type": "publication",
+    "typeLabel": "Publication",
+    "title": "Bugtraq",
+    "slug": "bugtraq",
+    "era": "1993-2021, revived 2026",
+    "tags": [
+      "mailing-list",
+      "full-disclosure",
+      "vulnerability-disclosure",
+      "security-research",
+      "hacker-culture",
+      "publication",
+      "securityfocus",
+      "symantec",
+      "1990s"
+    ],
+    "summary": "Bugtraq was the seminal full-disclosure security mailing list, founded in 1993 by Scott Chasin and moderated for years by Elias Levy (Aleph One), that became the de facto public venue for publishing and debating software vulnerabilities before passing through SecurityFocus and Symantec ownership, going dark around 2020-2021, and being reported as independently relaunched in 2026.",
+    "url": "publications/bugtraq.html"
+  },
+  {
+    "id": "die-datenschleuder",
+    "type": "publication",
+    "typeLabel": "Publication",
+    "title": "Die Datenschleuder",
+    "slug": "die-datenschleuder",
+    "era": "1984-Present",
+    "tags": [
+      "hacker culture",
+      "chaos computer club",
+      "print magazine",
+      "germany",
+      "hacker journalism",
+      "phreaking",
+      "privacy",
+      "cryptography",
+      "hacktivism",
+      "surveillance"
+    ],
+    "summary": "Die Datenschleuder (\"the data slingshot\") is the irregular German-language print magazine of the Chaos Computer Club, published continuously since 1984 and covering the technical and political dimensions of hacking, privacy, and surveillance.",
+    "url": "publications/die-datenschleuder.html"
+  },
+  {
+    "id": "full-disclosure-mailing-list",
+    "type": "publication",
+    "typeLabel": "Publication",
+    "title": "Full Disclosure (mailing list)",
+    "slug": "full-disclosure-mailing-list",
+    "era": "2002-2014",
+    "tags": [
+      "full disclosure movement",
+      "mailing list",
+      "vulnerability disclosure",
+      "bugtraq",
+      "exploit publication",
+      "security community",
+      "John Cartwright",
+      "seclists.org"
+    ],
+    "summary": "Full Disclosure was a public, lightly-moderated security mailing list founded in July 2002 by Len Rose and John Cartwright as an alternative to Bugtraq after Bugtraq's moderation tightened under SecurityFocus/Symantec ownership; Cartwright shut it down in March 2014 citing legal pressure, and it was relaunched days later by Fyodor as a community-run successor.",
+    "url": "publications/full-disclosure-mailing-list.html"
   },
   {
     "id": "hacker-manifesto-the-mentor",
@@ -1610,6 +1955,26 @@
     ],
     "summary": "Hacking: The Art of Exploitation by Jon Erickson is a widely used security education text that teaches exploit development from first principles through C programming and assembly rather than as a catalog of ready-made tools, shipped with a bootable Linux LiveCD for hands-on practice.",
     "url": "publications/hacking-art-of-exploitation.html"
+  },
+  {
+    "id": "packet-storm-security",
+    "type": "publication",
+    "typeLabel": "Publication",
+    "title": "Packet Storm Security",
+    "slug": "packet-storm-security",
+    "era": "1998-Present",
+    "tags": [
+      "exploit-archive",
+      "security-advisories",
+      "full-disclosure",
+      "infosec-tools",
+      "hacker-history",
+      "bug-bounty",
+      "dot-com-era",
+      "vulnerability-database"
+    ],
+    "summary": "Packet Storm Security is a long-running public archive of exploits, security advisories, whitepapers, and hacking tools launched in 1998, which has survived multiple ownership changes, a non-profit relaunch, and a 2020s rebrand to packetstorm.news.",
+    "url": "publications/packet-storm-security.html"
   },
   {
     "id": "phrack-magazine",
@@ -1705,198 +2070,5 @@
     ],
     "summary": "An exploration of Responsible Disclosure, the ethical framework guiding how security researchers report vulnerabilities to vendors.",
     "url": "fields/responsible-disclosure.html"
-  },
-  {
-    "id": "bugtraq",
-    "type": "publication",
-    "typeLabel": "Publication",
-    "title": "Bugtraq",
-    "slug": "bugtraq",
-    "era": "1993-2021, revived 2026",
-    "tags": [
-      "mailing-list",
-      "full-disclosure",
-      "vulnerability-disclosure",
-      "security-research",
-      "hacker-culture",
-      "publication",
-      "securityfocus",
-      "symantec",
-      "1990s"
-    ],
-    "summary": "Bugtraq was the seminal full-disclosure security mailing list, founded in 1993 by Scott Chasin and moderated for years by Elias Levy (Aleph One), that became the de facto public venue for publishing and debating software vulnerabilities before passing through SecurityFocus and Symantec ownership, going dark around 2020-2021, and being reported as independently relaunched in 2026.",
-    "url": "publications/bugtraq.html"
-  },
-  {
-    "id": "kali-linux",
-    "type": "tool",
-    "typeLabel": "Tool",
-    "title": "Kali Linux",
-    "slug": "kali-linux",
-    "era": "2013-Present",
-    "tags": [
-      "linux-distribution",
-      "penetration-testing",
-      "security-auditing",
-      "debian-based",
-      "backtrack-successor",
-      "offensive-security",
-      "open-source",
-      "digital-forensics",
-      "rolling-release",
-      "cybersecurity-toolset"
-    ],
-    "summary": "Kali Linux is a Debian-based, open-source Linux distribution built for penetration testing and security auditing, released in March 2013 as a ground-up rebuild of Offensive Security's earlier BackTrack Linux.",
-    "url": "tools/kali-linux.html"
-  },
-  {
-    "id": "krack",
-    "type": "vulnerability",
-    "typeLabel": "Vulnerability / Discovery",
-    "title": "KRACK (Key Reinstallation Attack)",
-    "slug": "krack",
-    "era": "2017",
-    "tags": [
-      "WPA2",
-      "Wi-Fi",
-      "wireless security",
-      "protocol vulnerability",
-      "nonce reuse",
-      "network security",
-      "Mathy Vanhoef"
-    ],
-    "summary": "KRACK is a set of vulnerabilities in the WPA2 Wi-Fi protocol's four-way handshake, disclosed in October 2017 by researcher Mathy Vanhoef, that let an attacker within radio range force reinstallation of an already-in-use encryption key to decrypt, replay, or inject traffic.",
-    "url": "vulnerabilities/krack.html"
-  },
-  {
-    "id": "nessus",
-    "type": "tool",
-    "typeLabel": "Tool",
-    "title": "Nessus",
-    "slug": "nessus",
-    "era": "1998-Present",
-    "tags": [
-      "vulnerability-scanner",
-      "tool",
-      "network-security",
-      "open-source-origin",
-      "commercial-software",
-      "Tenable",
-      "Renaud Deraison",
-      "CVE",
-      "compliance-scanning",
-      "OpenVAS"
-    ],
-    "summary": "Nessus is a vulnerability scanner originally released in 1998 by Renaud Deraison as a free, open-source (GPL) security tool; it was folded into Tenable Network Security upon that company's founding in 2002 and switched to proprietary licensing in 2005, becoming one of the most widely deployed commercial vulnerability assessment products.",
-    "url": "tools/nessus.html"
-  },
-  {
-    "id": "snort",
-    "type": "tool",
-    "typeLabel": "Tool",
-    "title": "Snort",
-    "slug": "snort",
-    "era": "1998-Present",
-    "tags": [
-      "IDS",
-      "IPS",
-      "network-security",
-      "open-source",
-      "Cisco",
-      "Sourcefire",
-      "Martin Roesch",
-      "GPLv2",
-      "signature-detection"
-    ],
-    "summary": "Snort is a free, open-source network intrusion detection and prevention system created by Martin Roesch in 1998, later commercialized through his company Sourcefire and acquired by Cisco Systems in 2013 for $2.7 billion; it remains one of the most widely deployed IDS/IPS engines in the world.",
-    "url": "tools/snort.html"
-  },
-  {
-    "id": "spectre-meltdown",
-    "type": "vulnerability",
-    "typeLabel": "Vulnerability / Discovery",
-    "title": "Spectre and Meltdown",
-    "slug": "spectre-meltdown",
-    "era": "2018",
-    "tags": [
-      "CVE-2017-5753",
-      "CVE-2017-5715",
-      "CVE-2017-5754",
-      "speculative execution",
-      "side-channel attack",
-      "Google Project Zero",
-      "Graz University of Technology",
-      "Cyberus Technology",
-      "KPTI",
-      "retpoline",
-      "hardware vulnerability",
-      "2018"
-    ],
-    "summary": "Spectre and Meltdown were two classes of speculative-execution side-channel vulnerabilities affecting virtually all modern CPUs, disclosed on January 3, 2018 after independent discovery by multiple research teams including Google Project Zero, Graz University of Technology, and Cyberus Technology.",
-    "url": "vulnerabilities/spectre-meltdown.html"
-  },
-  {
-    "id": "stagefright",
-    "type": "vulnerability",
-    "typeLabel": "Vulnerability / Discovery",
-    "title": "Stagefright",
-    "slug": "stagefright",
-    "era": "2015",
-    "tags": [
-      "android",
-      "libstagefright",
-      "remote-code-execution",
-      "mobile-security",
-      "mms",
-      "integer-overflow",
-      "zimperium",
-      "cve-2015"
-    ],
-    "summary": "Stagefright was a family of critical remote-code-execution vulnerabilities in Android's libstagefright media library, discovered by Joshua Drake of Zimperium in 2015, that could be triggered by a single malicious MMS message on an estimated 950 million devices.",
-    "url": "vulnerabilities/stagefright.html"
-  },
-  {
-    "id": "volatility",
-    "type": "tool",
-    "typeLabel": "Tool",
-    "title": "Volatility Framework",
-    "slug": "volatility",
-    "era": "2007-Present",
-    "tags": [
-      "memory forensics",
-      "incident response",
-      "malware analysis",
-      "open source",
-      "DFIR",
-      "digital forensics",
-      "Python",
-      "RAM analysis",
-      "Aaron Walters",
-      "Volatility Foundation"
-    ],
-    "summary": "The Volatility Framework is an open-source Python toolset for extracting forensic artifacts from volatile memory (RAM) dumps, used worldwide in incident response and malware analysis since its 2007 debut.",
-    "url": "tools/volatility.html"
-  },
-  {
-    "id": "yara",
-    "type": "tool",
-    "typeLabel": "Tool",
-    "title": "YARA",
-    "slug": "yara",
-    "era": "2013-Present",
-    "tags": [
-      "malware-analysis",
-      "open-source",
-      "pattern-matching",
-      "virustotal",
-      "threat-detection",
-      "signature-based-detection",
-      "yara-x",
-      "google",
-      "reverse-engineering",
-      "cybersecurity-tooling"
-    ],
-    "summary": "YARA is an open-source, rule-based pattern-matching engine designed by Victor Manuel Alvarez at VirusTotal to help malware researchers identify and classify malware samples using textual and binary patterns.",
-    "url": "tools/yara.html"
   }
 ]

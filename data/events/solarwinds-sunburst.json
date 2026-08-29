@@ -1,0 +1,84 @@
+{
+  "id": "solarwinds-sunburst",
+  "type": "event",
+  "title": "SolarWinds / Sunburst Supply-Chain Attack",
+  "slug": "solarwinds-sunburst",
+  "era": "2020",
+  "tags": [
+    "supply-chain-attack",
+    "nation-state",
+    "apt29",
+    "cozy-bear",
+    "backdoor",
+    "government-breach",
+    "russia",
+    "fireeye",
+    "mandiant",
+    "sunburst"
+  ],
+  "summary": "Attackers compromised SolarWinds' software build process and inserted the SUNBURST backdoor into Orion network-monitoring updates, a compromise uncovered in December 2020 after FireEye disclosed its own breach, exposing numerous U.S. federal agencies and private companies to Russian government-linked intrusion.",
+  "whyThisMatters": "Attackers compromised SolarWinds' software build process and inserted the SUNBURST backdoor into Orion network-monitoring updates, a compromise uncovered in December 2020 after FireEye disclosed its own breach, exposing numerous U.S. federal agencies and private companies to Russian government-linked intrusion.",
+  "sections": {
+    "overview": "<p>In December 2020, cybersecurity firm FireEye (later Mandiant) disclosed that it had been breached and that attackers had stolen internal red-team assessment tools. Investigating its own intrusion, FireEye traced the point of entry to a trojanized update of SolarWinds' Orion network-monitoring software, uncovering one of the largest known software supply-chain compromises to date.</p><h2>How the backdoor was inserted</h2><p>Attackers compromised SolarWinds' software build environment and inserted malicious code into Orion platform updates released between roughly March and June 2020. The implant, later named SUNBURST by FireEye (Microsoft referred to the broader intrusion as Solorigate), was distributed inside digitally signed, legitimate-looking SolarWinds updates, allowing it to pass code-signing checks unnoticed. Once installed, SUNBURST remained dormant for a period before contacting attacker-controlled infrastructure, using communication patterns designed to resemble normal SolarWinds traffic to evade detection.</p><h2>Discovery and disclosure</h2><p>FireEye publicly disclosed its own breach around December 8, 2020, and notified U.S. authorities including the NSA. Its investigation quickly identified the compromised Orion software as the initial infection vector, and on December 13, 2020, FireEye published technical research on the SUNBURST backdoor. The same week, reporting revealed that the U.S. Treasury and Commerce Departments had been breached through the same supply chain, and CISA issued Emergency Directive 21-01, ordering federal civilian agencies to immediately disconnect or power down affected SolarWinds Orion instances.</p><h2>Scope</h2><p>SolarWinds has stated that roughly 18,000 of its approximately 33,000 Orion customers downloaded a compromised update, out of a total customer base of around 300,000. Reported or confirmed targets included multiple U.S. federal agencies \u2014 among them the Treasury, Commerce (NTIA), State, Energy (including the National Nuclear Security Administration), Justice, and Homeland Security departments \u2014 along with private-sector organizations such as Microsoft, Cisco, and FireEye itself. Not every organization that downloaded the trojanized update was necessarily further exploited; attackers appear to have selectively deployed follow-on tools against a smaller set of higher-value targets.</p><h2>Attribution</h2><p>U.S. officials publicly attributed the campaign to a Russian government-linked actor, though attribution statements used hedged language rather than definitive legal findings. On January 5, 2021, a joint statement from CISA, the FBI, the NSA, and the Office of the Director of National Intelligence assessed the operation was \"likely Russian in origin.\" Then-Secretary of State Mike Pompeo and Attorney General William Barr separately said Russia appeared responsible. Security researchers widely associated the intrusion with a group tracked as APT29/Cozy Bear, an actor publicly linked by Western governments to Russia's SVR foreign intelligence service. This attribution reflects intelligence-community and industry assessments, not a criminal conviction or court finding, and the Russian government has denied involvement. Separately, some researchers, including Kaspersky, noted code similarities between SUNBURST and the Kazuar malware associated with the Turla group, without resolving the question definitively.</p><h2>Response</h2><p>Beyond CISA's emergency directive, SolarWinds released patched Orion versions, Microsoft and industry partners worked to seize and sinkhole attacker infrastructure, and the incident prompted congressional hearings and renewed U.S. government attention to software supply-chain security.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2019-10",
+      "event": "Attackers reportedly conduct an initial proof-of-concept modification of SolarWinds' build environment, an early step later identified during post-incident investigation."
+    },
+    {
+      "date": "2020-03",
+      "event": "Attackers begin inserting the SUNBURST backdoor into SolarWinds Orion platform updates distributed to customers."
+    },
+    {
+      "date": "2020-12-08",
+      "event": "FireEye discloses that it was breached and that attacker-stolen assets included its own red-team assessment tools; the company notifies U.S. authorities including the NSA."
+    },
+    {
+      "date": "2020-12-13",
+      "event": "FireEye publishes technical research identifying trojanized SolarWinds Orion updates (SUNBURST) as the supply-chain attack vector; reports emerge that the U.S. Treasury and Commerce Departments were breached; CISA issues Emergency Directive 21-01 ordering federal civilian agencies to disconnect or power down affected Orion instances."
+    },
+    {
+      "date": "2021-01-05",
+      "event": "A joint statement from CISA, the FBI, the NSA, and the Office of the Director of National Intelligence assesses the campaign was 'likely Russian in origin.'"
+    },
+    {
+      "date": "2021-06-10",
+      "event": "FBI Director Christopher Wray publicly attributes the intrusion to Russia's SVR foreign intelligence service in congressional testimony."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "2020 United States federal government data breach - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2020_United_States_federal_government_data_breach"
+    },
+    {
+      "title": "SolarWinds - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SolarWinds"
+    },
+    {
+      "title": "CISA Emergency Directive 21-01: Mitigate SolarWinds Orion Code Compromise",
+      "url": "https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise"
+    },
+    {
+      "title": "CISA Advisory AA20-352A: Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-352a"
+    },
+    {
+      "title": "U.S. Treasury, Commerce Depts. Hacked Through SolarWinds Compromise - KrebsOnSecurity",
+      "url": "https://krebsonsecurity.com/2020/12/u-s-treasury-commerce-depts-hacked-through-solarwinds-compromise/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 5,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

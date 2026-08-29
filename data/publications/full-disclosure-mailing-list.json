@@ -1,0 +1,78 @@
+{
+  "id": "full-disclosure-mailing-list",
+  "type": "publication",
+  "title": "Full Disclosure (mailing list)",
+  "slug": "full-disclosure-mailing-list",
+  "era": "2002-2014",
+  "tags": [
+    "full disclosure movement",
+    "mailing list",
+    "vulnerability disclosure",
+    "bugtraq",
+    "exploit publication",
+    "security community",
+    "John Cartwright",
+    "seclists.org"
+  ],
+  "summary": "Full Disclosure was a public, lightly-moderated security mailing list founded in July 2002 by Len Rose and John Cartwright as an alternative to Bugtraq after Bugtraq's moderation tightened under SecurityFocus/Symantec ownership; Cartwright shut it down in March 2014 citing legal pressure, and it was relaunched days later by Fyodor as a community-run successor.",
+  "whyThisMatters": "Full Disclosure was a public, lightly-moderated security mailing list founded in July 2002 by Len Rose and John Cartwright as an alternative to Bugtraq after Bugtraq's moderation tightened under SecurityFocus/Symantec ownership; Cartwright shut it down in March 2014 citing legal pressure, and it was relaunched days later by Fyodor as a community-run successor.",
+  "sections": {
+    "overview": "<p>Full Disclosure was a public, vendor-neutral mailing list for security vulnerability and exploit disclosure, founded on 9 July 2002 by Len Rose, who created and initially administered it, together with John Cartwright, who became its long-serving moderator. The list emerged as Symantec was in the process of acquiring SecurityFocus (the deal completed 6 August 2002), the company that owned <a href=\"/publications/bugtraq.html\">Bugtraq</a>, then the dominant vulnerability-disclosure list. Many researchers felt Bugtraq had \u201cchanged for the worse\u201d under corporate ownership: moderation slowed \u2014 posts reportedly were no longer approved on weekends \u2014 and Symantec was accused of feeding delayed Bugtraq submissions into its commercial DeepSight threat-intelligence product ahead of public release. Full Disclosure was created to give researchers a faster, less encumbered outlet.</p><h2>Policy and Character</h2><p>Full Disclosure described itself as a forum for \u201cdetailed discussion of vulnerabilities and exploitation techniques, as well as tools, papers, news, and events,\u201d and operated under light moderation rather than full openness \u2014 administrators filtered spam and blatant abuse but otherwise let advisories, proof-of-concept code, and full exploits through with minimal gatekeeping. Its own archive description noted the list's \u201crelaxed atmosphere\u201d provided \u201ccomic relief and certain industry gossip\u201d alongside serious research, and that \u201cfresh vulnerabilities sometimes hit this list many hours or days before they pass through the Bugtraq moderation queue.\u201d</p><h2>Role in the Full-Disclosure Movement</h2><p>Full Disclosure became one of the most prominent venues for the \u201cfull disclosure\u201d school of vulnerability handling: publishing exploit details openly, at times without vendor coordination, on the premise that public pressure forced faster patching than private, vendor-controlled disclosure. Over nearly twelve years and, by one account, more than 91,500 posts, it carried zero-day releases and advisories touching Windows, Oracle, Apache, and countless smaller products, and it became known \u2014 and to some vendors, notorious \u2014 for hosting material that companies would have preferred kept confidential.</p><h2>Shutdown and Successor</h2><p>On 19 March 2014, in a message titled \u201cAdministrivia: The End,\u201d John Cartwright announced he was suspending the list indefinitely. He wrote that the list had weathered \u201clegal troubles along the way,\u201d including \u201crequests to delete things, requests not to delete things, and a variety of legal threats,\u201d but that the immediate trigger was a request from an unnamed security researcher for large-scale deletion of archive material, which he compared to \u201ctaking a virtual hatchet to the list archives on the whim of an individual.\u201d He added that \u201cit's getting harder to operate an open forum in today's legal climate, let alone a security-related one.\u201d</p><p>Six days later, on 25 March 2014, Fyodor (Gordon Lyon, creator of Nmap and operator of the seclists.org archive) relaunched the list in a post titled \u201cAdministrivia: A Fresh Start,\u201d describing it as \u201ca successor list in spirit\u201d but \u201ca fresh start\u201d requiring subscribers to rejoin, hosted via nmap.org with archives at seclists.org/fulldisclosure/, moderated by volunteers from the community. That successor list has continued to operate since, distinct in administration from Cartwright's original grok.org.uk-hosted list.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2002-07-09",
+      "event": "Full Disclosure mailing list founded by Len Rose and John Cartwright, hosted on netsys.com, as an alternative to Bugtraq."
+    },
+    {
+      "date": "2002-08-06",
+      "event": "Symantec completes its acquisition of SecurityFocus, the company operating Bugtraq -- the change in Bugtraq ownership and moderation that motivated Full Disclosure's creation."
+    },
+    {
+      "date": "2014-03-19",
+      "event": "John Cartwright posts \"Administrivia: The End,\" announcing he is suspending the Full Disclosure list indefinitely, citing legal pressure and a deletion request from an unnamed researcher."
+    },
+    {
+      "date": "2014-03-25",
+      "event": "Fyodor (Gordon Lyon) posts \"Administrivia: A Fresh Start,\" relaunching Full Disclosure as a community-moderated successor list hosted via nmap.org/seclists.org."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Full Disclosure (mailing list) -- Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Full_Disclosure_(mailing_list)"
+    },
+    {
+      "title": "Bugtraq -- Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bugtraq"
+    },
+    {
+      "title": "Full Disclosure Mailing List Archive -- seclists.org",
+      "url": "https://seclists.org/fulldisclosure/"
+    },
+    {
+      "title": "Full Disclosure archive index, March 2014",
+      "url": "https://seclists.org/fulldisclosure/2014/Mar/"
+    },
+    {
+      "title": "John Cartwright, \"Administrivia: The End\"",
+      "url": "https://seclists.org/fulldisclosure/2014/Mar/332"
+    },
+    {
+      "title": "Fyodor, \"Administrivia: A Fresh Start\"",
+      "url": "https://seclists.org/fulldisclosure/2014/Mar/333"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 6,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

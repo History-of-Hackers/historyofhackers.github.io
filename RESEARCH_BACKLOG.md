@@ -157,7 +157,7 @@ handle, and getting a name wrong is worse than not publishing.
 | sqlmap | Automated SQL injection tool | See `data/tools/sqlmap.json` — PUBLISHED |
 | Snort | Open-source intrusion detection, Sourcefire origin | See `data/tools/snort.json` — PUBLISHED |
 | Nessus | Vulnerability scanner, pre-dates and shaped the commercial scanner market | See `data/tools/nessus.json` — PUBLISHED |
-| Cobalt Strike | Red-team/adversary-simulation platform, also widely abused by real attackers — needs careful dual-use framing |
+| Cobalt Strike | Red-team/adversary-simulation platform, also widely abused by real attackers — needs careful dual-use framing | See `data/tools/cobalt-strike.json` — PUBLISHED |
 | Volatility | Memory forensics framework | See `data/tools/volatility.json` — PUBLISHED |
 | YARA | Malware pattern-matching/classification tool | See `data/tools/yara.json` — PUBLISHED |
 | Kali Linux / BackTrack | Penetration-testing Linux distribution lineage | See `data/tools/kali-linux.json` — PUBLISHED |
@@ -167,10 +167,10 @@ handle, and getting a name wrong is worse than not publishing.
 | Candidate | Reason |
 |---|---|
 | Bugtraq (mailing list) | Foundational full-disclosure vulnerability mailing list — See `data/publications/bugtraq.json` — PUBLISHED |
-| Full Disclosure (mailing list) | Successor-era full-disclosure list after Bugtraq's moderation changes |
-| Packet Storm | Long-running exploit/advisory archive |
+| Full Disclosure (mailing list) | Successor-era full-disclosure list after Bugtraq's moderation changes — See `data/publications/full-disclosure-mailing-list.json` — PUBLISHED |
+| Packet Storm | Long-running exploit/advisory archive — See `data/publications/packet-storm-security.json` — PUBLISHED |
 | Uninformed | Early-2000s technical exploitation-research ezine |
-| Die Datenschleuder | CCC's long-running print magazine, Germany |
+| Die Datenschleuder | CCC's long-running print magazine, Germany — See `data/publications/die-datenschleuder.json` — PUBLISHED |
 
 ### Events / Discoveries (beyond Morris Worm, DEF CON founding, MIT/TMRC hacker ethic already published)
 
@@ -182,10 +182,10 @@ handle, and getting a name wrong is worse than not publishing.
 | KRACK (2017) | WPA2 Wi-Fi handshake vulnerability — See `data/vulnerabilities/krack.json` — PUBLISHED |
 | Spectre / Meltdown (2018) | CPU speculative-execution vulnerability class — See `data/vulnerabilities/spectre-meltdown.json` — PUBLISHED |
 | EternalBlue / WannaCry (2017) | NSA-linked SMB exploit and the resulting global ransomware outbreak (cross-link to the already-published Marcus Hutchins page) — See `data/vulnerabilities/eternalblue.json` — PUBLISHED |
-| NotPetya (2017) | Destructive wiper disguised as ransomware, major supply-chain/geopolitical incident |
-| Equifax breach (2017) | Large-scale consumer-data breach, Apache Struts vulnerability |
-| SolarWinds / Sunburst (2020) | Major software supply-chain compromise |
-| Log4Shell (2021) | Log4j remote-code-execution vulnerability, internet-wide impact |
+| NotPetya (2017) | Destructive wiper disguised as ransomware, major supply-chain/geopolitical incident — See `data/events/notpetya.json` — PUBLISHED |
+| Equifax breach (2017) | Large-scale consumer-data breach, Apache Struts vulnerability — See `data/events/equifax-breach.json` — PUBLISHED |
+| SolarWinds / Sunburst (2020) | Major software supply-chain compromise — See `data/events/solarwinds-sunburst.json` — PUBLISHED |
+| Log4Shell (2021) | Log4j remote-code-execution vulnerability, internet-wide impact — See `data/vulnerabilities/log4shell.json` — PUBLISHED |
 
 ### Latin America (excluding Brazil for now, per maintainer note)
 
