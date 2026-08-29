@@ -1,0 +1,106 @@
+{
+  "id": "paul-kocher",
+  "type": "person",
+  "title": "Paul Kocher",
+  "slug": "paul-kocher",
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "side-channel attacks",
+    "timing attacks",
+    "differential power analysis",
+    "SSL",
+    "TLS",
+    "Spectre",
+    "hardware security"
+  ],
+  "summary": "Paul Kocher is a cryptographer and security researcher who co-authored SSL 3.0, pioneered timing and differential power-analysis attacks, founded Cryptography Research, and co-discovered the Spectre processor vulnerability.",
+  "whyThisMatters": "Paul Kocher showed that sound cryptographic mathematics is not enough when implementations leak information through time, power, or processor behavior. His work shaped secure web transport, created major branches of side-channel research, and helped expose the security cost of speculative execution.",
+  "sections": {
+    "overview": "<h2>Applied Cryptography</h2><p>Paul Kocher is an American cryptographer, entrepreneur, and security researcher known for moving repeatedly between protocol design and attacks on real implementations. While studying biology at Stanford University, he became involved in cryptography through Martin Hellman and worked at RSA Data Security. After completing his undergraduate degree, Kocher founded Cryptography Research in 1995.</p><h2>SSL and Secure Web Communication</h2><p>Kocher worked with Alan Freier and Philip Karlton on the public specification of Secure Sockets Layer 3.0 (SSL 3.0). The November 1996 specification became the immediate foundation for Transport Layer Security (TLS), the protocol family used to authenticate endpoints and protect data in transit across the web and many other networked systems. Although SSL 3.0 itself is obsolete and prohibited today, its design sits at a critical point in the history of widely deployed encrypted communication.</p><h2>Timing and Power Analysis</h2><p>At CRYPTO 1996, Kocher published a practical attack showing that measurements of how long cryptographic operations take can reveal secret information from implementations of RSA, Diffie-Hellman, and related systems. The result helped establish timing analysis as a major class of side-channel attack and made constant-time implementation a core defensive engineering requirement.</p><p>Kocher, Joshua Jaffe, and Benjamin Jun then developed differential power analysis (DPA), publicly described in 1998 and published at CRYPTO 1999. DPA uses statistical analysis of a device's power consumption during cryptographic operations to recover information about secret keys. The work demonstrated why a mathematically secure cipher can still fail inside smart cards and embedded devices, and it drove the development of masking, balancing, and other hardware and software countermeasures.</p><h2>Cryptography Research and Spectre</h2><p>Cryptography Research commercialized DPA countermeasures and other tamper-resistant designs. Rambus agreed to acquire the company in 2011, after which Kocher served as chief scientist of its security division before returning to independent research.</p><p>In 2018, Kocher and researchers from several universities and companies disclosed Spectre, a class of attacks that exploits speculative execution in modern processors. Spectre showed that instructions executed transiently along a mispredicted path can leave measurable microarchitectural traces, undermining assumptions behind process isolation, sandboxing, and other software boundaries. The problem required changes across processors, operating systems, compilers, browsers, and application code.</p><h2>Impact</h2><p>Kocher's career links three layers of computer security: protocols, physical implementations, and processor architecture. He was elected to the US National Academy of Engineering in 2009 and received the 2019 Marconi Prize with Taher Elgamal for contributions to secure communications, including SSL/TLS.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1995",
+      "event": "Founded Cryptography Research, a security research and technology-licensing company."
+    },
+    {
+      "date": "1996",
+      "event": "Co-authored the SSL 3.0 specification and published a foundational paper on timing attacks at CRYPTO 1996."
+    },
+    {
+      "date": "1998",
+      "event": "Publicly described differential power analysis with Joshua Jaffe and Benjamin Jun; the peer-reviewed paper followed at CRYPTO 1999."
+    },
+    {
+      "date": "2009",
+      "event": "Was elected to the US National Academy of Engineering for contributions to cryptography and Internet security."
+    },
+    {
+      "date": "2011-05-12",
+      "event": "Rambus announced an agreement to acquire Cryptography Research."
+    },
+    {
+      "date": "2018-01-03",
+      "event": "Spectre was publicly disclosed by independent research teams, including a team with Kocher."
+    },
+    {
+      "date": "2019",
+      "event": "Received the Marconi Prize with Taher Elgamal for developing SSL/TLS and other contributions to secure communications."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [
+    "spectre-meltdown"
+  ],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Paul Kocher: Brief Bio",
+      "url": "https://www.paulkocher.com/bio.html"
+    },
+    {
+      "title": "RFC 6101: The Secure Sockets Layer (SSL) Protocol Version 3.0",
+      "url": "https://www.rfc-editor.org/info/rfc6101/"
+    },
+    {
+      "title": "Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and Other Systems",
+      "url": "https://doi.org/10.1007/3-540-68697-5_9"
+    },
+    {
+      "title": "Differential Power Analysis",
+      "url": "https://www.paulkocher.com/doc/DifferentialPowerAnalysis.pdf"
+    },
+    {
+      "title": "Spectre Attacks: Exploiting Speculative Execution",
+      "url": "https://spectreattack.com/spectre.pdf"
+    },
+    {
+      "title": "Rambus Signs Definitive Agreement to Acquire Cryptography Research",
+      "url": "https://www.rambus.com/rambus-signs-definitive-agreement-to-acquire-cryptography-research/"
+    },
+    {
+      "title": "Paul Kocher, 2019 Marconi Prize Recipient",
+      "url": "https://marconisociety.org/fellow-bio/paul-kocher/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 7,
+    "lastReviewed": "2026-08-29",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-research-2026-08-29"
+  },
+  "name": "Paul Kocher",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Co-authoring SSL 3.0",
+    "Pioneering cryptographic timing attacks",
+    "Developing differential power analysis with Joshua Jaffe and Benjamin Jun",
+    "Founding Cryptography Research",
+    "Co-discovering the Spectre processor vulnerability"
+  ]
+}

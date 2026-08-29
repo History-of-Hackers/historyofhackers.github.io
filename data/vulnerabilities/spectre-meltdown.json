@@ -45,7 +45,9 @@
       "event": "Intel ships Coffee Lake-R processors with hardware-level mitigations for some Spectre/Meltdown variants."
     }
   ],
-  "relatedPeople": [],
+  "relatedPeople": [
+    "paul-kocher"
+  ],
   "relatedGroups": [],
   "relatedTools": [],
   "relatedVulnerabilities": [],

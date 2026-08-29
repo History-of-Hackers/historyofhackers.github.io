@@ -43,6 +43,9 @@ a seed name into an unsourced page.
 | Samy Kamkar | MySpace "Samy" worm (2005), later hardware/RF security research | Web Security / Hardware Hacking | See `data/people/samy-kamkar.json` | PUBLISHED |
 | Barnaby Jack | ATM jackpotting, medical device security research | Hardware Hacking / Embedded Security | See `data/people/barnaby-jack.json` | PUBLISHED |
 | Bruce Schneier | Cryptographer, security author, public-interest security policy commentary | Cryptography / Policy | See `data/people/bruce-schneier.json` | PUBLISHED |
+| Cynthia Dwork | Differential privacy, early proof-of-work research, cryptography and algorithmic fairness | Privacy / Cryptography | See `data/people/cynthia-dwork.json` | PUBLISHED |
+| Paul Kocher | SSL 3.0, timing attacks, differential power analysis, Spectre | Cryptography / Hardware Security | See `data/people/paul-kocher.json` | PUBLISHED |
+| Eva Galperin | Targeted-malware research, survivor-centered security, Coalition Against Stalkerware | Digital Rights / Threat Research | See `data/people/eva-galperin.json` | PUBLISHED |
 
 ## Explicitly out of scope until validated
 

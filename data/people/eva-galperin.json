@@ -1,0 +1,100 @@
+{
+  "id": "eva-galperin",
+  "type": "person",
+  "title": "Eva Galperin",
+  "slug": "eva-galperin",
+  "era": "2000s-Present",
+  "tags": [
+    "digital rights",
+    "stalkerware",
+    "spyware",
+    "threat research",
+    "vulnerable populations",
+    "Electronic Frontier Foundation",
+    "Coalition Against Stalkerware",
+    "survivor-centered security"
+  ],
+  "summary": "Eva Galperin is the Electronic Frontier Foundation's Director of Cybersecurity, known for investigating malware targeting activists and journalists and for co-founding the Coalition Against Stalkerware.",
+  "whyThisMatters": "Eva Galperin broadened cybersecurity practice by centering people whose principal threats are intimate partners, stalkers, or repressive governments rather than indiscriminate malware. Her work connected threat research, digital-rights advocacy, survivor support, and the antivirus industry.",
+  "sections": {
+    "overview": "<h2>Security for Vulnerable Populations</h2><p>Eva Galperin is a security researcher and digital-rights advocate who has worked at the Electronic Frontier Foundation (EFF) since 2007 and serves as its Director of Cybersecurity. Before joining EFF, she worked in security and information technology in Silicon Valley and studied political science and international relations at San Francisco State University.</p><p>Galperin's work focuses on people for whom a compromised account or device may lead directly to arrest, harassment, stalking, or physical violence. At EFF she has contributed to security-training projects including Surveillance Self-Defense and the Digital First Aid Kit, and has investigated targeted malware campaigns affecting activists and journalists in countries including Syria, Vietnam, Lebanon, and Kazakhstan.</p><h2>Targeted-Malware Research</h2><p>Galperin combined malware analysis with political and regional context to document campaigns that could be missed by security programs focused on mass-market threats. In 2013 she co-authored a Citizen Lab and EFF report on surveillance malware aimed at Syrian opposition members. In 2018, EFF and Lookout published research into Dark Caracal, a mobile-surveillance campaign linked by the researchers to infrastructure associated with Lebanon's General Directorate of General Security. This work emphasized that modest tooling and social engineering can still produce serious consequences when campaigns are directed at exposed communities.</p><h2>Stalkerware</h2><p>Beginning in 2018, Galperin increasingly focused on technology-enabled intimate-partner abuse. Commercial surveillance applications marketed for monitoring employees, children, or partners could run covertly, collect messages and locations, and evade the clear malware labels that would normally warn a device owner. Galperin worked directly with survivors and pressed antivirus vendors to treat these applications as a distinct security threat.</p><p>In April 2019, Kaspersky introduced a clearer Privacy Alert for commercial spyware after discussions that the company and independent reporting credited in part to Galperin's advocacy. In November 2019, EFF joined antivirus companies and survivor-support organizations as one of ten founding partners of the Coalition Against Stalkerware; Galperin is identified by EFF as a co-founder. The coalition created shared definitions, training, sample exchange, and detection guidance so that security vendors and domestic-violence organizations could respond together.</p><h2>Impact</h2><p>Galperin's contribution is both technical and institutional. She helped establish survivor-centered security as a field in which removing spyware is not a purely technical act: discovery or deletion can alert an abuser and increase danger, so incident response must account for safety planning and the user's circumstances. By bringing those requirements into security-industry practice, her work expanded who threat models are designed to protect and what a successful security intervention should achieve.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2007",
+      "event": "Joined the Electronic Frontier Foundation after working in security and IT in Silicon Valley."
+    },
+    {
+      "date": "2013",
+      "event": "Co-authored the Citizen Lab-EFF report 'Quantum of Surveillance' on malware campaigns targeting members of the Syrian opposition."
+    },
+    {
+      "date": "2018-01",
+      "event": "EFF and Lookout published the Dark Caracal investigation into a mobile-surveillance campaign; Galperin was one of the researchers presenting the findings."
+    },
+    {
+      "date": "2018",
+      "event": "Began focusing on the digital privacy and security needs of domestic-abuse survivors."
+    },
+    {
+      "date": "2019-04-03",
+      "event": "Kaspersky announced a clearer Privacy Alert for commercial spyware following advocacy that included Galperin's work with the company."
+    },
+    {
+      "date": "2019-11",
+      "event": "Co-founded the Coalition Against Stalkerware, bringing together security vendors, digital-rights groups, and survivor-support organizations."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Eva Galperin - Electronic Frontier Foundation",
+      "url": "https://www.eff.org/about/staff/eva-galperin"
+    },
+    {
+      "title": "Quantum of Surveillance: Familiar Actors and Possible False Flags in Syrian Malware Campaigns",
+      "url": "https://www.eff.org/files/2013/12/28/quantum_of_surveillance4d.pdf"
+    },
+    {
+      "title": "EFF and Lookout Uncover New Malware Espionage Campaign Infecting Thousands Around the World",
+      "url": "https://www.eff.org/press/releases/eff-and-lookout-uncover-new-malware-espionage-campaign-infecting-thousands-around"
+    },
+    {
+      "title": "Hacker Eva Galperin Has a Plan to Eradicate Stalkerware - WIRED",
+      "url": "https://www.wired.com/story/eva-galperin-stalkerware-kaspersky-antivirus/"
+    },
+    {
+      "title": "What's Wrong with Legal Commercial Spyware - Kaspersky",
+      "url": "https://www.kaspersky.com/blog/stalkerware-spouseware/26292/"
+    },
+    {
+      "title": "About the Coalition Against Stalkerware",
+      "url": "https://stopstalkerware.org/about/"
+    },
+    {
+      "title": "Electronic Frontier Foundation Annual Report 2019",
+      "url": "https://www.eff.org/files/annual-report/2019/AR-2019.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 7,
+    "lastReviewed": "2026-08-29",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-research-2026-08-29"
+  },
+  "name": "Eva Galperin",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Directing cybersecurity work at the Electronic Frontier Foundation",
+    "Investigating targeted malware against activists and journalists",
+    "Co-founding the Coalition Against Stalkerware",
+    "Advocating for survivor-centered security practices",
+    "Improving antivirus-industry recognition of stalkerware"
+  ]
+}
