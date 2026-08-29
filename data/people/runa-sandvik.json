@@ -1,0 +1,80 @@
+{
+  "id": "runa-sandvik",
+  "type": "person",
+  "title": "Runa Sandvik",
+  "slug": "runa-sandvik",
+  "era": "2000s-Present",
+  "tags": [
+    "Tor Project",
+    "digital security",
+    "journalism security",
+    "newsroom security",
+    "press freedom"
+  ],
+  "summary": "Runa Sandvik is a Norwegian-American computer security researcher who moved from Tor Project development and smart-weapon hacking research into building digital-security programs for newsrooms, most notably as director of information security at The New York Times.",
+  "whyThisMatters": "Runa Sandvik is a Norwegian-American computer security researcher who moved from Tor Project development and smart-weapon hacking research into building digital-security programs for newsrooms, most notably as director of information security at The New York Times.",
+  "sections": {
+    "overview": "<p>Runa Sandvik is a Norwegian-American computer security researcher born in 1987 in Oslo, Norway. She studied computer science at the Norwegian University of Science and Technology before working as a penetration tester in London, and became involved with the Tor Project's anonymity software around 2009.</p><p>In the early 2010s Sandvik moved into digital-security work for journalists and activists, relocating to Washington, D.C. in 2013 to work as a privacy and security researcher for the Freedom of the Press Foundation. In that role she trained reporters and civil-society groups on secure communications.</p><h2>The TrackingPoint Rifle Research</h2><p>In 2015, working alongside her husband and fellow researcher Michael Auger, Sandvik demonstrated serious security flaws in TrackingPoint's Wi-Fi-enabled, computer-assisted sniper rifles. Their research, widely reported by Wired, showed that an attacker with network access to the rifle's aiming computer could alter firing parameters, causing shots to miss their intended target. The work became a widely cited early example of the risks of connecting weapons systems to wireless networks.</p><h2>Securing The New York Times Newsroom</h2><p>In March 2016 Sandvik joined The New York Times as director of information security for the newsroom, a role created after Chinese state-linked hacking of the paper. She led the effort that made The New York Times available as a Tor onion service in 2017, allowing readers under censorship or surveillance to access the site more safely.</p><h2>Legacy</h2><p>After leaving the Times in 2019, Sandvik founded Granitt, a security consultancy that provides threat modeling and training to journalists, human rights defenders, and other at-risk individuals. Her career is frequently cited as an example of the migration of hacker and security-research skills into institutional press-freedom and newsroom-security work.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2009",
+      "event": "Began contributing to the Tor Project."
+    },
+    {
+      "date": "2013",
+      "event": "Became a privacy and security researcher for the Freedom of the Press Foundation."
+    },
+    {
+      "date": "2015-07-29",
+      "event": "Research with husband Michael Auger revealing hackable vulnerabilities in TrackingPoint's networked smart rifles was reported by Wired."
+    },
+    {
+      "date": "2016-03-21",
+      "event": "Joined The New York Times as director of information security for the newsroom."
+    },
+    {
+      "date": "2017-10-27",
+      "event": "Led the launch of The New York Times as a Tor onion service."
+    },
+    {
+      "date": "2020-06",
+      "event": "Founded Granitt, a security consultancy for journalists and other at-risk individuals."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Runa Sandvik - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Runa_Sandvik"
+    },
+    {
+      "title": "Hacker Runa Sandvik Went From Hijacking a Smart Rifle to Securing The NYT - Vice Motherboard",
+      "url": "https://www.vice.com/en/article/runa-sandvik-hoty/"
+    },
+    {
+      "title": "Runa Sandvik's new startup Granitt secures at-risk people - TechCrunch",
+      "url": "https://techcrunch.com/2022/07/15/granitt-journalist-security/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Runa Sandvik",
+  "born": "1987",
+  "died": null,
+  "knownFor": [
+    "Early contributor/developer for the Tor Project",
+    "Director of Information Security for the newsroom at The New York Times",
+    "Co-researcher of the 2015 TrackingPoint smart-rifle hacking research",
+    "Founder of Granitt, a consultancy protecting journalists and at-risk individuals"
+  ]
+}

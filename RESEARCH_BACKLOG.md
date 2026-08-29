@@ -81,10 +81,10 @@ not use this list to justify skipping verification.
 | Marcus Ranum | Early firewall design (DEC SEAL, TIS), intrusion detection research | Network Security | See `data/people/marcus-ranum.json` — PUBLISHED |
 | Brian Krebs | Investigative security journalist, Krebs on Security, Mirai/vDOS reporting | Threat Research / Journalism | See `data/people/brian-krebs.json` — PUBLISHED |
 | Jon Erickson | Author of "Hacking: The Art of Exploitation" | Exploit Development | See `data/publications/hacking-art-of-exploitation.json` (published as a publication entry — too little independently verifiable biographical detail beyond the book itself) — PUBLISHED |
-| Jennifer Granick | Security/privacy lawyer, EFF, Stanford | Policy / Law | TODO |
+| Jennifer Granick | Security/privacy lawyer, EFF, Stanford, defended Aaron Swartz | Policy / Law | See `data/people/jennifer-granick.json` — PUBLISHED |
 | Moxie Marlinspike | SSLstrip, Signal Protocol, Signal Messenger founder | Cryptography / Privacy | See `data/people/moxie-marlinspike.json` — PUBLISHED |
 | Nate Cardozo | EFF security/privacy attorney | Policy / Law | TODO |
-| Runa Sandvik | Tor Project, journalist-security work at NYT | Privacy / Anonymity | TODO |
+| Runa Sandvik | Tor Project, TrackingPoint smart-rifle hack, journalist-security work at NYT | Privacy / Anonymity | See `data/people/runa-sandvik.json` — PUBLISHED |
 | Kevin Mahaffey | Lookout Mobile Security co-founder | Mobile Security | TODO |
 | Zach Lanier | Mobile/IoT security research | Mobile / IoT Security | TODO |
 | Kymberlee Price | Vulnerability coordination / bug bounty program leadership | Bug Bounty | TODO |

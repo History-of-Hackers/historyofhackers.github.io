@@ -1,0 +1,99 @@
+{
+  "id": "jennifer-granick",
+  "type": "person",
+  "title": "Jennifer Granick",
+  "slug": "jennifer-granick",
+  "era": "1990s-Present",
+  "tags": [
+    "digital rights",
+    "computer crime law",
+    "EFF",
+    "ACLU",
+    "Stanford Law",
+    "surveillance law"
+  ],
+  "summary": "Jennifer Granick is an American attorney who began her career defending accused computer hackers in the 1990s and went on to become one of the United States' leading legal voices on digital civil liberties, directing Stanford Law School's Center for Internet and Society and holding senior counsel roles at the Electronic Frontier Foundation and the ACLU.",
+  "whyThisMatters": "Jennifer Granick is an American attorney who began her career defending accused computer hackers in the 1990s and went on to become one of the United States' leading legal voices on digital civil liberties, directing Stanford Law School's Center for Internet and Society and holding senior counsel roles at the Electronic Frontier Foundation and the ACLU.",
+  "sections": {
+    "overview": "<p>Jennifer Stisa Granick is an American attorney and educator whose career traces the legal history of computer crime, hacking prosecutions, and government surveillance in the United States. Born in Glen Ridge, New Jersey, she earned a Bachelor of Arts from New College of Florida in 1990 before attending Hastings College of Law in San Francisco, graduating in 1993.</p><h2>Defending the Hacker Underground</h2><p>From 1996 to 2001 Granick ran a private practice focused specifically on computer crime cases, at a time when few defense attorneys understood the technology well enough to challenge prosecutors. Her clients during this period and afterward included hacker Max Butler, Kevin Poulsen, Jerome Heckenkamp, and security researcher Michael Lynn (in the 2005 Cisco/ISS disclosure controversy at Black Hat).</p><h2>Stanford's Center for Internet and Society</h2><p>In 2001, Granick became Executive Director of Stanford Law School's Center for Internet and Society, where she also founded the school's Cyberlaw Clinic. She was a primary architect of a 2006 exemption to the Digital Millennium Copyright Act that made it legal for consumers to unlock their mobile phones from a single carrier's network.</p><h2>EFF, Return to Stanford, and the Swartz Case</h2><p>From 2007 to 2010, Granick served as Civil Liberties Director at the Electronic Frontier Foundation. She returned to Stanford CIS in 2012 as Civil Liberties Director, focusing on surveillance law. During this period, internet activist Aaron Swartz sought her counsel after his 2011 arrest for downloading academic articles from JSTOR; Granick defended him and publicly challenged the government's expansive reading of the Computer Fraud and Abuse Act. Swartz died by suicide in January 2013, before the case went to trial.</p><h2>Public Voice on Surveillance Law</h2><p>Granick became a regular speaker at hacker and security conferences including DEF CON, ShmooCon, and Black Hat, discussing developments in computer crime law and surveillance policy. Her book, American Spies: Modern Surveillance, Why You Should Care, and What to Do About It (Cambridge University Press, 2017), won the Roy C. Palmer Civil Liberties Prize.</p><h2>Legacy</h2><p>In September 2017, Granick joined the American Civil Liberties Union's Speech, Privacy, and Technology Project as Surveillance and Cybersecurity Counsel. Across her career, Granick's work bridges two eras: she was among the first lawyers to defend accused hackers as clients rather than folk-devil threats, and she later became a leading architect of the legal frameworks used to check government surveillance power.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1969-06-25",
+      "event": "Born in Glen Ridge, New Jersey."
+    },
+    {
+      "date": "1993",
+      "event": "Graduated from Hastings College of Law in San Francisco."
+    },
+    {
+      "date": "1996",
+      "event": "Began private practice specializing in the defense of computer-crime cases."
+    },
+    {
+      "date": "2001",
+      "event": "Became Executive Director of Stanford Law School's Center for Internet and Society and founded its Cyberlaw Clinic."
+    },
+    {
+      "date": "2006",
+      "event": "Helped craft a DMCA exemption allowing consumers to legally unlock carrier-locked cell phones."
+    },
+    {
+      "date": "2007",
+      "event": "Became Civil Liberties Director at the Electronic Frontier Foundation, serving through 2010."
+    },
+    {
+      "date": "2012",
+      "event": "Returned to Stanford's Center for Internet and Society as Civil Liberties Director."
+    },
+    {
+      "date": "2013-01",
+      "event": "Client Aaron Swartz died by suicide while Granick was representing him in his JSTOR/CFAA prosecution."
+    },
+    {
+      "date": "2017",
+      "event": "Published American Spies: Modern Surveillance, and joined the ACLU as Surveillance and Cybersecurity Counsel."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Jennifer Granick - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jennifer_Granick"
+    },
+    {
+      "title": "Jennifer Stisa Granick - ACLU biography",
+      "url": "https://www.aclu.org/bio/jennifer-stisa-granick"
+    },
+    {
+      "title": "Jennifer Granick - Stanford Center for Internet and Society",
+      "url": "https://cyberlaw.stanford.edu/about/people/jennifer-granick"
+    },
+    {
+      "title": "Stanford Law's Jennifer Granick Wins Palmer Prize for New Book",
+      "url": "https://law.stanford.edu/press/stanford-laws-jennifer-granick-wins-palmer-prize-for-new-book/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Jennifer Granick",
+  "born": "1969-06-25",
+  "died": null,
+  "knownFor": [
+    "Criminal defense attorney representing computer-crime defendants, including Kevin Poulsen and Max Butler",
+    "Executive Director, Stanford Law School's Center for Internet and Society (2001-2007)",
+    "Civil Liberties Director, Electronic Frontier Foundation (2007-2010)",
+    "Legal counsel to Aaron Swartz during his JSTOR/Computer Fraud and Abuse Act prosecution",
+    "Author of American Spies: Modern Surveillance (2017), winner of the Palmer Civil Liberties Prize",
+    "Surveillance and Cybersecurity Counsel, ACLU Speech, Privacy, and Technology Project (from 2017)"
+  ]
+}
