@@ -1,5 +1,25 @@
 [
   {
+    "id": "adam-laurie",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Adam Laurie",
+    "slug": "adam-laurie",
+    "era": "2003-Present",
+    "tags": [
+      "RFID/NFC security",
+      "Bluetooth security",
+      "bluesnarfing",
+      "hardware hacking",
+      "open-source security tools",
+      "DEF CON",
+      "Chaos Communication Congress",
+      "British hacker"
+    ],
+    "summary": "British security researcher known by the alias \"Major Malfunction,\" who co-discovered and publicized the Bluetooth \"bluesnarfing\" vulnerability in 2003 and later created the open-source RFIDIOt and RFIDler RFID/NFC security research tools.",
+    "url": "people/adam-laurie.html"
+  },
+  {
     "id": "adrian-lamo",
     "type": "person",
     "typeLabel": "Person",
@@ -194,6 +214,24 @@
     "url": "people/cuckoos-egg-clifford-stoll.html"
   },
   {
+    "id": "dafydd-stuttard",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Dafydd Stuttard",
+    "slug": "dafydd-stuttard",
+    "era": "2003-Present",
+    "tags": [
+      "web application security",
+      "Burp Suite",
+      "PortSwigger",
+      "author",
+      "penetration testing",
+      "British"
+    ],
+    "summary": "Dafydd Stuttard is a British security researcher who built Burp Suite between 2003 and 2006, founded the company PortSwigger to develop it, and co-authored the standard reference text \"The Web Application Hacker's Handbook.\"",
+    "url": "people/dafydd-stuttard.html"
+  },
+  {
     "id": "dan-kaminsky",
     "type": "person",
     "typeLabel": "Person",
@@ -317,6 +355,30 @@
     ],
     "summary": "Felix \"FX\" Lindner was a German security researcher and founder of the Phenoelit hacking group, best known as a pioneer of Cisco IOS and embedded-router exploitation research, and later founder of the Berlin-based security firm Recurity Labs.",
     "url": "people/felix-fx-lindner.html"
+  },
+  {
+    "id": "frank-rieger",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Frank Rieger",
+    "slug": "frank-rieger",
+    "era": "1990s-Present",
+    "tags": [
+      "hacker",
+      "Chaos Computer Club",
+      "CCC",
+      "biometrics",
+      "fingerprint spoofing",
+      "privacy activism",
+      "surveillance",
+      "GSMK",
+      "Cryptophone",
+      "Germany",
+      "Stuxnet",
+      "tech publicist"
+    ],
+    "summary": "Frank Rieger is a German hacker, entrepreneur, and longtime spokesperson for the Chaos Computer Club (CCC), best known for publicizing the CCC's 2013 defeat of Apple's Touch ID fingerprint sensor and for co-founding GSMK, maker of the secure CryptoPhone.",
+    "url": "people/frank-rieger.html"
   },
   {
     "id": "george-geohot-hotz",
@@ -805,6 +867,27 @@
     "url": "people/orange-tsai.html"
   },
   {
+    "id": "ralf-philipp-weinmann",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ralf-Philipp Weinmann",
+    "slug": "ralf-philipp-weinmann",
+    "era": "2006-Present",
+    "tags": [
+      "security-research",
+      "cryptanalysis",
+      "GSM",
+      "baseband-security",
+      "mobile-security",
+      "Comsecuris",
+      "Germany",
+      "academia",
+      "reverse-engineering"
+    ],
+    "summary": "Ralf-Philipp Weinmann is a German security researcher and cryptographer known for practical cryptanalysis of deployed ciphers (DECT, EMV/ISO 9796-2) and for pioneering research into cellular baseband firmware vulnerabilities; he co-authored the \"iOS Hacker's Handbook\" and co-founded the security firm Comsecuris.",
+    "url": "people/ralf-philipp-weinmann.html"
+  },
+  {
     "id": "richard-stallman-gnu",
     "type": "person",
     "typeLabel": "Person",
@@ -1111,6 +1194,26 @@
     "url": "groups/wikileaks-julian-assange.html"
   },
   {
+    "id": "aircrack-ng",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Aircrack-ng",
+    "slug": "aircrack-ng",
+    "era": "2004-Present",
+    "tags": [
+      "wifi-security",
+      "wep-cracking",
+      "wpa-wpa2",
+      "packet-injection",
+      "open-source",
+      "penetration-testing",
+      "802.11",
+      "linux-tools"
+    ],
+    "summary": "Aircrack-ng is a free, open-source command-line suite for assessing WiFi network security, covering monitoring, packet injection, capture-driver testing, and WEP/WPA-PSK key cracking; it descends from Christophe Devine's original Aircrack and has been maintained since 2006 by Thomas d'Otreppe de Bouvette and the Aircrack-ng team.",
+    "url": "tools/aircrack-ng.html"
+  },
+  {
     "id": "bloodhound",
     "type": "tool",
     "typeLabel": "Tool",
@@ -1295,6 +1398,25 @@
     "url": "tools/radare2.html"
   },
   {
+    "id": "sqlmap",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "sqlmap",
+    "slug": "sqlmap",
+    "era": "2006-Present",
+    "tags": [
+      "sql-injection",
+      "penetration-testing",
+      "open-source",
+      "database-security",
+      "security-tool",
+      "gplv2",
+      "kali-linux"
+    ],
+    "summary": "sqlmap is an open-source command-line tool that automates the detection and exploitation of SQL injection vulnerabilities and the takeover of underlying database servers, originally created by Daniele Bellucci in 2006 and developed since by Bernardo Damele and Miroslav Stampar.",
+    "url": "tools/sqlmap.html"
+  },
+  {
     "id": "wireshark-network-analyzer",
     "type": "tool",
     "typeLabel": "Tool",
@@ -1309,6 +1431,70 @@
     ],
     "summary": "How a project started by Gerald Combs, originally named Ethereal, became the world's foremost network protocol analyzer.",
     "url": "tools/wireshark-network-analyzer.html"
+  },
+  {
+    "id": "eternalblue",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability / Discovery",
+    "title": "EternalBlue (CVE-2017-0144)",
+    "slug": "eternalblue",
+    "era": "2017",
+    "tags": [
+      "nsa",
+      "smb",
+      "shadow-brokers",
+      "wannacry",
+      "notpetya",
+      "ransomware",
+      "windows",
+      "zero-day",
+      "ms17-010",
+      "exploit"
+    ],
+    "summary": "EternalBlue (CVE-2017-0144) was a critical Windows SMBv1 remote-code-execution exploit reportedly developed by the NSA, publicly leaked by a group calling itself the Shadow Brokers in April 2017, and subsequently weaponized in the WannaCry and NotPetya attacks.",
+    "url": "vulnerabilities/eternalblue.html"
+  },
+  {
+    "id": "heartbleed",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability / Discovery",
+    "title": "Heartbleed (CVE-2014-0160)",
+    "slug": "heartbleed",
+    "era": "2014",
+    "tags": [
+      "openssl",
+      "heartbleed",
+      "cve-2014-0160",
+      "tls-ssl",
+      "vulnerability",
+      "memory-disclosure",
+      "google-security",
+      "codenomicon",
+      "2014"
+    ],
+    "summary": "A critical bug in OpenSSL's TLS heartbeat extension let remote attackers silently read up to 64KB of a server's process memory, exposing private keys and credentials across roughly 17% of the internet's secure servers before it was patched in April 2014.",
+    "url": "vulnerabilities/heartbleed.html"
+  },
+  {
+    "id": "shellshock",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability / Discovery",
+    "title": "Shellshock (CVE-2014-6271)",
+    "slug": "shellshock",
+    "era": "2014",
+    "tags": [
+      "bash",
+      "shellshock",
+      "remote-code-execution",
+      "unix",
+      "linux",
+      "cgi",
+      "environment-variables",
+      "vulnerability",
+      "critical-infrastructure"
+    ],
+    "summary": "Shellshock was a family of critical vulnerabilities in the GNU Bash shell, first disclosed on September 24, 2014, that allowed remote attackers to execute arbitrary code by embedding malicious commands in environment variables processed by Bash.",
+    "url": "vulnerabilities/shellshock.html"
   },
   {
     "id": "stuxnet-digital-weapon",
@@ -1521,189 +1707,196 @@
     "url": "fields/responsible-disclosure.html"
   },
   {
-    "id": "adam-laurie",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Adam Laurie",
-    "slug": "adam-laurie",
-    "era": "2003-Present",
+    "id": "bugtraq",
+    "type": "publication",
+    "typeLabel": "Publication",
+    "title": "Bugtraq",
+    "slug": "bugtraq",
+    "era": "1993-2021, revived 2026",
     "tags": [
-      "RFID/NFC security",
-      "Bluetooth security",
-      "bluesnarfing",
-      "hardware hacking",
-      "open-source security tools",
-      "DEF CON",
-      "Chaos Communication Congress",
-      "British hacker"
+      "mailing-list",
+      "full-disclosure",
+      "vulnerability-disclosure",
+      "security-research",
+      "hacker-culture",
+      "publication",
+      "securityfocus",
+      "symantec",
+      "1990s"
     ],
-    "summary": "British security researcher known by the alias \"Major Malfunction,\" who co-discovered and publicized the Bluetooth \"bluesnarfing\" vulnerability in 2003 and later created the open-source RFIDIOt and RFIDler RFID/NFC security research tools.",
-    "url": "people/adam-laurie.html"
+    "summary": "Bugtraq was the seminal full-disclosure security mailing list, founded in 1993 by Scott Chasin and moderated for years by Elias Levy (Aleph One), that became the de facto public venue for publishing and debating software vulnerabilities before passing through SecurityFocus and Symantec ownership, going dark around 2020-2021, and being reported as independently relaunched in 2026.",
+    "url": "publications/bugtraq.html"
   },
   {
-    "id": "aircrack-ng",
+    "id": "kali-linux",
     "type": "tool",
     "typeLabel": "Tool",
-    "title": "Aircrack-ng",
-    "slug": "aircrack-ng",
-    "era": "2004-Present",
+    "title": "Kali Linux",
+    "slug": "kali-linux",
+    "era": "2013-Present",
     "tags": [
-      "wifi-security",
-      "wep-cracking",
-      "wpa-wpa2",
-      "packet-injection",
-      "open-source",
+      "linux-distribution",
       "penetration-testing",
-      "802.11",
-      "linux-tools"
+      "security-auditing",
+      "debian-based",
+      "backtrack-successor",
+      "offensive-security",
+      "open-source",
+      "digital-forensics",
+      "rolling-release",
+      "cybersecurity-toolset"
     ],
-    "summary": "Aircrack-ng is a free, open-source command-line suite for assessing WiFi network security, covering monitoring, packet injection, capture-driver testing, and WEP/WPA-PSK key cracking; it descends from Christophe Devine's original Aircrack and has been maintained since 2006 by Thomas d'Otreppe de Bouvette and the Aircrack-ng team.",
-    "url": "tools/aircrack-ng.html"
+    "summary": "Kali Linux is a Debian-based, open-source Linux distribution built for penetration testing and security auditing, released in March 2013 as a ground-up rebuild of Offensive Security's earlier BackTrack Linux.",
+    "url": "tools/kali-linux.html"
   },
   {
-    "id": "dafydd-stuttard",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Dafydd Stuttard",
-    "slug": "dafydd-stuttard",
-    "era": "2003-Present",
-    "tags": [
-      "web application security",
-      "Burp Suite",
-      "PortSwigger",
-      "author",
-      "penetration testing",
-      "British"
-    ],
-    "summary": "Dafydd Stuttard is a British security researcher who built Burp Suite between 2003 and 2006, founded the company PortSwigger to develop it, and co-authored the standard reference text \"The Web Application Hacker's Handbook.\"",
-    "url": "people/dafydd-stuttard.html"
-  },
-  {
-    "id": "eternalblue",
+    "id": "krack",
     "type": "vulnerability",
     "typeLabel": "Vulnerability / Discovery",
-    "title": "EternalBlue (CVE-2017-0144)",
-    "slug": "eternalblue",
+    "title": "KRACK (Key Reinstallation Attack)",
+    "slug": "krack",
     "era": "2017",
     "tags": [
-      "nsa",
-      "smb",
-      "shadow-brokers",
-      "wannacry",
-      "notpetya",
-      "ransomware",
-      "windows",
-      "zero-day",
-      "ms17-010",
-      "exploit"
+      "WPA2",
+      "Wi-Fi",
+      "wireless security",
+      "protocol vulnerability",
+      "nonce reuse",
+      "network security",
+      "Mathy Vanhoef"
     ],
-    "summary": "EternalBlue (CVE-2017-0144) was a critical Windows SMBv1 remote-code-execution exploit reportedly developed by the NSA, publicly leaked by a group calling itself the Shadow Brokers in April 2017, and subsequently weaponized in the WannaCry and NotPetya attacks.",
-    "url": "vulnerabilities/eternalblue.html"
+    "summary": "KRACK is a set of vulnerabilities in the WPA2 Wi-Fi protocol's four-way handshake, disclosed in October 2017 by researcher Mathy Vanhoef, that let an attacker within radio range force reinstallation of an already-in-use encryption key to decrypt, replay, or inject traffic.",
+    "url": "vulnerabilities/krack.html"
   },
   {
-    "id": "frank-rieger",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Frank Rieger",
-    "slug": "frank-rieger",
-    "era": "1990s-Present",
-    "tags": [
-      "hacker",
-      "Chaos Computer Club",
-      "CCC",
-      "biometrics",
-      "fingerprint spoofing",
-      "privacy activism",
-      "surveillance",
-      "GSMK",
-      "Cryptophone",
-      "Germany",
-      "Stuxnet",
-      "tech publicist"
-    ],
-    "summary": "Frank Rieger is a German hacker, entrepreneur, and longtime spokesperson for the Chaos Computer Club (CCC), best known for publicizing the CCC's 2013 defeat of Apple's Touch ID fingerprint sensor and for co-founding GSMK, maker of the secure CryptoPhone.",
-    "url": "people/frank-rieger.html"
-  },
-  {
-    "id": "heartbleed",
-    "type": "vulnerability",
-    "typeLabel": "Vulnerability / Discovery",
-    "title": "Heartbleed (CVE-2014-0160)",
-    "slug": "heartbleed",
-    "era": "2014",
-    "tags": [
-      "openssl",
-      "heartbleed",
-      "cve-2014-0160",
-      "tls-ssl",
-      "vulnerability",
-      "memory-disclosure",
-      "google-security",
-      "codenomicon",
-      "2014"
-    ],
-    "summary": "A critical bug in OpenSSL's TLS heartbeat extension let remote attackers silently read up to 64KB of a server's process memory, exposing private keys and credentials across roughly 17% of the internet's secure servers before it was patched in April 2014.",
-    "url": "vulnerabilities/heartbleed.html"
-  },
-  {
-    "id": "ralf-philipp-weinmann",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Ralf-Philipp Weinmann",
-    "slug": "ralf-philipp-weinmann",
-    "era": "2006-Present",
-    "tags": [
-      "security-research",
-      "cryptanalysis",
-      "GSM",
-      "baseband-security",
-      "mobile-security",
-      "Comsecuris",
-      "Germany",
-      "academia",
-      "reverse-engineering"
-    ],
-    "summary": "Ralf-Philipp Weinmann is a German security researcher and cryptographer known for practical cryptanalysis of deployed ciphers (DECT, EMV/ISO 9796-2) and for pioneering research into cellular baseband firmware vulnerabilities; he co-authored the \"iOS Hacker's Handbook\" and co-founded the security firm Comsecuris.",
-    "url": "people/ralf-philipp-weinmann.html"
-  },
-  {
-    "id": "shellshock",
-    "type": "vulnerability",
-    "typeLabel": "Vulnerability / Discovery",
-    "title": "Shellshock (CVE-2014-6271)",
-    "slug": "shellshock",
-    "era": "2014",
-    "tags": [
-      "bash",
-      "shellshock",
-      "remote-code-execution",
-      "unix",
-      "linux",
-      "cgi",
-      "environment-variables",
-      "vulnerability",
-      "critical-infrastructure"
-    ],
-    "summary": "Shellshock was a family of critical vulnerabilities in the GNU Bash shell, first disclosed on September 24, 2014, that allowed remote attackers to execute arbitrary code by embedding malicious commands in environment variables processed by Bash.",
-    "url": "vulnerabilities/shellshock.html"
-  },
-  {
-    "id": "sqlmap",
+    "id": "nessus",
     "type": "tool",
     "typeLabel": "Tool",
-    "title": "sqlmap",
-    "slug": "sqlmap",
-    "era": "2006-Present",
+    "title": "Nessus",
+    "slug": "nessus",
+    "era": "1998-Present",
     "tags": [
-      "sql-injection",
-      "penetration-testing",
-      "open-source",
-      "database-security",
-      "security-tool",
-      "gplv2",
-      "kali-linux"
+      "vulnerability-scanner",
+      "tool",
+      "network-security",
+      "open-source-origin",
+      "commercial-software",
+      "Tenable",
+      "Renaud Deraison",
+      "CVE",
+      "compliance-scanning",
+      "OpenVAS"
     ],
-    "summary": "sqlmap is an open-source command-line tool that automates the detection and exploitation of SQL injection vulnerabilities and the takeover of underlying database servers, originally created by Daniele Bellucci in 2006 and developed since by Bernardo Damele and Miroslav Stampar.",
-    "url": "tools/sqlmap.html"
+    "summary": "Nessus is a vulnerability scanner originally released in 1998 by Renaud Deraison as a free, open-source (GPL) security tool; it was folded into Tenable Network Security upon that company's founding in 2002 and switched to proprietary licensing in 2005, becoming one of the most widely deployed commercial vulnerability assessment products.",
+    "url": "tools/nessus.html"
+  },
+  {
+    "id": "snort",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Snort",
+    "slug": "snort",
+    "era": "1998-Present",
+    "tags": [
+      "IDS",
+      "IPS",
+      "network-security",
+      "open-source",
+      "Cisco",
+      "Sourcefire",
+      "Martin Roesch",
+      "GPLv2",
+      "signature-detection"
+    ],
+    "summary": "Snort is a free, open-source network intrusion detection and prevention system created by Martin Roesch in 1998, later commercialized through his company Sourcefire and acquired by Cisco Systems in 2013 for $2.7 billion; it remains one of the most widely deployed IDS/IPS engines in the world.",
+    "url": "tools/snort.html"
+  },
+  {
+    "id": "spectre-meltdown",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability / Discovery",
+    "title": "Spectre and Meltdown",
+    "slug": "spectre-meltdown",
+    "era": "2018",
+    "tags": [
+      "CVE-2017-5753",
+      "CVE-2017-5715",
+      "CVE-2017-5754",
+      "speculative execution",
+      "side-channel attack",
+      "Google Project Zero",
+      "Graz University of Technology",
+      "Cyberus Technology",
+      "KPTI",
+      "retpoline",
+      "hardware vulnerability",
+      "2018"
+    ],
+    "summary": "Spectre and Meltdown were two classes of speculative-execution side-channel vulnerabilities affecting virtually all modern CPUs, disclosed on January 3, 2018 after independent discovery by multiple research teams including Google Project Zero, Graz University of Technology, and Cyberus Technology.",
+    "url": "vulnerabilities/spectre-meltdown.html"
+  },
+  {
+    "id": "stagefright",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability / Discovery",
+    "title": "Stagefright",
+    "slug": "stagefright",
+    "era": "2015",
+    "tags": [
+      "android",
+      "libstagefright",
+      "remote-code-execution",
+      "mobile-security",
+      "mms",
+      "integer-overflow",
+      "zimperium",
+      "cve-2015"
+    ],
+    "summary": "Stagefright was a family of critical remote-code-execution vulnerabilities in Android's libstagefright media library, discovered by Joshua Drake of Zimperium in 2015, that could be triggered by a single malicious MMS message on an estimated 950 million devices.",
+    "url": "vulnerabilities/stagefright.html"
+  },
+  {
+    "id": "volatility",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Volatility Framework",
+    "slug": "volatility",
+    "era": "2007-Present",
+    "tags": [
+      "memory forensics",
+      "incident response",
+      "malware analysis",
+      "open source",
+      "DFIR",
+      "digital forensics",
+      "Python",
+      "RAM analysis",
+      "Aaron Walters",
+      "Volatility Foundation"
+    ],
+    "summary": "The Volatility Framework is an open-source Python toolset for extracting forensic artifacts from volatile memory (RAM) dumps, used worldwide in incident response and malware analysis since its 2007 debut.",
+    "url": "tools/volatility.html"
+  },
+  {
+    "id": "yara",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "YARA",
+    "slug": "yara",
+    "era": "2013-Present",
+    "tags": [
+      "malware-analysis",
+      "open-source",
+      "pattern-matching",
+      "virustotal",
+      "threat-detection",
+      "signature-based-detection",
+      "yara-x",
+      "google",
+      "reverse-engineering",
+      "cybersecurity-tooling"
+    ],
+    "summary": "YARA is an open-source, rule-based pattern-matching engine designed by Victor Manuel Alvarez at VirusTotal to help malware researchers identify and classify malware samples using textual and binary patterns.",
+    "url": "tools/yara.html"
   }
 ]

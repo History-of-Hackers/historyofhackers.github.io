@@ -1,0 +1,82 @@
+{
+  "id": "spectre-meltdown",
+  "type": "vulnerability",
+  "title": "Spectre and Meltdown",
+  "slug": "spectre-meltdown",
+  "era": "2018",
+  "tags": [
+    "CVE-2017-5753",
+    "CVE-2017-5715",
+    "CVE-2017-5754",
+    "speculative execution",
+    "side-channel attack",
+    "Google Project Zero",
+    "Graz University of Technology",
+    "Cyberus Technology",
+    "KPTI",
+    "retpoline",
+    "hardware vulnerability",
+    "2018"
+  ],
+  "summary": "Spectre and Meltdown were two classes of speculative-execution side-channel vulnerabilities affecting virtually all modern CPUs, disclosed on January 3, 2018 after independent discovery by multiple research teams including Google Project Zero, Graz University of Technology, and Cyberus Technology.",
+  "whyThisMatters": "Spectre and Meltdown were two classes of speculative-execution side-channel vulnerabilities affecting virtually all modern CPUs, disclosed on January 3, 2018 after independent discovery by multiple research teams including Google Project Zero, Graz University of Technology, and Cyberus Technology.",
+  "sections": {
+    "overview": "<p>Spectre and Meltdown are two related classes of hardware vulnerabilities affecting modern microprocessors that use speculative execution and out-of-order execution to improve performance. Both allow malicious programs to read memory they should not have access to\u2014including passwords, encryption keys, and other secrets belonging to other programs or the operating system kernel\u2014by exploiting timing differences in the CPU's cache after speculatively executed instructions are rolled back.</p><p>Meltdown (assigned <strong>CVE-2017-5754</strong>) breaks the fundamental isolation between user applications and the operating system, primarily affecting Intel x86 processors with out-of-order execution (and some ARM and IBM Power chips), but not AMD processors. Spectre encompasses two variants: Variant 1, Bounds Check Bypass (<strong>CVE-2017-5753</strong>), and Variant 2, Branch Target Injection (<strong>CVE-2017-5715</strong>). Spectre breaks isolation between separate applications and affects a much broader range of hardware, including Intel, AMD, and ARM-based processors.</p><h2>Discovery</h2><p>The vulnerabilities were discovered independently and concurrently by several research groups. Jann Horn of Google Project Zero identified both Meltdown and Spectre. Meltdown was separately and independently found by Werner Haas and Thomas Prescher of Cyberus Technology, and by Daniel Gruss, Moritz Lipp, Stefan Mangard, and Michael Schwarz of Graz University of Technology. Spectre research also involved cryptographer Paul Kocher, working with Daniel Genkin, Mike Hamburg, Moritz Lipp, and Yuval Yarom. According to Google's Project Zero writeup, the issue was first reported to Intel, AMD, and ARM on June 1, 2017.</p><h2>Disclosure Timeline</h2><p>A coordinated disclosure had originally been planned for January 9, 2018, but news reports and researcher blog posts (including a Google Project Zero post authored by Jann Horn) pushed the public disclosure earlier, to January 3, 2018, after details began leaking ahead of schedule.</p><h2>Impact and Response</h2><p>Because the flaws stemmed from fundamental CPU design choices used for decades to boost performance, they affected an enormous installed base of desktops, servers, and cloud infrastructure. The primary software mitigation for Meltdown was Kernel Page Table Isolation (KPTI), merged into Linux kernel 4.15 and backported to earlier versions, alongside emergency patches from Microsoft and Apple. Spectre mitigations included Google's \"Retpoline\" compiler technique, microcode updates from Intel and AMD, and browser-level hardening against JavaScript-based exploitation. Patches introduced measurable performance overhead, with estimates varying widely (roughly single digits to over 30%) depending on workload; this drew public criticism, notably from Linus Torvalds regarding early Intel microcode patches. Intel later added hardware-level mitigations to newer processor generations, including Coffee Lake-R chips released in October 2018. Researchers described Spectre in particular as difficult to fully remediate at the hardware level, warning it would \"haunt us for quite some time.\"</p>"
+  },
+  "timeline": [
+    {
+      "date": "2017-06-01",
+      "event": "Google Project Zero (Jann Horn) reports the vulnerability to Intel, AMD, and ARM."
+    },
+    {
+      "date": "2018-01-03",
+      "event": "Spectre and Meltdown are publicly disclosed, earlier than the originally planned coordinated disclosure date of January 9, 2018, after details began leaking."
+    },
+    {
+      "date": "2018-01-03",
+      "event": "Google Project Zero publishes Jann Horn's technical writeup, 'Reading privileged memory with a side-channel.'"
+    },
+    {
+      "date": "2018-01-04",
+      "event": "Major vendors including Microsoft, Amazon, and Google release initial patches and advisories in response to disclosure."
+    },
+    {
+      "date": "2018-10-01",
+      "event": "Intel ships Coffee Lake-R processors with hardware-level mitigations for some Spectre/Meltdown variants."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Meltdown and Spectre official vulnerability site (meltdownattack.com)",
+      "url": "https://meltdownattack.com/"
+    },
+    {
+      "title": "Spectre Attack official site (spectreattack.com)",
+      "url": "https://spectreattack.com/"
+    },
+    {
+      "title": "Google Project Zero: Reading privileged memory with a side-channel",
+      "url": "https://projectzero.google/2018/01/reading-privileged-memory-with-side.html"
+    },
+    {
+      "title": "Wikipedia: Meltdown (security vulnerability)",
+      "url": "https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)"
+    },
+    {
+      "title": "Wikipedia: Spectre (security vulnerability)",
+      "url": "https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 5,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

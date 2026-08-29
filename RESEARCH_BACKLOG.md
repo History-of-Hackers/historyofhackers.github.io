@@ -155,18 +155,18 @@ handle, and getting a name wrong is worse than not publishing.
 | Hashcat | GPU-accelerated password recovery | See `data/tools/hashcat.json` — PUBLISHED |
 | Aircrack-ng | Wi-Fi security auditing suite | See `data/tools/aircrack-ng.json` — PUBLISHED |
 | sqlmap | Automated SQL injection tool | See `data/tools/sqlmap.json` — PUBLISHED |
-| Snort | Open-source intrusion detection, Sourcefire origin |
-| Nessus | Vulnerability scanner, pre-dates and shaped the commercial scanner market |
+| Snort | Open-source intrusion detection, Sourcefire origin | See `data/tools/snort.json` — PUBLISHED |
+| Nessus | Vulnerability scanner, pre-dates and shaped the commercial scanner market | See `data/tools/nessus.json` — PUBLISHED |
 | Cobalt Strike | Red-team/adversary-simulation platform, also widely abused by real attackers — needs careful dual-use framing |
-| Volatility | Memory forensics framework |
-| YARA | Malware pattern-matching/classification tool |
-| Kali Linux / BackTrack | Penetration-testing Linux distribution lineage |
+| Volatility | Memory forensics framework | See `data/tools/volatility.json` — PUBLISHED |
+| YARA | Malware pattern-matching/classification tool | See `data/tools/yara.json` — PUBLISHED |
+| Kali Linux / BackTrack | Penetration-testing Linux distribution lineage | See `data/tools/kali-linux.json` — PUBLISHED |
 
 ### Publications (beyond the 3 already published: Phrack, 2600, the Hacker Manifesto)
 
 | Candidate | Reason |
 |---|---|
-| Bugtraq (mailing list) | Foundational full-disclosure vulnerability mailing list |
+| Bugtraq (mailing list) | Foundational full-disclosure vulnerability mailing list — See `data/publications/bugtraq.json` — PUBLISHED |
 | Full Disclosure (mailing list) | Successor-era full-disclosure list after Bugtraq's moderation changes |
 | Packet Storm | Long-running exploit/advisory archive |
 | Uninformed | Early-2000s technical exploitation-research ezine |
@@ -178,9 +178,9 @@ handle, and getting a name wrong is worse than not publishing.
 |---|---|
 | Heartbleed (2014) | OpenSSL memory-disclosure bug, massive internet-wide patch effort — See `data/vulnerabilities/heartbleed.json` — PUBLISHED |
 | Shellshock (2014) | Bash environment-variable injection vulnerability — See `data/vulnerabilities/shellshock.json` — PUBLISHED |
-| Stagefright (2015) | Android media-parsing remote-exploitation research |
-| KRACK (2017) | WPA2 Wi-Fi handshake vulnerability |
-| Spectre / Meltdown (2018) | CPU speculative-execution vulnerability class |
+| Stagefright (2015) | Android media-parsing remote-exploitation research — See `data/vulnerabilities/stagefright.json` — PUBLISHED |
+| KRACK (2017) | WPA2 Wi-Fi handshake vulnerability — See `data/vulnerabilities/krack.json` — PUBLISHED |
+| Spectre / Meltdown (2018) | CPU speculative-execution vulnerability class — See `data/vulnerabilities/spectre-meltdown.json` — PUBLISHED |
 | EternalBlue / WannaCry (2017) | NSA-linked SMB exploit and the resulting global ransomware outbreak (cross-link to the already-published Marcus Hutchins page) — See `data/vulnerabilities/eternalblue.json` — PUBLISHED |
 | NotPetya (2017) | Destructive wiper disguised as ransomware, major supply-chain/geopolitical incident |
 | Equifax breach (2017) | Large-scale consumer-data breach, Apache Struts vulnerability |
