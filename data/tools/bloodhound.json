@@ -1,0 +1,59 @@
+{
+  "id": "bloodhound",
+  "type": "tool",
+  "title": "BloodHound",
+  "slug": "bloodhound",
+  "era": "2016-Present",
+  "tags": [
+    "Active Directory",
+    "red team",
+    "attack path mapping",
+    "graph theory",
+    "SpecterOps"
+  ],
+  "summary": "BloodHound is an open-source tool that maps Active Directory environments as a graph rather than a list, exposing hidden privilege-escalation paths that took defenders and pentesters weeks to find manually and revealing them in minutes, which made it a staple of both red-team operations and enterprise AD defense.",
+  "whyThisMatters": "BloodHound is an open-source tool that maps Active Directory environments as a graph rather than a list, exposing hidden privilege-escalation paths that took defenders and pentesters weeks to find manually and revealing them in minutes, which made it a staple of both red-team operations and enterprise AD defense.",
+  "sections": {
+    "overview": "<p>BloodHound was created by Andy Robbins, Rohan Vazarkar, and Will Schroeder, a group of penetration testers who would go on to found the security company SpecterOps. Schroeder had already built PowerView, a PowerShell framework for gathering Active Directory situational awareness, and Robbins and Vazarkar drew on that data collection work to build an analysis layer on top of it. The trio released BloodHound as free and open-source software and introduced it to the public in a talk titled \"Six Degrees of Domain Admin\" at DEF CON 24 in August 2016.</p><h2>A Graph, Not a List</h2><p>The tool's core insight was to stop treating Active Directory permissions as a set of independent, tabular facts and instead model an entire domain as a directed graph stored in the Neo4j graph database. Users, groups, and computers become nodes; group memberships, administrative rights, active logon sessions, and access-control entries become edges connecting them. Data is gathered by a PowerShell (and later C#, via the companion collector SharpHound) ingestor and loaded into the graph, after which an analyst can ask the graph engine to compute shortest paths from a low-privileged foothold to a target such as Domain Admin.</p><h2>Why It Mattered</h2><p>Before BloodHound, finding a viable privilege-escalation chain in a large AD environment meant manually cross-referencing group memberships and ACLs, an effort that could consume days or weeks even for experienced testers. By reframing the problem in graph terms, BloodHound could surface non-obvious multi-hop escalation routes in a fraction of the time. The tool was adopted almost immediately by red teamers as a mapping and targeting aid, and by defenders and AD administrators trying to see their environment the way an attacker would.</p><h2>From Free Tool to Commercial Platform</h2><p>The open-source project continued to be maintained by SpecterOps, and in July 2021 the company launched BloodHound Enterprise, a commercial SaaS product built on new architecture that continuously maps attack paths and prioritizes the choke points whose remediation eliminates the largest number of paths at once. SpecterOps has said it remained committed to supporting the free, open-source edition alongside the paid product.</p><h2>Legacy</h2><p>Nearly a decade after its release, BloodHound is considered a standard component of Active Directory penetration testing and red-team tradecraft. It reshaped how both attackers and defenders reason about identity risk in Windows domains, shifting the conversation from individual misconfigurations to the chains of relationships that connect them.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2016-08",
+      "event": "Andy Robbins, Rohan Vazarkar, and Will Schroeder publicly release BloodHound and present it at DEF CON 24 in the talk 'Six Degrees of Domain Admin.'"
+    },
+    {
+      "date": "2021-07-27",
+      "event": "SpecterOps launches BloodHound Enterprise, a commercial SaaS attack-path-management platform, while continuing to support the open-source edition."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Introducing BloodHound (wald0.com)",
+      "url": "https://wald0.com/?p=68"
+    },
+    {
+      "title": "SpecterOps/BloodHound GitHub repository",
+      "url": "https://github.com/SpecterOps/BloodHound"
+    },
+    {
+      "title": "SpecterOps Launches BloodHound Enterprise - BusinessWire",
+      "url": "https://www.businesswire.com/news/home/20210727005145/en/SpecterOps-Launches-BloodHound-Enterprise-to-Improve-Active-Directory-Security-for-the-Enterprise"
+    },
+    {
+      "title": "BloodHound: How graphs changed the way hackers attack - Neo4j blog",
+      "url": "https://neo4j.com/blog/security/bloodhound-how-graphs-changed-the-way-hackers-attack/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

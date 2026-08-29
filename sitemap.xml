@@ -8,6 +8,7 @@
   <url><loc>https://historyofhackers.org/people/adrian-lamo.html</loc></url>
   <url><loc>https://historyofhackers.org/people/barnaby-jack.html</loc></url>
   <url><loc>https://historyofhackers.org/people/bruce-schneier.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/cesar-cerrudo.html</loc></url>
   <url><loc>https://historyofhackers.org/people/charlie-miller.html</loc></url>
   <url><loc>https://historyofhackers.org/people/chris-valasek.html</loc></url>
   <url><loc>https://historyofhackers.org/people/cuckoos-egg-clifford-stoll.html</loc></url>
@@ -15,22 +16,24 @@
   <url><loc>https://historyofhackers.org/people/george-geohot-hotz.html</loc></url>
   <url><loc>https://historyofhackers.org/people/halvar-flake.html</loc></url>
   <url><loc>https://historyofhackers.org/people/hd-moore.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/james-kettle.html</loc></url>
   <url><loc>https://historyofhackers.org/people/joanna-rutkowska.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/karsten-nohl.html</loc></url>
   <url><loc>https://historyofhackers.org/people/katie-moussouris.html</loc></url>
   <url><loc>https://historyofhackers.org/people/kevin-mitnick-complete-history.html</loc></url>
   <url><loc>https://historyofhackers.org/people/marcus-hutchins-wannacry.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/michal-zalewski.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/mikko-hypponen.html</loc></url>
   <url><loc>https://historyofhackers.org/people/mudge-peiter-zatko.html</loc></url>
   <url><loc>https://historyofhackers.org/people/richard-stallman-gnu.html</loc></url>
   <url><loc>https://historyofhackers.org/people/robert-tappan-morris.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/ross-anderson.html</loc></url>
   <url><loc>https://historyofhackers.org/people/samy-kamkar.html</loc></url>
   <url><loc>https://historyofhackers.org/people/solar-designer.html</loc></url>
   <url><loc>https://historyofhackers.org/people/tsutomu-shimomura.html</loc></url>
-  <url><loc>https://historyofhackers.org/people/cesar-cerrudo.html</loc></url>
-  <url><loc>https://historyofhackers.org/people/james-kettle.html</loc></url>
-  <url><loc>https://historyofhackers.org/people/karsten-nohl.html</loc></url>
-  <url><loc>https://historyofhackers.org/people/michal-zalewski.html</loc></url>
-  <url><loc>https://historyofhackers.org/people/mikko-hypponen.html</loc></url>
-  <url><loc>https://historyofhackers.org/people/ross-anderson.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/orange-tsai.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/moxie-marlinspike.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/natalie-silvanovich.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/</loc></url>
   <url><loc>https://historyofhackers.org/groups/anonymous-hacktivism.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/chaos-computer-club-ccc.html</loc></url>
@@ -44,6 +47,10 @@
   <url><loc>https://historyofhackers.org/tools/metasploit-framework.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/nmap-network-mapper.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/wireshark-network-analyzer.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/bloodhound.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/burp-suite.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/ghidra.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/mimikatz.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/stuxnet-digital-weapon.html</loc></url>
   <url><loc>https://historyofhackers.org/events/</loc></url>

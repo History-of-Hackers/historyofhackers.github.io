@@ -1,0 +1,95 @@
+{
+  "id": "orange-tsai",
+  "type": "person",
+  "title": "Orange Tsai",
+  "slug": "orange-tsai",
+  "era": "2010s-Present",
+  "tags": [
+    "web security",
+    "DEVCORE",
+    "Taiwan",
+    "Pwn2Own",
+    "ProxyLogon",
+    "vulnerability research"
+  ],
+  "summary": "Orange Tsai is a Taiwan-based web application security researcher and principal researcher at DEVCORE whose disclosures of Microsoft Exchange Server vulnerabilities in early 2021 became known as ProxyLogon, and whose repeated Pwn2Own 'Master of Pwn' titles and Pwnie Award wins have made him one of the most recognized application-security researchers in Asia.",
+  "whyThisMatters": "Orange Tsai is a Taiwan-based web application security researcher and principal researcher at DEVCORE whose disclosures of Microsoft Exchange Server vulnerabilities in early 2021 became known as ProxyLogon, and whose repeated Pwn2Own 'Master of Pwn' titles and Pwnie Award wins have made him one of the most recognized application-security researchers in Asia.",
+  "sections": {
+    "overview": "<h2>Background</h2><p>Orange Tsai is a Taiwan-based web application security researcher who serves as principal security researcher at DEVCORE, a Taipei-based information security consultancy, and is a core member of the CHROOT security group. He has described his first publicly credited vulnerability as CVE-2012-4775 (MS12-071), a use-after-free bug in Internet Explorer found through fuzzing.</p><h2>Vulnerability Research and the Exchange Server Disclosures</h2><p>Tsai built his reputation on finding remote-code-execution and server-side request forgery bugs in widely used enterprise and consumer-facing software, reporting flaws affecting products and services from Facebook, Twitter, Uber, Apple, GitHub, and other major vendors. His best-known work concerns Microsoft Exchange Server: DEVCORE reported an Exchange vulnerability to Microsoft on 5 January 2021, which Microsoft confirmed on 8 January; the underlying flaws were later chained into exploits that became widely known as ProxyLogon after being exploited in mass intrusions in early 2021. Tsai and DEVCORE colleagues also devised a related exploit chain nicknamed 'ProxyShell,' which he demonstrated at Pwn2Own Vancouver in April 2021. Both chains were detailed publicly in his August 2021 Black Hat USA and DEF CON 29 talk, 'ProxyLogon is Just the Tip of the Iceberg.'</p><h2>Other Research and Conference Talks</h2><p>Before the Exchange work, Tsai was known for research into URL-parser inconsistencies used for server-side request forgery, presented as 'A New Era of SSRF' at Black Hat USA and DEF CON 25 in 2017, and for path-normalization/parser-logic bugs usable to bypass web application firewalls, presented at Black Hat USA and DEF CON 26 in 2018. In 2019 he presented pre-authentication RCE research against corporate SSL VPN products at Black Hat USA and DEF CON 27.</p><h2>Awards and Pwn2Own Record</h2><p>Tsai's research has repeatedly been recognized with Pwnie Awards for 'Best Server-Side Bug' (2019, for SSL VPN pre-auth RCEs, and 2021, for the Exchange Server RCEs). At the Pwn2Own competition, he and the DEVCORE Research Team were named 'Master of Pwn' at Vancouver in 2021 and Toronto in 2022.</p><h2>Legacy</h2><p>Tsai is frequently cited as one of the researchers who put Taiwanese and broader Asia-based offensive security research on the international stage, and DEVCORE's Exchange Server disclosures are commonly referenced in accounts of the 2021 ProxyLogon/ProxyShell incidents.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2012",
+      "event": "Credited with his first published CVE, CVE-2012-4775 (MS12-071), a use-after-free vulnerability in Internet Explorer found through fuzzing."
+    },
+    {
+      "date": "2017-07-27",
+      "event": "Presented 'A New Era of SSRF' at Black Hat USA 2017 (repeated at DEF CON 25)."
+    },
+    {
+      "date": "2018-08-08",
+      "event": "Presented 'Breaking Parser Logic' at Black Hat USA 2018 (repeated at DEF CON 26)."
+    },
+    {
+      "date": "2019-08-07",
+      "event": "Presented pre-auth RCE research on leading SSL VPNs at Black Hat USA 2019; the research won a 2019 Pwnie Award for Best Server-Side Bug."
+    },
+    {
+      "date": "2021-01-05",
+      "event": "DEVCORE reported an Exchange Server vulnerability to Microsoft; the flaw chain was later exploited at scale and became known as ProxyLogon."
+    },
+    {
+      "date": "2021-04",
+      "event": "Demonstrated the 'ProxyShell' Exchange Server pre-authentication RCE chain at Pwn2Own Vancouver."
+    },
+    {
+      "date": "2021-08-05",
+      "event": "Presented 'ProxyLogon is Just the Tip of the Iceberg' at Black Hat USA 2021; the research won a 2021 Pwnie Award for Best Server-Side Bug."
+    },
+    {
+      "date": "2022",
+      "event": "Named Pwn2Own 'Master of Pwn' at Pwn2Own Toronto."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "About | Orange Tsai (official blog bio)",
+      "url": "https://blog.orange.tw/about/"
+    },
+    {
+      "title": "ProxyLogon - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ProxyLogon"
+    },
+    {
+      "title": "From Pwn2Own 2021: A New Attack Surface on Microsoft Exchange - ProxyShell! - Zero Day Initiative",
+      "url": "https://www.thezdi.com/blog/2021/8/17/from-pwn2own-2021-a-new-attack-surface-on-microsoft-exchange-proxyshell"
+    },
+    {
+      "title": "ProxyLogon is Just the Tip of the Iceberg (Black Hat USA 2021 handout PDF)",
+      "url": "https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-ProxyLogon-Is-Just-The-Tip-Of-The-Iceberg-A-New-Attack-Surface-On-Microsoft-Exchange-Server.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Orange Tsai",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Principal security researcher at DEVCORE, Taiwan",
+    "DEVCORE's January 2021 report to Microsoft of the Exchange Server flaws later dubbed ProxyLogon",
+    "Development of the related 'ProxyShell' Exchange Server pre-auth RCE chain, demonstrated at Pwn2Own 2021",
+    "Multiple Pwn2Own 'Master of Pwn' titles",
+    "Pwnie Award wins for 'Best Server-Side Bug' (2019, 2021)",
+    "Black Hat/DEF CON research on SSRF via URL-parser inconsistencies and path-normalization/parser-logic bugs"
+  ]
+}

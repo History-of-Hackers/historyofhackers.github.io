@@ -73,7 +73,7 @@ not use this list to justify skipping verification.
 | Elias Levy ("Aleph One") | "Smashing the Stack for Fun and Profit," Bugtraq moderator | Exploit Development |
 | Dave Aitel | Immunity Inc. founder, former NSA | Exploit Development |
 | Dino Dai Zovi | Early Mac OS X exploitation research, Pwn2Own | Exploit Development |
-| Natalie Silvanovich | Google Project Zero, messaging-app/baseband vulnerability research | Vulnerability Research |
+| Natalie Silvanovich | PUBLISHED — Google Project Zero, zero-click iMessage/messaging-app vulnerability research. See `data/people/natalie-silvanovich.json` | Vulnerability Research |
 | James Forshaw | Google Project Zero, Windows security research, "Attacking Network Protocols" author | Vulnerability Research |
 | Tavis Ormandy | Google Project Zero, long history of OS/sandbox vulnerability research | Vulnerability Research |
 | Jeremiah Grossman | WhiteHat Security founder, web application security research | Web Security |
@@ -83,7 +83,7 @@ not use this list to justify skipping verification.
 | Jon Erickson | Author of "Hacking: The Art of Exploitation" | Exploit Development |
 | Window Snyder | (see above) | |
 | Jennifer Granick | Security/privacy lawyer, EFF, Stanford | Policy / Law |
-| Moxie Marlinspike | Signal Protocol, Signal Messenger founder | Cryptography / Privacy |
+| Moxie Marlinspike | PUBLISHED — SSLstrip, Signal Protocol, Signal Messenger founder. See `data/people/moxie-marlinspike.json` | Cryptography / Privacy |
 | Nate Cardozo | EFF security/privacy attorney | Policy / Law |
 | Runa Sandvik | Tor Project, journalist-security work at NYT | Privacy / Anonymity |
 | Kevin Mahaffey | Lookout Mobile Security co-founder | Mobile Security |
@@ -97,18 +97,18 @@ not use this list to justify skipping verification.
 
 ### People — Europe
 
-| Candidate | Reason | Area / Country |
-|---|---|---|
-| Mikko Hyppönen | F-Secure/WithSecure malware research, Brain virus author tracking | Malware Research / Finland | See `data/people/mikko-hypponen.json` | PUBLISHED |
-| Karsten Nohl | GSM A5/1 cracking, MIFARE RFID, BadUSB, Security Research Labs founder | Telecom / Wireless / Germany | See `data/people/karsten-nohl.json` | PUBLISHED |
-| Ross Anderson | "Security Engineering" author, Cambridge academic security research, d. 2024 | Academic Security / UK | See `data/people/ross-anderson.json` | PUBLISHED |
-| Michal Zalewski ("lcamtuf") | "Silence on the Wire," afl fuzzer, long Google security research career | Fuzzing / Poland | See `data/people/michal-zalewski.json` | PUBLISHED |
+| Candidate | Reason | Area / Country | Status |
+|---|---|---|---|
+| Mikko Hyppönen | F-Secure/WithSecure malware research, Brain virus author tracking | Malware Research / Finland | See `data/people/mikko-hypponen.json` — PUBLISHED |
+| Karsten Nohl | GSM A5/1 cracking, MIFARE RFID, BadUSB, Security Research Labs founder | Telecom / Wireless / Germany | See `data/people/karsten-nohl.json` — PUBLISHED |
+| Ross Anderson | "Security Engineering" author, Cambridge academic security research, d. 2024 | Academic Security / UK | See `data/people/ross-anderson.json` — PUBLISHED |
+| Michal Zalewski ("lcamtuf") | "Silence on the Wire," afl fuzzer, long Google security research career | Fuzzing / Poland | See `data/people/michal-zalewski.json` — PUBLISHED |
 | Ralf-Philipp Weinmann | GSM baseband exploitation, mobile security research | Mobile Security / Germany-Luxembourg | TODO |
 | Adam Laurie | RFID/Bluetooth security research (Bluejacking-era work), DEF CON | Wireless / UK | TODO |
 | Felix "FX" Lindner | Phenoelit, router/embedded exploitation research | Embedded Security / Germany | TODO |
 | Jan "Starbug" Krissler | Biometric spoofing research (fingerprint/iris demos at CCC) | Biometrics / Germany | TODO |
 | Frank Rieger | CCC spokesperson, security commentary | Policy / Germany | TODO |
-| James Kettle | Burp Suite research lead, HTTP request smuggling/desync research | Web Security / UK | See `data/people/james-kettle.json` | PUBLISHED |
+| James Kettle | Burp Suite research lead, HTTP request smuggling/desync research | Web Security / UK | See `data/people/james-kettle.json` — PUBLISHED |
 | PortSwigger (Dafydd Stuttard) | Burp Suite creator | Tool Creator / UK | TODO |
 
 ### People — Asia
@@ -119,7 +119,7 @@ handle, and getting a name wrong is worse than not publishing.
 
 | Candidate | Reason | Area / Country | Status |
 |---|---|---|---|
-| Orange Tsai | DEVCORE researcher, web/application-server vulnerability research (e.g. ProxyLogon-adjacent work) | Web Security / Taiwan | RESEARCHING |
+| Orange Tsai | DEVCORE researcher, ProxyLogon/ProxyShell Exchange Server disclosures, Pwn2Own record | Web Security / Taiwan | See `data/people/orange-tsai.json` — PUBLISHED |
 | HITCON community founders | Taiwan's long-running hacker conference — verify as a **group**, not individuals, unless a specific founder is clearly documented | Conferences / Taiwan | TODO |
 
 ### Groups
@@ -135,18 +135,18 @@ handle, and getting a name wrong is worse than not publishing.
 | DEVCORE | Web security research firm (Orange Tsai's team) | Taiwan |
 | ShadowCrew | Early-2000s carding/identity-fraud forum, notable for the resulting Secret Service operation | US |
 
-### Tools (beyond the 4 already published: Nmap, Wireshark, Metasploit, John the Ripper)
+### Tools (8 published: Nmap, Wireshark, Metasploit, John the Ripper, Burp Suite, Ghidra, Mimikatz, BloodHound)
 
-| Candidate | Reason |
-|---|---|
-| Burp Suite | Dominant web-app pentesting proxy/scanner |
-| Ghidra | NSA-released reverse-engineering suite |
-| IDA Pro | Long-standing commercial disassembler/decompiler standard |
-| radare2 | Open-source reverse-engineering framework |
-| Frida | Dynamic instrumentation toolkit |
-| Mimikatz | Windows credential-extraction tool, huge impact on AD security practice |
-| BloodHound | Active Directory attack-path analysis |
-| Hashcat | GPU-accelerated password recovery |
+| Candidate | Reason | Status |
+|---|---|---|
+| Burp Suite | Dominant web-app pentesting proxy/scanner | See `data/tools/burp-suite.json` — PUBLISHED |
+| Ghidra | NSA-released reverse-engineering suite | See `data/tools/ghidra.json` — PUBLISHED |
+| Mimikatz | Windows credential-extraction tool, huge impact on AD security practice | See `data/tools/mimikatz.json` — PUBLISHED |
+| BloodHound | Active Directory attack-path analysis | See `data/tools/bloodhound.json` — PUBLISHED |
+| IDA Pro | Long-standing commercial disassembler/decompiler standard | TODO |
+| radare2 | Open-source reverse-engineering framework | TODO |
+| Frida | Dynamic instrumentation toolkit | TODO |
+| Hashcat | GPU-accelerated password recovery | TODO |
 | Aircrack-ng | Wi-Fi security auditing suite |
 | sqlmap | Automated SQL injection tool |
 | Snort | Open-source intrusion detection, Sourcefire origin |
