@@ -1,0 +1,93 @@
+{
+  "id": "uninformed",
+  "type": "publication",
+  "title": "Uninformed",
+  "slug": "uninformed",
+  "era": "2005-2008",
+  "tags": [
+    "exploitation",
+    "reverse-engineering",
+    "vulnerability-research",
+    "windows-internals",
+    "kernel-exploitation",
+    "rootkits",
+    "ezine"
+  ],
+  "summary": "Uninformed (uninformed.org) was a technical journal published from 2005 to 2008 covering exploitation techniques, reverse engineering, and low-level Windows security research, producing 10 volumes and 47 articles before going dormant.",
+  "whyThisMatters": "Uninformed (uninformed.org) was a technical journal published from 2005 to 2008 covering exploitation techniques, reverse engineering, and low-level Windows security research, producing 10 volumes and 47 articles before going dormant.",
+  "sections": {
+    "overview": "<p>Uninformed was a technical research journal hosted at uninformed.org that published in-depth papers on \"security technologies, reverse engineering, and low-level programming,\" per its own mission statement. Unlike general-audience security zines, its articles were dense, code-heavy treatments of exploitation primitives and operating-system internals, mostly focused on Windows.</p><h2>Origins</h2><p>The uninformed.org domain had an earlier life before the journal existed: Wayback Machine captures show it briefly hosting an EFF placeholder page (2002), then material associated with the \"nologin.org\" research community (2003), and by early 2005 it was the personal research page of Richard Johnson, listing papers such as \"Buffer Overflow Prevention\" and linking to nologin.org and the Metasploit Project. The multi-author journal format first appears in an archived snapshot from May 2005, presenting itself as \"Volume 1.\"</p><h2>Editors and contributors</h2><p>An archived 2006 About page names the journal's editors as \"skape,\" \"rjohnson,\" and \"trew.\" skape is Matt Miller, a well-known Windows exploitation researcher; rjohnson is Richard Johnson, the prior owner of the domain. The community centered on an IRC channel on the Compsec/SILC network tied to nologin.org. Frequent contributing authors included Skywing (Ken Johnson), bugcheck, Peter Silberman, H D Moore, and Johnny Cache, among others.</p><h2>Scope and structure</h2><p>Articles were grouped under recurring section headings including Engineering in Reverse, Exploitation Technology, Fuzzing, Rootkit Technology, Static Analysis, Machine Speak, and Wireless Technology. The journal described itself as publishing \"roughly three times a year.\"</p><h2>Notable papers</h2><p>Uninformed is best remembered for a sustained series on Windows PatchGuard (Kernel Patch Protection), including \"Bypassing PatchGuard on Windows x64\" (skape and Skywing), \"Subverting PatchGuard Version 2,\" and \"PatchGuard Reloaded: A Brief Analysis of PatchGuard Version 3\" (Skywing), which Wikipedia's Kernel Patch Protection article cites as primary documentation of how successive PatchGuard bypasses were found. Other notable articles include \"Bypassing Windows Hardware-enforced Data Execution Prevention\" (skape and Skywing), \"Preventing the Exploitation of SEH Overwrites\" (skape), \"Windows Kernel-mode Payload Fundamentals\" (bugcheck and skape), the FUTo rootkit paper (Peter Silberman and C.H.A.O.S.), \"Reducing the Effective Entropy of GS Cookies\" (skape), and a wireless driver exploitation paper co-authored by Johnny Cache, H D Moore, and skape.</p><h2>End of publication and legacy</h2><p>The final Volume 10, dated October 2008, included papers such as \"Using dual-mappings to evade automated unpackers\" (skape), \"Analyzing local privilege escalations in win32k\" (mxatone), and \"Exploiting Tomorrow's Internet Today: Penetration testing with IPv6\" (H D Moore). No new volume followed. As of recent checks, uninformed.org remains reachable over plain HTTP and still serves its final, unchanged Volume 10 index, effectively frozen since 2008 rather than formally taken down.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2003",
+      "event": "Domain uninformed.org is associated with material from the nologin.org research community (per Wayback Machine captures), prior to becoming the journal."
+    },
+    {
+      "date": "2005-03",
+      "event": "uninformed.org is Richard Johnson's personal research page, listing papers and linking to nologin.org and the Metasploit Project."
+    },
+    {
+      "date": "2005-05",
+      "event": "First archived snapshot of the multi-author journal appears, presented as \"Volume 1\" with 7 articles."
+    },
+    {
+      "date": "2006-09",
+      "event": "Volume 5 published, including skape's \"Preventing the Exploitation of SEH Overwrites.\""
+    },
+    {
+      "date": "2007-05",
+      "event": "Volume 7 published, including skape's \"Reducing the Effective Entropy of GS Cookies.\""
+    },
+    {
+      "date": "2007-09",
+      "event": "Skywing's \"PatchGuard Reloaded: A Brief Analysis of PatchGuard Version 3\" is published (per citation in Wikipedia's Kernel Patch Protection article)."
+    },
+    {
+      "date": "2008-10",
+      "event": "Final Volume 10 published (47 articles across 10 volumes total); no further volumes appear afterward."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "uninformed.org \u2014 live site, full article index (?v=all)",
+      "url": "http://uninformed.org/?v=all"
+    },
+    {
+      "title": "Wayback Machine snapshot, uninformed.org homepage, May 14, 2005 (Volume 1)",
+      "url": "http://web.archive.org/web/20050514020321/http://www.uninformed.org:80/"
+    },
+    {
+      "title": "Wayback Machine snapshot, uninformed.org, March 6, 2005 (pre-journal, Richard Johnson's page)",
+      "url": "http://web.archive.org/web/20050306043935/http://www.uninformed.org:80/"
+    },
+    {
+      "title": "Wayback Machine snapshot, uninformed.org About page, June 15, 2006 (editors: skape, rjohnson, trew)",
+      "url": "http://web.archive.org/web/20060615110720/http://www.uninformed.org:80/?o=about"
+    },
+    {
+      "title": "Wayback Machine snapshot, uninformed.org homepage, October 15, 2008 (Volume 10, final)",
+      "url": "http://web.archive.org/web/20081015181255/http://uninformed.org:80/?"
+    },
+    {
+      "title": "Matt Miller (skape) personal site \u2014 publication list including Uninformed papers",
+      "url": "https://www.hick.org/~mmiller/"
+    },
+    {
+      "title": "Wikipedia \u2014 Kernel Patch Protection (cites Uninformed PatchGuard papers)",
+      "url": "https://en.wikipedia.org/wiki/Kernel_Patch_Protection"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 7,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

@@ -694,6 +694,24 @@
     "url": "people/katie-moussouris.html"
   },
   {
+    "id": "kevin-mahaffey",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Kevin Mahaffey",
+    "slug": "kevin-mahaffey",
+    "era": "2009-Present",
+    "tags": [
+      "cybersecurity",
+      "mobile security",
+      "Lookout",
+      "vulnerability research",
+      "car hacking",
+      "angel investor"
+    ],
+    "summary": "Kevin Mahaffey is a cybersecurity entrepreneur and researcher best known as co-founder and CTO of Lookout, the mobile security company, and for co-discovering critical remote-exploit vulnerabilities in the Tesla Model S alongside researcher Marc Rogers in 2015.",
+    "url": "people/kevin-mahaffey.html"
+  },
+  {
     "id": "kevin-mitnick-complete-history",
     "type": "person",
     "typeLabel": "Person",
@@ -927,6 +945,26 @@
     ],
     "summary": "Nate Cardozo is an American attorney who spent about six and a half years as a Senior Staff Attorney at the Electronic Frontier Foundation, where he worked on encryption policy, government surveillance oversight, and coders' rights, before moving into privacy roles at WhatsApp/Facebook and later Google.",
     "url": "people/nate-cardozo.html"
+  },
+  {
+    "id": "nicolas-waisman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Nicolas Waisman",
+    "slug": "nicolas-waisman",
+    "era": "2004-Present",
+    "tags": [
+      "exploit development",
+      "Argentina",
+      "Immunity Inc.",
+      "heap exploitation",
+      "Infiltrate conference",
+      "ekoparty",
+      "Black Hat",
+      "GitHub Security Lab"
+    ],
+    "summary": "Nicolas \"Nico\" Waisman is an Argentine security researcher who spent over a decade at Immunity, Inc. \u2014 rising to Vice President of Latin America \u2014 where he built a reputation as a globally recognized heap-exploitation expert, later contributing to GitHub's Security Lab research team.",
+    "url": "people/nicolas-waisman.html"
   },
   {
     "id": "orange-tsai",
@@ -2214,41 +2252,166 @@
     "url": "fields/responsible-disclosure.html"
   },
   {
-    "id": "kevin-mahaffey",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Kevin Mahaffey",
-    "slug": "kevin-mahaffey",
-    "era": "2009-Present",
+    "id": "cypherpunks-mailing-list",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "Cypherpunks",
+    "slug": "cypherpunks-mailing-list",
+    "era": "1992-Present",
     "tags": [
-      "cybersecurity",
-      "mobile security",
-      "Lookout",
-      "vulnerability research",
-      "car hacking",
-      "angel investor"
+      "cryptography",
+      "privacy",
+      "mailing-list",
+      "PGP",
+      "crypto-wars",
+      "remailers",
+      "bitcoin-precursor",
+      "digital-rights"
     ],
-    "summary": "Kevin Mahaffey is a cybersecurity entrepreneur and researcher best known as co-founder and CTO of Lookout, the mobile security company, and for co-discovering critical remote-exploit vulnerabilities in the Tesla Model S alongside researcher Marc Rogers in 2015.",
-    "url": "people/kevin-mahaffey.html"
+    "summary": "The Cypherpunks were an informal collective and mailing list founded in 1992 by Eric Hughes, Timothy C. May, and John Gilmore to promote privacy through cryptography, whose members' code, essays, and debates shaped PGP adoption, the Crypto Wars, and the ideological groundwork for Bitcoin.",
+    "url": "groups/cypherpunks-mailing-list.html"
   },
   {
-    "id": "nicolas-waisman",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Nicolas Waisman",
-    "slug": "nicolas-waisman",
-    "era": "2004-Present",
+    "id": "devcore",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "DEVCORE",
+    "slug": "devcore",
+    "era": "2012-Present",
     "tags": [
-      "exploit development",
-      "Argentina",
-      "Immunity Inc.",
-      "heap exploitation",
-      "Infiltrate conference",
-      "ekoparty",
-      "Black Hat",
-      "GitHub Security Lab"
+      "taiwan",
+      "company",
+      "red-team",
+      "penetration-testing",
+      "microsoft-exchange",
+      "proxylogon",
+      "proxyshell",
+      "pwn2own",
+      "vulnerability-research",
+      "white-hat"
     ],
-    "summary": "Nicolas \"Nico\" Waisman is an Argentine security researcher who spent over a decade at Immunity, Inc. \u2014 rising to Vice President of Latin America \u2014 where he built a reputation as a globally recognized heap-exploitation expert, later contributing to GitHub's Security Lab research team.",
-    "url": "people/nicolas-waisman.html"
+    "summary": "DEVCORE (\u6234\u592b\u5bc7\u723e) is a Taipei-based offensive-security firm founded in 2012 as Taiwan's first company to offer red-team exercises, whose research bench \u2014 not just Orange Tsai \u2014 has produced hundreds of CVEs, the ProxyLogon/ProxyShell Exchange Server disclosures, and repeated Pwn2Own titles.",
+    "url": "groups/devcore.html"
+  },
+  {
+    "id": "keen-security-lab",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "Keen Security Lab",
+    "slug": "keen-security-lab",
+    "era": "2016-Present",
+    "tags": [
+      "automotive-security",
+      "connected-car",
+      "china",
+      "tencent",
+      "vulnerability-research",
+      "iot",
+      "vehicle-hacking"
+    ],
+    "summary": "Tencent Keen Security Lab is a China-based vulnerability research team best known for a series of published remote and physical attacks against Tesla, BMW, Mercedes-Benz, and Lexus vehicles, disclosed responsibly to manufacturers between 2016 and 2021.",
+    "url": "groups/keen-security-lab.html"
+  },
+  {
+    "id": "lulzsec",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "LulzSec",
+    "slug": "lulzsec",
+    "era": "2011",
+    "tags": [
+      "LulzSec",
+      "hacktivism",
+      "Anonymous",
+      "AntiSec",
+      "data breach",
+      "DDoS",
+      "Sabu",
+      "FBI informant",
+      "Sony breach",
+      "PBS breach",
+      "gray hat",
+      "2011"
+    ],
+    "summary": "LulzSec (Lulz Security) was a short-lived hacktivist collective active from May to June 2011, loosely linked to Anonymous, that carried out a rapid string of high-profile breaches and DDoS attacks against Sony, PBS, Fox, InfraGard, Arizona DPS, and others before publicly disbanding after 50 days.",
+    "url": "groups/lulzsec.html"
+  },
+  {
+    "id": "phone-losers-of-america",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "Phone Losers of America",
+    "slug": "phone-losers-of-america",
+    "era": "1994-Present",
+    "tags": [
+      "phone phreaking",
+      "prank calls",
+      "hacking zine",
+      "BBS culture",
+      "podcast",
+      "internet culture",
+      "unauthorized computer access case"
+    ],
+    "summary": "Phone Losers of America (PLA) is a long-running phone phreaking and prank-call community founded in 1994 by Brad Carter (also known online as RBCP) and a collaborator known as Zak (el_jefe), which grew from a photocopied hacking zine into an internet radio show and podcast still active today.",
+    "url": "groups/phone-losers-of-america.html"
+  },
+  {
+    "id": "project-zero",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "Project Zero",
+    "slug": "project-zero",
+    "era": "2014-Present",
+    "tags": [
+      "Google",
+      "vulnerability research",
+      "zero-day",
+      "bug bounty",
+      "responsible disclosure",
+      "security team",
+      "white hat",
+      "organization"
+    ],
+    "summary": "Project Zero is a team of security researchers employed by Google, founded in 2014 to find and privately report zero-day vulnerabilities in any software, not just Google's own, under a public 90-day disclosure deadline.",
+    "url": "groups/project-zero.html"
+  },
+  {
+    "id": "shadowcrew",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "ShadowCrew",
+    "slug": "shadowcrew",
+    "era": "2002-2004",
+    "tags": [
+      "carding",
+      "identity theft",
+      "credit card fraud",
+      "cybercrime forum",
+      "Operation Firewall",
+      "U.S. Secret Service",
+      "Albert Gonzalez",
+      "law enforcement investigation"
+    ],
+    "summary": "ShadowCrew was an online carding and identity-fraud forum active from 2002 to 2004 whose members traded stolen credit card data, forged documents, and hacking tutorials; it was dismantled in October 2004 by the U.S. Secret Service's Operation Firewall, which led to 19 federal indictments and later revealed that a top member, Albert Gonzalez, had been a cooperating government informant.",
+    "url": "groups/shadowcrew.html"
+  },
+  {
+    "id": "uninformed",
+    "type": "publication",
+    "typeLabel": "Publication",
+    "title": "Uninformed",
+    "slug": "uninformed",
+    "era": "2005-2008",
+    "tags": [
+      "exploitation",
+      "reverse-engineering",
+      "vulnerability-research",
+      "windows-internals",
+      "kernel-exploitation",
+      "rootkits",
+      "ezine"
+    ],
+    "summary": "Uninformed (uninformed.org) was a technical journal published from 2005 to 2008 covering exploitation techniques, reverse engineering, and low-level Windows security research, producing 10 volumes and 47 articles before going dormant.",
+    "url": "publications/uninformed.html"
   }
 ]

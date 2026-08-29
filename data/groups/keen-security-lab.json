@@ -1,0 +1,113 @@
+{
+  "id": "keen-security-lab",
+  "type": "group",
+  "title": "Keen Security Lab",
+  "slug": "keen-security-lab",
+  "era": "2016-Present",
+  "tags": [
+    "automotive-security",
+    "connected-car",
+    "china",
+    "tencent",
+    "vulnerability-research",
+    "iot",
+    "vehicle-hacking"
+  ],
+  "summary": "Tencent Keen Security Lab is a China-based vulnerability research team best known for a series of published remote and physical attacks against Tesla, BMW, Mercedes-Benz, and Lexus vehicles, disclosed responsibly to manufacturers between 2016 and 2021.",
+  "whyThisMatters": "Tencent Keen Security Lab is a China-based vulnerability research team best known for a series of published remote and physical attacks against Tesla, BMW, Mercedes-Benz, and Lexus vehicles, disclosed responsibly to manufacturers between 2016 and 2021.",
+  "sections": {
+    "overview": "<p>Keen Security Lab is a vulnerability research team operated by Tencent, the Chinese technology conglomerate. Originally known as Keen Team before its acquisition by Tencent, the lab built a reputation in browser and mobile exploitation before becoming one of the most prolific publishers of automotive and connected-vehicle security research in the world.</p><h2>Tesla Research</h2><p>Keen Security Lab's first major automotive disclosure came on September 19, 2016, when it published research demonstrating remote control of a Tesla Model S \u2014 both parked and while driving \u2014 without physical access to the vehicle, by compromising the car's CAN bus through a chain of vulnerabilities. The findings were reported to Tesla's product security team, which confirmed and patched the issues; Tesla publicly credited the lab.</p><p>The lab returned to Tesla research repeatedly. On March 29, 2019, it published \"Experimental Security Research of Tesla Autopilot,\" showing that adversarial physical-world stickers could trick Tesla's computer-vision-based lane recognition into steering a vehicle into the reverse lane, that similarly crafted visual patterns could falsely trigger the automatic wipers, and that after compromising a Model S (firmware 2018.6.1) the team could take over the electric power steering via a wireless gamepad even with Autopilot disengaged. Tesla responded that the wiper scenario involved a beta feature and that the steering-related issues had already been addressed in prior security updates.</p><p>On January 2, 2020, Keen Security Lab disclosed \"Exploiting Wi-Fi Stack on Tesla Model S,\" detailing two vulnerabilities in the vehicle's Parrot Wi-Fi module (Marvell 88W8688 chipset): a heap overflow in the firmware's 802.11e WMM (ADDTS) frame handling, and a stack buffer overflow in the Linux Marvell Wi-Fi driver's HostCmd_CMD_GET_MEM response handling, together enabling remote code execution over Wi-Fi with roughly a 10% success rate in testing. The issues were reported to Tesla in March 2019, assigned CVE-2019-13581 and CVE-2019-13582, patched in firmware 2019.36.2+, and disclosed publicly in January 2020.</p><h2>BMW Research</h2><p>On May 22, 2018, the lab published \"Experimental Security Assessment of BMW Cars,\" the result of research begun in January 2017. It documented 14 vulnerabilities, 7 of which received CVE identifiers, spanning BMW head units (i, X, 3, 5, and 7 Series), Telematics Control Units (models from 2012 onward), and Central Gateway Modules. Attack surfaces included the BMW ConnectedDrive system, GSM connectivity, remote diagnosis functions, Bluetooth, USB, and OBD-II. The findings were reported to BMW on February 25, 2018, confirmed by BMW on March 9, 2018, and CVEs were reserved by April 5, 2018; BMW began deploying remote and dealer-network software fixes starting in mid-April 2018.</p><h2>Other Automotive and Non-Automotive Work</h2><p>Keen Security Lab also published assessments of Lexus AVN infotainment systems (March 30, 2020) and Mercedes-Benz's MBUX infotainment platform (May 12, 2021). Outside the automotive space, the lab is known for earlier work on browser and virtualization security, including VMware guest-to-host escape research (April 2018) and iOS Multipath TCP exploitation (July 2018), and it hosted the TenSec international security conference in 2018 and 2019.</p><p><em>Note: some secondary details (exact vulnerability counts, model-year scope, and success-rate figures) are drawn from the lab's own published summaries; the Lexus and Mercedes-Benz reports are sourced only from the lab's own site listing and have not been independently cross-checked against outside press coverage in this research pass.</em></p>"
+  },
+  "timeline": [
+    {
+      "date": "2016-09-19",
+      "event": "Keen Security Lab publishes research demonstrating remote control of a Tesla Model S (parked and while driving) via a CAN bus compromise; Tesla confirms and patches the vulnerabilities."
+    },
+    {
+      "date": "2017-01",
+      "event": "Research into BMW connected vehicle systems begins."
+    },
+    {
+      "date": "2018-02-25",
+      "event": "BMW vulnerability findings reported to BMW."
+    },
+    {
+      "date": "2018-03-09",
+      "event": "BMW confirms all reported findings."
+    },
+    {
+      "date": "2018-04-05",
+      "event": "CVE numbers reserved for BMW vulnerabilities."
+    },
+    {
+      "date": "2018-04",
+      "event": "Keen Security Lab publishes VMware guest-to-host escape research."
+    },
+    {
+      "date": "2018-05-22",
+      "event": "\"Experimental Security Assessment of BMW Cars\" publicly released, detailing 14 vulnerabilities (7 with CVEs) across BMW head units, TCUs, and gateway modules."
+    },
+    {
+      "date": "2018-07",
+      "event": "Publication of iOS Multipath TCP exploitation research."
+    },
+    {
+      "date": "2019-03",
+      "event": "Tesla Model S Wi-Fi module vulnerabilities reported to Tesla."
+    },
+    {
+      "date": "2019-03-29",
+      "event": "\"Experimental Security Research of Tesla Autopilot\" published, covering adversarial lane-recognition and auto-wiper attacks and gamepad-based steering takeover."
+    },
+    {
+      "date": "2019-11",
+      "event": "CVE-2019-13581 and CVE-2019-13582 assigned for Tesla Wi-Fi module vulnerabilities."
+    },
+    {
+      "date": "2020-01-02",
+      "event": "\"Exploiting Wi-Fi Stack on Tesla Model S\" published, detailing remote code execution via the Parrot Wi-Fi module."
+    },
+    {
+      "date": "2020-03-30",
+      "event": "\"Experimental Security Assessment on Lexus Cars\" published."
+    },
+    {
+      "date": "2021-05-12",
+      "event": "\"Experimental Security Assessment of Mercedes-Benz Cars\" published, covering the MBUX infotainment system."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Keen Security Lab of Tencent Car Hacking Research: Remote Attack to Tesla Cars",
+      "url": "https://keenlab.tencent.com/en/2016/09/19/Keen-Security-Lab-of-Tencent-Car-Hacking-Research-Remote-Attack-to-Tesla-Cars/"
+    },
+    {
+      "title": "New Car Hacking Research: 2018, Experimental Security Assessment of BMW Cars",
+      "url": "https://keenlab.tencent.com/en/2018/05/22/New-CarHacking-Research-by-KeenLab-Experimental-Security-Assessment-of-BMW-Cars/"
+    },
+    {
+      "title": "Experimental Security Research of Tesla Autopilot",
+      "url": "https://keenlab.tencent.com/en/2019/03/29/Tencent-Keen-Security-Lab-Experimental-Security-Research-of-Tesla-Autopilot/"
+    },
+    {
+      "title": "Exploiting Wi-Fi Stack on Tesla Model S",
+      "url": "https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/"
+    },
+    {
+      "title": "Keen Security Lab home / blog index",
+      "url": "https://keenlab.tencent.com/en/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 5,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

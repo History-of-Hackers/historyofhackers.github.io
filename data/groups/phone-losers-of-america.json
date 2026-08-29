@@ -1,0 +1,125 @@
+{
+  "id": "phone-losers-of-america",
+  "type": "group",
+  "title": "Phone Losers of America",
+  "slug": "phone-losers-of-america",
+  "era": "1994-Present",
+  "tags": [
+    "phone phreaking",
+    "prank calls",
+    "hacking zine",
+    "BBS culture",
+    "podcast",
+    "internet culture",
+    "unauthorized computer access case"
+  ],
+  "summary": "Phone Losers of America (PLA) is a long-running phone phreaking and prank-call community founded in 1994 by Brad Carter (also known online as RBCP) and a collaborator known as Zak (el_jefe), which grew from a photocopied hacking zine into an internet radio show and podcast still active today.",
+  "whyThisMatters": "Phone Losers of America (PLA) is a long-running phone phreaking and prank-call community founded in 1994 by Brad Carter (also known online as RBCP) and a collaborator known as Zak (el_jefe), which grew from a photocopied hacking zine into an internet radio show and podcast still active today.",
+  "sections": {
+    "overview": "<p>Phone Losers of America (PLA) is an internet prank-call and phone-phreaking community founded in 1994 by Brad Carter, who used the handle RBCP, together with a collaborator known online as Zak (el_jefe). What began as a homemade zine mixing phreaking tutorials with comedic content became one of the longest-running fixtures of prank-call and phreak culture, eventually migrating to internet radio, podcasting, and video.</p><h2>Zine Era (1994-1997)</h2><p>Between 1994 and 1997, PLA published 46 issues of its zine, describing them as \"informative and comedic computer hacking files.\" Carter wrote several issues while traveling from Illinois to Corpus Christi, Texas, and later ran a bulletin board system called Whombat Communications to distribute additional issues. In 1995, Zak and another member using the handle Apok0lyps pooled money to start a business in Granite City, Illinois, which is associated with the later founding of the internet service provider spiff.net, per an OECD document from 1997 cited in PLA's own history.</p><h2>Radio, Podcasts, and Prank Calls</h2><p>PLA's activities shifted from print to audio in the 2000s. In 2002, Carter launched an internet radio station called PLA Radio, followed by a podcast of the same name in 2006. After 29 episodes, Carter started a new prank-call podcast, The Snow Plow Show, in 2012, which remains active. PLA also maintains an archive of vintage answering-machine messages and a USA payphone directory. In August 2015, the Columbia Daily Tribune covered PLA prank calls targeting people who had signed a petition related to a College Avenue road project; an FBI representative quoted in that story said such prank calls \"would likely be prosecuted on the local level\" rather than federally.</p><h2>The Safeway Case</h2><p>PLA's activities drew more serious legal consequences in the mid-2010s. In early November 2016, Carter reported that the FBI raided his recording studio, seizing equipment in connection with unauthorized access to Safeway customer account data that had reportedly been used in his prank content. A plea agreement in United States v. Bradley Carter was filed June 16, 2017, and KOIN reported on July 12, 2017 that Carter was due in federal court. On October 16, 2017, Judge Marco A. Hernandez sentenced Carter to eight months of home detention and five years of probation, and ordered him to pay $19,600 in restitution to Safeway.</p><h2>Legacy</h2><p>Despite the criminal case, PLA has continued operating, and its Snow Plow Show podcast was still being produced as of recent years. The group is frequently cited in retrospectives on phreaking and prank-call culture, including a 2018 Vice/Motherboard piece on the history of ringtones and answering-machine customization, and academic/legal texts on unlawful computer access such as \"Electronic Theft: Unlawful Acquisition in Cyberspace\" and \"Unified Communications Forensics.\" Note: some community references describe Carter using additional nicknames such as \"Bill from RNOC\" or \"Fooj,\" but these could not be independently verified against the sources consulted for this entry and should be treated as unconfirmed.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1994",
+      "event": "Phone Losers of America founded by Brad Carter (RBCP) and a collaborator known as Zak (el_jefe); PLA begins publishing a phreaking/hacking zine."
+    },
+    {
+      "date": "1994-1997",
+      "event": "PLA publishes 46 issues of its zine; Carter also runs the Whombat Communications BBS to distribute issues."
+    },
+    {
+      "date": "1995",
+      "event": "Zak and a member known as Apok0lyps start a business in Granite City, Illinois, later associated with the founding of the ISP spiff.net (per a 1997 OECD document cited by PLA's own history page)."
+    },
+    {
+      "date": "2002",
+      "event": "PLA launches an internet-based radio station, PLA Radio."
+    },
+    {
+      "date": "2006",
+      "event": "PLA Radio relaunches as a podcast."
+    },
+    {
+      "date": "2012",
+      "event": "After 29 episodes of PLA Radio, Carter launches a new prank-call podcast, The Snow Plow Show, which remains active."
+    },
+    {
+      "date": "2015-08",
+      "event": "The Columbia Daily Tribune covers PLA prank calls made to people who had signed a petition about a College Avenue project in Columbia, Missouri; an FBI representative is quoted saying such calls would likely only be prosecuted locally."
+    },
+    {
+      "date": "2016-11",
+      "event": "The FBI raids Brad Carter's recording studio, seizing equipment related to unauthorized access of Safeway customer account data."
+    },
+    {
+      "date": "2017-06-16",
+      "event": "A plea agreement is filed in United States v. Bradley Carter."
+    },
+    {
+      "date": "2017-07-12",
+      "event": "KOIN 6 News reports that Carter is scheduled to appear in federal court on the Safeway-related charges."
+    },
+    {
+      "date": "2017-10-16",
+      "event": "Judge Marco A. Hernandez sentences Carter to eight months of home detention and five years of probation, and orders $19,600 in restitution to Safeway."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Phone Losers of America - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phone_Losers_of_America"
+    },
+    {
+      "title": "Phone Losers of America - Official History page",
+      "url": "https://phonelosers.com/history/"
+    },
+    {
+      "title": "Phone Losers of America - Zine archive (Issues 1-46)",
+      "url": "https://phonelosers.com/zine/"
+    },
+    {
+      "title": "Phone Losers of America - PLA Radio",
+      "url": "https://phonelosers.com/radio/"
+    },
+    {
+      "title": "The Snow Plow Show - About",
+      "url": "https://www.snowplowshow.com/about/"
+    },
+    {
+      "title": "KBIA/University of Missouri - \"Putting Columbia's Payphone Mystery to Rest\"",
+      "url": "http://apps.kbia.org/putting-payphone-to-rest/"
+    },
+    {
+      "title": "Columbia Daily Tribune - \"Strange calls about College Avenue project were YouTube prank\"",
+      "url": "http://www.columbiatribune.com/news/local/strange-calls-about-college-avenue-project-were-youtube-prank/article_00ce3c03-7a49-570f-ba55-796d74e9783b.html"
+    },
+    {
+      "title": "KOIN 6 News - \"Accused hacker to appear in federal court\"",
+      "url": "http://koin.com/2017/07/12/accused-hacker-to-appear-in-federal-court/"
+    },
+    {
+      "title": "Scribd - United States v. Bradley Carter, Plea Agreement (June 16, 2017)",
+      "url": "https://www.scribd.com/document/354326452/United-States-v-Bradley-Carter-Plea-Agreement-Letter"
+    },
+    {
+      "title": "OregonLive - \"Prank calls to Safeway customers backfire on Youtube blogger\" (Oct 16, 2017)",
+      "url": "http://www.oregonlive.com/portland/index.ssf/2017/10/prank_calls_to_safeway_custome.html"
+    },
+    {
+      "title": "Vice/Motherboard - \"How Did Our Default Ringtones Become So Grating?\"",
+      "url": "https://www.vice.com/en/article/where-did-ringtones-come-from/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 11,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}
