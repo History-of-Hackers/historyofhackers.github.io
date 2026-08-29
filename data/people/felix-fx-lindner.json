@@ -1,0 +1,105 @@
+{
+  "id": "felix-fx-lindner",
+  "type": "person",
+  "title": "Felix \"FX\" Lindner",
+  "slug": "felix-fx-lindner",
+  "era": "1990s-2026",
+  "tags": [
+    "Phenoelit",
+    "Cisco IOS",
+    "router exploitation",
+    "Recurity Labs",
+    "Germany",
+    "CCC"
+  ],
+  "summary": "Felix \"FX\" Lindner was a German security researcher and founder of the Phenoelit hacking group, best known as a pioneer of Cisco IOS and embedded-router exploitation research, and later founder of the Berlin-based security firm Recurity Labs.",
+  "whyThisMatters": "Felix \"FX\" Lindner was a German security researcher and founder of the Phenoelit hacking group, best known as a pioneer of Cisco IOS and embedded-router exploitation research, and later founder of the Berlin-based security firm Recurity Labs.",
+  "sections": {
+    "overview": "<p>Felix \"FX\" Lindner was a German security researcher whose work through the group Phenoelit made him one of the earliest and most influential researchers into the security of Cisco IOS and other embedded networking equipment, at a time when router and switch firmware was widely assumed to be out of reach for practical attack research.</p><h2>Phenoelit and Early Router Research</h2><p>Lindner founded Phenoelit, a hacking and research group based in Berlin, in the late 1990s. The group became known for systematically probing the security of networking infrastructure that most of the industry treated as a black box, including Cisco IOS, HP printers, and other embedded devices. Phenoelit released the IRPAS (Internetwork Routing Protocol Attack Suite), a toolkit for testing and attacking routing protocols such as HSRP, CDP, and IGRP, which became a reference tool in network penetration testing. Lindner is also associated with cd00r.c, a widely circulated proof-of-concept for a port-knocking-style invisible backdoor, originally written by another researcher and popularized and discussed extensively within the German and international hacking scene that Phenoelit was part of.</p><h2>Cisco IOS Exploitation Talks</h2><p>Beginning in the early 2000s, FX presented a series of talks at Black Hat, DEF CON, and the Chaos Communication Congress (CCC) demonstrating practical exploitation techniques against Cisco IOS, challenging the prevailing assumption that router firmware was too obscure or too reliable to be exploited like conventional software. These talks are widely credited with helping establish embedded and network-device exploitation as a recognized subfield of vulnerability research.</p><h2>Recurity Labs</h2><p>In 2006, Lindner founded Recurity Labs GmbH, a Berlin-based security research and consulting company, where he continued research into reverse engineering, code auditing, and embedded systems security. Under Recurity Labs he developed Blitzableiter (German for \"lightning rod\"), a tool designed to sanitize and hardened Adobe Flash (SWF) files against exploitation of parser vulnerabilities, presented at Black Hat in 2009.</p><h2>Community Role and Recognition</h2><p>From 2003 to 2011, Lindner organized pH-Neutral, an invitation-oriented hacker gathering held periodically in Berlin that brought together researchers from the international vulnerability-research community outside the format of formal conferences. He remained a recurring speaker at the Chaos Communication Congress across multiple years. In 2017, Lindner received the Pwnie Award for Lifetime Achievement, recognizing his sustained contributions to offensive security research.</p><h2>Death</h2><p>Felix Lindner died on March 1, 2026. His death was publicly announced by his company, Recurity Labs, in a tribute published on the company's blog, which described his role in founding the firm and his standing in the security research community.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1990s",
+      "event": "Founded Phenoelit, a Berlin-based hacking and security research group."
+    },
+    {
+      "date": "2000",
+      "event": "Began presenting research on Cisco IOS and embedded-device security at hacker and security conferences."
+    },
+    {
+      "date": "2002",
+      "event": "Presented Cisco IOS exploitation research at Black Hat and DEF CON, alongside Phenoelit's continued CCC talks."
+    },
+    {
+      "date": "2003",
+      "event": "Began organizing pH-Neutral, a recurring hacker gathering in Berlin, running through 2011."
+    },
+    {
+      "date": "2006",
+      "event": "Founded Recurity Labs GmbH, a Berlin-based security research and consulting company."
+    },
+    {
+      "date": "2009",
+      "event": "Presented Blitzableiter, a hardening tool for Adobe Flash file parsing, at Black Hat."
+    },
+    {
+      "date": "2017",
+      "event": "Received the Pwnie Award for Lifetime Achievement."
+    },
+    {
+      "date": "2026-03-01",
+      "event": "Died; his death was announced publicly by Recurity Labs."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "FX (Felix Lindner) - German Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/FX_(Hacker)"
+    },
+    {
+      "title": "Phrack Prophile on FX",
+      "url": "http://phrack.org/issues/63/12.html"
+    },
+    {
+      "title": "Recurity Labs - Farewell, Felix (company tribute blog post)",
+      "url": "https://www.recurity-labs.com/"
+    },
+    {
+      "title": "Chaos Communication Congress speaker archive - FX",
+      "url": "https://media.ccc.de/search?q=FX"
+    },
+    {
+      "title": "heise.de - Pwnie Award coverage",
+      "url": "https://www.heise.de/"
+    },
+    {
+      "title": "Black Hat speaker archive - Felix Lindner",
+      "url": "https://www.blackhat.com/html/archives.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 6,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Felix \"FX\" Lindner",
+  "born": null,
+  "died": "2026-03-01",
+  "knownFor": [
+    "Founder of Phenoelit, a Berlin-based hacking/research group active from the late 1990s",
+    "Pioneer of Cisco IOS and router/embedded-device exploitation research",
+    "Co-author of the IRPAS (Internetwork Routing Protocol Attack Suite) toolkit",
+    "Author of the cd00r.c invisible-backdoor proof-of-concept popularized within the scene",
+    "Founder of Recurity Labs GmbH (2006), a Berlin security research and consulting firm",
+    "Creator of Blitzableiter, a hardening tool for Adobe Flash file parsing",
+    "Organizer of the pH-Neutral hacker gathering (2003-2011)",
+    "Recipient of the 2017 Pwnie Award for Lifetime Achievement"
+  ]
+}

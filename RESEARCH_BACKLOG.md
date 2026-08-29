@@ -111,7 +111,7 @@ not use this list to justify skipping verification.
 | Michal Zalewski ("lcamtuf") | "Silence on the Wire," afl fuzzer, long Google security research career | Fuzzing / Poland | See `data/people/michal-zalewski.json` — PUBLISHED |
 | Ralf-Philipp Weinmann | GSM baseband exploitation, mobile security research | Mobile Security / Germany-Luxembourg | TODO |
 | Adam Laurie | RFID/Bluetooth security research (Bluejacking-era work), DEF CON | Wireless / UK | TODO |
-| Felix "FX" Lindner | Phenoelit, router/embedded exploitation research | Embedded Security / Germany | TODO |
+| Felix "FX" Lindner | Phenoelit, router/embedded exploitation research | Embedded Security / Germany | PUBLISHED — see data/people/felix-fx-lindner.json |
 | Jan "Starbug" Krissler | Biometric spoofing research (Touch ID, iris, fingerprint reconstruction from photos) | Biometrics / Germany | See `data/people/jan-krissler.json` — PUBLISHED |
 | Frank Rieger | CCC spokesperson, security commentary | Policy / Germany | TODO |
 | James Kettle | Burp Suite research lead, HTTP request smuggling/desync research | Web Security / UK | See `data/people/james-kettle.json` — PUBLISHED |
