@@ -1,0 +1,107 @@
+{
+  "id": "rain-forest-puppy",
+  "type": "person",
+  "title": "Rain Forest Puppy",
+  "slug": "rain-forest-puppy",
+  "era": "1998-2002",
+  "tags": [
+    "security-research",
+    "sql-injection",
+    "vulnerability-disclosure",
+    "phrack",
+    "hacker-culture",
+    "pseudonymous",
+    "1990s",
+    "2000s"
+  ],
+  "summary": "Rain Forest Puppy (rfp) was the pseudonym of a security researcher who published one of the earliest widely-read technical descriptions of SQL injection, built the Whisker web-vulnerability scanner, and proposed RFPolicy, an early formal framework for coordinating vulnerability disclosure with vendors.",
+  "whyThisMatters": "Rain Forest Puppy (rfp) was the pseudonym of a security researcher who published one of the earliest widely-read technical descriptions of SQL injection, built the Whisker web-vulnerability scanner, and proposed RFPolicy, an early formal framework for coordinating vulnerability disclosure with vendors.",
+  "sections": {
+    "overview": "<p>\"Rain Forest Puppy\" (commonly abbreviated <strong>rfp</strong>, and signing technical papers as <em>rain.forest.puppy</em>) was the pseudonym of a security researcher active in the web-application-security scene of the late 1990s and early 2000s. Writing under this handle, rfp published some of the earliest widely circulated public documentation of SQL injection, built one of the first dedicated web-vulnerability scanners, and proposed one of the first formal frameworks for coordinating vulnerability disclosure with software vendors.</p><h2>Early SQL injection research</h2><p>On December 25, 1998, Phrack Magazine published rfp's article \"NT Web Technology Vulnerabilities\" (Phrack issue 54, article 8), signed only \"by rain.forest.puppy / [WT] <rfp@wiretrip.net>.\" Alongside a survey of IIS, FrontPage, .HTR, and ColdFusion sample-application flaws, the article described in detail how attackers could \"piggyback\" additional SQL commands into unquoted numeric parameters passed to Microsoft SQL Server 6.5 through .IDC and .ASP pages \u2014 one of the earliest public, technical descriptions of what became known as SQL injection. rfp returned to related input-handling problems the following year with \"Perl CGI problems\" (Phrack issue 55, article 7, September 9, 1999), examining null-termination issues in Perl-based CGI scripts.</p><h2>Whisker</h2><p>rfp also authored Whisker, a command-line tool that checked web servers against a large, regularly updated list of known vulnerabilities and misconfigurations, making it one of the earlier dedicated web-vulnerability scanners; a 2002 profile also described it as \"an anti-IDS Web scanning tool.\" Version 1.4 of Whisker was co-released with the hacker group Cult of the Dead Cow (cDc) at DEF CON 8 in 2000. The project is no longer maintained.</p><h2>RFPolicy</h2><p>On June 12, 2000, rfp posted \"RFPolicy for vulnerability disclosure\" to the Bugtraq mailing list, describing a short policy (hosted at the time on wiretrip.net, and later archived in full as \"RFPolicy v2.0\") that proposed giving software vendors five working days to respond to a private vulnerability report, with public disclosure recommended if a vendor stayed silent past that window without a reasonable request for more time. The policy also asked reporters to help vendors reproduce and fix issues, and asked vendors to credit reporters when issuing advisories or patches. rfp was explicit that RFPolicy was not put forward as a mandatory community standard: \"My intent is not to push this policy onto the community,\" the Bugtraq post read; \"everyone can obviously do whatever they feel like.\" It is often cited as among the earliest formal disclosure-coordination proposals, following one attributed to the hacker \"Simple Nomad.\"</p><h2>Later activity and identity</h2><p>rfp remained active in the vulnerability-research community into the early 2000s and was among the security-industry figures involved in launching the Open Source Vulnerability Database (OSVDB), announced at Black Hat and DEF CON in August 2002.</p><p>rfp's real-world identity is <strong>unconfirmed and disputed</strong>. A 2002 profile in the Sydney Morning Herald, published after the Whisker/DEF CON 8 release, stated plainly that Rain Forest Puppy \"prefers not to have his real name published,\" indicating deliberate, ongoing anonymity as of that date. Separately, a citation on Wikipedia's SQL injection article attributes the 1998 Phrack piece to a researcher named Jeff Forristal (later known for disclosing the 2013 Android \"Master Key\" vulnerability) \u2014 but that byline does not appear in the original Phrack article itself, the attribution is not repeated in Wikipedia's own articles on RFPolicy, Whisker/Cult of the Dead Cow, or the Phrack 55 piece (all of which credit only \"Rain Forest Puppy\"), and no independent reporting or primary statement confirming this link could be found. This article therefore treats rfp as a pseudonymous persona whose real name has not been reliably, publicly documented.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1998-12-25",
+      "event": "Phrack issue 54, article 8, \"NT Web Technology Vulnerabilities,\" published under the byline rain.forest.puppy; contains one of the earliest detailed public descriptions of SQL injection."
+    },
+    {
+      "date": "1999-09-09",
+      "event": "Phrack issue 55, article 7, \"Perl CGI problems,\" published, addressing null-termination vulnerabilities in Perl CGI scripts."
+    },
+    {
+      "date": "2000",
+      "event": "Whisker version 1.4, rfp's web-vulnerability scanner, co-released with the Cult of the Dead Cow (cDc) at DEF CON 8."
+    },
+    {
+      "date": "2000-06-12",
+      "event": "RFPolicy, an early formal vulnerability-disclosure framework, announced by rfp on the Bugtraq mailing list."
+    },
+    {
+      "date": "2002-08-13",
+      "event": "Sydney Morning Herald profile describes rfp's Whisker tool and states he \"prefers not to have his real name published,\" documenting deliberate anonymity."
+    },
+    {
+      "date": "2002-08",
+      "event": "rfp among the security-industry figures who launched the Open Source Vulnerability Database (OSVDB) project at Black Hat/DEF CON."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Phrack 54, Article 8 \u2014 \"NT Web Technology Vulnerabilities\" (rain.forest.puppy, Dec. 25, 1998)",
+      "url": "https://phrack.org/issues/54/nt-web-technology-vulnerabilities.html"
+    },
+    {
+      "title": "Wikipedia \u2014 SQL injection (history and citation of the 1998 Phrack article)",
+      "url": "https://en.wikipedia.org/wiki/SQL_injection"
+    },
+    {
+      "title": "Wikipedia \u2014 Null-terminated string (citation of the 1999 Phrack 55 article)",
+      "url": "https://en.wikipedia.org/wiki/Null-terminated_string"
+    },
+    {
+      "title": "Wikipedia \u2014 RFPolicy",
+      "url": "https://en.wikipedia.org/wiki/RFPolicy"
+    },
+    {
+      "title": "Wikipedia \u2014 Cult of the Dead Cow (Whisker / DEF CON 8 release)",
+      "url": "https://en.wikipedia.org/wiki/Cult_of_the_Dead_Cow"
+    },
+    {
+      "title": "Wikipedia \u2014 Open Source Vulnerability Database",
+      "url": "https://en.wikipedia.org/wiki/Open_Source_Vulnerability_Database"
+    },
+    {
+      "title": "Bugtraq mailing list archive \u2014 \"RFPolicy for vulnerability disclosure,\" rain forest puppy, June 12, 2000",
+      "url": "https://seclists.org/bugtraq/2000/Jun/182"
+    },
+    {
+      "title": "RFPolicy v2.0 (full text archive)",
+      "url": "https://dl.packetstormsecurity.net/papers/general/rfpolicy-2.0.txt"
+    },
+    {
+      "title": "Sydney Morning Herald \u2014 \"Sleeping with the enemy\" (Aug. 13, 2002), on Whisker and rfp's undisclosed identity",
+      "url": "https://www.smh.com.au/technology/sleeping-with-the-enemy-20020813-gdfj7a.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 9,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Rain Forest Puppy",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Publishing one of the earliest detailed public descriptions of SQL injection, in a December 1998 Phrack article on NT/IIS web-technology flaws",
+    "Authoring Whisker, an early automated web-vulnerability scanner",
+    "Writing RFPolicy (2000), one of the first formal responsible-disclosure frameworks proposed to the security community",
+    "Co-founding the Open Source Vulnerability Database (OSVDB) project in 2002"
+  ]
+}

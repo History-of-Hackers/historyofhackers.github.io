@@ -1,0 +1,88 @@
+{
+  "id": "roberto-preatoni",
+  "type": "person",
+  "title": "Roberto Preatoni",
+  "slug": "roberto-preatoni",
+  "era": "2002-Present",
+  "tags": [
+    "hacker",
+    "security researcher",
+    "penetration tester",
+    "Zone-H",
+    "website defacement",
+    "Italy",
+    "internet entrepreneur",
+    "WabiSabiLabi",
+    "Telecom Italia scandal"
+  ],
+  "summary": "Italian penetration tester and internet entrepreneur best known as the founder of Zone-H, the long-running website-defacement archive, and of WabiSabiLabi, an early online vulnerability marketplace; in November 2007 he was arrested in Milan as part of the wide-ranging Telecom Italia \"Tiger Team\" wiretapping and corporate-espionage investigation.",
+  "whyThisMatters": "Italian penetration tester and internet entrepreneur best known as the founder of Zone-H, the long-running website-defacement archive, and of WabiSabiLabi, an early online vulnerability marketplace; in November 2007 he was arrested in Milan as part of the wide-ranging Telecom Italia \"Tiger Team\" wiretapping and corporate-espionage investigation.",
+  "sections": {
+    "overview": "<p>Roberto Preatoni is an Italian penetration tester, security researcher, and internet entrepreneur, best known for founding Zone-H, a widely used online archive that mirrors and catalogs defaced websites, and for founding WabiSabiLabi, one of the earliest formal online marketplaces for buying and selling software vulnerability research. His exact date of birth is not documented in the sources reviewed for this profile.</p><h2>Zone-H</h2><p>Preatoni created Zone-H; the domain was registered on February 14, 2002 and the site itself launched on March 2, 2002. Based in Estonia, Zone-H built a reputation as a moderated repository where submitted website defacements are checked before being permanently archived, and it grew into a broader cybersecurity news portal covering digital-warfare, geopolitical security, and vulnerability advisories. The site has at times faced restrictions abroad, including a reported block by some Indian internet service providers following legal action initiated by India's government.</p><h2>WabiSabiLabi</h2><p>In July 2007, Preatoni founded WabiSabiLabi (also known as WSLabi) alongside Herman Zampariolo. The platform ran as an auction-style marketplace intended to let security researchers sell vulnerability research through a structured venue rather than informal, underground channels; reported customers included VeriSign and 3Com. Within a little more than a year the company was reportedly struggling financially and considering shutting down or shifting to a subscription model; the venture is no longer active.</p><h2>Arrest and the Telecom Italia wiretapping scandal</h2><p>On November 5, 2007, Preatoni was arrested in Milan in connection with a large Italian corporate-espionage and wiretapping investigation centered on Telecom Italia. Reporting at the time (Computerworld) described charges of unauthorized computer access and wiretapping, tying Preatoni to a roughly ten-person internal unit known as the \"Tiger Team\" that was nominally set up to test Telecom Italia's information-security defenses but which investigators alleged instead conducted unauthorized surveillance on figures including Brasil Telecom CEO Carla Cico, the investigative firm Kroll Inc., and journalists at the newspaper Libero. Italian-language sources describe the charges against him as \"intrusioni telematiche e associazione a delinquere finalizzata all'illecita acquisizione di informazioni\" (unlawful computer intrusion and criminal association aimed at the illicit acquisition of information). The broader case, known in Italy as the Telecom-Sismi scandal, eventually involved more than thirty defendants, including Telecom Italia security executive Fabio Ghioni and security-division head Giuliano Tavaroli, who later sought a plea bargain. Coverage from the time also noted that Preatoni had presented at Microsoft's BlueHat security conference and had lectured jointly with Ghioni on topics of government surveillance. The sources consulted for this profile do not document a final verdict, sentence, or acquittal specific to Preatoni; the ultimate legal outcome of the case against him should therefore be treated as unverified pending further documentation, and this summary describes allegations and charges rather than an established finding of guilt.</p><h2>Disputed or unverified claims</h2><p>Preatoni is sometimes described in secondary security-industry commentary as connected to hacker-profiling research and to organizing security conferences. Independent, citable documentation of a specific role in a formal \"Hackers Profiling Project\" / \"WhiteHat\" initiative, or of particular conferences he personally organized, could not be confirmed from the sources available during this research; these points should be treated as unverified rather than established fact.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2002-02-14",
+      "event": "The zone-h.org domain was registered."
+    },
+    {
+      "date": "2002-03-02",
+      "event": "Zone-H, the website-defacement archive founded by Preatoni, launched."
+    },
+    {
+      "date": "2007-07",
+      "event": "Preatoni co-founded WabiSabiLabi (WSLabi), an online auction marketplace for security vulnerabilities."
+    },
+    {
+      "date": "2007-11-05",
+      "event": "Preatoni was arrested in Milan on charges of unauthorized computer access and wiretapping in connection with the Telecom Italia \"Tiger Team\" scandal."
+    },
+    {
+      "date": "2008-10",
+      "event": "WabiSabiLabi was reported to be considering shutting down its exploit marketplace due to insufficient paying customers."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Zone-H \u2014 Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zone-H"
+    },
+    {
+      "title": "WabiSabiLabi \u2014 Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/WabiSabiLabi"
+    },
+    {
+      "title": "WabiSabiLabi founder arrested in Italy (Computerworld, Robert McMillan, Nov 6, 2007)",
+      "url": "https://www.computerworld.com/article/2539536/wabisabilabi-founder-arrested-in-italy.html"
+    },
+    {
+      "title": "Scandalo Telecom-Sismi \u2014 Wikipedia (Italian)",
+      "url": "https://it.wikipedia.org/wiki/Scandalo_Telecom-Sismi"
+    },
+    {
+      "title": "Giuliano Tavaroli \u2014 Wikipedia (Italian)",
+      "url": "https://it.wikipedia.org/wiki/Giuliano_Tavaroli"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 5,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Roberto Preatoni",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Founding Zone-H in 2002, a moderated archive that mirrors and catalogs website defacements and later expanded into a cybersecurity news portal",
+    "Co-founding WabiSabiLabi (WSLabi) in July 2007, an online auction marketplace for security vulnerabilities/exploit research",
+    "Working as a penetration tester and security consultant, including a presentation at Microsoft's BlueHat security conference",
+    "Being arrested in Milan on November 5, 2007, in connection with Telecom Italia's so-called \"Tiger Team\" wiretapping/corporate-espionage scandal"
+  ]
+}
