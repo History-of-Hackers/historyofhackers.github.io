@@ -77,40 +77,48 @@
   <url><loc>https://historyofhackers.org/tools/aircrack-ng.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/bloodhound.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/burp-suite.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/cobalt-strike.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/frida.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/ghidra.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/hashcat.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/ida-pro.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/john-the-ripper.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/kali-linux.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/metasploit-framework.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/mimikatz.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/nessus.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/nmap-network-mapper.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/radare2.html</loc></url>
-  <url><loc>https://historyofhackers.org/tools/sqlmap.html</loc></url>
-  <url><loc>https://historyofhackers.org/tools/wireshark-network-analyzer.html</loc></url>
-  <url><loc>https://historyofhackers.org/tools/kali-linux.html</loc></url>
-  <url><loc>https://historyofhackers.org/tools/nessus.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/snort.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/sqlmap.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/volatility.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/wireshark-network-analyzer.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/yara.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/eternalblue.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/heartbleed.html</loc></url>
-  <url><loc>https://historyofhackers.org/vulnerabilities/shellshock.html</loc></url>
-  <url><loc>https://historyofhackers.org/vulnerabilities/stuxnet-digital-weapon.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/krack.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/log4shell.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/shellshock.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/spectre-meltdown.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/stagefright.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/stuxnet-digital-weapon.html</loc></url>
   <url><loc>https://historyofhackers.org/events/</loc></url>
   <url><loc>https://historyofhackers.org/events/defcon-hacker-conference.html</loc></url>
+  <url><loc>https://historyofhackers.org/events/equifax-breach.html</loc></url>
   <url><loc>https://historyofhackers.org/events/mit-tmrc-hacker-ethic.html</loc></url>
   <url><loc>https://historyofhackers.org/events/morris-worm.html</loc></url>
+  <url><loc>https://historyofhackers.org/events/notpetya.html</loc></url>
+  <url><loc>https://historyofhackers.org/events/solarwinds-sunburst.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/</loc></url>
   <url><loc>https://historyofhackers.org/publications/2600-hacker-quarterly.html</loc></url>
+  <url><loc>https://historyofhackers.org/publications/bugtraq.html</loc></url>
+  <url><loc>https://historyofhackers.org/publications/die-datenschleuder.html</loc></url>
+  <url><loc>https://historyofhackers.org/publications/full-disclosure-mailing-list.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/hacker-manifesto-the-mentor.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/hacking-art-of-exploitation.html</loc></url>
+  <url><loc>https://historyofhackers.org/publications/packet-storm-security.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/phrack-magazine.html</loc></url>
-  <url><loc>https://historyofhackers.org/publications/bugtraq.html</loc></url>
   <url><loc>https://historyofhackers.org/fields/</loc></url>
   <url><loc>https://historyofhackers.org/fields/bbs-and-warez-scene.html</loc></url>
   <url><loc>https://historyofhackers.org/fields/hackers-in-film.html</loc></url>
