@@ -132,14 +132,14 @@ handle, and getting a name wrong is worse than not publishing.
 
 | Candidate | Reason | Region |
 |---|---|---|
-| LulzSec | High-profile 2011 hacktivist/breach spree, offshoot of Anonymous | International |
+| LulzSec | High-profile 2011 hacktivist/breach spree, offshoot of Anonymous | International — See `data/groups/lulzsec.json` — PUBLISHED |
 | Legion of Doom | Already published — cross-link only | (published) |
-| Phone Losers of America | Long-running phreaking/prank-call community | US |
-| Cypherpunks mailing list | Origin of much of modern privacy-cryptography culture and rhetoric | International |
-| Project Zero (Google) | Verify framing as a "group" entry distinct from individual researcher pages | US |
-| Keen Security Lab | Automotive/mobile vulnerability research team | China |
-| DEVCORE | Web security research firm (Orange Tsai's team) | Taiwan |
-| ShadowCrew | Early-2000s carding/identity-fraud forum, notable for the resulting Secret Service operation | US |
+| Phone Losers of America | Long-running phreaking/prank-call community | US — See `data/groups/phone-losers-of-america.json` — PUBLISHED |
+| Cypherpunks mailing list | Origin of much of modern privacy-cryptography culture and rhetoric | International — See `data/groups/cypherpunks-mailing-list.json` — PUBLISHED |
+| Project Zero (Google) | Verify framing as a "group" entry distinct from individual researcher pages | US — See `data/groups/project-zero.json` — PUBLISHED |
+| Keen Security Lab | Automotive/mobile vulnerability research team | China — See `data/groups/keen-security-lab.json` — PUBLISHED |
+| DEVCORE | Web security research firm (Orange Tsai's team) | Taiwan — See `data/groups/devcore.json` — PUBLISHED |
+| ShadowCrew | Early-2000s carding/identity-fraud forum, notable for the resulting Secret Service operation | US — See `data/groups/shadowcrew.json` — PUBLISHED |
 
 ### Tools (9 published: Nmap, Wireshark, Metasploit, John the Ripper, Burp Suite, Ghidra, Mimikatz, BloodHound, IDA Pro)
 
@@ -169,7 +169,7 @@ handle, and getting a name wrong is worse than not publishing.
 | Bugtraq (mailing list) | Foundational full-disclosure vulnerability mailing list — See `data/publications/bugtraq.json` — PUBLISHED |
 | Full Disclosure (mailing list) | Successor-era full-disclosure list after Bugtraq's moderation changes — See `data/publications/full-disclosure-mailing-list.json` — PUBLISHED |
 | Packet Storm | Long-running exploit/advisory archive — See `data/publications/packet-storm-security.json` — PUBLISHED |
-| Uninformed | Early-2000s technical exploitation-research ezine |
+| Uninformed | Early-2000s technical exploitation-research ezine — See `data/publications/uninformed.json` — PUBLISHED |
 | Die Datenschleuder | CCC's long-running print magazine, Germany — See `data/publications/die-datenschleuder.json` — PUBLISHED |
 
 ### Events / Discoveries (beyond Morris Worm, DEF CON founding, MIT/TMRC hacker ethic already published)
@@ -182,9 +182,9 @@ handle, and getting a name wrong is worse than not publishing.
 | KRACK (2017) | WPA2 Wi-Fi handshake vulnerability — See `data/vulnerabilities/krack.json` — PUBLISHED |
 | Spectre / Meltdown (2018) | CPU speculative-execution vulnerability class — See `data/vulnerabilities/spectre-meltdown.json` — PUBLISHED |
 | EternalBlue / WannaCry (2017) | NSA-linked SMB exploit and the resulting global ransomware outbreak (cross-link to the already-published Marcus Hutchins page) — See `data/vulnerabilities/eternalblue.json` — PUBLISHED |
-| NotPetya (2017) | Destructive wiper disguised as ransomware, major supply-chain/geopolitical incident — See `data/events/notpetya.json` — PUBLISHED |
-| Equifax breach (2017) | Large-scale consumer-data breach, Apache Struts vulnerability — See `data/events/equifax-breach.json` — PUBLISHED |
-| SolarWinds / Sunburst (2020) | Major software supply-chain compromise — See `data/events/solarwinds-sunburst.json` — PUBLISHED |
+| NotPetya (2017) | Destructive wiper disguised as ransomware, major supply-chain/geopolitical incident — See `data/attacks/notpetya.json` — PUBLISHED |
+| Equifax breach (2017) | Large-scale consumer-data breach, Apache Struts vulnerability — See `data/attacks/equifax-breach.json` — PUBLISHED |
+| SolarWinds / Sunburst (2020) | Major software supply-chain compromise — See `data/attacks/solarwinds-sunburst.json` — PUBLISHED |
 | Log4Shell (2021) | Log4j remote-code-execution vulnerability, internet-wide impact — See `data/vulnerabilities/log4shell.json` — PUBLISHED |
 
 ### Latin America (excluding Brazil for now, per maintainer note)
