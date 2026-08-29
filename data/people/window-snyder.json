@@ -1,0 +1,91 @@
+{
+  "id": "window-snyder",
+  "type": "person",
+  "title": "Window Snyder",
+  "slug": "window-snyder",
+  "era": "1990s-Present",
+  "tags": [
+    "security architecture",
+    "threat modeling",
+    "Microsoft",
+    "Mozilla",
+    "Apple",
+    "CISO"
+  ],
+  "summary": "Window Snyder is a security engineer and executive who rose from the 1990s Boston hacker scene through @stake and Microsoft's Trustworthy Computing initiative to become one of the most senior women in security leadership, later holding chief security roles at Mozilla, Apple, Fastly, Intel, and Square/Block.",
+  "whyThisMatters": "Window Snyder is a security engineer and executive who rose from the 1990s Boston hacker scene through @stake and Microsoft's Trustworthy Computing initiative to become one of the most senior women in security leadership, later holding chief security roles at Mozilla, Apple, Fastly, Intel, and Square/Block.",
+  "sections": {
+    "overview": "<p>Window Snyder is an American security engineer and executive whose career traces the professionalization of computer security from 1990s hacker culture into the boardrooms of the world's largest technology companies. She became active in the Boston-area hacker and security community in the 1990s and went on to become one of the earliest employees of @stake, the pioneering security consultancy, where she worked as Director of Security Architecture.</p><p>Snyder was recruited from @stake to Microsoft in the early 2000s, where she worked as a senior security strategist during the company's Trustworthy Computing push. She played a role in the security overhaul behind Windows XP Service Pack 2, helped codify Microsoft's threat-modeling methodology, and created BlueHat, the internal conference that brought outside security researchers together with Microsoft executives. In 2004 she co-authored the book \"Threat Modeling\" with Frank Swiderski, published by Microsoft Press, which became a widely cited reference for structured, adversary-based approaches to identifying and mitigating software security flaws.</p><h2>Mozilla, Apple, and Industry-Wide Security Leadership</h2><p>Snyder joined Mozilla Corporation around 2006 to lead security for the Firefox browser. She left Mozilla around the end of 2008 and, in 2010, joined Apple, where she served as senior product manager for privacy and security. She went on to become Chief Security Officer at Fastly, then took senior security leadership positions at Intel and later at Square (renamed Block).</p><h2>Later Work and Legacy</h2><p>In the early 2020s, Snyder founded Thistle Technologies, a startup focused on improving security update and vulnerability management infrastructure for IoT device manufacturers. Across more than two decades, Snyder is regarded as one of the most senior women to have held security engineering and executive leadership roles across an unusually wide span of major technology companies, and her co-authored book on threat modeling remains a reference point in software security practice.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2002",
+      "event": "Recruited from @stake to Microsoft as a senior security strategist."
+    },
+    {
+      "date": "2004",
+      "event": "Co-authored the book 'Threat Modeling' with Frank Swiderski; contributed to security work behind Windows XP Service Pack 2."
+    },
+    {
+      "date": "2005",
+      "event": "Created Microsoft's BlueHat security conference."
+    },
+    {
+      "date": "2006",
+      "event": "Joined Mozilla Corporation in a security leadership role."
+    },
+    {
+      "date": "2010",
+      "event": "Joined Apple as senior product manager for privacy and security."
+    },
+    {
+      "date": "2015",
+      "event": "Became Chief Security Officer at Fastly."
+    },
+    {
+      "date": "2018",
+      "event": "Joined Intel in a senior security leadership role."
+    },
+    {
+      "date": "2021-04",
+      "event": "Founded Thistle Technologies, an IoT device security startup."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Window Snyder - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Window_Snyder"
+    },
+    {
+      "title": "Meet Window Snyder, the trailblazer who helped secure the internet and billions of devices - TechCrunch",
+      "url": "https://techcrunch.com/2023/08/04/window-snyder-cybersecurity-trailblazer/"
+    },
+    {
+      "title": "'Geek girl' helps keep Mozilla safe in scary times - USA Today",
+      "url": "https://www.usatoday.com/tech/news/computersecurity/2008-06-17-mozilla-window-snyder_N.htm"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Window Snyder",
+  "born": "1975",
+  "died": null,
+  "knownFor": [
+    "Director of Security Architecture at @stake",
+    "Security architecture and threat-modeling work at Microsoft during Trustworthy Computing, including Windows XP Service Pack 2",
+    "Co-author of the book 'Threat Modeling' (Microsoft Press, 2004)",
+    "Creating Microsoft's BlueHat security conference",
+    "Security leadership roles at Mozilla, Apple, Fastly, Intel, and Square/Block",
+    "Founder of Thistle Technologies, an IoT device security startup"
+  ]
+}

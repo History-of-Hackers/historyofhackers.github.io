@@ -1313,5 +1313,74 @@
     ],
     "summary": "An exploration of Responsible Disclosure, the ethical framework guiding how security researchers report vulnerabilities to vendors.",
     "url": "fields/responsible-disclosure.html"
+  },
+  {
+    "id": "jeff-moss",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jeff Moss",
+    "slug": "jeff-moss",
+    "era": "1990s-Present",
+    "tags": [
+      "Dark Tangent",
+      "DEF CON",
+      "Black Hat",
+      "ICANN",
+      "cybersecurity policy"
+    ],
+    "summary": "Jeff Moss, known by the handle 'The Dark Tangent,' founded the DEF CON and Black Hat Briefings security conferences and later moved into institutional roles including ICANN Chief Security Officer and U.S. Department of Homeland Security Advisory Council member, becoming one of the clearest examples of a hacker-scene figure crossing into mainstream security and internet-governance institutions.",
+    "url": "people/jeff-moss.html"
+  },
+  {
+    "id": "marcus-ranum",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Marcus Ranum",
+    "slug": "marcus-ranum",
+    "era": "1980s-Present",
+    "tags": [
+      "firewalls",
+      "network security",
+      "intrusion detection",
+      "TIS Firewall Toolkit",
+      "NFR Security"
+    ],
+    "summary": "Marcus J. Ranum is an American computer security researcher and engineer credited with designing some of the earliest commercial firewall systems and later founding a pioneering network intrusion-detection company, making him one of the formative figures in modern network perimeter security.",
+    "url": "people/marcus-ranum.html"
+  },
+  {
+    "id": "robert-hansen",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Robert Hansen",
+    "slug": "robert-hansen",
+    "era": "2000s-Present",
+    "tags": [
+      "XSS",
+      "web application security",
+      "clickjacking",
+      "ha.ckers.org",
+      "Slowloris"
+    ],
+    "summary": "Robert Hansen, known by the handle 'RSnake,' is a web application security researcher who built the influential ha.ckers.org security community and XSS Cheat Sheet, co-coined the term 'clickjacking' with Jeremiah Grossman in 2008, and created the Slowloris denial-of-service tool.",
+    "url": "people/robert-hansen.html"
+  },
+  {
+    "id": "window-snyder",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Window Snyder",
+    "slug": "window-snyder",
+    "era": "1990s-Present",
+    "tags": [
+      "security architecture",
+      "threat modeling",
+      "Microsoft",
+      "Mozilla",
+      "Apple",
+      "CISO"
+    ],
+    "summary": "Window Snyder is a security engineer and executive who rose from the 1990s Boston hacker scene through @stake and Microsoft's Trustworthy Computing initiative to become one of the most senior women in security leadership, later holding chief security roles at Mozilla, Apple, Fastly, Intel, and Square/Block.",
+    "url": "people/window-snyder.html"
   }
 ]

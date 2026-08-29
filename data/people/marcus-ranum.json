@@ -1,0 +1,81 @@
+{
+  "id": "marcus-ranum",
+  "type": "person",
+  "title": "Marcus Ranum",
+  "slug": "marcus-ranum",
+  "era": "1980s-Present",
+  "tags": [
+    "firewalls",
+    "network security",
+    "intrusion detection",
+    "TIS Firewall Toolkit",
+    "NFR Security"
+  ],
+  "summary": "Marcus J. Ranum is an American computer security researcher and engineer credited with designing some of the earliest commercial firewall systems and later founding a pioneering network intrusion-detection company, making him one of the formative figures in modern network perimeter security.",
+  "whyThisMatters": "Marcus J. Ranum is an American computer security researcher and engineer credited with designing some of the earliest commercial firewall systems and later founding a pioneering network intrusion-detection company, making him one of the formative figures in modern network perimeter security.",
+  "sections": {
+    "overview": "<p>Marcus J. Ranum was born November 5, 1962, in New York City, and earned a Bachelor of Arts in Psychology from Johns Hopkins University in 1985. He went on to become one of the formative engineers of network perimeter security, working first at Digital Equipment Corporation (DEC) before moving into firewall and intrusion-detection product development.</p><h2>Early Firewall Work</h2><p>At DEC, Ranum helped design and implement the Secure External Access Link (SEAL), a system widely cited as the first commercial bastion-host firewall, put into service around 1990. He then joined Trusted Information Systems (TIS) as chief scientist, where he wrote the TIS Internet Firewall Toolkit (FWTK), released in October 1993. The FWTK source code later formed the technical basis for TIS's commercial Gauntlet firewall product.</p><h2>Protecting whitehouse.gov</h2><p>While at TIS, Ranum built and operated the first Internet email server for the whitehouse.gov domain, giving him direct responsibility for securing one of the earliest high-profile U.S. government Internet presences.</p><h2>Intrusion Detection and NFR Security</h2><p>Ranum founded Network Flight Recorder (NFR), one of the pioneering commercial network intrusion-detection system vendors, later known as NFR Security. He served first as the company's CEO and later as its CTO.</p><h2>Later Career and Industry Commentary</h2><p>Ranum subsequently became chief security officer of Tenable, Inc. in 2004. Alongside his product work, he built a reputation as an outspoken essayist and critic of security-industry practices, formulating 'Ranum's Law' ('you can't solve social problems with software') in 1999, and co-authoring the long-running 'Face Off' debate column with Bruce Schneier starting in 2006.</p><h2>Legacy</h2><p>Ranum is widely credited as one of the engineers who turned the firewall from a research concept into a practical, deployable commercial security product, and his early work is frequently cited in histories of Internet security infrastructure as foundational to the modern network-perimeter-security industry.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1962-11-05",
+      "event": "Born in New York City."
+    },
+    {
+      "date": "1990",
+      "event": "Helped design the DEC Secure External Access Link (SEAL), cited as the first commercial bastion-host firewall."
+    },
+    {
+      "date": "1993-10",
+      "event": "Released the TIS Internet Firewall Toolkit (FWTK)."
+    },
+    {
+      "date": "1999",
+      "event": "Formulated 'Ranum's Law.'"
+    },
+    {
+      "date": "2004",
+      "event": "Became chief security officer of Tenable, Inc."
+    },
+    {
+      "date": "2006-07",
+      "event": "Began co-authoring the 'Face Off' debate column with Bruce Schneier."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Marcus J. Ranum - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marcus_J._Ranum"
+    },
+    {
+      "title": "Firewall (computing) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Firewall_(computing)"
+    },
+    {
+      "title": "Marcus Ranum's personal website",
+      "url": "https://www.ranum.com/security/computer_security/security-welcome.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Marcus Ranum",
+  "born": "1962-11-05",
+  "died": null,
+  "knownFor": [
+    "Co-designed the DEC Secure External Access Link (SEAL), cited as the first commercial bastion-host firewall (1990)",
+    "Wrote the Trusted Information Systems (TIS) Internet Firewall Toolkit (FWTK), released 1993, basis of the commercial Gauntlet firewall",
+    "Built and ran the first Internet email server for whitehouse.gov while chief scientist at TIS",
+    "Founded Network Flight Recorder (later NFR Security), an early commercial intrusion-detection vendor",
+    "Long-running security-industry essayist and critic"
+  ]
+}
