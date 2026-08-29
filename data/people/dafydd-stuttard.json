@@ -1,0 +1,109 @@
+{
+  "id": "dafydd-stuttard",
+  "type": "person",
+  "title": "Dafydd Stuttard",
+  "slug": "dafydd-stuttard",
+  "era": "2003-Present",
+  "tags": [
+    "web application security",
+    "Burp Suite",
+    "PortSwigger",
+    "author",
+    "penetration testing",
+    "British"
+  ],
+  "summary": "Dafydd Stuttard is a British security researcher who built Burp Suite between 2003 and 2006, founded the company PortSwigger to develop it, and co-authored the standard reference text \"The Web Application Hacker's Handbook.\"",
+  "whyThisMatters": "Dafydd Stuttard is a British security researcher who built Burp Suite between 2003 and 2006, founded the company PortSwigger to develop it, and co-authored the standard reference text \"The Web Application Hacker's Handbook.\"",
+  "sections": {
+    "overview": "<p>Dafydd Stuttard is a British security researcher and software developer best known for creating Burp Suite, one of the most widely used web application penetration-testing platforms, and for founding PortSwigger, the company built around it. He used \"PortSwigger\" as a personal online handle before carrying the name over to the business.</p><h2>From personal tool to company</h2><p>Between 2003 and 2006, Stuttard built a set of standalone utilities to automate manual web security testing tasks. An early version of what became Burp Intruder was released in June 2003, followed the same year by Burp Proxy and, in 2004, an application-aware crawler called Burp Spider. In August 2005 he unified these tools into a single interface as Burp Suite v1.0. He continued developing the toolkit largely alone for several years before formalizing the business: PortSwigger Ltd was incorporated in England on 9 October 2008, with Stuttard listed as a director and, until 2012, also as company secretary. UK corporate filings show him still serving as a director as of 2026, alongside other directors and Rebecca Jane Stuttard, who has also held a director role since 2015.</p><h2>Author and researcher</h2><p>In 2007, Stuttard co-authored, with Marcus Pinto, <em>The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws</em> (Wiley), which codified much of the testing methodology built into Burp Suite and became a widely cited reference for web penetration testers. A substantially revised second edition, subtitled <em>Finding and Exploiting Security Flaws</em>, followed in 2011. He has also published shorter technical research, including a 2007 paper on DNS pinning and browser/proxy interactions, and PortSwigger blog posts introducing major Burp features such as Sequencer, Infiltrator, and Collaborator.</p><h2>Later role</h2><p>As PortSwigger grew from a one-person side project into a company with a dedicated research team \u2014 led since the mid-2010s by James Kettle \u2014 Stuttard's public role shifted from sole toolsmith toward company figurehead; a July 2020 PortSwigger \"Ask Me Anything\" livestream introduced him explicitly as \"Burp Suite creator.\" Verifiable public sources say little about his life outside this work: UK corporate records give his year and month of birth as October 1972 and his nationality as British, and note he holds a doctoral title (\"Dr\"), but his field of study, earlier education, and any employment prior to Burp are not confirmed in public records available for this article and should be treated as unknown rather than assumed.</p><p>PortSwigger reportedly remained privately held and profitable for 17 years before taking its first outside investment, a $112 million funding round, in 2024 \u2014 by which point Burp Suite had become a standard tool in bug bounty programs, penetration-testing certifications, and PortSwigger's own free Web Security Academy training platform.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1972",
+      "event": "Born in October 1972 (per UK Companies House officer records); exact date and place not publicly confirmed."
+    },
+    {
+      "date": "2003",
+      "event": "Begins building Burp as personal tooling; an early version of Burp Intruder is released in June, followed by Burp Proxy."
+    },
+    {
+      "date": "2004",
+      "event": "Releases Burp Spider, an application-aware web crawler."
+    },
+    {
+      "date": "2005-08",
+      "event": "Unifies his tools into a single interface, launching Burp Suite v1.0."
+    },
+    {
+      "date": "2007",
+      "event": "Co-authors the first edition of The Web Application Hacker's Handbook with Marcus Pinto (Wiley)."
+    },
+    {
+      "date": "2008-10-09",
+      "event": "PortSwigger Ltd is incorporated in England; Stuttard becomes a director and company secretary."
+    },
+    {
+      "date": "2011",
+      "event": "Second edition of The Web Application Hacker's Handbook is published."
+    },
+    {
+      "date": "2013-10-04",
+      "event": "Publishes the retrospective blog post \"Burp Through the Ages\" on PortSwigger's site."
+    },
+    {
+      "date": "2020-07-09",
+      "event": "Appears in a PortSwigger \"Ask Me Anything\" YouTube livestream billed as Burp Suite's creator."
+    },
+    {
+      "date": "2024-06",
+      "event": "PortSwigger raises $112 million in its first outside funding round after years of bootstrapped growth; Stuttard remains a listed director."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "PortSwigger Ltd - Officers (Company No. 06719143) - Companies House",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/06719143/officers"
+    },
+    {
+      "title": "Burp Suite - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Burp_Suite"
+    },
+    {
+      "title": "About us - PortSwigger",
+      "url": "https://portswigger.net/about"
+    },
+    {
+      "title": "Burp Suite through the ages - PortSwigger Blog",
+      "url": "https://portswigger.net/blog/burp-through-the-ages"
+    },
+    {
+      "title": "Dafydd Stuttard - Author page (works and editions of The Web Application Hacker's Handbook) - Goodreads",
+      "url": "https://www.goodreads.com/author/show/871523.Dafydd_Stuttard"
+    },
+    {
+      "title": "PortSwigger, the company behind the Burp Suite of security testing tools, swallows $112M - TechCrunch",
+      "url": "https://techcrunch.com/2024/06/27/portswigger-the-company-behind-the-burp-suite-of-security-testing-tools-swallows-112m"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 6,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Dafydd Stuttard",
+  "born": "1972",
+  "died": null,
+  "knownFor": [
+    "Creator of Burp Suite, built 2003-2006 to automate his own manual web-app security testing",
+    "Founder and director of PortSwigger Ltd (incorporated in England 9 October 2008)",
+    "Co-author, with Marcus Pinto, of The Web Application Hacker's Handbook (1st ed. 2007, 2nd ed. 2011)",
+    "Used the handle \"PortSwigger\" personally before it became his company's name"
+  ]
+}
