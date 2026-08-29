@@ -2714,5 +2714,65 @@
     ],
     "summary": "Steve Wozniak is an electronics engineer who, before co-founding Apple Computer with Steve Jobs, built and sold illegal \"blue box\" devices for phone phreaking in the early 1970s -- an episode both men later credited as a formative step toward Apple's creation.",
     "url": "people/steve-wozniak.html"
+  },
+  {
+    "id": "cynthia-dwork",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Cynthia Dwork",
+    "slug": "cynthia-dwork",
+    "era": "1980s-Present",
+    "tags": [
+      "differential privacy",
+      "cryptography",
+      "proof of work",
+      "privacy",
+      "algorithmic fairness",
+      "distributed computing",
+      "Harvard",
+      "Microsoft Research"
+    ],
+    "summary": "Cynthia Dwork is a computer scientist and cryptographer whose work helped establish differential privacy, introduced an early proof-of-work construction, and placed privacy-preserving data analysis on a rigorous mathematical foundation.",
+    "url": "people/cynthia-dwork.html"
+  },
+  {
+    "id": "eva-galperin",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Eva Galperin",
+    "slug": "eva-galperin",
+    "era": "2000s-Present",
+    "tags": [
+      "digital rights",
+      "stalkerware",
+      "spyware",
+      "threat research",
+      "vulnerable populations",
+      "Electronic Frontier Foundation",
+      "Coalition Against Stalkerware",
+      "survivor-centered security"
+    ],
+    "summary": "Eva Galperin is the Electronic Frontier Foundation's Director of Cybersecurity, known for investigating malware targeting activists and journalists and for co-founding the Coalition Against Stalkerware.",
+    "url": "people/eva-galperin.html"
+  },
+  {
+    "id": "paul-kocher",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Paul Kocher",
+    "slug": "paul-kocher",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "side-channel attacks",
+      "timing attacks",
+      "differential power analysis",
+      "SSL",
+      "TLS",
+      "Spectre",
+      "hardware security"
+    ],
+    "summary": "Paul Kocher is a cryptographer and security researcher who co-authored SSL 3.0, pioneered timing and differential power-analysis attacks, founded Cryptography Research, and co-discovered the Spectre processor vulnerability.",
+    "url": "people/paul-kocher.html"
   }
 ]
