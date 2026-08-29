@@ -212,6 +212,19 @@ not add a name just to fill a country slot.
 | Renaud Deraison | Nessus creator, Tenable co-founder/CTO (standalone person page; tool history remains in the Nessus tool entry) | France | See `data/people/renaud-deraison.json` — PUBLISHED |
 | Roberto Preatoni | Zone-H founder, WabiSabiLabi co-founder, Telecom Italia "Tiger Team" wiretapping case defendant — legal outcome specific to him not documented, treated as unverified | Italy | See `data/people/roberto-preatoni.json` — PUBLISHED |
 
+### Cryptography and computing foundations (self-sourced batch, closing gaps in foundational figures the site's growth had not yet reached)
+
+| Candidate | Reason | Status |
+|---|---|---|
+| Philip Zimmermann | PGP creator (1991), target of a 1993-1996 US federal criminal investigation over export-control law | See `data/people/philip-zimmermann.json` — PUBLISHED |
+| Steve Wozniak | Blue-box phone phreaking with Steve Jobs (early 1970s) preceding Apple's founding; entry focuses on the phreaking period, not general Apple history | See `data/people/steve-wozniak.json` — PUBLISHED |
+| Whitfield Diffie and Martin Hellman | 1976 "New Directions in Cryptography" paper, Diffie-Hellman key exchange, 2015 Turing Award — joint entry, an intentional exception to the one-person-per-page norm given their single shared landmark contribution | See `data/people/diffie-hellman.json` — PUBLISHED |
+| Ron Rivest, Adi Shamir, and Leonard Adleman | RSA public-key cryptosystem (1977/1978), 2002 Turing Award — joint/trio entry for the same reason as Diffie-Hellman above | See `data/people/rsa-rivest-shamir-adleman.json` — PUBLISHED |
+| Ken Thompson | Unix co-creator, "Reflections on Trusting Trust" (1984 Turing lecture on compiler backdoors), Go co-designer | See `data/people/ken-thompson.json` — PUBLISHED |
+| Chen Zhaojun | Log4Shell discoverer (already covered in `data/vulnerabilities/log4shell.json`) — researched but explicitly NOT published as a standalone page; no independently verifiable biographical material exists beyond the single discovery/report already documented there | Not published — insufficient independent biographical material |
+| Dan Guido | Trail of Bits co-founder/CEO, Empire Hacking co-founder, exploit-intelligence research, blockchain/DeFi security auditing pivot | See `data/people/dan-guido.json` — PUBLISHED |
+| Loïc Duflot | French DCSSI/ANSSI researcher, x86 System Management Mode (SMM) rootkit research (CanSecWest 2006/2009), VT-x virtualization-escape research | See `data/people/loic-duflot.json` — PUBLISHED |
+
 ## Fiction / Pop Culture (separate taxonomy — NOT historical entries)
 
 Per maintainer request, `/fiction/` is a deliberately separate section for

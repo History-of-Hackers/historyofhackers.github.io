@@ -201,6 +201,27 @@
     "url": "people/charlie-miller.html"
   },
   {
+    "id": "chris-eagle",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Chris Eagle",
+    "slug": "chris-eagle",
+    "era": "1980s-Present",
+    "tags": [
+      "reverse-engineering",
+      "IDA-Pro",
+      "Ghidra",
+      "cybersecurity-education",
+      "CTF",
+      "Naval-Postgraduate-School",
+      "DARPA",
+      "malware-analysis",
+      "author"
+    ],
+    "summary": "Chris Eagle is a computer security researcher and long-time Computer Science faculty member at the Naval Postgraduate School, best known as the author of The IDA Pro Book, co-author of The Ghidra Book, creator of widely used IDA Pro reverse-engineering plugins, a member of DARPA's Cyber Grand Challenge Competition Framework Team, and a longtime DEF CON CTF organizer under the DDTEK banner.",
+    "url": "people/chris-eagle.html"
+  },
+  {
     "id": "chris-valasek",
     "type": "person",
     "typeLabel": "Person",
@@ -305,6 +326,28 @@
     ],
     "summary": "Dave Aitel is an American computer security researcher and former NSA research scientist who founded Immunity, Inc. in 2002, building the commercial CANVAS exploitation framework and SPIKE fuzzing toolset, and who later became an influential voice in cybersecurity policy commentary.",
     "url": "people/dave-aitel.html"
+  },
+  {
+    "id": "david-litchfield",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "David Litchfield",
+    "slug": "david-litchfield",
+    "era": "1975-Present",
+    "tags": [
+      "security research",
+      "vulnerability research",
+      "database security",
+      "Oracle",
+      "Microsoft SQL Server",
+      "NGSSoftware",
+      "British hacker",
+      "infosec",
+      "buffer overflow",
+      "exploit development"
+    ],
+    "summary": "David Litchfield is a British security researcher and co-founder of Next Generation Security Software (NGSSoftware), known for extensive Oracle Database and Microsoft SQL Server vulnerability research and for co-authoring \"The Shellcoder's Handbook\" and \"The Database Hacker's Handbook.\"",
+    "url": "people/david-litchfield.html"
   },
   {
     "id": "dino-dai-zovi",
@@ -838,6 +881,25 @@
     "url": "people/marcus-ranum.html"
   },
   {
+    "id": "marion-marschalek",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Marion Marschalek",
+    "slug": "marion-marschalek",
+    "era": "2011-Present",
+    "tags": [
+      "malware-analysis",
+      "reverse-engineering",
+      "austria",
+      "women-in-security",
+      "blackhoodie",
+      "cloud-security",
+      "open-source-tools"
+    ],
+    "summary": "Marion Marschalek is an Austrian-born reverse engineer and malware analyst whose confirmed career spans Ikarus Security Software, Intel's STORM hardware-security team, and AWS GuardDuty, and who now runs her own reverse-engineering consultancy, Hack & Cheese, while remaining active in the BlackHoodie women-in-reverse-engineering community.",
+    "url": "people/marion-marschalek.html"
+  },
+  {
     "id": "michal-zalewski",
     "type": "person",
     "typeLabel": "Person",
@@ -985,6 +1047,44 @@
     "url": "people/orange-tsai.html"
   },
   {
+    "id": "peter-van-eeckhoutte",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Peter Van Eeckhoutte",
+    "slug": "peter-van-eeckhoutte",
+    "era": "2007-Present",
+    "tags": [
+      "exploit development",
+      "Corelan Team",
+      "security training",
+      "Belgium",
+      "memory corruption",
+      "reverse engineering"
+    ],
+    "summary": "Peter Van Eeckhoutte is a Belgian security researcher and trainer who founded the Corelan Security Team in 2009 and authored the widely used Corelan Exploit Writing Tutorials, becoming a leading figure in Windows exploit-development education.",
+    "url": "people/peter-van-eeckhoutte.html"
+  },
+  {
+    "id": "rain-forest-puppy",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Rain Forest Puppy",
+    "slug": "rain-forest-puppy",
+    "era": "1998-2002",
+    "tags": [
+      "security-research",
+      "sql-injection",
+      "vulnerability-disclosure",
+      "phrack",
+      "hacker-culture",
+      "pseudonymous",
+      "1990s",
+      "2000s"
+    ],
+    "summary": "Rain Forest Puppy (rfp) was the pseudonym of a security researcher who published one of the earliest widely-read technical descriptions of SQL injection, built the Whisker web-vulnerability scanner, and proposed RFPolicy, an early formal framework for coordinating vulnerability disclosure with vendors.",
+    "url": "people/rain-forest-puppy.html"
+  },
+  {
     "id": "ralf-philipp-weinmann",
     "type": "person",
     "typeLabel": "Person",
@@ -1004,6 +1104,28 @@
     ],
     "summary": "Ralf-Philipp Weinmann is a German security researcher and cryptographer known for practical cryptanalysis of deployed ciphers (DECT, EMV/ISO 9796-2) and for pioneering research into cellular baseband firmware vulnerabilities; he co-authored the \"iOS Hacker's Handbook\" and co-founded the security firm Comsecuris.",
     "url": "people/ralf-philipp-weinmann.html"
+  },
+  {
+    "id": "renaud-deraison",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Renaud Deraison",
+    "slug": "renaud-deraison",
+    "era": "1998-Present",
+    "tags": [
+      "Nessus",
+      "Tenable",
+      "vulnerability-management",
+      "cybersecurity-entrepreneur",
+      "France",
+      "CVE",
+      "SecurityScorecard",
+      "Sekoia.io",
+      "patents",
+      "chief-technology-officer"
+    ],
+    "summary": "Renaud Deraison is a French-born security researcher who created the Nessus vulnerability scanner as a lyc\u00e9e student in 1998 and went on to co-found Tenable Network Security in 2002, serving as the company's chief technology officer through its 2018 Nasdaq IPO before moving into advisory and board roles across the cybersecurity industry.",
+    "url": "people/renaud-deraison.html"
   },
   {
     "id": "richard-stallman-gnu",
@@ -1056,6 +1178,27 @@
     ],
     "summary": "Robert Tappan Morris is an American computer scientist who, as a Cornell graduate student in 1988, released the first worm to spread widely across the early Internet and became the first person convicted under the Computer Fraud and Abuse Act; he later co-founded Viaweb and Y Combinator and is now a tenured MIT professor of computer science.",
     "url": "people/robert-tappan-morris.html"
+  },
+  {
+    "id": "roberto-preatoni",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Roberto Preatoni",
+    "slug": "roberto-preatoni",
+    "era": "2002-Present",
+    "tags": [
+      "hacker",
+      "security researcher",
+      "penetration tester",
+      "Zone-H",
+      "website defacement",
+      "Italy",
+      "internet entrepreneur",
+      "WabiSabiLabi",
+      "Telecom Italia scandal"
+    ],
+    "summary": "Italian penetration tester and internet entrepreneur best known as the founder of Zone-H, the long-running website-defacement archive, and of WabiSabiLabi, an early online vulnerability marketplace; in November 2007 he was arrested in Milan as part of the wide-ranging Telecom Italia \"Tiger Team\" wiretapping and corporate-espionage investigation.",
+    "url": "people/roberto-preatoni.html"
   },
   {
     "id": "ross-anderson",
@@ -1111,6 +1254,25 @@
     ],
     "summary": "Samy Kamkar is an American privacy and security researcher best known for writing the 2005 'Samy' cross-site-scripting worm that infected over a million MySpace profiles in under 24 hours, resulting in a felony conviction, and for a subsequent career of high-profile open-hardware security research including SkyJack, KeySweeper, and wireless car/garage-door attacks.",
     "url": "people/samy-kamkar.html"
+  },
+  {
+    "id": "silvio-cesare",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Silvio Cesare",
+    "slug": "silvio-cesare",
+    "era": "1993-Present",
+    "tags": [
+      "security-researcher",
+      "malware-research",
+      "virus-research",
+      "phrack",
+      "academia",
+      "australia",
+      "software-similarity"
+    ],
+    "summary": "Silvio Cesare is an Australian security researcher active since the early 1990s, known for Phrack articles on binary infection techniques, a Snort IDS-evasion discovery, and later academic work on malware classification at Deakin University; he now runs the Canberra security firm InfoSect.",
+    "url": "people/silvio-cesare.html"
   },
   {
     "id": "solar-designer",
@@ -2415,165 +2577,142 @@
     "url": "fields/responsible-disclosure.html"
   },
   {
-    "id": "chris-eagle",
+    "id": "dan-guido",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Chris Eagle",
-    "slug": "chris-eagle",
-    "era": "1980s-Present",
-    "tags": [
-      "reverse-engineering",
-      "IDA-Pro",
-      "Ghidra",
-      "cybersecurity-education",
-      "CTF",
-      "Naval-Postgraduate-School",
-      "DARPA",
-      "malware-analysis",
-      "author"
-    ],
-    "summary": "Chris Eagle is a computer security researcher and long-time Computer Science faculty member at the Naval Postgraduate School, best known as the author of The IDA Pro Book, co-author of The Ghidra Book, creator of widely used IDA Pro reverse-engineering plugins, a member of DARPA's Cyber Grand Challenge Competition Framework Team, and a longtime DEF CON CTF organizer under the DDTEK banner.",
-    "url": "people/chris-eagle.html"
-  },
-  {
-    "id": "david-litchfield",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "David Litchfield",
-    "slug": "david-litchfield",
-    "era": "1975-Present",
-    "tags": [
-      "security research",
-      "vulnerability research",
-      "database security",
-      "Oracle",
-      "Microsoft SQL Server",
-      "NGSSoftware",
-      "British hacker",
-      "infosec",
-      "buffer overflow",
-      "exploit development"
-    ],
-    "summary": "David Litchfield is a British security researcher and co-founder of Next Generation Security Software (NGSSoftware), known for extensive Oracle Database and Microsoft SQL Server vulnerability research and for co-authoring \"The Shellcoder's Handbook\" and \"The Database Hacker's Handbook.\"",
-    "url": "people/david-litchfield.html"
-  },
-  {
-    "id": "marion-marschalek",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Marion Marschalek",
-    "slug": "marion-marschalek",
-    "era": "2011-Present",
-    "tags": [
-      "malware-analysis",
-      "reverse-engineering",
-      "austria",
-      "women-in-security",
-      "blackhoodie",
-      "cloud-security",
-      "open-source-tools"
-    ],
-    "summary": "Marion Marschalek is an Austrian-born reverse engineer and malware analyst whose confirmed career spans Ikarus Security Software, Intel's STORM hardware-security team, and AWS GuardDuty, and who now runs her own reverse-engineering consultancy, Hack & Cheese, while remaining active in the BlackHoodie women-in-reverse-engineering community.",
-    "url": "people/marion-marschalek.html"
-  },
-  {
-    "id": "peter-van-eeckhoutte",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Peter Van Eeckhoutte",
-    "slug": "peter-van-eeckhoutte",
-    "era": "2007-Present",
-    "tags": [
-      "exploit development",
-      "Corelan Team",
-      "security training",
-      "Belgium",
-      "memory corruption",
-      "reverse engineering"
-    ],
-    "summary": "Peter Van Eeckhoutte is a Belgian security researcher and trainer who founded the Corelan Security Team in 2009 and authored the widely used Corelan Exploit Writing Tutorials, becoming a leading figure in Windows exploit-development education.",
-    "url": "people/peter-van-eeckhoutte.html"
-  },
-  {
-    "id": "rain-forest-puppy",
-    "type": "person",
-    "typeLabel": "Person",
-    "title": "Rain Forest Puppy",
-    "slug": "rain-forest-puppy",
-    "era": "1998-2002",
+    "title": "Dan Guido",
+    "slug": "dan-guido",
+    "era": "2012-Present",
     "tags": [
       "security-research",
-      "sql-injection",
-      "vulnerability-disclosure",
-      "phrack",
-      "hacker-culture",
-      "pseudonymous",
-      "1990s",
-      "2000s"
+      "trail-of-bits",
+      "empire-hacking",
+      "exploit-intelligence",
+      "mobile-security",
+      "blockchain-security",
+      "defi-security",
+      "ceo"
     ],
-    "summary": "Rain Forest Puppy (rfp) was the pseudonym of a security researcher who published one of the earliest widely-read technical descriptions of SQL injection, built the Whisker web-vulnerability scanner, and proposed RFPolicy, an early formal framework for coordinating vulnerability disclosure with vendors.",
-    "url": "people/rain-forest-puppy.html"
+    "summary": "Dan Guido is a security researcher and CEO of Trail of Bits, the New York cybersecurity firm he co-founded in 2012, known for data-driven exploit/mobile-threat research, co-founding the Empire Hacking meetup, and steering the firm into blockchain and DeFi security auditing.",
+    "url": "people/dan-guido.html"
   },
   {
-    "id": "renaud-deraison",
+    "id": "diffie-hellman",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Renaud Deraison",
-    "slug": "renaud-deraison",
-    "era": "1998-Present",
+    "title": "Whitfield Diffie and Martin Hellman",
+    "slug": "diffie-hellman",
+    "era": "1976-Present",
     "tags": [
-      "Nessus",
-      "Tenable",
-      "vulnerability-management",
-      "cybersecurity-entrepreneur",
+      "cryptography",
+      "public-key cryptography",
+      "key exchange",
+      "Turing Award",
+      "crypto wars",
+      "NSA",
+      "Stanford",
+      "computer science pioneers"
+    ],
+    "summary": "Whitfield Diffie and Martin Hellman co-authored the 1976 paper \"New Directions in Cryptography,\" introducing public-key cryptography and the Diffie-Hellman key exchange, and jointly received the 2015 ACM A.M. Turing Award for this work.",
+    "url": "people/diffie-hellman.html"
+  },
+  {
+    "id": "ken-thompson",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ken Thompson",
+    "slug": "ken-thompson",
+    "era": "1969-Present",
+    "tags": [
+      "Unix",
+      "Bell Labs",
+      "C programming language",
+      "Go programming language",
+      "Turing Award",
+      "compiler security",
+      "computer chess",
+      "operating systems"
+    ],
+    "summary": "Ken Thompson is an American computer scientist who co-created the Unix operating system with Dennis Ritchie at Bell Labs, later co-designed the Go programming language at Google, and authored the seminal 1984 Turing Award lecture \"Reflections on Trusting Trust,\" which exposed how a compiler could be backdoored to insert undetectable trojans into software.",
+    "url": "people/ken-thompson.html"
+  },
+  {
+    "id": "loic-duflot",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Lo\u00efc Duflot",
+    "slug": "loic-duflot",
+    "era": "2006-2011 (documented research period)",
+    "tags": [
+      "System Management Mode",
+      "x86 security",
+      "SMM rootkit",
+      "virtualization escape",
+      "DCSSI",
+      "ANSSI",
       "France",
-      "CVE",
-      "SecurityScorecard",
-      "Sekoia.io",
-      "patents",
-      "chief-technology-officer"
+      "CanSecWest",
+      "hardware security",
+      "firmware security"
     ],
-    "summary": "Renaud Deraison is a French-born security researcher who created the Nessus vulnerability scanner as a lyc\u00e9e student in 1998 and went on to co-found Tenable Network Security in 2002, serving as the company's chief technology officer through its 2018 Nasdaq IPO before moving into advisory and board roles across the cybersecurity industry.",
-    "url": "people/renaud-deraison.html"
+    "summary": "French security researcher employed by France's DCSSI (later ANSSI) who, from 2006 onward, showed that x86 System Management Mode, ACPI, and PC chipset/firmware features could be abused to bypass operating-system and hypervisor security guarantees, first presenting this work publicly at CanSecWest 2006.",
+    "url": "people/loic-duflot.html"
   },
   {
-    "id": "roberto-preatoni",
+    "id": "philip-zimmermann",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Roberto Preatoni",
-    "slug": "roberto-preatoni",
-    "era": "2002-Present",
+    "title": "Philip Zimmermann",
+    "slug": "philip-zimmermann",
+    "era": "1991-Present",
     "tags": [
-      "hacker",
-      "security researcher",
-      "penetration tester",
-      "Zone-H",
-      "website defacement",
-      "Italy",
-      "internet entrepreneur",
-      "WabiSabiLabi",
-      "Telecom Italia scandal"
+      "encryption",
+      "PGP",
+      "cryptography",
+      "privacy",
+      "cypherpunks",
+      "export controls",
+      "First Amendment",
+      "computer security"
     ],
-    "summary": "Italian penetration tester and internet entrepreneur best known as the founder of Zone-H, the long-running website-defacement archive, and of WabiSabiLabi, an early online vulnerability marketplace; in November 2007 he was arrested in Milan as part of the wide-ranging Telecom Italia \"Tiger Team\" wiretapping and corporate-espionage investigation.",
-    "url": "people/roberto-preatoni.html"
+    "summary": "Philip R. Zimmermann is the American computer scientist who created Pretty Good Privacy (PGP) in 1991, the first widely used public-key email encryption program, and who was the target of a three-year US federal criminal investigation for allegedly exporting munitions without a license after PGP spread internationally.",
+    "url": "people/philip-zimmermann.html"
   },
   {
-    "id": "silvio-cesare",
+    "id": "rsa-rivest-shamir-adleman",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Silvio Cesare",
-    "slug": "silvio-cesare",
-    "era": "1993-Present",
+    "title": "Ron Rivest, Adi Shamir, and Leonard Adleman",
+    "slug": "rsa-rivest-shamir-adleman",
+    "era": "1977-Present",
     "tags": [
-      "security-researcher",
-      "malware-research",
-      "virus-research",
-      "phrack",
-      "academia",
-      "australia",
-      "software-similarity"
+      "cryptography",
+      "public-key cryptography",
+      "RSA",
+      "Turing Award",
+      "MIT",
+      "computer science",
+      "mathematics"
     ],
-    "summary": "Silvio Cesare is an Australian security researcher active since the early 1990s, known for Phrack articles on binary infection techniques, a Snort IDS-evasion discovery, and later academic work on malware classification at Deakin University; he now runs the Canberra security firm InfoSect.",
-    "url": "people/silvio-cesare.html"
+    "summary": "MIT researchers Ron Rivest, Adi Shamir, and Leonard Adleman publicly described the RSA public-key cryptosystem in 1977-1978, a foundational algorithm for secure communication and digital signatures that earned them the 2002 ACM Turing Award.",
+    "url": "people/rsa-rivest-shamir-adleman.html"
+  },
+  {
+    "id": "steve-wozniak",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Steve Wozniak",
+    "slug": "steve-wozniak",
+    "era": "1970s-Present",
+    "tags": [
+      "phone phreaking",
+      "blue box",
+      "hardware hacking",
+      "Apple co-founder",
+      "Homebrew Computer Club",
+      "hacker culture"
+    ],
+    "summary": "Steve Wozniak is an electronics engineer who, before co-founding Apple Computer with Steve Jobs, built and sold illegal \"blue box\" devices for phone phreaking in the early 1970s -- an episode both men later credited as a formative step toward Apple's creation.",
+    "url": "people/steve-wozniak.html"
   }
 ]

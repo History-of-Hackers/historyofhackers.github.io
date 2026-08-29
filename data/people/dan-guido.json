@@ -1,0 +1,114 @@
+{
+  "id": "dan-guido",
+  "type": "person",
+  "title": "Dan Guido",
+  "slug": "dan-guido",
+  "era": "2012-Present",
+  "tags": [
+    "security-research",
+    "trail-of-bits",
+    "empire-hacking",
+    "exploit-intelligence",
+    "mobile-security",
+    "blockchain-security",
+    "defi-security",
+    "ceo"
+  ],
+  "summary": "Dan Guido is a security researcher and CEO of Trail of Bits, the New York cybersecurity firm he co-founded in 2012, known for data-driven exploit/mobile-threat research, co-founding the Empire Hacking meetup, and steering the firm into blockchain and DeFi security auditing.",
+  "whyThisMatters": "Dan Guido is a security researcher and CEO of Trail of Bits, the New York cybersecurity firm he co-founded in 2012, known for data-driven exploit/mobile-threat research, co-founding the Empire Hacking meetup, and steering the firm into blockchain and DeFi security auditing.",
+  "sections": {
+    "overview": "<p>Dan Guido is CEO of Trail of Bits, a New York-based cybersecurity research and consulting firm he co-founded in 2012 alongside Alexander Sotirov (who serves as Co-CEO) and Dino Dai Zovi. Trail of Bits describes its founding mission as publishing security research and tooling \"to raise the bar for everyone\" rather than hoarding offensive knowledge within a single firm.</p><h2>Exploit intelligence research</h2><p>Earlier in his career Guido produced statistically-grounded research into how attackers actually operate, rather than purely theoretical vulnerability work. He presented \"The Mobile Exploit Intelligence Project\" in 2012 and a follow-up, \"The Exploit Intelligence Project Revisited,\" in 2013 \u2014 data-driven analyses of exploitation and mobile-threat trends in the spirit of the broader academic push (exemplified by projects like the Android Malware Genome Project) to move malware and exploit research from anecdote toward large-sample statistical analysis. In 2016 he co-presented \"Modern iOS Application Security\" with fellow Trail of Bits researcher Sophia D'Antoine, extending this mobile-security focus to Apple's platform.</p><h2>Empire Hacking</h2><p>Guido is credited as an organizer of Empire Hacking, a bi-monthly New York City meetup \"organized by Trail of Bits\" and focused on \"pragmatic security research and new discoveries in software attack and defense.\" The group's own history page dates its founding to May 2015; by the mid-2020s it had grown to over 1,500 members before going on hiatus in 2025 while Trail of Bits planned longer-form NYC events with partners.</p><h2>Pivot to blockchain and DeFi security</h2><p>From around 2019 onward, Guido and Trail of Bits publicly repositioned toward cryptocurrency and decentralized-finance security, with Guido delivering talks including \"Evidence-driven Security Engineering,\" \"Traditional Infosec for Blockchain Firms,\" and \"What blockchain got right\" in 2019, followed by \"DeFi Hacks and Future Threats\" in 2020. Trail of Bits went on to build a substantial blockchain security-auditing practice (the company's team page lists a dedicated Engineering Director for Blockchain and an Engineering Director for Cryptography), and its blog continues to publish smart-contract and protocol security findings, including a 2026 post on recurring failure patterns in Uniswap v4 hooks and a disclosed access-control bug in the Provenance Blockchain.</p><h2>Recent work</h2><p>In March 2026, Guido authored a Trail of Bits post, \"How we made Trail of Bits AI-Native (so far),\" describing the firm's internal shift toward AI-augmented security auditing, writing that the effort began with \"5% buy-in and 95% resistance\" before \"AI-augmented auditors are finding 200 bugs a week on the right engagements.\"</p><p><em>Note: Guido's early education and pre-Trail of Bits employment history could not be independently confirmed from the sources consulted for this article and are omitted rather than assumed.</em></p>"
+  },
+  "timeline": [
+    {
+      "date": "2012",
+      "event": "Co-founds Trail of Bits in New York City with Alexander Sotirov and Dino Dai Zovi."
+    },
+    {
+      "date": "2012",
+      "event": "Presents \"The Mobile Exploit Intelligence Project,\" statistical research on mobile exploitation trends."
+    },
+    {
+      "date": "2013",
+      "event": "Presents \"The Exploit Intelligence Project Revisited.\""
+    },
+    {
+      "date": "2015-05",
+      "event": "Empire Hacking meetup, organized by Trail of Bits, is founded in New York City."
+    },
+    {
+      "date": "2016",
+      "event": "Co-presents \"Modern iOS Application Security\" with Sophia D'Antoine."
+    },
+    {
+      "date": "2019",
+      "event": "Delivers blockchain-security talks: \"Evidence-driven Security Engineering,\" \"Traditional Infosec for Blockchain Firms,\" and \"What blockchain got right.\""
+    },
+    {
+      "date": "2020",
+      "event": "Presents \"DeFi Hacks and Future Threats.\""
+    },
+    {
+      "date": "2026-03-31",
+      "event": "Publishes \"How we made Trail of Bits AI-Native (so far)\" on the company blog."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Alexander Sotirov - Wikipedia (Trail of Bits founding, 2012, with Dino Dai Zovi and Dan Guido)",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Sotirov"
+    },
+    {
+      "title": "Trail of Bits - Team",
+      "url": "https://www.trailofbits.com/team/"
+    },
+    {
+      "title": "Trail of Bits - About",
+      "url": "https://www.trailofbits.com/about"
+    },
+    {
+      "title": "Empire Hacking - Meetup.com page",
+      "url": "https://www.meetup.com/empire-hacking/"
+    },
+    {
+      "title": "Empire Hacking NYC - official site / about",
+      "url": "https://empirehacking.nyc/"
+    },
+    {
+      "title": "Trail of Bits Publications (GitHub repository, list of talks including Exploit Intelligence Project and Modern iOS Application Security)",
+      "url": "https://raw.githubusercontent.com/trailofbits/publications/master/README.md"
+    },
+    {
+      "title": "Dan Guido - GitHub profile (dguido)",
+      "url": "https://github.com/dguido"
+    },
+    {
+      "title": "Trail of Bits Blog",
+      "url": "https://blog.trailofbits.com/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 8,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  },
+  "name": "Dan Guido",
+  "born": null,
+  "died": null,
+  "knownFor": [
+    "Co-founded Trail of Bits in New York City in 2012 with Alexander Sotirov and Dino Dai Zovi",
+    "Serves as CEO of Trail of Bits; Alexander Sotirov serves as Co-CEO",
+    "Authored 'The Mobile Exploit Intelligence Project' (2012) and its follow-up 'The Exploit Intelligence Project Revisited' (2013), statistical/data-driven research on exploit and mobile-threat trends",
+    "Co-presented 'Modern iOS Application Security' with Sophia D'Antoine (2016)",
+    "Empire Hacking, the NYC/Brooklyn security meetup organized by Trail of Bits, was founded in May 2015 and lists 'Dan G.' among its organizers",
+    "Led Trail of Bits' expansion into blockchain and DeFi security auditing, reflected in talks such as 'Evidence-driven Security Engineering,' 'Traditional Infosec for Blockchain Firms,' and 'What blockchain got right' (all 2019) and 'DeFi Hacks and Future Threats' (2020)",
+    "Wrote the 2026 Trail of Bits post on adopting AI-augmented auditing practices across the firm"
+  ]
+}
