@@ -212,4 +212,4 @@ film/show/reviews), just not treated as history.
 | Mr. Robot (TV series) | Elliot Alderson / fsociety; widely cited for unusually realistic hacking depiction | See `data/fiction/mr-robot.json` — PUBLISHED |
 | The Matrix (1999 film) | Neo/Trinity/Morpheus as hackers; major cyberpunk cultural touchstone | See `data/fiction/the-matrix.json` — PUBLISHED |
 | Cyberchase (animated series) | PBS Kids villain "the Hacker" (voiced by Christopher Lloyd) — purely fictional/educational, no technical accuracy claim | See `data/fiction/cyberchase.json` — PUBLISHED |
-| Hackers (1995 film) | Zero Cool/Crash Override, Acid Burn, Cereal Killer, and cult hacker-aesthetic origin | RESEARCHING |
+| Hackers (1995 film) | Zero Cool/Crash Override, Acid Burn, Cereal Killer, and cult hacker-aesthetic origin | See `data/fiction/hackers-1995.json` — PUBLISHED |
