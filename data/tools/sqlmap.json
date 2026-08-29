@@ -1,0 +1,113 @@
+{
+  "id": "sqlmap",
+  "type": "tool",
+  "title": "sqlmap",
+  "slug": "sqlmap",
+  "era": "2006-Present",
+  "tags": [
+    "sql-injection",
+    "penetration-testing",
+    "open-source",
+    "database-security",
+    "security-tool",
+    "gplv2",
+    "kali-linux"
+  ],
+  "summary": "sqlmap is an open-source command-line tool that automates the detection and exploitation of SQL injection vulnerabilities and the takeover of underlying database servers, originally created by Daniele Bellucci in 2006 and developed since by Bernardo Damele and Miroslav Stampar.",
+  "whyThisMatters": "sqlmap is an open-source command-line tool that automates the detection and exploitation of SQL injection vulnerabilities and the takeover of underlying database servers, originally created by Daniele Bellucci in 2006 and developed since by Bernardo Damele and Miroslav Stampar.",
+  "sections": {
+    "overview": "<p>sqlmap is a free, open-source penetration testing tool that automates the detection and exploitation of SQL injection flaws and the takeover of the database servers behind vulnerable web applications. Distributed under the GNU General Public License v2 (GPLv2), it supports dozens of database management systems and implements techniques including boolean-based blind, time-based blind, error-based, UNION query, and stacked-queries SQL injection, along with DBMS fingerprinting, data extraction, file-system access, and out-of-band operating-system command execution.</p><h2>Origins (2006)</h2><p>According to the project's own history page, sqlmap began on July 25, 2006, when Daniele Bellucci registered the \"sqlmap\" project on SourceForge and built its initial skeleton with limited MySQL support; version 0.1 followed in August 2006 with added PostgreSQL support. In September 2006, Bellucci left the project and Bernardo Damele A. G. took it over as lead developer, releasing version 0.2 in December 2006 with an improved DBMS-fingerprinting engine and a new \"bisection\" inference algorithm.</p><h2>Growth under Damele and Stampar (2007-2011)</h2><p>Through 2007, Damele expanded sqlmap rapidly: version 0.3 (January 2007) added Microsoft SQL Server support, UNION-query exploitation, and POST-parameter injection testing. The project was accepted into OWASP's \"Spring of Code 2007\" program, which funded versions 0.4 (June 2007) and 0.5 (November 2007), the latter adding Oracle support. In December 2009, Miroslav Stampar answered a public call for developers and joined Damele, contributing from version 0.8 release candidate 2 onward; he has since become one of the project's principal maintainers.</p><h2>Move to GitHub and maturity (2012-present)</h2><p>On June 26, 2012, sqlmap's development relocated from SourceForge/Subversion to GitHub, with a new homepage at sqlmap.org and a public issue tracker. The project reached stable version 1.0 on February 27, 2016, and closed its 2,000th GitHub issue that same year. sqlmap.org now credits Damele and Stampar as the project's founders and lead maintainers, lists over 130 contributors, and offers the tool under a dual GPLv2/commercial license.</p><h2>Notoriety and impact</h2><p>sqlmap is bundled by default in penetration-testing Linux distributions such as Kali Linux and is one of the most widely used SQL injection tools in both authorized security testing and real-world attacks. Wikipedia's entry on the tool states it was used in the 2015 TalkTalk data breach and, alongside Acunetix and DirBuster, in the 2016 compromise of the Illinois State Board of Elections systems, illustrating its dual-use nature.</p><p><em>Note: Wikipedia's infobox names only Daniele Bellucci as \"author,\" while sqlmap's own project history and GitHub AUTHORS file credit Bernardo Damele and Miroslav Stampar as founders/current lead developers -- reflecting Bellucci's role as original creator versus Damele's and Stampar's roles in taking the project from its earliest version to its current form. Specific version \"codenames\" reported for the most recent (2022-2026) releases could not be independently corroborated and are treated as unverified.</em></p>"
+  },
+  "timeline": [
+    {
+      "date": "2006-07-25",
+      "event": "Daniele Bellucci registers the sqlmap project on SourceForge and implements its initial skeleton with limited MySQL support."
+    },
+    {
+      "date": "2006-08",
+      "event": "Version 0.1 released; initial PostgreSQL support added."
+    },
+    {
+      "date": "2006-09",
+      "event": "Daniele Bellucci leaves the project; Bernardo Damele A. G. takes over as lead developer."
+    },
+    {
+      "date": "2006-12-13",
+      "event": "Version 0.2 released with enhanced DBMS fingerprinting and a new bisection inference algorithm."
+    },
+    {
+      "date": "2007-01-20",
+      "event": "Version 0.3 released, adding Microsoft SQL Server support, UNION query exploitation, and POST-parameter injection testing."
+    },
+    {
+      "date": "2007",
+      "event": "sqlmap is accepted into the OWASP Spring of Code 2007 program."
+    },
+    {
+      "date": "2007-06-15",
+      "event": "Version 0.4 released as the first OWASP Spring of Code 2007 milestone."
+    },
+    {
+      "date": "2007-11-04",
+      "event": "Version 0.5 released (adds Oracle support), marking the end of OWASP Spring of Code 2007 participation."
+    },
+    {
+      "date": "2009-12-18",
+      "event": "Miroslav Stampar joins the project as co-developer alongside Bernardo Damele, starting with version 0.8 RC2."
+    },
+    {
+      "date": "2012-06-26",
+      "event": "Development relocates from SourceForge/Subversion to GitHub; new homepage at sqlmap.org and public issue tracker launched."
+    },
+    {
+      "date": "2015",
+      "event": "Disputed/unverified beyond Wikipedia mention: sqlmap reportedly used by attackers in the TalkTalk data breach."
+    },
+    {
+      "date": "2016-02-27",
+      "event": "Stable version 1.0 released."
+    },
+    {
+      "date": "2016",
+      "event": "Project closes its 2,000th GitHub issue; disputed/unverified beyond Wikipedia mention: sqlmap reportedly used alongside Acunetix and DirBuster in the Illinois State Board of Elections breach."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "sqlmap official website",
+      "url": "https://sqlmap.org"
+    },
+    {
+      "title": "sqlmap GitHub repository",
+      "url": "https://github.com/sqlmapproject/sqlmap"
+    },
+    {
+      "title": "sqlmap GitHub Wiki - History",
+      "url": "https://github.com/sqlmapproject/sqlmap/wiki/History"
+    },
+    {
+      "title": "sqlmap GitHub AUTHORS file",
+      "url": "https://github.com/sqlmapproject/sqlmap/blob/master/doc/AUTHORS"
+    },
+    {
+      "title": "sqlmap GitHub Releases",
+      "url": "https://github.com/sqlmapproject/sqlmap/releases"
+    },
+    {
+      "title": "Wikipedia - sqlmap",
+      "url": "https://en.wikipedia.org/wiki/Sqlmap"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 6,
+    "lastReviewed": "2026-08-28",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "migration-from-index.html"
+  }
+}

@@ -301,6 +301,24 @@
     "url": "people/eric-corley.html"
   },
   {
+    "id": "felix-fx-lindner",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Felix \"FX\" Lindner",
+    "slug": "felix-fx-lindner",
+    "era": "1990s-2026",
+    "tags": [
+      "Phenoelit",
+      "Cisco IOS",
+      "router exploitation",
+      "Recurity Labs",
+      "Germany",
+      "CCC"
+    ],
+    "summary": "Felix \"FX\" Lindner was a German security researcher and founder of the Phenoelit hacking group, best known as a pioneer of Cisco IOS and embedded-router exploitation research, and later founder of the Berlin-based security firm Recurity Labs.",
+    "url": "people/felix-fx-lindner.html"
+  },
+  {
     "id": "george-geohot-hotz",
     "type": "person",
     "typeLabel": "Person",
@@ -1503,21 +1521,189 @@
     "url": "fields/responsible-disclosure.html"
   },
   {
-    "id": "felix-fx-lindner",
+    "id": "adam-laurie",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Felix \"FX\" Lindner",
-    "slug": "felix-fx-lindner",
-    "era": "1990s-2026",
+    "title": "Adam Laurie",
+    "slug": "adam-laurie",
+    "era": "2003-Present",
     "tags": [
-      "Phenoelit",
-      "Cisco IOS",
-      "router exploitation",
-      "Recurity Labs",
-      "Germany",
-      "CCC"
+      "RFID/NFC security",
+      "Bluetooth security",
+      "bluesnarfing",
+      "hardware hacking",
+      "open-source security tools",
+      "DEF CON",
+      "Chaos Communication Congress",
+      "British hacker"
     ],
-    "summary": "Felix \"FX\" Lindner was a German security researcher and founder of the Phenoelit hacking group, best known as a pioneer of Cisco IOS and embedded-router exploitation research, and later founder of the Berlin-based security firm Recurity Labs.",
-    "url": "people/felix-fx-lindner.html"
+    "summary": "British security researcher known by the alias \"Major Malfunction,\" who co-discovered and publicized the Bluetooth \"bluesnarfing\" vulnerability in 2003 and later created the open-source RFIDIOt and RFIDler RFID/NFC security research tools.",
+    "url": "people/adam-laurie.html"
+  },
+  {
+    "id": "aircrack-ng",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Aircrack-ng",
+    "slug": "aircrack-ng",
+    "era": "2004-Present",
+    "tags": [
+      "wifi-security",
+      "wep-cracking",
+      "wpa-wpa2",
+      "packet-injection",
+      "open-source",
+      "penetration-testing",
+      "802.11",
+      "linux-tools"
+    ],
+    "summary": "Aircrack-ng is a free, open-source command-line suite for assessing WiFi network security, covering monitoring, packet injection, capture-driver testing, and WEP/WPA-PSK key cracking; it descends from Christophe Devine's original Aircrack and has been maintained since 2006 by Thomas d'Otreppe de Bouvette and the Aircrack-ng team.",
+    "url": "tools/aircrack-ng.html"
+  },
+  {
+    "id": "dafydd-stuttard",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Dafydd Stuttard",
+    "slug": "dafydd-stuttard",
+    "era": "2003-Present",
+    "tags": [
+      "web application security",
+      "Burp Suite",
+      "PortSwigger",
+      "author",
+      "penetration testing",
+      "British"
+    ],
+    "summary": "Dafydd Stuttard is a British security researcher who built Burp Suite between 2003 and 2006, founded the company PortSwigger to develop it, and co-authored the standard reference text \"The Web Application Hacker's Handbook.\"",
+    "url": "people/dafydd-stuttard.html"
+  },
+  {
+    "id": "eternalblue",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability / Discovery",
+    "title": "EternalBlue (CVE-2017-0144)",
+    "slug": "eternalblue",
+    "era": "2017",
+    "tags": [
+      "nsa",
+      "smb",
+      "shadow-brokers",
+      "wannacry",
+      "notpetya",
+      "ransomware",
+      "windows",
+      "zero-day",
+      "ms17-010",
+      "exploit"
+    ],
+    "summary": "EternalBlue (CVE-2017-0144) was a critical Windows SMBv1 remote-code-execution exploit reportedly developed by the NSA, publicly leaked by a group calling itself the Shadow Brokers in April 2017, and subsequently weaponized in the WannaCry and NotPetya attacks.",
+    "url": "vulnerabilities/eternalblue.html"
+  },
+  {
+    "id": "frank-rieger",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Frank Rieger",
+    "slug": "frank-rieger",
+    "era": "1990s-Present",
+    "tags": [
+      "hacker",
+      "Chaos Computer Club",
+      "CCC",
+      "biometrics",
+      "fingerprint spoofing",
+      "privacy activism",
+      "surveillance",
+      "GSMK",
+      "Cryptophone",
+      "Germany",
+      "Stuxnet",
+      "tech publicist"
+    ],
+    "summary": "Frank Rieger is a German hacker, entrepreneur, and longtime spokesperson for the Chaos Computer Club (CCC), best known for publicizing the CCC's 2013 defeat of Apple's Touch ID fingerprint sensor and for co-founding GSMK, maker of the secure CryptoPhone.",
+    "url": "people/frank-rieger.html"
+  },
+  {
+    "id": "heartbleed",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability / Discovery",
+    "title": "Heartbleed (CVE-2014-0160)",
+    "slug": "heartbleed",
+    "era": "2014",
+    "tags": [
+      "openssl",
+      "heartbleed",
+      "cve-2014-0160",
+      "tls-ssl",
+      "vulnerability",
+      "memory-disclosure",
+      "google-security",
+      "codenomicon",
+      "2014"
+    ],
+    "summary": "A critical bug in OpenSSL's TLS heartbeat extension let remote attackers silently read up to 64KB of a server's process memory, exposing private keys and credentials across roughly 17% of the internet's secure servers before it was patched in April 2014.",
+    "url": "vulnerabilities/heartbleed.html"
+  },
+  {
+    "id": "ralf-philipp-weinmann",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ralf-Philipp Weinmann",
+    "slug": "ralf-philipp-weinmann",
+    "era": "2006-Present",
+    "tags": [
+      "security-research",
+      "cryptanalysis",
+      "GSM",
+      "baseband-security",
+      "mobile-security",
+      "Comsecuris",
+      "Germany",
+      "academia",
+      "reverse-engineering"
+    ],
+    "summary": "Ralf-Philipp Weinmann is a German security researcher and cryptographer known for practical cryptanalysis of deployed ciphers (DECT, EMV/ISO 9796-2) and for pioneering research into cellular baseband firmware vulnerabilities; he co-authored the \"iOS Hacker's Handbook\" and co-founded the security firm Comsecuris.",
+    "url": "people/ralf-philipp-weinmann.html"
+  },
+  {
+    "id": "shellshock",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability / Discovery",
+    "title": "Shellshock (CVE-2014-6271)",
+    "slug": "shellshock",
+    "era": "2014",
+    "tags": [
+      "bash",
+      "shellshock",
+      "remote-code-execution",
+      "unix",
+      "linux",
+      "cgi",
+      "environment-variables",
+      "vulnerability",
+      "critical-infrastructure"
+    ],
+    "summary": "Shellshock was a family of critical vulnerabilities in the GNU Bash shell, first disclosed on September 24, 2014, that allowed remote attackers to execute arbitrary code by embedding malicious commands in environment variables processed by Bash.",
+    "url": "vulnerabilities/shellshock.html"
+  },
+  {
+    "id": "sqlmap",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "sqlmap",
+    "slug": "sqlmap",
+    "era": "2006-Present",
+    "tags": [
+      "sql-injection",
+      "penetration-testing",
+      "open-source",
+      "database-security",
+      "security-tool",
+      "gplv2",
+      "kali-linux"
+    ],
+    "summary": "sqlmap is an open-source command-line tool that automates the detection and exploitation of SQL injection vulnerabilities and the takeover of underlying database servers, originally created by Daniele Bellucci in 2006 and developed since by Bernardo Damele and Miroslav Stampar.",
+    "url": "tools/sqlmap.html"
   }
 ]

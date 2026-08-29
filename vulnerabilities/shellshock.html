@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Shellshock (CVE-2014-6271) - History of Hackers</title>
+<meta name="description" content="Shellshock was a family of critical vulnerabilities in the GNU Bash shell, first disclosed on September 24, 2014, that allowed remote attackers to execute arbitrary code by embedding malicious commands in environment variables processed by Bash." />
+<link rel="canonical" href="https://historyofhackers.org/vulnerabilities/shellshock.html" />
+<meta name="theme-color" content="#f8f9fa" />
+<meta property="og:title" content="Shellshock (CVE-2014-6271) - History of Hackers" />
+<meta property="og:description" content="Shellshock was a family of critical vulnerabilities in the GNU Bash shell, first disclosed on September 24, 2014, that allowed remote attackers to execute arbitrary code by embedding malicious commands in environment variables processed by Bash." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://historyofhackers.org/vulnerabilities/shellshock.html" />
+<link rel="stylesheet" href="../assets/css/main.css" />
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Article", "name": "Shellshock (CVE-2014-6271)", "description": "Shellshock was a family of critical vulnerabilities in the GNU Bash shell, first disclosed on September 24, 2014, that allowed remote attackers to execute arbitrary code by embedding malicious commands in environment variables processed by Bash."}
+</script>
+</head>
+<body data-root=".." class="">
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="top-strip">
+  <a href="../about.html">About</a>
+  <a href="../CONTRIBUTING.html">Contribute</a>
+  <a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub</a>
+</div>
+<header class="site-header">
+  <a class="brand" href="../">
+    <span class="brand-logo">H</span>
+    <span>History of Hackers<small>The free hacker-culture encyclopedia</small></span>
+  </a>
+  <form class="site-search" id="siteSearchForm" role="search" action="../search/">
+    <label class="visually-hidden" for="siteSearchInput">Search</label>
+    <input id="siteSearchInput" name="q" type="search" placeholder="Search the archive (Press /)" aria-label="Search the archive" />
+    <button type="submit" aria-label="Search">Search</button>
+  </form>
+  <div class="header-actions">
+    <button class="btn" id="toggleTheme" type="button" title="Toggle light/dark theme"><span class="btn-label">Theme</span></button>
+  </div>
+</header>
+<nav class="tab-strip" aria-label="Sections">
+<a href="../people/">People</a><a href="../groups/">Groups</a><a href="../tools/">Tools</a><a href="../vulnerabilities/" aria-current="page">Vulnerabilities</a><a href="../events/">Events</a><a href="../publications/">Publications</a><a href="../fields/">Fields</a><a href="../timeline/">Timeline</a><a href="../fiction/">Fiction</a>
+</nav>
+<details class="mobile-nav-toggle">
+  <summary>Menu</summary>
+  <aside class="sidebar"><div class="sidebar-box">
+<h2>Navigate</h2>
+<ul>
+<li><a href="../">Home</a></li>
+<li><a href="../timeline/">Timeline</a></li>
+<li><a href="../search/">Search</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>Categories</h2>
+<ul>
+<li><a href="../people/">People</a></li><li><a href="../groups/">Groups</a></li><li><a href="../tools/">Tools</a></li><li><a href="../vulnerabilities/" aria-current="page">Vulnerabilities & Discoveries</a></li><li><a href="../events/">Events</a></li><li><a href="../publications/">Publications</a></li><li><a href="../fields/">Fields</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>Fiction (non-historical)</h2>
+<ul>
+<li><a href="../fiction/">Fictional Hackers</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>Contribute</h2>
+<ul>
+<li><a href="../CONTRIBUTING.html">How to contribute</a></li>
+<li><a href="../STYLE_GUIDE.html">Style guide</a></li>
+<li><a href="../SOURCES.html">Sources policy</a></li>
+<li><a href="../RESEARCH_BACKLOG.html">Research backlog</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>About</h2>
+<ul>
+<li><a href="../about.html">About this project</a></li>
+<li><a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub repository</a></li>
+</ul>
+</div></aside>
+</details>
+<div class="shell">
+<aside class="sidebar desktop-only"><div class="sidebar-box">
+<h2>Navigate</h2>
+<ul>
+<li><a href="../">Home</a></li>
+<li><a href="../timeline/">Timeline</a></li>
+<li><a href="../search/">Search</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>Categories</h2>
+<ul>
+<li><a href="../people/">People</a></li><li><a href="../groups/">Groups</a></li><li><a href="../tools/">Tools</a></li><li><a href="../vulnerabilities/" aria-current="page">Vulnerabilities & Discoveries</a></li><li><a href="../events/">Events</a></li><li><a href="../publications/">Publications</a></li><li><a href="../fields/">Fields</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>Fiction (non-historical)</h2>
+<ul>
+<li><a href="../fiction/">Fictional Hackers</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>Contribute</h2>
+<ul>
+<li><a href="../CONTRIBUTING.html">How to contribute</a></li>
+<li><a href="../STYLE_GUIDE.html">Style guide</a></li>
+<li><a href="../SOURCES.html">Sources policy</a></li>
+<li><a href="../RESEARCH_BACKLOG.html">Research backlog</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>About</h2>
+<ul>
+<li><a href="../about.html">About this project</a></li>
+<li><a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub repository</a></li>
+</ul>
+</div></aside>
+<main class="content" id="main">
+
+<div class="breadcrumbs"><a href="../">Home</a> &raquo; <a href="./">Vulnerabilities & Discoveries</a> &raquo; Shellshock (CVE-2014-6271)</div>
+<article class="entity">
+<div class="entity-layout">
+<div>
+<h1>Shellshock (CVE-2014-6271)</h1>
+<div class="why-matters">Shellshock was a family of critical vulnerabilities in the GNU Bash shell, first disclosed on September 24, 2014, that allowed remote attackers to execute arbitrary code by embedding malicious commands in environment variables processed by Bash.</div>
+<div id="tocSlot"></div>
+<div class="entity-content">
+<p>Shellshock (also called "Bashdoor") is the name given to a family of vulnerabilities in the GNU Bourne Again Shell (Bash), the default command interpreter on most Linux and Unix systems and on Apple's macOS at the time. The root flaw, tracked as <strong>CVE-2014-6271</strong>, stemmed from how Bash processed environment variables: functions could be defined inside an environment variable's value, but Bash continued to parse and execute any commands that followed the function definition, even though they should have been treated as inert trailing text. An attacker who could supply an environment variable to a Bash-spawning process — for example through CGI scripts, OpenSSH's <code>ForceCommand</code> and <code>SSH_ORIGINAL_COMMAND</code>, DHCP clients, or other services that pass untrusted input into the shell environment — could achieve remote arbitrary code execution.</p><h2>Discovery and Disclosure</h2><p>The bug was discovered by French Unix specialist <strong>Stéphane Chazelas</strong>, who reported it to Bash maintainer Chet Ramey on September 12, 2014, according to Wikipedia's account of the incident. The vulnerability was publicly disclosed on <strong>September 24, 2014</strong>, when CVE-2014-6271 was published by NVD with a CVSS v2 base score of 10.0 (AV:N/AC:L/Au:N/C:C/I:C/A:C) — the maximum possible severity, reflecting complete compromise of confidentiality, integrity, and availability with no authentication required.</p><h2>Incomplete Fixes and Related CVEs</h2><p>The initial patch for CVE-2014-6271 proved incomplete, leading to a rapid sequence of follow-on CVEs as researchers and vendors iterated on the fix:</p><p><strong>CVE-2014-7169</strong> (published September 25, 2014) showed that Bash still processed trailing strings after malformed function definitions, again enabling remote code execution or arbitrary file writes. <strong>CVE-2014-6277</strong> (published September 27, 2014) and <strong>CVE-2014-6278</strong> (published September 30, 2014) covered further parsing flaws in function definitions that could allow code execution or denial of service via uninitialized memory access and untrusted-pointer operations. <strong>CVE-2014-7186</strong> and <strong>CVE-2014-7187</strong> (both published September 28, 2014) addressed separate, less severe memory-safety bugs in Bash's parser — an out-of-bounds array access in redirection handling (the "redir_stack" issue) and an off-by-one error in the <code>read_token_word</code> function (the "word_lineno" issue) — both primarily causing crashes rather than code execution. Affected Bash versions spanned roughly 1.0.3 through 4.3, according to Wikipedia.</p><h2>Impact and Exploitation</h2><p>Because Bash was ubiquitous on Linux/Unix servers, embedded devices, and network appliances, and because many web servers invoked Bash indirectly through CGI, the vulnerability had an enormous attack surface. Exploitation attempts began within hours of disclosure. Per Wikipedia's summary, by September 26, 2014, roughly 17,400 attacks against more than 1,800 domains from about 400 distinct IP addresses had been observed, and by September 30 daily attack/probe volume was estimated at around 1.5 million. Botnets (reported under names including "wopbot") reportedly launched DDoS activity against targets including Akamai's network and U.S. Department of Defense infrastructure; a reported compromise of a Yahoo server via Shellshock in early October 2014 was disputed by Yahoo.</p><h2>Response</h2><p>Major Linux distributions (Red Hat, Debian, Ubuntu, SUSE), Oracle, Apple, and vendors such as F5, Citrix, VMware, and IBM issued advisories and patches within days, with multiple patch revisions required as the follow-on CVEs surfaced (e.g., Red Hat's RHSA-2014-1293, -1294, -1295, and -1354). US-CERT/CISA issued alert TA14-268A covering the Bash vulnerabilities and mitigation guidance. Given its severity, ease of exploitation, and the ubiquity of Bash, Shellshock was widely compared in severity to the Heartbleed OpenSSL bug disclosed earlier the same year.</p>
+<h2>Timeline</h2><ul class="timeline-list"><li><span class="t-date">2014-09-12</span><span>Stéphane Chazelas discovers the Bash function-export parsing flaw and reports it to Bash maintainer Chet Ramey (per Wikipedia).</span></li><li><span class="t-date">2014-09-24</span><span>CVE-2014-6271 publicly disclosed and published by NVD with a CVSS v2 base score of 10.0.</span></li><li><span class="t-date">2014-09-25</span><span>CVE-2014-7169 published, documenting that the initial patch for CVE-2014-6271 was incomplete.</span></li><li><span class="t-date">2014-09-26</span><span>Widespread exploitation observed; per Wikipedia, roughly 17,400 attacks against 1,800+ domains from ~400 IP addresses were tracked.</span></li><li><span class="t-date">2014-09-27</span><span>CVE-2014-6277 published, covering further Bash function-definition parsing flaws (memory access / DoS).</span></li><li><span class="t-date">2014-09-28</span><span>CVE-2014-7186 and CVE-2014-7187 published, addressing separate Bash parser memory-safety bugs (redirection handling and an off-by-one in read_token_word).</span></li><li><span class="t-date">2014-09-30</span><span>CVE-2014-6278 published; per Wikipedia, daily attack/probe volume was estimated at roughly 1.5 million by this date.</span></li></ul>
+</div>
+<div class="sources"><h2>Sources</h2><ol><li><a href="https://nvd.nist.gov/vuln/detail/CVE-2014-6271" target="_blank" rel="noopener noreferrer">CVE-2014-6271 Detail - National Vulnerability Database (NVD)</a></li><li><a href="https://nvd.nist.gov/vuln/detail/CVE-2014-7169" target="_blank" rel="noopener noreferrer">CVE-2014-7169 Detail - NVD</a></li><li><a href="https://nvd.nist.gov/vuln/detail/CVE-2014-6277" target="_blank" rel="noopener noreferrer">CVE-2014-6277 Detail - NVD</a></li><li><a href="https://nvd.nist.gov/vuln/detail/CVE-2014-6278" target="_blank" rel="noopener noreferrer">CVE-2014-6278 Detail - NVD</a></li><li><a href="https://nvd.nist.gov/vuln/detail/CVE-2014-7186" target="_blank" rel="noopener noreferrer">CVE-2014-7186 Detail - NVD</a></li><li><a href="https://nvd.nist.gov/vuln/detail/CVE-2014-7187" target="_blank" rel="noopener noreferrer">CVE-2014-7187 Detail - NVD</a></li><li><a href="https://access.redhat.com/security/cve/cve-2014-6271" target="_blank" rel="noopener noreferrer">CVE-2014-6271 - Red Hat Customer Portal</a></li><li><a href="https://en.wikipedia.org/wiki/Shellshock_(software_bug)" target="_blank" rel="noopener noreferrer">Shellshock (software bug) - Wikipedia</a></li></ol></div>
+</div>
+<div><div class="infobox"><div class="infobox-title">Shellshock (CVE-2014-6271)</div><dl><dt>Type</dt><dd>Vulnerability / Discovery</dd><dt>Era</dt><dd>2014</dd><dt>Key date</dt><dd>2014-09-12</dd><dt>Tags</dt><dd>bash, shellshock, remote-code-execution, unix, linux, cgi, environment-variables, vulnerability, critical-infrastructure</dd></dl></div></div>
+</div>
+</article>
+
+</main>
+<footer class="site-footer">
+  <p>History of Hackers is a community-maintained historical archive. Corrections and new entries go through
+  <a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub Pull Requests</a>.
+  See <a href="../CONTRIBUTING.html">Contributing</a>, <a href="../STYLE_GUIDE.html">Style Guide</a>
+  and <a href="../SOURCES.html">Sources</a>.</p>
+</footer>
+</div>
+<script src="../assets/js/main.js"></script>
+</body>
+</html>

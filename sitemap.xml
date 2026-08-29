@@ -22,6 +22,7 @@
   <url><loc>https://historyofhackers.org/people/edward-snowden.html</loc></url>
   <url><loc>https://historyofhackers.org/people/elias-levy.html</loc></url>
   <url><loc>https://historyofhackers.org/people/eric-corley.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/felix-fx-lindner.html</loc></url>
   <url><loc>https://historyofhackers.org/people/george-geohot-hotz.html</loc></url>
   <url><loc>https://historyofhackers.org/people/gordon-lyon.html</loc></url>
   <url><loc>https://historyofhackers.org/people/halvar-flake.html</loc></url>
@@ -60,7 +61,10 @@
   <url><loc>https://historyofhackers.org/people/the-grugq.html</loc></url>
   <url><loc>https://historyofhackers.org/people/tsutomu-shimomura.html</loc></url>
   <url><loc>https://historyofhackers.org/people/window-snyder.html</loc></url>
-  <url><loc>https://historyofhackers.org/people/felix-fx-lindner.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/adam-laurie.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/dafydd-stuttard.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/frank-rieger.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/ralf-philipp-weinmann.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/</loc></url>
   <url><loc>https://historyofhackers.org/groups/anonymous-hacktivism.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/chaos-computer-club-ccc.html</loc></url>
@@ -82,8 +86,13 @@
   <url><loc>https://historyofhackers.org/tools/nmap-network-mapper.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/radare2.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/wireshark-network-analyzer.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/aircrack-ng.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/sqlmap.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/stuxnet-digital-weapon.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/eternalblue.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/heartbleed.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/shellshock.html</loc></url>
   <url><loc>https://historyofhackers.org/events/</loc></url>
   <url><loc>https://historyofhackers.org/events/defcon-hacker-conference.html</loc></url>
   <url><loc>https://historyofhackers.org/events/mit-tmrc-hacker-ethic.html</loc></url>

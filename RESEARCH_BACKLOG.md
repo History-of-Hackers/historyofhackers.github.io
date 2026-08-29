@@ -109,13 +109,13 @@ not use this list to justify skipping verification.
 | Karsten Nohl | GSM A5/1 cracking, MIFARE RFID, BadUSB, Security Research Labs founder | Telecom / Wireless / Germany | See `data/people/karsten-nohl.json` — PUBLISHED |
 | Ross Anderson | "Security Engineering" author, Cambridge academic security research, d. 2024 | Academic Security / UK | See `data/people/ross-anderson.json` — PUBLISHED |
 | Michal Zalewski ("lcamtuf") | "Silence on the Wire," afl fuzzer, long Google security research career | Fuzzing / Poland | See `data/people/michal-zalewski.json` — PUBLISHED |
-| Ralf-Philipp Weinmann | GSM baseband exploitation, mobile security research | Mobile Security / Germany-Luxembourg | TODO |
-| Adam Laurie | RFID/Bluetooth security research (Bluejacking-era work), DEF CON | Wireless / UK | TODO |
+| Ralf-Philipp Weinmann | GSM baseband exploitation, mobile security research | Mobile Security / Germany-Luxembourg | See `data/people/ralf-philipp-weinmann.json` — PUBLISHED |
+| Adam Laurie | RFID/Bluetooth security research (Bluejacking-era work), DEF CON | Wireless / UK | See `data/people/adam-laurie.json` — PUBLISHED |
 | Felix "FX" Lindner | Phenoelit, router/embedded exploitation research | Embedded Security / Germany | PUBLISHED — see data/people/felix-fx-lindner.json |
 | Jan "Starbug" Krissler | Biometric spoofing research (Touch ID, iris, fingerprint reconstruction from photos) | Biometrics / Germany | See `data/people/jan-krissler.json` — PUBLISHED |
-| Frank Rieger | CCC spokesperson, security commentary | Policy / Germany | TODO |
+| Frank Rieger | CCC spokesperson, security commentary | Policy / Germany | See `data/people/frank-rieger.json` — PUBLISHED |
 | James Kettle | Burp Suite research lead, HTTP request smuggling/desync research | Web Security / UK | See `data/people/james-kettle.json` — PUBLISHED |
-| PortSwigger (Dafydd Stuttard) | Burp Suite creator | Tool Creator / UK | TODO |
+| PortSwigger (Dafydd Stuttard) | Burp Suite creator | Tool Creator / UK | See `data/people/dafydd-stuttard.json` — PUBLISHED |
 
 ### People — Asia
 
@@ -153,8 +153,8 @@ handle, and getting a name wrong is worse than not publishing.
 | radare2 | Open-source reverse-engineering framework | See `data/tools/radare2.json` — PUBLISHED |
 | Frida | Dynamic instrumentation toolkit | See `data/tools/frida.json` — PUBLISHED |
 | Hashcat | GPU-accelerated password recovery | See `data/tools/hashcat.json` — PUBLISHED |
-| Aircrack-ng | Wi-Fi security auditing suite |
-| sqlmap | Automated SQL injection tool |
+| Aircrack-ng | Wi-Fi security auditing suite | See `data/tools/aircrack-ng.json` — PUBLISHED |
+| sqlmap | Automated SQL injection tool | See `data/tools/sqlmap.json` — PUBLISHED |
 | Snort | Open-source intrusion detection, Sourcefire origin |
 | Nessus | Vulnerability scanner, pre-dates and shaped the commercial scanner market |
 | Cobalt Strike | Red-team/adversary-simulation platform, also widely abused by real attackers — needs careful dual-use framing |
@@ -176,12 +176,12 @@ handle, and getting a name wrong is worse than not publishing.
 
 | Candidate | Reason |
 |---|---|
-| Heartbleed (2014) | OpenSSL memory-disclosure bug, massive internet-wide patch effort |
-| Shellshock (2014) | Bash environment-variable injection vulnerability |
+| Heartbleed (2014) | OpenSSL memory-disclosure bug, massive internet-wide patch effort — See `data/vulnerabilities/heartbleed.json` — PUBLISHED |
+| Shellshock (2014) | Bash environment-variable injection vulnerability — See `data/vulnerabilities/shellshock.json` — PUBLISHED |
 | Stagefright (2015) | Android media-parsing remote-exploitation research |
 | KRACK (2017) | WPA2 Wi-Fi handshake vulnerability |
 | Spectre / Meltdown (2018) | CPU speculative-execution vulnerability class |
-| EternalBlue / WannaCry (2017) | NSA-linked SMB exploit and the resulting global ransomware outbreak (cross-link to the already-published Marcus Hutchins page) |
+| EternalBlue / WannaCry (2017) | NSA-linked SMB exploit and the resulting global ransomware outbreak (cross-link to the already-published Marcus Hutchins page) — See `data/vulnerabilities/eternalblue.json` — PUBLISHED |
 | NotPetya (2017) | Destructive wiper disguised as ransomware, major supply-chain/geopolitical incident |
 | Equifax breach (2017) | Large-scale consumer-data breach, Apache Struts vulnerability |
 | SolarWinds / Sunburst (2020) | Major software supply-chain compromise |
