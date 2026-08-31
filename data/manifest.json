@@ -2932,5 +2932,1608 @@
     ],
     "summary": "Gil Shwed is an Israeli entrepreneur who invented and patented stateful inspection, co-founded Check Point Software Technologies in 1993 with Shlomo Kramer and Marius Nacht, and led the company as CEO for three decades before becoming its executive chairman.",
     "url": "people/gil-shwed.html"
+  },
+  {
+    "id": "aaron-portnoy",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Aaron Portnoy",
+    "slug": "aaron-portnoy",
+    "era": "2000s-Present",
+    "tags": [
+      "vulnerability research",
+      "bug bounty",
+      "zero-day",
+      "reverse engineering",
+      "exploit development",
+      "pwn2own",
+      "vulnerability market"
+    ],
+    "summary": "Aaron Portnoy is an American security researcher who led TippingPoint's Zero Day Initiative (ZDI) bug-bounty program and directed the first several Pwn2Own hacking competitions, before co-founding the commercial zero-day research firm Exodus Intelligence in 2012.",
+    "url": "people/aaron-portnoy.html"
+  },
+  {
+    "id": "aaron-swartz",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Aaron Swartz",
+    "slug": "aaron-swartz",
+    "era": "2000s-2010s",
+    "tags": [
+      "programmer",
+      "activist",
+      "rss",
+      "reddit",
+      "open-access",
+      "cfaa",
+      "creative-commons",
+      "internet-freedom"
+    ],
+    "summary": "Aaron Swartz (1986-2013) was an American computer programmer and internet activist who helped develop RSS and co-founded Reddit, later becoming a leading advocate for open access to information before dying by suicide while facing federal prosecution under the Computer Fraud and Abuse Act.",
+    "url": "people/aaron-swartz.html"
+  },
+  {
+    "id": "albert-gonzalez",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Albert Gonzalez",
+    "slug": "albert-gonzalez",
+    "era": "2000s-2010s",
+    "tags": [
+      "carding",
+      "credit card fraud",
+      "sql injection",
+      "shadowcrew",
+      "secret service informant",
+      "data breach",
+      "identity theft"
+    ],
+    "summary": "Albert Gonzalez is an American computer hacker and former Secret Service informant who masterminded a series of credit and debit card theft rings, including the breaches of TJX Companies and Heartland Payment Systems, that together compromised more than 170 million card accounts. He was sentenced in March 2010 to a total of 20 years in federal prison.",
+    "url": "people/albert-gonzalez.html"
+  },
+  {
+    "id": "alex-ionescu",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Alex Ionescu",
+    "slug": "alex-ionescu",
+    "era": "2000s-Present",
+    "tags": [
+      "windows internals",
+      "kernel research",
+      "reactos",
+      "reverse engineering",
+      "meltdown",
+      "spectre",
+      "crowdstrike",
+      "author"
+    ],
+    "summary": "Alex Ionescu is a Romanian-Canadian security researcher and low-level systems programmer best known as a co-author of the Windows Internals book series, as the former lead kernel developer of the ReactOS project, and for his early public research into the Meltdown/Spectre CPU vulnerabilities.",
+    "url": "people/alex-ionescu.html"
+  },
+  {
+    "id": "amichai-shulman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Amichai Shulman",
+    "slug": "amichai-shulman",
+    "era": "2000s-Present",
+    "tags": [
+      "application security",
+      "database security",
+      "sql injection",
+      "web application firewall",
+      "imperva",
+      "israel",
+      "security research"
+    ],
+    "summary": "Amichai Shulman is an Israeli computer security researcher and entrepreneur, best known as co-founder and longtime chief technology officer of Imperva, a data and application security company he helped found in 2002.",
+    "url": "people/amichai-shulman.html"
+  },
+  {
+    "id": "andy-greenberg",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Andy Greenberg",
+    "slug": "andy-greenberg",
+    "era": "2000s-Present",
+    "tags": [
+      "journalist",
+      "wired",
+      "cybersecurity",
+      "sandworm",
+      "notpetya",
+      "cyberwar",
+      "author",
+      "cryptocurrency"
+    ],
+    "summary": "Andy Greenberg is a senior writer at Wired magazine covering cybersecurity, privacy, and hacker culture, and the author of Sandworm, an investigation into Russian state-linked hacking group Sandworm and the 2017 NotPetya cyberattack.",
+    "url": "people/andy-greenberg.html"
+  },
+  {
+    "id": "barrett-lyon",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Barrett Lyon",
+    "slug": "barrett-lyon",
+    "era": "2000s-Present",
+    "tags": [
+      "ddos mitigation",
+      "prolexic",
+      "network security",
+      "internet infrastructure",
+      "cybercrime investigation",
+      "content delivery networks",
+      "entrepreneur"
+    ],
+    "summary": "Barrett Lyon is an American Internet entrepreneur and security researcher best known for founding Prolexic Technologies, one of the first companies to offer large-scale commercial DDoS mitigation services, and for helping law enforcement identify a Russian extortion gang that used denial-of-service attacks against online businesses.",
+    "url": "people/barrett-lyon.html"
+  },
+  {
+    "id": "ben-hawkes",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ben Hawkes",
+    "slug": "ben-hawkes",
+    "era": "2000s-Present",
+    "tags": [
+      "project zero",
+      "google",
+      "vulnerability research",
+      "new zealand",
+      "memory corruption",
+      "ios security",
+      "exploit mitigation"
+    ],
+    "summary": "Ben Hawkes is a New Zealand computer security researcher who was a founding member of Google's Project Zero team in 2014 and later served as its manager until his resignation in May 2022.",
+    "url": "people/ben-hawkes.html"
+  },
+  {
+    "id": "ben-laurie",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ben Laurie",
+    "slug": "ben-laurie",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "ssl-tls",
+      "open-source",
+      "openssl",
+      "apache",
+      "certificate-transparency",
+      "google",
+      "internet-security"
+    ],
+    "summary": "Ben Laurie is an English software engineer and cryptographer known for writing Apache-SSL, one of the earliest SSL implementations for the Apache HTTP Server, and for later co-creating Certificate Transparency at Google.",
+    "url": "people/ben-laurie.html"
+  },
+  {
+    "id": "brian-martin-jericho",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Brian Martin",
+    "slug": "brian-martin-jericho",
+    "era": "1990s-Present",
+    "tags": [
+      "attrition.org",
+      "vulnerability disclosure",
+      "data breach tracking",
+      "osvdb",
+      "cve",
+      "security research",
+      "hacktivism history"
+    ],
+    "summary": "Brian Martin, widely known by the handle \"Jericho,\" is a security researcher and former hacker best known as the longtime operator of attrition.org and as a co-founder of the Open Source Vulnerability Database (OSVDB) and DatalossDB.",
+    "url": "people/brian-martin-jericho.html"
+  },
+  {
+    "id": "bruce-potter",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Bruce Potter",
+    "slug": "bruce-potter",
+    "era": "1990s-Present",
+    "tags": [
+      "shmoo group",
+      "shmoocon",
+      "ciso",
+      "wireless security",
+      "conference founder",
+      "author"
+    ],
+    "summary": "Bruce Potter is an American computer security researcher who founded The Shmoo Group, a collective of security, cryptography, and privacy professionals, and co-founded the ShmooCon hacker convention held annually in Washington, D.C. from 2005 to 2025.",
+    "url": "people/bruce-potter.html"
+  },
+  {
+    "id": "chelsea-manning",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Chelsea Manning",
+    "slug": "chelsea-manning",
+    "era": "2000s-Present",
+    "tags": [
+      "whistleblower",
+      "wikileaks",
+      "military-intelligence",
+      "espionage-act",
+      "activist",
+      "transgender-rights",
+      "government-secrecy"
+    ],
+    "summary": "Chelsea Manning is a former United States Army intelligence analyst who, in 2010, disclosed hundreds of thousands of classified military and diplomatic documents to WikiLeaks, resulting in a court-martial conviction and a 35-year prison sentence that was later commuted by President Barack Obama.",
+    "url": "people/chelsea-manning.html"
+  },
+  {
+    "id": "chris-evans-project-zero",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Chris Evans",
+    "slug": "chris-evans-project-zero",
+    "era": "2000s-Present",
+    "tags": [
+      "project zero",
+      "google",
+      "chrome security",
+      "vulnerability research",
+      "bug bounty",
+      "vsftpd",
+      "hackerone"
+    ],
+    "summary": "Chris Evans is a British computer security researcher who created the vsftpd FTP server, led Google's Chrome security team and its Chromium Vulnerability Reward Program, and in 2014 founded Google Project Zero, a team dedicated to finding zero-day vulnerabilities across all software.",
+    "url": "people/chris-evans-project-zero.html"
+  },
+  {
+    "id": "chris-hadnagy",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Christopher James Hadnagy",
+    "slug": "chris-hadnagy",
+    "era": "2000s-Present",
+    "tags": [
+      "social engineering",
+      "phishing",
+      "def con",
+      "security training",
+      "author",
+      "penetration testing",
+      "human hacking"
+    ],
+    "summary": "Christopher Hadnagy is an American information security consultant known for popularizing social engineering as a formal discipline within cybersecurity, founding the DEF CON Social Engineering Capture the Flag contest, and authoring several widely referenced books on the subject.",
+    "url": "people/chris-hadnagy.html"
+  },
+  {
+    "id": "cris-thomas-space-rogue",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Cris Thomas",
+    "slug": "cris-thomas-space-rogue",
+    "era": "1990s-Present",
+    "tags": [
+      "l0pht",
+      "space-rogue",
+      "senate-testimony",
+      "vulnerability-disclosure",
+      "atstake",
+      "hacker-news-network",
+      "white-hat",
+      "infosec-history"
+    ],
+    "summary": "Cris Thomas, known by the handle Space Rogue, is an American security researcher and a founding member of the hacker think tank L0pht Heavy Industries, best known for testifying before the US Senate in 1998 and for later work at @stake, Trustwave, Tenable, and IBM X-Force Red.",
+    "url": "people/cris-thomas-space-rogue.html"
+  },
+  {
+    "id": "dan-farmer",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Dan Farmer",
+    "slug": "dan-farmer",
+    "era": "1990s-2000s",
+    "tags": [
+      "network security",
+      "vulnerability scanners",
+      "SATAN",
+      "computer forensics",
+      "unix security",
+      "coroner's toolkit",
+      "COPS"
+    ],
+    "summary": "Dan Farmer is an American computer security researcher and programmer known for co-creating the COPS and SATAN vulnerability scanners and, with Wietse Venema, The Coroner's Toolkit for post-incident digital forensics on Unix systems.",
+    "url": "people/dan-farmer.html"
+  },
+  {
+    "id": "daniel-j-bernstein",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Daniel J. Bernstein",
+    "slug": "daniel-j-bernstein",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "software security",
+      "export controls",
+      "first amendment",
+      "qmail",
+      "djbdns",
+      "elliptic curve cryptography",
+      "post-quantum cryptography"
+    ],
+    "summary": "Daniel J. Bernstein is an American mathematician, cryptologist, and computer scientist known for creating security-focused software such as qmail and djbdns, and for foundational cryptographic designs including Curve25519, Salsa20/ChaCha20, and Poly1305. He was the plaintiff in Bernstein v. United States, a landmark First Amendment case that established source code as protected speech and helped dismantle U.S. cryptography export controls.",
+    "url": "people/daniel-j-bernstein.html"
+  },
+  {
+    "id": "david-l-smith-melissa",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "David L. Smith",
+    "slug": "david-l-smith-melissa",
+    "era": "1990s",
+    "tags": [
+      "malware",
+      "email worm",
+      "macro virus",
+      "cybercrime",
+      "1990s",
+      "computer fraud",
+      "microsoft word"
+    ],
+    "summary": "David L. Smith is a former New Jersey computer programmer who admitted to creating and releasing the Melissa virus in March 1999, a fast-spreading Microsoft Word macro virus that overwhelmed email systems worldwide and caused an estimated $80 million in damage.",
+    "url": "people/david-l-smith-melissa.html"
+  },
+  {
+    "id": "eugene-kaspersky",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Eugene Kaspersky",
+    "slug": "eugene-kaspersky",
+    "era": "1990s-Present",
+    "tags": [
+      "antivirus",
+      "kaspersky lab",
+      "malware research",
+      "russia",
+      "cybersecurity industry",
+      "stuxnet",
+      "geopolitics"
+    ],
+    "summary": "Eugene Kaspersky is a Russian cybersecurity entrepreneur who co-founded Kaspersky Lab in 1997 and has served as its CEO since 2007, building it from a small antivirus shop into one of the world's largest cybersecurity vendors.",
+    "url": "people/eugene-kaspersky.html"
+  },
+  {
+    "id": "gary-mckinnon",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Gary McKinnon",
+    "slug": "gary-mckinnon",
+    "era": "2000s-2010s",
+    "tags": [
+      "hacking",
+      "military",
+      "nasa",
+      "extradition",
+      "ufo",
+      "uk",
+      "cybercrime",
+      "asperger's"
+    ],
+    "summary": "Gary McKinnon is a Scottish computer systems administrator who, using the online alias \"Solo,\" gained unauthorized access to 97 United States military and NASA computers between February 2001 and March 2002, and who subsequently fought a decade-long legal battle against extradition to the United States.",
+    "url": "people/gary-mckinnon.html"
+  },
+  {
+    "id": "gerardo-richarte",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Gerardo Richarte",
+    "slug": "gerardo-richarte",
+    "era": "1990s-Present",
+    "tags": [
+      "exploit development",
+      "reverse engineering",
+      "core security",
+      "argentina",
+      "shellcoding",
+      "penetration testing",
+      "satellogic"
+    ],
+    "summary": "Gerardo \"Gera\" Richarte is an Argentine security researcher and exploit developer who co-founded Core Security Technologies in 1996 and later co-founded the satellite company Satellogic, becoming one of the best-known figures in Argentina's cybersecurity scene.",
+    "url": "people/gerardo-richarte.html"
+  },
+  {
+    "id": "graham-cluley",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Graham Cluley",
+    "slug": "graham-cluley",
+    "era": "1990s-Present",
+    "tags": [
+      "security researcher",
+      "blogger",
+      "podcaster",
+      "antivirus",
+      "sophos",
+      "public speaker",
+      "malware analysis"
+    ],
+    "summary": "Graham Cluley is a British computer security researcher, blogger, and public speaker who spent over a decade as a senior technology consultant at Sophos and now runs the independent security blog grahamcluley.com and co-hosts the award-winning Smashing Security podcast.",
+    "url": "people/graham-cluley.html"
+  },
+  {
+    "id": "greg-hoglund",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Greg Hoglund",
+    "slug": "greg-hoglund",
+    "era": "1990s-Present",
+    "tags": [
+      "rootkits",
+      "malware research",
+      "windows kernel",
+      "hbgary",
+      "software exploitation",
+      "anonymous hack",
+      "reverse engineering"
+    ],
+    "summary": "Greg Hoglund (born Michael Gregory Hoglund) is an American computer security researcher and entrepreneur known for pioneering Windows rootkit research, co-authoring \"Rootkits: Subverting the Windows Kernel,\" and founding the security firm HBGary.",
+    "url": "people/greg-hoglund.html"
+  },
+  {
+    "id": "guang-gong",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Guang Gong",
+    "slug": "guang-gong",
+    "era": "2010s-Present",
+    "tags": [
+      "android security",
+      "exploit development",
+      "qihoo 360",
+      "bug bounty",
+      "china",
+      "mobile security",
+      "chrome exploitation",
+      "black hat speaker"
+    ],
+    "summary": "Guang Gong is a Chinese security researcher and the lead of the Alpha Team (Alpha Lab) at Qihoo 360's Internet Security Center, known for record-setting Android and Chrome exploit chains submitted to Google's vulnerability reward programs.",
+    "url": "people/guang-gong.html"
+  },
+  {
+    "id": "hector-monsegur",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Hector Monsegur",
+    "slug": "hector-monsegur",
+    "era": "2010s-Present",
+    "tags": [
+      "lulzsec",
+      "anonymous",
+      "fbi informant",
+      "hacktivism",
+      "sabu",
+      "computer crime",
+      "antisec"
+    ],
+    "summary": "Hector Xavier Monsegur, known online as \"Sabu,\" was a founding member of the hacking group LulzSec who became a cooperating FBI informant after his June 2011 arrest, an arrangement that led to the identification and prosecution of several other LulzSec and Anonymous-affiliated hackers.",
+    "url": "people/hector-monsegur.html"
+  },
+  {
+    "id": "ian-beer",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ian Beer",
+    "slug": "ian-beer",
+    "era": "2010s-Present",
+    "tags": [
+      "ios security",
+      "project zero",
+      "vulnerability research",
+      "kernel exploitation",
+      "apple",
+      "zero-click exploits",
+      "mobile security"
+    ],
+    "summary": "Ian Beer is a British security researcher on Google's Project Zero team, widely regarded as one of the most accomplished iOS vulnerability researchers, known for discovering and publicly detailing dozens of critical remote and zero-click exploits against Apple's operating systems.",
+    "url": "people/ian-beer.html"
+  },
+  {
+    "id": "ivan-arce",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ivan Arce",
+    "slug": "ivan-arce",
+    "era": "1990s-Present",
+    "tags": [
+      "core security",
+      "argentina",
+      "penetration testing",
+      "exploit development",
+      "latin america",
+      "core impact",
+      "quarkslab"
+    ],
+    "summary": "Ivan Arce is an Argentine security researcher who co-founded Core Security Technologies in Buenos Aires in 1996 and served as its Chief Technology Officer, later becoming Chief Research Officer and CTO at the French security firm Quarkslab.",
+    "url": "people/ivan-arce.html"
+  },
+  {
+    "id": "jake-davis-topiary",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jake Davis",
+    "slug": "jake-davis-topiary",
+    "era": "2010s-Present",
+    "tags": [
+      "lulzsec",
+      "anonymous",
+      "hacktivism",
+      "ddos",
+      "uk",
+      "security-research",
+      "bug-bounty"
+    ],
+    "summary": "Jake Davis, known online as Topiary, is a British hacktivist who served as the public spokesman and Twitter operator for the hacking group LulzSec before his arrest in the Shetland Islands in July 2011.",
+    "url": "people/jake-davis-topiary.html"
+  },
+  {
+    "id": "jayson-e-street",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jayson E. Street",
+    "slug": "jayson-e-street",
+    "era": "2000s-Present",
+    "tags": [
+      "physical penetration testing",
+      "social engineering",
+      "security awareness",
+      "red team",
+      "bank security",
+      "author",
+      "public speaker"
+    ],
+    "summary": "Jayson E. Street is an American security consultant and self-described \"hacker, helper, and human\" known for physical penetration testing of banks, government buildings, and other secured facilities, and for advocating an education-focused approach to red team engagements.",
+    "url": "people/jayson-e-street.html"
+  },
+  {
+    "id": "jeremy-hammond",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jeremy Hammond",
+    "slug": "jeremy-hammond",
+    "era": "2000s-Present",
+    "tags": [
+      "hacktivist",
+      "anonymous",
+      "antisec",
+      "lulzsec",
+      "stratfor",
+      "cfaa",
+      "wikileaks",
+      "anarchist"
+    ],
+    "summary": "Jeremy Hammond is an American computer hacker and anarchist activist from Chicago who founded the security site HackThisSite and later, working with Anonymous-affiliated hackers under the AntiSec banner, breached the private intelligence firm Stratfor in 2011, leaking millions of internal emails to WikiLeaks; he was sentenced in 2013 to the maximum 10 years in federal prison under the Computer Fraud and Abuse Act.",
+    "url": "people/jeremy-hammond.html"
+  },
+  {
+    "id": "joe-grand-kingpin",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Joe Grand",
+    "slug": "joe-grand-kingpin",
+    "era": "1990s-Present",
+    "tags": [
+      "hardware hacking",
+      "l0pht",
+      "congressional testimony",
+      "reverse engineering",
+      "cryptocurrency recovery",
+      "television host",
+      "electrical engineering"
+    ],
+    "summary": "Joe Grand, known by the handle Kingpin, is an American electrical engineer and hardware hacker who was a member of the Boston-based hacker collective L0pht Heavy Industries and later became a professional hardware security consultant, author, and television host.",
+    "url": "people/joe-grand-kingpin.html"
+  },
+  {
+    "id": "johnny-long",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Johnny Long",
+    "slug": "johnny-long",
+    "era": "2000s-Present",
+    "tags": [
+      "google hacking",
+      "ghdb",
+      "penetration testing",
+      "osint",
+      "author",
+      "def con",
+      "hackers for charity",
+      "nonprofit"
+    ],
+    "summary": "Johnny Long is an American security researcher and author who popularized \"Google hacking\" and created the Google Hacking Database (GHDB), later founding the nonprofit Hackers for Charity.",
+    "url": "people/johnny-long.html"
+  },
+  {
+    "id": "kim-zetter",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Kim Zetter",
+    "slug": "kim-zetter",
+    "era": "2000s-Present",
+    "tags": [
+      "journalist",
+      "cybersecurity",
+      "stuxnet",
+      "wired",
+      "investigative-reporting",
+      "nsa-surveillance",
+      "election-security",
+      "author"
+    ],
+    "summary": "Kim Zetter is an American investigative journalist who has covered cybersecurity, hacking, and national security since 1999, best known as a longtime Wired senior reporter and as the author of \"Countdown to Zero Day,\" a definitive account of the Stuxnet cyberweapon.",
+    "url": "people/kim-zetter.html"
+  },
+  {
+    "id": "lauri-love",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Lauri Love",
+    "slug": "lauri-love",
+    "era": "2010s-Present",
+    "tags": [
+      "hacktivism",
+      "extradition",
+      "anonymous",
+      "government-hacking",
+      "encryption-rights",
+      "uk-law",
+      "activism"
+    ],
+    "summary": "Lauri Love is a British-Finnish computer activist who was accused by United States authorities of hacking into US government computer systems, including the Army, NASA, the Federal Reserve, and the Missile Defense Agency, during 2012-2013, and who won a landmark 2018 UK High Court appeal blocking his extradition to the US.",
+    "url": "people/lauri-love.html"
+  },
+  {
+    "id": "liang-chen-keen",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Liang Chen",
+    "slug": "liang-chen-keen",
+    "era": "2010s-Present",
+    "tags": [
+      "pwn2own",
+      "browser exploitation",
+      "sandbox escape",
+      "keen lab",
+      "tencent",
+      "ios jailbreak",
+      "china",
+      "vulnerability research"
+    ],
+    "summary": "Liang Chen is a Chinese security researcher and co-founder of Tencent Keen Security Lab (formerly Keen Team), known for leading its browser and mobile exploitation research and for repeated wins at Pwn2Own and Mobile Pwn2Own competitions.",
+    "url": "people/liang-chen-keen.html"
+  },
+  {
+    "id": "marco-grassi",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Marco Grassi",
+    "slug": "marco-grassi",
+    "era": "2010s-Present",
+    "tags": [
+      "ios",
+      "macos",
+      "android",
+      "baseband",
+      "pwn2own",
+      "keen-lab",
+      "mobile-security",
+      "vulnerability-research"
+    ],
+    "summary": "Marco Grassi is a security researcher known for mobile and desktop operating-system vulnerability research, including work at NowSecure and Tencent Keen Security Lab (Keen Team), and for repeated wins at the Pwn2Own hacking competition.",
+    "url": "people/marco-grassi.html"
+  },
+  {
+    "id": "mark-dowd",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Mark Dowd",
+    "slug": "mark-dowd",
+    "era": "2000s-Present",
+    "tags": [
+      "vulnerability research",
+      "exploit development",
+      "ios security",
+      "browser security",
+      "azimuth security",
+      "software security assessment",
+      "australia"
+    ],
+    "summary": "Mark Dowd is an Australian application-security researcher and exploit developer, formerly a senior researcher at IBM's Internet Security Systems (ISS) X-Force, and co-founder of the boutique vulnerability-research firm Azimuth Security.",
+    "url": "people/mark-dowd.html"
+  },
+  {
+    "id": "mark-loveless-simple-nomad",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Mark Loveless",
+    "slug": "mark-loveless-simple-nomad",
+    "era": "1990s-Present",
+    "tags": [
+      "hacker",
+      "security researcher",
+      "nmrc",
+      "bindview",
+      "defcon",
+      "black hat",
+      "duo security",
+      "conference speaker"
+    ],
+    "summary": "Mark Loveless, widely known by the handle \"Simple Nomad,\" is an American security researcher and longtime hacker-conference speaker who founded the Nomad Mobile Research Centre (NMRC) and later led vulnerability research for BindView's Razor team.",
+    "url": "people/mark-loveless-simple-nomad.html"
+  },
+  {
+    "id": "mark-russinovich",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Mark Russinovich",
+    "slug": "mark-russinovich",
+    "era": "1990s-Present",
+    "tags": [
+      "sysinternals",
+      "windows-internals",
+      "rootkits",
+      "sony-bmg",
+      "microsoft-azure",
+      "security-research",
+      "author"
+    ],
+    "summary": "Mark Russinovich is a Spanish-born American software engineer, security researcher, and author who co-created the Sysinternals suite of Windows utilities and, in 2005, publicly exposed the Sony BMG copy-protection rootkit. He is currently the Chief Technology Officer of Microsoft Azure.",
+    "url": "people/mark-russinovich.html"
+  },
+  {
+    "id": "markus-kuhn",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Markus Kuhn",
+    "slug": "markus-kuhn",
+    "era": "1990s-Present",
+    "tags": [
+      "tempest",
+      "compromising-emanations",
+      "side-channel",
+      "cryptography",
+      "unicode-utf8",
+      "hardware-security",
+      "academic-research",
+      "smartcard-security"
+    ],
+    "summary": "Markus Kuhn is a German-born computer scientist and Associate Professor at the University of Cambridge Department of Computer Science and Technology, known for foundational research on compromising emanations (TEMPEST-style electromagnetic eavesdropping), hardware tamper resistance, and multimedia/digital watermarking security.",
+    "url": "people/markus-kuhn.html"
+  },
+  {
+    "id": "matt-blaze",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Matt Blaze",
+    "slug": "matt-blaze",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "clipper chip",
+      "key escrow",
+      "wiretapping",
+      "surveillance",
+      "voting security",
+      "lock picking",
+      "academic security research"
+    ],
+    "summary": "Matt Blaze is an American cryptographer and computer scientist known for discovering a critical 1994 protocol flaw in the U.S. government's Clipper Chip key-escrow system, and for subsequent research on wiretapping, electronic voting security, and mechanical lock security.",
+    "url": "people/matt-blaze.html"
+  },
+  {
+    "id": "matt-suiche",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Matt Suiche",
+    "slug": "matt-suiche",
+    "era": "2000s-Present",
+    "tags": [
+      "memory forensics",
+      "incident response",
+      "shadow brokers",
+      "reverse engineering",
+      "windows internals",
+      "digital forensics",
+      "france"
+    ],
+    "summary": "Matt Suiche (Matthieu Suiche) is a French security researcher and entrepreneur known for his work in memory forensics, founder of MoonSols and Comae Technologies, and for his early public analysis of The Shadow Brokers leaks.",
+    "url": "people/matt-suiche.html"
+  },
+  {
+    "id": "max-vision-iceman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Max Vision",
+    "slug": "max-vision-iceman",
+    "era": "1990s-2010s",
+    "tags": [
+      "carding",
+      "cybercrime",
+      "whitehat-to-blackhat",
+      "cardersmarket",
+      "intrusion-detection",
+      "wire-fraud",
+      "fbi-informant"
+    ],
+    "summary": "Max Vision (born Max Ray Butler) is an American former computer security consultant turned cybercriminal who, under the alias \"Iceman,\" built and operated the CardersMarket carding forum before being sentenced to 13 years in federal prison for wire fraud.",
+    "url": "people/max-vision-iceman.html"
+  },
+  {
+    "id": "michael-calce-mafiaboy",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Michael Calce",
+    "slug": "michael-calce-mafiaboy",
+    "era": "2000s-Present",
+    "tags": [
+      "ddos",
+      "mafiaboy",
+      "canada",
+      "1990s-2000s hacking",
+      "juvenile hacker",
+      "internet security",
+      "botnet"
+    ],
+    "summary": "Michael Demon Calce, known online as MafiaBoy, is a Canadian security consultant and former computer hacker who, at age 15 in February 2000, launched a series of distributed denial-of-service (DDoS) attacks that knocked Yahoo!, eBay, Amazon, CNN, Dell, E*TRADE, and other major websites offline.",
+    "url": "people/michael-calce-mafiaboy.html"
+  },
+  {
+    "id": "mustafa-al-bassam",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Mustafa Al-Bassam",
+    "slug": "mustafa-al-bassam",
+    "era": "2010s-Present",
+    "tags": [
+      "lulzsec",
+      "hacktivism",
+      "blockchain",
+      "distributed-systems",
+      "computer-misuse-act",
+      "researcher",
+      "cryptography"
+    ],
+    "summary": "Mustafa Al-Bassam is an Iraqi-British computer security researcher who, as a teenager under the alias \"tflow\", was one of six core members of the hacktivist group LulzSec in 2011; he later became an academic and entrepreneur working on blockchain scalability, co-founding Chainspace and Celestia.",
+    "url": "people/mustafa-al-bassam.html"
+  },
+  {
+    "id": "nadav-zafrir",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Nadav Zafrir",
+    "slug": "nadav-zafrir",
+    "era": "2000s-Present",
+    "tags": [
+      "unit 8200",
+      "israel",
+      "signals intelligence",
+      "cyber command",
+      "venture building",
+      "team8",
+      "check point",
+      "military intelligence"
+    ],
+    "summary": "Nadav Zafrir is a retired Israeli brigadier general who served as commander of Unit 8200, the Israel Defense Forces' signals-intelligence and cyber unit, before co-founding the cybersecurity venture-building firm Team8 in 2014 and later becoming CEO of Check Point Software Technologies in 2024.",
+    "url": "people/nadav-zafrir.html"
+  },
+  {
+    "id": "neel-mehta",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Neel Mehta",
+    "slug": "neel-mehta",
+    "era": "2010s-Present",
+    "tags": [
+      "heartbleed",
+      "google",
+      "vulnerability-research",
+      "malware-attribution",
+      "wannacry",
+      "lazarus-group",
+      "openssl"
+    ],
+    "summary": "Neel Mehta is a security researcher on Google's security team credited as a co-discoverer of the Heartbleed vulnerability in OpenSSL in 2014, and in 2017 he identified code overlaps between an early WannaCry sample and malware attributed to the Lazarus Group, the first widely cited technical clue linking WannaCry to North Korea.",
+    "url": "people/neel-mehta.html"
+  },
+  {
+    "id": "nicole-perlroth",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Nicole Perlroth",
+    "slug": "nicole-perlroth",
+    "era": "2000s-Present",
+    "tags": [
+      "journalism",
+      "cybersecurity",
+      "zero-day market",
+      "nation-state hacking",
+      "author",
+      "new york times",
+      "cyberwarfare"
+    ],
+    "summary": "Nicole Perlroth is an American journalist who spent roughly a decade as the lead cybersecurity, digital espionage, and sabotage reporter for The New York Times, and is the author of the 2021 book \"This Is How They Tell Me the World Ends: The Cyberweapons Arms Race.\"",
+    "url": "people/nicole-perlroth.html"
+  },
+  {
+    "id": "nir-zuk",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Nir Zuk",
+    "slug": "nir-zuk",
+    "era": "1990s-Present",
+    "tags": [
+      "firewall",
+      "network security",
+      "check point",
+      "netscreen",
+      "palo alto networks",
+      "intrusion prevention",
+      "israel",
+      "unit 8200"
+    ],
+    "summary": "Nir Zuk is an Israeli-American security engineer and entrepreneur who helped develop early stateful-inspection firewall technology at Check Point in the 1990s and later founded Palo Alto Networks in 2005, where he pioneered the next-generation firewall concept as the company's CTO.",
+    "url": "people/nir-zuk.html"
+  },
+  {
+    "id": "onel-de-guzman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Onel de Guzman",
+    "slug": "onel-de-guzman",
+    "era": "2000s-Present",
+    "tags": [
+      "malware",
+      "computer-worm",
+      "iloveyou",
+      "philippines",
+      "cybercrime",
+      "social-engineering",
+      "2000s"
+    ],
+    "summary": "Onel de Guzman is a Filipino former computer science student who, in 2000, wrote and released the ILOVEYOU worm, which spread to tens of millions of computers worldwide within days and became one of the most damaging malware outbreaks in history.",
+    "url": "people/onel-de-guzman.html"
+  },
+  {
+    "id": "parisa-tabriz",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Parisa Tabriz",
+    "slug": "parisa-tabriz",
+    "era": "2000s-Present",
+    "tags": [
+      "chrome",
+      "browser-security",
+      "https",
+      "google",
+      "project-zero",
+      "vulnerability-research",
+      "bug-bounty",
+      "diversity-in-security"
+    ],
+    "summary": "Parisa Tabriz is an American computer security engineer and executive at Google, widely known by her self-adopted title \"Security Princess,\" who rose from a security engineering role in 2007 to Vice President and General Manager of Google Chrome.",
+    "url": "people/parisa-tabriz.html"
+  },
+  {
+    "id": "paul-kocher",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Paul Kocher",
+    "slug": "paul-kocher",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "side-channel-attacks",
+      "timing-attack",
+      "power-analysis",
+      "spectre",
+      "ssl-tls",
+      "hardware-security"
+    ],
+    "summary": "Paul Kocher is an American cryptographer who founded Cryptography Research, Inc. and is best known for discovering timing attacks and (with colleagues) differential power analysis, two foundational side-channel attack techniques, as well as for co-discovering the Spectre CPU vulnerability in 2017-2018.",
+    "url": "people/paul-kocher.html"
+  },
+  {
+    "id": "pedram-amini",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Pedram Amini",
+    "slug": "pedram-amini",
+    "era": "2000s-Present",
+    "tags": [
+      "fuzzing",
+      "vulnerability research",
+      "bug bounty",
+      "reverse engineering",
+      "zero day initiative",
+      "malware research",
+      "security tools"
+    ],
+    "summary": "Pedram Amini is a computer security researcher known for co-founding the Zero Day Initiative bug bounty program at TippingPoint and for creating the Sulley fuzzing framework and the PaiMei reverse-engineering framework.",
+    "url": "people/pedram-amini.html"
+  },
+  {
+    "id": "peter-szor",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Peter Szor",
+    "slug": "peter-szor",
+    "era": "1990s-2010s",
+    "tags": [
+      "antivirus",
+      "malware research",
+      "computer viruses",
+      "symantec",
+      "mcafee",
+      "hungary",
+      "security research"
+    ],
+    "summary": "Peter Szor (Hungarian: Peter Szor) was a Hungarian-American computer virus and antivirus researcher, entrepreneur, and author, best known for his book The Art of Computer Virus Research and Defense and for his long career designing antivirus detection technology at Symantec and, later, McAfee.",
+    "url": "people/peter-szor.html"
+  },
+  {
+    "id": "rafal-wojtczuk",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Rafal Wojtczuk",
+    "slug": "rafal-wojtczuk",
+    "era": "1990s-Present",
+    "tags": [
+      "virtualization security",
+      "xen",
+      "hypervisor escape",
+      "exploit development",
+      "kernel security",
+      "invisible things lab",
+      "bromium",
+      "poland"
+    ],
+    "summary": "Rafal Wojtczuk is a Polish computer security researcher known for pioneering work on Xen hypervisor and virtualization-escape vulnerabilities, and for earlier foundational research on Linux/BSD kernel exploitation and buffer-overflow exploitation techniques.",
+    "url": "people/rafal-wojtczuk.html"
+  },
+  {
+    "id": "rop-gonggrijp",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Rop Gonggrijp",
+    "slug": "rop-gonggrijp",
+    "era": "1980s-Present",
+    "tags": [
+      "hacker",
+      "netherlands",
+      "isp",
+      "hacktic",
+      "xs4all",
+      "e-voting",
+      "wikileaks",
+      "activism"
+    ],
+    "summary": "Rop Gonggrijp (born Robbert Valentijn Gonggrijp) is a Dutch hacker and entrepreneur who founded the hacker magazine Hack-Tic in 1989 and co-founded the Dutch internet provider XS4ALL in 1993. He later became known for exposing security flaws in electronic voting machines used in Dutch elections and for assisting WikiLeaks with the 2010 'Collateral Murder' video release.",
+    "url": "people/rop-gonggrijp.html"
+  },
+  {
+    "id": "sergei-skorobogatov",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Sergei Skorobogatov",
+    "slug": "sergei-skorobogatov",
+    "era": "2000s-Present",
+    "tags": [
+      "hardware security",
+      "fault injection",
+      "side-channel analysis",
+      "chip backdoors",
+      "fpga",
+      "smart cards",
+      "cambridge",
+      "forensic data recovery"
+    ],
+    "summary": "Sergei Skorobogatov is a Russian-born hardware security researcher based at the University of Cambridge Computer Laboratory, known for pioneering optical fault-injection attacks on secure microcontrollers and for the 2012 discovery of a hidden backdoor in a military-grade Actel/Microsemi ProASIC3 FPGA.",
+    "url": "people/sergei-skorobogatov.html"
+  },
+  {
+    "id": "sergey-ulasen",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Sergey Ulasen",
+    "slug": "sergey-ulasen",
+    "era": "2000s-Present",
+    "tags": [
+      "stuxnet",
+      "malware-analysis",
+      "virusblokada",
+      "kaspersky",
+      "belarus",
+      "ics-security",
+      "rootkit-discovery"
+    ],
+    "summary": "Sergey Ulasen is a Belarusian malware analyst who, while working at the Minsk-based antivirus firm VirusBlokAda, led the team that first identified the Stuxnet worm in June 2010, a discovery that exposed the world's first publicly documented cyberweapon aimed at industrial control systems.",
+    "url": "people/sergey-ulasen.html"
+  },
+  {
+    "id": "shlomo-kramer",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Shlomo Kramer",
+    "slug": "shlomo-kramer",
+    "era": "1990s-Present",
+    "tags": [
+      "firewall",
+      "cybersecurity entrepreneur",
+      "check point",
+      "imperva",
+      "cato networks",
+      "unit 8200",
+      "israeli tech",
+      "sase"
+    ],
+    "summary": "Shlomo Kramer is an Israeli information technology entrepreneur and investor who co-founded Check Point Software Technologies, Imperva (originally WebCohort), and Cato Networks, three companies central to the development of the commercial firewall, web application firewall, and secure access service edge (SASE) markets.",
+    "url": "people/shlomo-kramer.html"
+  },
+  {
+    "id": "steven-murdoch",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Steven Murdoch",
+    "slug": "steven-murdoch",
+    "era": "2000s-Present",
+    "tags": [
+      "tor",
+      "anonymity",
+      "chip-and-pin",
+      "emv-security",
+      "banking-security",
+      "academic-research",
+      "uk",
+      "privacy"
+    ],
+    "summary": "Steven J. Murdoch is a British computer scientist and Professor of Security Engineering at University College London, known for research on the Tor anonymity network and for exposing critical vulnerabilities in the UK's Chip and PIN (EMV) banking card system.",
+    "url": "people/steven-murdoch.html"
+  },
+  {
+    "id": "sven-jaschan",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Sven Jaschan",
+    "slug": "sven-jaschan",
+    "era": "2000s-Present",
+    "tags": [
+      "worms",
+      "malware",
+      "germany",
+      "sasser",
+      "netsky",
+      "cybercrime",
+      "teenage hacker",
+      "2004"
+    ],
+    "summary": "Sven Jaschan is a German computer programmer who, as a teenager, authored the Sasser and Netsky computer worms in 2004, causing widespread disruption to computers and networks around the world.",
+    "url": "people/sven-jaschan.html"
+  },
+  {
+    "id": "theo-de-raadt",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Theo de Raadt",
+    "slug": "theo-de-raadt",
+    "era": "1990s-Present",
+    "tags": [
+      "openbsd",
+      "openssh",
+      "unix",
+      "security",
+      "open-source",
+      "netbsd",
+      "operating-systems"
+    ],
+    "summary": "Theo de Raadt is a South African-born Canadian software engineer who co-founded the NetBSD project in 1993 and, after his expulsion from its core team, founded the OpenBSD operating system project in October 1995, which he has led ever since.",
+    "url": "people/theo-de-raadt.html"
+  },
+  {
+    "id": "thomas-drake",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Thomas Drake",
+    "slug": "thomas-drake",
+    "era": "2000s-Present",
+    "tags": [
+      "nsa",
+      "whistleblower",
+      "espionage-act",
+      "surveillance",
+      "trailblazer",
+      "government-accountability"
+    ],
+    "summary": "Thomas Andrews Drake is a former senior executive at the U.S. National Security Agency who was prosecuted under the Espionage Act after disclosing information about NSA mismanagement, including the failed Trailblazer program, to a journalist; the government's case against him collapsed in 2011.",
+    "url": "people/thomas-drake.html"
+  },
+  {
+    "id": "travis-goodspeed",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Travis Goodspeed",
+    "slug": "travis-goodspeed",
+    "era": "2000s-Present",
+    "tags": [
+      "embedded security",
+      "hardware hacking",
+      "reverse engineering",
+      "jtag",
+      "radio hacking",
+      "microcontrollers",
+      "poc-gtfo"
+    ],
+    "summary": "Travis Goodspeed is an American reverse engineer and embedded-systems security researcher, best known for creating the GoodFET open-source JTAG/hardware-hacking tool and for co-editing the reverse-engineering journal PoC||GTFO.",
+    "url": "people/travis-goodspeed.html"
+  },
+  {
+    "id": "vesselin-bontchev",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Vesselin Bontchev",
+    "slug": "vesselin-bontchev",
+    "era": "1990s-Present",
+    "tags": [
+      "antivirus",
+      "computer viruses",
+      "bulgaria",
+      "malware research",
+      "dark avenger",
+      "caro",
+      "virus test center",
+      "f-prot"
+    ],
+    "summary": "Vesselin Bontchev is a Bulgarian computer virus researcher who directed the Laboratory of Computer Virology at the Bulgarian Academy of Sciences and became one of the earliest and most detailed chroniclers of Bulgaria's prolific early-1990s virus-writing scene, including the pseudonymous virus author known as Dark Avenger.",
+    "url": "people/vesselin-bontchev.html"
+  },
+  {
+    "id": "victor-gevers",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Victor Gevers",
+    "slug": "victor-gevers",
+    "era": "1998-Present",
+    "tags": [
+      "responsible disclosure",
+      "netherlands",
+      "dutch",
+      "gdi foundation",
+      "divd",
+      "database security",
+      "coordinated vulnerability disclosure",
+      "ethical hacking"
+    ],
+    "summary": "Victor Gevers is a Dutch security researcher and self-described ethical hacker who has been active since 1998, known for founding the GDI Foundation and co-founding the Dutch Institute for Vulnerability Disclosure (DIVD), through which he has reported thousands of exposed databases and critical software vulnerabilities.",
+    "url": "people/victor-gevers.html"
+  },
+  {
+    "id": "vladimir-levin",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Vladimir Leonidovich Levin",
+    "slug": "vladimir-levin",
+    "era": "1990s",
+    "tags": [
+      "bank fraud",
+      "wire transfer fraud",
+      "citibank hack",
+      "russia",
+      "1990s cybercrime",
+      "extradition case",
+      "financial cybercrime"
+    ],
+    "summary": "Vladimir Levin is a Russian former biochemistry graduate and computer programmer convicted for orchestrating a scheme that fraudulently transferred approximately $10.7 million out of Citibank corporate accounts in 1994, in one of the earliest publicized international bank-network computer fraud cases.",
+    "url": "people/vladimir-levin.html"
+  },
+  {
+    "id": "wen-xu-security-researcher",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Wen Xu",
+    "slug": "wen-xu-security-researcher",
+    "era": "2010s-Present",
+    "tags": [
+      "kernel exploitation",
+      "fuzzing",
+      "android rooting",
+      "pwn2own",
+      "ctf",
+      "file systems",
+      "academic research"
+    ],
+    "summary": "Wen Xu, also known by the handle \"Memeda,\" is a security researcher known for Android/Linux kernel exploitation work at Keen Team, competitive results at Pwn2Own and DEF CON CTF, and academic fuzzing research completed during his PhD at Georgia Tech.",
+    "url": "people/wen-xu-security-researcher.html"
+  },
+  {
+    "id": "wietse-venema",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Wietse Venema",
+    "slug": "wietse-venema",
+    "era": "1990s-Present",
+    "tags": [
+      "network security",
+      "unix",
+      "forensics",
+      "mail server",
+      "open source",
+      "security tools"
+    ],
+    "summary": "Wietse Venema is a Dutch-American computer scientist and physicist best known for creating TCP Wrapper and the Postfix mail transfer agent, and for co-developing the SATAN network security scanner and The Coroner's Toolkit forensic suite with Dan Farmer.",
+    "url": "people/wietse-venema.html"
+  },
+  {
+    "id": "william-binney",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "William Binney",
+    "slug": "william-binney",
+    "era": "1970s-Present",
+    "tags": [
+      "nsa",
+      "whistleblower",
+      "surveillance",
+      "thinthread",
+      "cryptanalysis",
+      "signals-intelligence",
+      "privacy"
+    ],
+    "summary": "William Edward Binney is a former United States National Security Agency mathematician and crypanalyst who served as a Technical Director and co-developed the ThinThread signals-intelligence program before becoming one of the earliest and most prominent whistleblowers on NSA mass-surveillance practices, years before Edward Snowden.",
+    "url": "people/william-binney.html"
+  },
+  {
+    "id": "angr-binary-analysis",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "angr",
+    "slug": "angr-binary-analysis",
+    "era": "2015-Present",
+    "tags": [
+      "binary analysis",
+      "symbolic execution",
+      "reverse engineering",
+      "ctf",
+      "vulnerability research",
+      "open source",
+      "python",
+      "shellphish"
+    ],
+    "summary": "angr is an open-source, Python-based binary analysis platform combining static and dynamic (symbolic execution) analysis techniques, developed by researchers at UC Santa Barbara's Computer Security Lab and Arizona State University's SEFCOM lab, with strong ties to the Shellphish CTF team.",
+    "url": "tools/angr-binary-analysis.html"
+  },
+  {
+    "id": "core-impact",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Core Impact",
+    "slug": "core-impact",
+    "era": "2002-Present",
+    "tags": [
+      "penetration-testing",
+      "exploitation-framework",
+      "commercial-tool",
+      "vulnerability-management",
+      "core-security",
+      "argentina",
+      "red-team"
+    ],
+    "summary": "Core Impact is a commercial penetration-testing and exploitation framework originally developed by Core Security Technologies, a company founded in 1996 in Buenos Aires, Argentina, with the tool's flagship version first released in 2002.",
+    "url": "tools/core-impact.html"
+  },
+  {
+    "id": "cuckoo-sandbox",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Cuckoo Sandbox",
+    "slug": "cuckoo-sandbox",
+    "era": "2010-Present",
+    "tags": [
+      "malware analysis",
+      "sandbox",
+      "open source",
+      "dynamic analysis",
+      "digital forensics",
+      "reverse engineering",
+      "honeynet project"
+    ],
+    "summary": "Cuckoo Sandbox is an open-source automated malware analysis system that executes suspicious files in isolated virtual environments and produces detailed reports on their behavior, including API calls, network traffic, and file system activity.",
+    "url": "tools/cuckoo-sandbox.html"
+  },
+  {
+    "id": "impacket",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Impacket",
+    "slug": "impacket",
+    "era": "2013-Present",
+    "tags": [
+      "python",
+      "network-protocols",
+      "penetration-testing",
+      "red-team",
+      "active-directory",
+      "smb",
+      "kerberos",
+      "lateral-movement",
+      "open-source"
+    ],
+    "summary": "Impacket is an open-source collection of Python classes providing low-level, object-oriented access to network protocols such as SMB, MSRPC, NTLM, Kerberos, LDAP, and TDS, originally created by SecureAuth and now maintained by Fortra's Core Security.",
+    "url": "tools/impacket.html"
+  },
+  {
+    "id": "netcat",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Netcat",
+    "slug": "netcat",
+    "era": "1995-Present",
+    "tags": [
+      "networking",
+      "tcp-ip",
+      "unix",
+      "port-scanning",
+      "debugging",
+      "penetration-testing",
+      "open-source"
+    ],
+    "summary": "Netcat is a command-line networking utility for reading and writing data across TCP or UDP network connections, originally released by a programmer using the pseudonym *Hobbit* in 1995 and widely nicknamed the \"Swiss Army knife\" of TCP/IP tools.",
+    "url": "tools/netcat.html"
+  },
+  {
+    "id": "nikto-scanner",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Nikto",
+    "slug": "nikto-scanner",
+    "era": "2001-Present",
+    "tags": [
+      "web security",
+      "vulnerability scanner",
+      "open source",
+      "penetration testing",
+      "perl",
+      "cgi scanner",
+      "web server"
+    ],
+    "summary": "Nikto is an open-source command-line web server scanner, originally authored by Chris Sullo, that checks servers for thousands of potentially dangerous files, outdated software versions, and common misconfigurations.",
+    "url": "tools/nikto-scanner.html"
+  },
+  {
+    "id": "owasp-zap",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "OWASP ZAP",
+    "slug": "owasp-zap",
+    "era": "2010s-Present",
+    "tags": [
+      "web security",
+      "vulnerability scanner",
+      "penetration testing",
+      "open source",
+      "dast",
+      "proxy",
+      "owasp"
+    ],
+    "summary": "OWASP ZAP (Zed Attack Proxy) is a free and open-source web application security scanner, originally forked from Paros Proxy and first released in 2010, that became one of the world's most widely used dynamic application security testing (DAST) tools.",
+    "url": "tools/owasp-zap.html"
+  },
+  {
+    "id": "powershell-empire",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "PowerShell Empire",
+    "slug": "powershell-empire",
+    "era": "2015-Present",
+    "tags": [
+      "post-exploitation",
+      "command-and-control",
+      "powershell",
+      "red-team",
+      "adversary-emulation",
+      "open-source",
+      "penetration-testing"
+    ],
+    "summary": "PowerShell Empire is an open-source post-exploitation and command-and-control framework, originally built around pure PowerShell agents for Windows, that was later merged with the Python-based EmPyre project and, after the original project went dormant, revived and continued by the security firm BC Security.",
+    "url": "tools/powershell-empire.html"
+  },
+  {
+    "id": "shodan-search-engine",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Shodan",
+    "slug": "shodan-search-engine",
+    "era": "2009-Present",
+    "tags": [
+      "search engine",
+      "iot security",
+      "reconnaissance",
+      "internet scanning",
+      "osint",
+      "network security",
+      "banner grabbing"
+    ],
+    "summary": "Shodan is a search engine created by John Matherly that indexes internet-connected devices and services rather than web pages, allowing users to search by device type, software banner, geographic location, and open ports.",
+    "url": "tools/shodan-search-engine.html"
+  },
+  {
+    "id": "suricata-ids",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Suricata",
+    "slug": "suricata-ids",
+    "era": "2009-Present",
+    "tags": [
+      "network security",
+      "ids",
+      "ips",
+      "open source",
+      "network monitoring",
+      "intrusion detection",
+      "oisf"
+    ],
+    "summary": "Suricata is a free and open-source network intrusion detection (IDS), intrusion prevention (IPS), and network security monitoring (NSM) engine developed by the Open Information Security Foundation (OISF) and its community.",
+    "url": "tools/suricata-ids.html"
+  },
+  {
+    "id": "tcpdump",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "tcpdump",
+    "slug": "tcpdump",
+    "era": "1988-Present",
+    "tags": [
+      "packet capture",
+      "network analysis",
+      "libpcap",
+      "unix tools",
+      "network security",
+      "open source",
+      "berkeley"
+    ],
+    "summary": "tcpdump is a command-line packet analyzer originally developed in 1988 at Lawrence Berkeley National Laboratory that captures and displays TCP/IP and other network traffic in real time, built on the libpcap capture library it also spawned.",
+    "url": "tools/tcpdump.html"
+  },
+  {
+    "id": "theharvester",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "theHarvester",
+    "slug": "theharvester",
+    "era": "2011-Present",
+    "tags": [
+      "osint",
+      "reconnaissance",
+      "penetration-testing",
+      "subdomain-enumeration",
+      "email-harvesting",
+      "open-source",
+      "kali-linux"
+    ],
+    "summary": "theHarvester is an open-source intelligence (OSINT) reconnaissance tool that gathers emails, subdomains, hostnames, employee names, and other public information about a target organization from search engines, DNS records, and other public sources. It was originally created by Christian Martorella of Edge-Security Research and is now bundled by default in Kali Linux.",
+    "url": "tools/theharvester.html"
+  },
+  {
+    "id": "w3af",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "w3af",
+    "slug": "w3af",
+    "era": "2007-Present",
+    "tags": [
+      "web application security",
+      "vulnerability scanner",
+      "open source",
+      "penetration testing",
+      "python",
+      "exploitation framework"
+    ],
+    "summary": "w3af (Web Application Attack and Audit Framework) is an open-source Python framework for identifying and exploiting vulnerabilities in web applications, created by Argentine security researcher Andres Riancho starting in 2007.",
+    "url": "tools/w3af.html"
   }
 ]
