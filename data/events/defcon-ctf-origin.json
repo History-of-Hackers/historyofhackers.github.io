@@ -1,0 +1,72 @@
+{
+  "id": "defcon-ctf-origin",
+  "type": "event",
+  "title": "The Founding of the DEF CON Capture the Flag Contest",
+  "slug": "defcon-ctf-origin",
+  "era": "1996",
+  "tags": [
+    "defcon",
+    "ctf",
+    "capture the flag",
+    "competition",
+    "hacking contest",
+    "security culture"
+  ],
+  "summary": "The DEF CON Capture the Flag (CTF) contest was first held in 1996 at DEF CON 4, growing out of informal hacking games at earlier DEF CONs into what became known as the premier hacking competition in the world.",
+  "whyThisMatters": "DEF CON CTF is widely regarded as the oldest and most prestigious hacking competition of its kind, and it helped establish the jeopardy-style and attack-defense formats that later spread to the broader CTF ecosystem. Its qualifier-to-finals structure and rotating teams of volunteer organizers became a model followed by countless university and professional CTF events worldwide, and winning teams' black badges remain one of the hacking community's most recognized honors.",
+  "sections": {
+    "overview": "<h2>Background</h2><p>DEF CON, the annual hacker convention founded by Jeff Moss (\"The Dark Tangent\") in 1993, had by its third year in 1995 developed a reputation for improvised, chaotic hacking games among attendees connected to a shared open network. This informal culture of attendees probing and disrupting each other's systems on-site set the stage for a more organized contest.</p><h2>The First Contest in 1996</h2><p>The first formal Capture the Flag contest at DEF CON was held in 1996, at DEF CON 4, and has been run every year since. It was created and organized by a participant using the handle AJ Reznor, who ran the contest for its first two years. The original format was simple: a small number of servers were set up for contestants to attack, and human judges determined whether a machine had been successfully compromised and awarded points accordingly.</p><h2>Growth and Changing Organizers</h2><p>What began as a single-person effort quickly grew beyond what one organizer could manage alone. Over time, oversight of the contest passed to successive teams composed largely of hackers and former players, each building on the work of their predecessors while pushing the contest's technical difficulty further. Documented eras of DEF CON CTF organizers include The People (1996-2001), Ghetto Hackers (2002-2004), Kenshoto (2005-2008), DDTek (2009-2012), Legitimate Business Syndicate (2013-2017), Order of the Overflow (2018-2021), and the Nautilus Institute (2022-2025), with the Benevolent Bureau of Birds taking over starting in 2026.</p><h2>Evolution of Format</h2><p>As the contest matured, its structure changed substantially. By 2003, demand to participate had grown large enough that organizers introduced an online qualifying round ahead of the in-person finals in Las Vegas, a qualifier-to-finals model that persists to this day. The competition also broadened technically, moving from custom vulnerable services on a shared system toward more complex attack-defense scenarios in which teams must simultaneously defend their own services while exploiting those of opponents. Later years introduced additional wrinkles, including unusual or custom CPU architectures and, in the 2010s, autonomous systems that competed without direct human intervention.</p><h2>Significance and Legacy</h2><p>DEF CON CTF is generally recognized as the first widely known cybersecurity Capture the Flag competition, predating the large ecosystem of CTF events that now runs year-round across academia and industry. It helped popularize both of the two foundational CTF formats, jeopardy-style challenges and attack-defense competition, that other events subsequently adopted. Because of its longevity and difficulty, it has earned nicknames such as the \"World Series of hacking\" and the \"Olympics of hacking,\" and its winning teams receive black badges granting lifetime free admission to DEF CON, one of the hacking community's most recognized marks of distinction. Teams such as Carnegie Mellon's Plaid Parliament of Pwning have built extended competitive legacies around the contest, underscoring its role as a long-running benchmark of offensive security skill.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1993",
+      "event": "DEF CON is founded by Jeff Moss (\"The Dark Tangent\"), later providing the venue for the CTF contest."
+    },
+    {
+      "date": "1995",
+      "event": "Informal, chaotic hacking activity on the shared DEF CON 3 network foreshadows the need for a structured contest."
+    },
+    {
+      "date": "1996",
+      "event": "The first DEF CON Capture the Flag contest is held at DEF CON 4, organized by AJ Reznor with a handful of servers for contestants to hack and judges awarding points."
+    },
+    {
+      "date": "2002",
+      "event": "Organizing responsibility for DEF CON CTF passes to the group Ghetto Hackers, beginning a lineage of successive organizing teams."
+    },
+    {
+      "date": "2003",
+      "event": "An online qualifying round is introduced ahead of the in-person finals due to growing demand to compete."
+    },
+    {
+      "date": "2018",
+      "event": "Order of the Overflow takes over as organizer, continuing the contest's tradition of rotating custodian teams."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": ["defcon-hacker-conference"],
+  "sources": [
+    {
+      "title": "Wikipedia: DEF CON",
+      "url": "https://en.wikipedia.org/wiki/DEF_CON"
+    },
+    {
+      "title": "DEF CON Official Website: CTF Links and History",
+      "url": "https://www.defcon.org/html/links/dc-ctf.html"
+    },
+    {
+      "title": "Wikipedia: Capture the flag (cybersecurity)",
+      "url": "https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-08-30",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "claude-taskforce-2026-08-29"
+  }
+}
