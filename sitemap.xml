@@ -170,25 +170,36 @@
   <url><loc>https://historyofhackers.org/people/zach-lanier.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/</loc></url>
   <url><loc>https://historyofhackers.org/groups/anonymous-hacktivism.html</loc></url>
+  <url><loc>https://historyofhackers.org/groups/apt29-cozy-bear.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/chaos-computer-club-ccc.html</loc></url>
+  <url><loc>https://historyofhackers.org/groups/core-security-technologies.html</loc></url>
+  <url><loc>https://historyofhackers.org/groups/crowdstrike.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/cult-of-the-dead-cow-cdc.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/cypherpunks-mailing-list.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/devcore.html</loc></url>
+  <url><loc>https://historyofhackers.org/groups/equation-group.html</loc></url>
+  <url><loc>https://historyofhackers.org/groups/hacking-team.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/hitcon.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/keen-security-lab.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/l0pht-senate-testimony.html</loc></url>
+  <url><loc>https://historyofhackers.org/groups/lazarus-group.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/legion-of-doom-lod.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/lulzsec.html</loc></url>
+  <url><loc>https://historyofhackers.org/groups/mandiant.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/masters-of-deception-mod.html</loc></url>
+  <url><loc>https://historyofhackers.org/groups/nso-group.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/phone-losers-of-america.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/project-zero.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/shadowcrew.html</loc></url>
   <url><loc>https://historyofhackers.org/groups/wikileaks-julian-assange.html</loc></url>
+  <url><loc>https://historyofhackers.org/groups/zero-day-initiative.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/</loc></url>
   <url><loc>https://historyofhackers.org/tools/aircrack-ng.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/angr-binary-analysis.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/binary-ninja.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/bloodhound.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/burp-suite.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/cain-and-abel.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/cobalt-strike.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/core-impact.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/cuckoo-sandbox.html</loc></url>
@@ -199,19 +210,23 @@
   <url><loc>https://historyofhackers.org/tools/impacket.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/john-the-ripper.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/kali-linux.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/maltego.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/metasploit-framework.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/mimikatz.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/nessus.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/netcat.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/nikto-scanner.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/nmap-network-mapper.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/ollydbg.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/owasp-zap.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/powershell-empire.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/radare2.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/responder-tool.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/shodan-search-engine.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/snort.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/sqlmap.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/suricata-ids.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/sysinternals-suite.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/tcpdump.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/theharvester.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/volatility.html</loc></url>
@@ -219,32 +234,64 @@
   <url><loc>https://historyofhackers.org/tools/wireshark-network-analyzer.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/yara.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/bluekeep.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/citrix-bleed.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/dirty-cow.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/eternalblue.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/follina.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/heartbleed.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/krack.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/log4shell.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/proxylogon.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/rowhammer.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/shellshock.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/spectre-meltdown.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/stagefright.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/zerologon.html</loc></url>
   <url><loc>https://historyofhackers.org/attacks/</loc></url>
+  <url><loc>https://historyofhackers.org/attacks/ashley-madison-breach.html</loc></url>
+  <url><loc>https://historyofhackers.org/attacks/bangladesh-bank-heist.html</loc></url>
+  <url><loc>https://historyofhackers.org/attacks/colonial-pipeline-ransomware.html</loc></url>
   <url><loc>https://historyofhackers.org/attacks/equifax-breach.html</loc></url>
   <url><loc>https://historyofhackers.org/attacks/morris-worm.html</loc></url>
+  <url><loc>https://historyofhackers.org/attacks/moveit-breach-2023.html</loc></url>
   <url><loc>https://historyofhackers.org/attacks/notpetya.html</loc></url>
+  <url><loc>https://historyofhackers.org/attacks/operation-aurora.html</loc></url>
+  <url><loc>https://historyofhackers.org/attacks/rsa-securid-breach-2011.html</loc></url>
   <url><loc>https://historyofhackers.org/attacks/solarwinds-sunburst.html</loc></url>
+  <url><loc>https://historyofhackers.org/attacks/sony-pictures-hack-2014.html</loc></url>
   <url><loc>https://historyofhackers.org/attacks/stuxnet-digital-weapon.html</loc></url>
+  <url><loc>https://historyofhackers.org/attacks/target-2013-breach.html</loc></url>
+  <url><loc>https://historyofhackers.org/attacks/wannacry-ransomware-attack.html</loc></url>
+  <url><loc>https://historyofhackers.org/attacks/yahoo-data-breaches.html</loc></url>
   <url><loc>https://historyofhackers.org/events/</loc></url>
+  <url><loc>https://historyofhackers.org/events/black-hat-briefings.html</loc></url>
+  <url><loc>https://historyofhackers.org/events/cansecwest-pwn2own-founding.html</loc></url>
+  <url><loc>https://historyofhackers.org/events/chaos-communication-camp.html</loc></url>
+  <url><loc>https://historyofhackers.org/events/defcon-ctf-origin.html</loc></url>
   <url><loc>https://historyofhackers.org/events/defcon-hacker-conference.html</loc></url>
   <url><loc>https://historyofhackers.org/events/ekoparty.html</loc></url>
+  <url><loc>https://historyofhackers.org/events/hope-hackers-on-planet-earth.html</loc></url>
   <url><loc>https://historyofhackers.org/events/mit-tmrc-hacker-ethic.html</loc></url>
+  <url><loc>https://historyofhackers.org/events/operation-sundevil.html</loc></url>
+  <url><loc>https://historyofhackers.org/events/rsa-conference-founding.html</loc></url>
+  <url><loc>https://historyofhackers.org/events/shmoocon.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/</loc></url>
   <url><loc>https://historyofhackers.org/publications/2600-hacker-quarterly.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/bugtraq.html</loc></url>
+  <url><loc>https://historyofhackers.org/publications/computer-underground-digest.html</loc></url>
+  <url><loc>https://historyofhackers.org/publications/countdown-to-zero-day.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/die-datenschleuder.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/full-disclosure-mailing-list.html</loc></url>
+  <url><loc>https://historyofhackers.org/publications/ghost-in-the-wires.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/hacker-manifesto-the-mentor.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/hacking-art-of-exploitation.html</loc></url>
+  <url><loc>https://historyofhackers.org/publications/kingpin-poulsen-book.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/packet-storm-security.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/phrack-magazine.html</loc></url>
+  <url><loc>https://historyofhackers.org/publications/risks-digest.html</loc></url>
+  <url><loc>https://historyofhackers.org/publications/sandworm-greenberg-book.html</loc></url>
+  <url><loc>https://historyofhackers.org/publications/the-art-of-deception-mitnick.html</loc></url>
   <url><loc>https://historyofhackers.org/publications/uninformed.html</loc></url>
   <url><loc>https://historyofhackers.org/fields/</loc></url>
   <url><loc>https://historyofhackers.org/fields/bbs-and-warez-scene.html</loc></url>

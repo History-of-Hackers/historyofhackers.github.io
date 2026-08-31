@@ -1,0 +1,75 @@
+{
+  "id": "dirty-cow",
+  "type": "vulnerability",
+  "title": "Dirty COW (CVE-2016-5195)",
+  "slug": "dirty-cow",
+  "era": "2016",
+  "tags": [
+    "linux-kernel",
+    "dirty-cow",
+    "cve-2016-5195",
+    "privilege-escalation",
+    "race-condition",
+    "copy-on-write",
+    "android",
+    "vulnerability",
+    "2016"
+  ],
+  "summary": "Dirty COW (CVE-2016-5195) is a race-condition flaw in the Linux kernel's copy-on-write memory handling that let unprivileged local users gain write access to read-only memory mappings and escalate to root, publicly disclosed in October 2016 after evidence of active exploitation.",
+  "whyThisMatters": "Dirty COW affected essentially every Linux system for nearly a decade, since the vulnerable code path traced back to kernel 2.6.22 from 2007, and it also reached hundreds of millions of Android devices as a rooting and malware vector. Its combination of a trivially reliable exploit, no log traces, and near-universal reach made it one of the most widely discussed Linux privilege-escalation bugs of its era, and an initial patch that had to be revised a year later (\"Huge Dirty COW\") underscored how hard the underlying race condition was to fully close.",
+  "sections": {
+    "overview": "<p>Dirty COW is the common name for CVE-2016-5195, a privilege-escalation vulnerability in the Linux kernel rooted in a race condition inside the memory subsystem's copy-on-write (COW) mechanism. Copy-on-write is a standard optimization in which the kernel lets multiple processes share the same physical memory pages until one of them tries to write, at which point the kernel copies the page so the write does not affect other processes still reading the original. The flaw allowed an unprivileged local user to win a timing race during this copy-breakage process and obtain write access to memory mappings that were supposed to be read-only, including mappings of files the user could otherwise only read. Because this could be leveraged to modify privileged files or binaries, a local attacker could use it to escalate to root privileges.</p><h2>Origins of the bug</h2><p>The race condition traced back to a code path present in the Linux kernel since version 2.6.22, released in 2007, meaning the vulnerability had existed undetected in production systems for roughly nine years before it was found and fixed. Because the flawed code had been part of the mainline kernel for so long, essentially every major Linux distribution, along with any embedded or mobile system built on an affected kernel version, shipped with the vulnerability by default.</p><h2>Discovery and disclosure</h2><p>The vulnerability was reported by security researcher Phil Oester, who discovered it while investigating a machine that had been compromised, and found exploit code for the bug being used in the wild. Oester reported the issue, and Linux creator Linus Torvalds wrote and merged a kernel patch fixing the underlying race condition, which was publicly released on October 18, 2016. The flaw was assigned CVE-2016-5195 and quickly earned the nickname \"Dirty COW,\" a name explained and popularized through the dedicated website dirtycow.ninja, which was set up to explain the bug and track advisories from major Linux distributions such as Red Hat, Debian, Ubuntu, and SUSE.</p><h2>Technical characteristics and exploitation</h2><p>What made Dirty COW especially notable among Linux kernel bugs was the combination of a narrow race-condition window with high real-world reliability: working proof-of-concept exploits were published quickly after disclosure and were shown to reliably escalate an ordinary local user to root within seconds on unpatched systems. Exploiting the bug left no unusual traces in system logs, since it abused a legitimate low-level memory operation rather than crashing a process or triggering an obvious error condition, which made after-the-fact detection difficult. Because it affected any Linux-based operating system running a vulnerable kernel, the bug's reach extended well beyond traditional servers and desktops to Android, whose kernel is based on Linux; unpatched Android devices, including most devices prior to Android 7 (Nougat), were vulnerable, and Dirty COW-based exploits were subsequently used both by security researchers and by malicious actors to root Android phones and as part of broader Android malware.</p><h2>Patch and \"Huge Dirty COW\" follow-up</h2><p>Kernel maintainers backported Torvalds's fix to numerous stable kernel branches, with fixed versions including 4.8.3, 4.7.9, and 4.4.26, and major distributions issued corresponding security advisories and updated packages shortly after the October 2016 disclosure. The initial fix, however, did not fully close every variant of the underlying race condition: a related flaw affecting huge pages, informally dubbed \"Huge Dirty COW,\" was identified and required a further kernel patch that was merged in November 2017, illustrating how subtle and persistent the original race condition proved to be even after the widely publicized 2016 fix.</p><h2>Significance and legacy</h2><p>Dirty COW is frequently cited as one of the more consequential Linux kernel vulnerabilities of the 2010s because of its unusually long dormancy, its trivial and dependable exploitability, and its dual relevance to both traditional Linux infrastructure and the Android ecosystem. It is commonly used in security training and CTF-style exercises as a canonical example of a race-condition privilege-escalation bug, and the dirtycow.ninja site and its accompanying proof-of-concept code remain widely referenced educational resources for understanding the vulnerability class.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2007",
+      "event": "The vulnerable copy-on-write code path is introduced into the Linux kernel starting with version 2.6.22, though the flaw remains undiscovered."
+    },
+    {
+      "date": "2016-10",
+      "event": "Security researcher Phil Oester finds the race-condition bug being actively exploited on a compromised machine and reports it."
+    },
+    {
+      "date": "2016-10-18",
+      "event": "Linus Torvalds's kernel patch fixing the race condition is publicly released; the flaw is assigned CVE-2016-5195 and named \"Dirty COW.\""
+    },
+    {
+      "date": "2016-10",
+      "event": "Major Linux distributions, including Red Hat, Debian, Ubuntu, and SUSE, issue security advisories and patched kernel packages."
+    },
+    {
+      "date": "2017-11-27",
+      "event": "A follow-up patch addressing a related huge-page variant of the flaw, dubbed \"Huge Dirty COW,\" is merged into the kernel."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Dirty COW - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dirty_COW"
+    },
+    {
+      "title": "Dirty COW (dirtycow.ninja) - official explainer site",
+      "url": "https://dirtycow.ninja/"
+    },
+    {
+      "title": "Red Hat - CVE-2016-5195",
+      "url": "https://access.redhat.com/security/cve/cve-2016-5195"
+    },
+    {
+      "title": "NVD - CVE-2016-5195",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-5195"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-08-29",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "claude-taskforce-2026-08-29"
+  }
+}

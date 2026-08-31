@@ -4535,5 +4535,916 @@
     ],
     "summary": "w3af (Web Application Attack and Audit Framework) is an open-source Python framework for identifying and exploiting vulnerabilities in web applications, created by Argentine security researcher Andres Riancho starting in 2007.",
     "url": "tools/w3af.html"
+  },
+  {
+    "id": "ashley-madison-breach",
+    "type": "attack",
+    "typeLabel": "Attack",
+    "title": "The Ashley Madison Breach",
+    "slug": "ashley-madison-breach",
+    "era": "2015",
+    "tags": [
+      "data breach",
+      "extortion",
+      "hacktivism",
+      "privacy",
+      "dating site",
+      "insider threat",
+      "class action"
+    ],
+    "summary": "In July 2015, a hacker group calling itself The Impact Team breached Avid Life Media, the parent company of the extramarital-affair dating site Ashley Madison, and later leaked tens of millions of users' personal data after the company refused to shut the site down.",
+    "url": "attacks/ashley-madison-breach.html"
+  },
+  {
+    "id": "bangladesh-bank-heist",
+    "type": "attack",
+    "typeLabel": "Attack",
+    "title": "The Bangladesh Bank Heist",
+    "slug": "bangladesh-bank-heist",
+    "era": "2016",
+    "tags": [
+      "swift",
+      "banking-fraud",
+      "lazarus-group",
+      "north-korea",
+      "financial-crime",
+      "insider-threat",
+      "money-laundering"
+    ],
+    "summary": "In February 2016, attackers used stolen SWIFT credentials to issue fraudulent transfer instructions from Bangladesh Bank's account at the Federal Reserve Bank of New York, attempting to steal nearly $1 billion and successfully diverting $101 million, of which $81 million was routed through casinos in the Philippines and never recovered.",
+    "url": "attacks/bangladesh-bank-heist.html"
+  },
+  {
+    "id": "colonial-pipeline-ransomware",
+    "type": "attack",
+    "typeLabel": "Attack",
+    "title": "The Colonial Pipeline Ransomware Attack",
+    "slug": "colonial-pipeline-ransomware",
+    "era": "2021",
+    "tags": [
+      "ransomware",
+      "critical infrastructure",
+      "darkside",
+      "extortion",
+      "energy sector",
+      "cryptocurrency",
+      "2021"
+    ],
+    "summary": "In May 2021, the DarkSide ransomware-as-a-service group breached the IT network of Colonial Pipeline, the largest refined-products pipeline operator in the United States, prompting a precautionary six-day shutdown of fuel delivery to much of the U.S. Southeast and a $4.4 million ransom payment.",
+    "url": "attacks/colonial-pipeline-ransomware.html"
+  },
+  {
+    "id": "moveit-breach-2023",
+    "type": "attack",
+    "typeLabel": "Attack",
+    "title": "The MOVEit Breach",
+    "slug": "moveit-breach-2023",
+    "era": "2023",
+    "tags": [
+      "data breach",
+      "zero-day",
+      "supply chain",
+      "ransomware",
+      "extortion",
+      "sql injection",
+      "cl0p",
+      "mass exploitation"
+    ],
+    "summary": "In May and June 2023, the Russian-speaking extortion group Cl0p exploited a critical zero-day SQL injection vulnerability (CVE-2023-34362) in Progress Software's MOVEit Transfer file-transfer tool, stealing data from thousands of downstream organizations in one of the largest single-vulnerability mass-exploitation campaigns in history.",
+    "url": "attacks/moveit-breach-2023.html"
+  },
+  {
+    "id": "operation-aurora",
+    "type": "attack",
+    "typeLabel": "Attack",
+    "title": "Operation Aurora",
+    "slug": "operation-aurora",
+    "era": "2009-2010",
+    "tags": [
+      "cyberespionage",
+      "china",
+      "google",
+      "apt",
+      "zero-day",
+      "supply-chain",
+      "internet-explorer",
+      "corporate-espionage"
+    ],
+    "summary": "Operation Aurora was a sophisticated cyberespionage campaign conducted between mid-2009 and December 2009 against Google and at least thirty other major U.S. companies, exploiting an Internet Explorer zero-day to steal intellectual property and access source code repositories; its disclosure led Google to stop censoring search results in mainland China.",
+    "url": "attacks/operation-aurora.html"
+  },
+  {
+    "id": "rsa-securid-breach-2011",
+    "type": "attack",
+    "typeLabel": "Attack",
+    "title": "The RSA SecurID Breach",
+    "slug": "rsa-securid-breach-2011",
+    "era": "2011",
+    "tags": [
+      "apt",
+      "spear-phishing",
+      "two-factor-authentication",
+      "supply-chain-risk",
+      "china-linked",
+      "cyber-espionage",
+      "defense-industry"
+    ],
+    "summary": "In March 2011, RSA Security disclosed that intruders had breached its network through a spear-phishing campaign and stolen data tied to its SecurID two-factor authentication tokens, information that was later used in an attempted intrusion at defense contractor Lockheed Martin.",
+    "url": "attacks/rsa-securid-breach-2011.html"
+  },
+  {
+    "id": "sony-pictures-hack-2014",
+    "type": "attack",
+    "typeLabel": "Attack",
+    "title": "The Sony Pictures Hack",
+    "slug": "sony-pictures-hack-2014",
+    "era": "2014",
+    "tags": [
+      "data breach",
+      "nation-state",
+      "north korea",
+      "extortion",
+      "destructive malware",
+      "entertainment industry",
+      "the interview"
+    ],
+    "summary": "In November 2014, a group calling itself Guardians of Peace breached Sony Pictures Entertainment, wiping systems and leaking terabytes of internal data; the U.S. government publicly attributed the attack to North Korea, tying it to Sony's planned release of the comedy film The Interview.",
+    "url": "attacks/sony-pictures-hack-2014.html"
+  },
+  {
+    "id": "target-2013-breach",
+    "type": "attack",
+    "typeLabel": "Attack",
+    "title": "Target 2013 Data Breach",
+    "slug": "target-2013-breach",
+    "era": "2013",
+    "tags": [
+      "data breach",
+      "point-of-sale malware",
+      "retail security",
+      "carding",
+      "third-party risk",
+      "BlackPOS",
+      "payment card fraud"
+    ],
+    "summary": "Between November 27 and December 15, 2013, attackers used point-of-sale (BlackPOS/Kaptoxa) malware installed on Target Corporation's payment terminals to steal data from roughly 40 million credit and debit cards, later followed by disclosure that personal information of up to 70 million customers was also exposed.",
+    "url": "attacks/target-2013-breach.html"
+  },
+  {
+    "id": "wannacry-ransomware-attack",
+    "type": "attack",
+    "typeLabel": "Attack",
+    "title": "The WannaCry Ransomware Attack",
+    "slug": "wannacry-ransomware-attack",
+    "era": "2017",
+    "tags": [
+      "ransomware",
+      "eternalblue",
+      "nsa-exploit",
+      "worm",
+      "nhs",
+      "marcus-hutchins",
+      "shadow-brokers",
+      "north-korea"
+    ],
+    "summary": "WannaCry was a fast-spreading ransomware worm that struck in May 2017, using the leaked NSA-developed EternalBlue exploit to infect hundreds of thousands of Windows computers across roughly 150 countries in a matter of days.",
+    "url": "attacks/wannacry-ransomware-attack.html"
+  },
+  {
+    "id": "yahoo-data-breaches",
+    "type": "attack",
+    "typeLabel": "Attack",
+    "title": "The Yahoo Data Breaches",
+    "slug": "yahoo-data-breaches",
+    "era": "2013-2017",
+    "tags": [
+      "data breach",
+      "yahoo",
+      "state-sponsored",
+      "fsb",
+      "russia",
+      "credential theft",
+      "mega-breach",
+      "2010s"
+    ],
+    "summary": "Between 2013 and 2014, attackers linked to Russia's FSB intelligence service compromised the entirety of Yahoo's user account database, affecting all three billion accounts; Yahoo did not publicly disclose the intrusions until 2016 and 2017, making it one of the largest data breaches in history.",
+    "url": "attacks/yahoo-data-breaches.html"
+  },
+  {
+    "id": "black-hat-briefings",
+    "type": "event",
+    "typeLabel": "Event",
+    "title": "Black Hat Briefings",
+    "slug": "black-hat-briefings",
+    "era": "1997-Present",
+    "tags": [
+      "conference",
+      "information security",
+      "vulnerability disclosure",
+      "hacker culture",
+      "corporate security",
+      "las vegas"
+    ],
+    "summary": "Black Hat Briefings is an information security conference founded in 1997 by Jeff Moss as a more corporate and professional counterpart to his hacker convention DEF CON, bringing together researchers, vendors, and government agencies to discuss vulnerabilities and hacking techniques.",
+    "url": "events/black-hat-briefings.html"
+  },
+  {
+    "id": "cansecwest-pwn2own-founding",
+    "type": "event",
+    "typeLabel": "Event",
+    "title": "CanSecWest and the Founding of Pwn2Own",
+    "slug": "cansecwest-pwn2own-founding",
+    "era": "2007",
+    "tags": [
+      "cansecwest",
+      "pwn2own",
+      "dragos ruiu",
+      "exploit contest",
+      "zero day initiative",
+      "vancouver",
+      "browser exploitation",
+      "bug bounty history"
+    ],
+    "summary": "CanSecWest, a Vancouver-based security conference organized by Dragos Ruiu, launched the Pwn2Own contest in April 2007, creating what became one of the world's most prominent live hacking competitions for browsers, operating systems, and devices.",
+    "url": "events/cansecwest-pwn2own-founding.html"
+  },
+  {
+    "id": "chaos-communication-camp",
+    "type": "event",
+    "typeLabel": "Event",
+    "title": "Chaos Communication Camp",
+    "slug": "chaos-communication-camp",
+    "era": "1999-Present",
+    "tags": [
+      "ccc",
+      "hacker camp",
+      "germany",
+      "hacker culture",
+      "conference",
+      "privacy",
+      "open air"
+    ],
+    "summary": "The Chaos Communication Camp (CCCamp) is an international outdoor hacker gathering organized by the Chaos Computer Club (CCC), held roughly every four years in Germany since 1999.",
+    "url": "events/chaos-communication-camp.html"
+  },
+  {
+    "id": "defcon-ctf-origin",
+    "type": "event",
+    "typeLabel": "Event",
+    "title": "The Founding of the DEF CON Capture the Flag Contest",
+    "slug": "defcon-ctf-origin",
+    "era": "1996",
+    "tags": [
+      "defcon",
+      "ctf",
+      "capture the flag",
+      "competition",
+      "hacking contest",
+      "security culture"
+    ],
+    "summary": "The DEF CON Capture the Flag (CTF) contest was first held in 1996 at DEF CON 4, growing out of informal hacking games at earlier DEF CONs into what became known as the premier hacking competition in the world.",
+    "url": "events/defcon-ctf-origin.html"
+  },
+  {
+    "id": "hope-hackers-on-planet-earth",
+    "type": "event",
+    "typeLabel": "Event",
+    "title": "HOPE (Hackers On Planet Earth)",
+    "slug": "hope-hackers-on-planet-earth",
+    "era": "1994-Present",
+    "tags": [
+      "hacker conference",
+      "2600 magazine",
+      "new york",
+      "hope",
+      "emmanuel goldstein",
+      "whistleblowers",
+      "hacker culture"
+    ],
+    "summary": "HOPE (Hackers On Planet Earth) is a hacker conference organized by 2600: The Hacker Quarterly, first held in 1994 in New York City and traditionally staged every two summers since.",
+    "url": "events/hope-hackers-on-planet-earth.html"
+  },
+  {
+    "id": "operation-sundevil",
+    "type": "event",
+    "typeLabel": "Event",
+    "title": "Operation Sundevil",
+    "slug": "operation-sundevil",
+    "era": "1990",
+    "tags": [
+      "secret service",
+      "bbs",
+      "phreaking",
+      "hacking crackdown",
+      "eff",
+      "law enforcement",
+      "1990s"
+    ],
+    "summary": "Operation Sundevil was a nationwide crackdown coordinated by the United States Secret Service that culminated in raids across more than a dozen U.S. cities in May 1990, targeting bulletin board systems (BBSes) suspected of trading stolen credit card numbers, phone-phreaking tools, and pirated software.",
+    "url": "events/operation-sundevil.html"
+  },
+  {
+    "id": "rsa-conference-founding",
+    "type": "event",
+    "typeLabel": "Event",
+    "title": "The Founding of the RSA Conference",
+    "slug": "rsa-conference-founding",
+    "era": "1991",
+    "tags": [
+      "rsa conference",
+      "cryptography",
+      "security industry",
+      "jim bidzos",
+      "1990s",
+      "information security",
+      "conferences"
+    ],
+    "summary": "The RSA Conference, now the world's largest information security industry gathering, began as a small, single-panel gathering convened by RSA Data Security in November 1991 to debate the U.S. government's proposed Digital Signature Standard.",
+    "url": "events/rsa-conference-founding.html"
+  },
+  {
+    "id": "shmoocon",
+    "type": "event",
+    "typeLabel": "Event",
+    "title": "ShmooCon",
+    "slug": "shmoocon",
+    "era": "2005-2025",
+    "tags": [
+      "hacker convention",
+      "infosec",
+      "washington dc",
+      "shmoo group",
+      "security conference",
+      "cryptography",
+      "cyberculture"
+    ],
+    "summary": "ShmooCon was an annual American hacker convention organized by The Shmoo Group, held in the Washington, D.C. area from 2005 until its final edition in January 2025.",
+    "url": "events/shmoocon.html"
+  },
+  {
+    "id": "apt29-cozy-bear",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "APT29 (Cozy Bear)",
+    "slug": "apt29-cozy-bear",
+    "era": "2008-Present",
+    "tags": [
+      "nation-state",
+      "russia",
+      "espionage",
+      "supply-chain-attack",
+      "apt",
+      "solarwinds",
+      "sunburst",
+      "cyberespionage"
+    ],
+    "summary": "APT29, widely known as Cozy Bear, is a Russian state-sponsored cyberespionage group assessed to operate on behalf of Russia's Foreign Intelligence Service (SVR), active since at least 2008 and linked to the 2016 DNC breach and the 2020 SolarWinds/Sunburst supply-chain attack.",
+    "url": "groups/apt29-cozy-bear.html"
+  },
+  {
+    "id": "core-security-technologies",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "Core Security Technologies",
+    "slug": "core-security-technologies",
+    "era": "1996-Present",
+    "tags": [
+      "penetration-testing",
+      "argentina",
+      "exploit-development",
+      "core-impact",
+      "impacket",
+      "vulnerability-research"
+    ],
+    "summary": "Core Security Technologies is an information-security company founded in 1996 in Buenos Aires, Argentina, best known for creating the commercial penetration-testing platform Core Impact and for its long association with the open-source network-protocol toolkit Impacket.",
+    "url": "groups/core-security-technologies.html"
+  },
+  {
+    "id": "crowdstrike",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "CrowdStrike",
+    "slug": "crowdstrike",
+    "era": "2011-Present",
+    "tags": [
+      "cybersecurity company",
+      "endpoint detection",
+      "threat intelligence",
+      "dnc breach",
+      "apt attribution",
+      "falcon platform",
+      "incident response"
+    ],
+    "summary": "CrowdStrike is an American cybersecurity company founded in 2011 by George Kurtz, Dmitri Alperovitch, and Gregg Marston, known for its cloud-native Falcon endpoint protection platform and for its 2016 investigation attributing the Democratic National Committee hack to Russian state-linked groups.",
+    "url": "groups/crowdstrike.html"
+  },
+  {
+    "id": "equation-group",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "Equation Group",
+    "slug": "equation-group",
+    "era": "2001-Present",
+    "tags": [
+      "cyberespionage",
+      "apt",
+      "nsa",
+      "malware",
+      "firmware-implants",
+      "zero-day",
+      "shadow-brokers",
+      "state-sponsored"
+    ],
+    "summary": "The Equation Group is a highly sophisticated cyberespionage actor publicly identified and named by Kaspersky Lab researchers in February 2015, whose tools, techniques, and operational details have led researchers and journalists to widely link it to the U.S. National Security Agency; a subset of its hacking tools was later stolen and leaked by a group calling itself the Shadow Brokers.",
+    "url": "groups/equation-group.html"
+  },
+  {
+    "id": "hacking-team",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "Hacking Team",
+    "slug": "hacking-team",
+    "era": "2003-2020",
+    "tags": [
+      "surveillance",
+      "spyware",
+      "italy",
+      "data-breach",
+      "phineas-fisher",
+      "exploit-broker",
+      "government-hacking"
+    ],
+    "summary": "Hacking Team was a Milan-based company that sold offensive intrusion and surveillance software to governments and police forces worldwide, until a July 2015 breach by the hacker Phineas Fisher exposed roughly 400 gigabytes of its internal emails, source code, and client list.",
+    "url": "groups/hacking-team.html"
+  },
+  {
+    "id": "lazarus-group",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "Lazarus Group",
+    "slug": "lazarus-group",
+    "era": "2009-Present",
+    "tags": [
+      "north-korea",
+      "state-sponsored",
+      "apt",
+      "ransomware",
+      "financial-theft",
+      "sony-hack",
+      "wannacry",
+      "swift-fraud"
+    ],
+    "summary": "Lazarus Group is a state-sponsored cyber threat actor widely attributed to North Korea, active since at least 2009 and linked to the 2014 Sony Pictures hack, the 2016 Bangladesh Bank SWIFT heist, and the 2017 WannaCry ransomware outbreak.",
+    "url": "groups/lazarus-group.html"
+  },
+  {
+    "id": "mandiant",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "Mandiant",
+    "slug": "mandiant",
+    "era": "2004-Present",
+    "tags": [
+      "incident response",
+      "threat intelligence",
+      "apt1",
+      "china",
+      "cyber espionage",
+      "attribution",
+      "fireeye",
+      "google cloud"
+    ],
+    "summary": "Mandiant is a cybersecurity firm specializing in incident response and threat intelligence, founded in 2004 by Kevin Mandia, best known for its 2013 \"APT1\" report publicly attributing years of cyber espionage against U.S. and other organizations to a Chinese military unit.",
+    "url": "groups/mandiant.html"
+  },
+  {
+    "id": "nso-group",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "NSO Group",
+    "slug": "nso-group",
+    "era": "2010-Present",
+    "tags": [
+      "spyware",
+      "pegasus",
+      "israel",
+      "surveillance",
+      "zero-click",
+      "mercenary-hacking",
+      "zero-day",
+      "human-rights"
+    ],
+    "summary": "NSO Group is an Israeli technology company, founded in 2010, best known for developing Pegasus, a commercial \"zero-click\" spyware suite sold to government clients and later linked to widespread surveillance of journalists, activists, lawyers, and political figures worldwide.",
+    "url": "groups/nso-group.html"
+  },
+  {
+    "id": "zero-day-initiative",
+    "type": "group",
+    "typeLabel": "Group",
+    "title": "Zero Day Initiative (ZDI)",
+    "slug": "zero-day-initiative",
+    "era": "2005-Present",
+    "tags": [
+      "bug bounty",
+      "vulnerability disclosure",
+      "tippingpoint",
+      "trend micro",
+      "pwn2own",
+      "responsible disclosure",
+      "exploit acquisition"
+    ],
+    "summary": "The Zero Day Initiative (ZDI) is a vendor-agnostic vulnerability purchase and coordinated-disclosure program started on July 25, 2005 by TippingPoint, a division of 3Com, and led today by Trend Micro following its 2015 acquisition of HP TippingPoint.",
+    "url": "groups/zero-day-initiative.html"
+  },
+  {
+    "id": "computer-underground-digest",
+    "type": "publication",
+    "typeLabel": "Publication",
+    "title": "Computer Underground Digest",
+    "slug": "computer-underground-digest",
+    "era": "1990-2000",
+    "tags": [
+      "newsletter",
+      "computer underground",
+      "hacker culture",
+      "digital rights",
+      "usenet",
+      "1990s",
+      "policy",
+      "phreaking"
+    ],
+    "summary": "Computer Underground Digest (CuD) was a weekly electronic newsletter published from March 1990 to March 2000 that covered the legal, social, and cultural issues surrounding the early computer underground, edited by Jim Thomas with Gordon Meyer as news editor.",
+    "url": "publications/computer-underground-digest.html"
+  },
+  {
+    "id": "countdown-to-zero-day",
+    "type": "publication",
+    "typeLabel": "Publication",
+    "title": "Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon",
+    "slug": "countdown-to-zero-day",
+    "era": "2014",
+    "tags": [
+      "stuxnet",
+      "malware",
+      "book",
+      "journalism",
+      "cyberwarfare",
+      "industrial-control-systems",
+      "iran",
+      "nation-state"
+    ],
+    "summary": "\"Countdown to Zero Day\" is a 2014 nonfiction book by American investigative journalist Kim Zetter, published by Crown, that chronicles the discovery and technical analysis of the Stuxnet computer worm and its sabotage of Iran's Natanz uranium-enrichment facility.",
+    "url": "publications/countdown-to-zero-day.html"
+  },
+  {
+    "id": "ghost-in-the-wires",
+    "type": "publication",
+    "typeLabel": "Publication",
+    "title": "Ghost in the Wires: My Adventures as the World's Most Wanted Hacker",
+    "slug": "ghost-in-the-wires",
+    "era": "2011",
+    "tags": [
+      "memoir",
+      "social engineering",
+      "kevin mitnick",
+      "fugitive",
+      "phone phreaking",
+      "computer crime",
+      "biography"
+    ],
+    "summary": "\"Ghost in the Wires\" is a 2011 memoir by Kevin Mitnick, co-written with William L. Simon, recounting Mitnick's years as a computer intruder and phone phreaker, his time as a federal fugitive, and his 1995 arrest.",
+    "url": "publications/ghost-in-the-wires.html"
+  },
+  {
+    "id": "kingpin-poulsen-book",
+    "type": "publication",
+    "typeLabel": "Publication",
+    "title": "Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground",
+    "slug": "kingpin-poulsen-book",
+    "era": "2011",
+    "tags": [
+      "carding",
+      "cybercrime",
+      "true-crime",
+      "credit-card-fraud",
+      "book",
+      "iceman",
+      "cardersmarket",
+      "journalism"
+    ],
+    "summary": "\"Kingpin\" is a 2011 non-fiction book by journalist and former hacker Kevin Poulsen, published by Crown, that chronicles the rise and fall of Max Ray Butler (a.k.a. \"Max Vision\" and \"Iceman\"), a hacker who stole access to roughly 1.8 million credit card accounts and took over rival carding forums to build the unified marketplace CardersMarket.",
+    "url": "publications/kingpin-poulsen-book.html"
+  },
+  {
+    "id": "risks-digest",
+    "type": "publication",
+    "typeLabel": "Publication",
+    "title": "The RISKS Digest",
+    "slug": "risks-digest",
+    "era": "1985-Present",
+    "tags": [
+      "mailing list",
+      "computer safety",
+      "software reliability",
+      "usenet",
+      "acm",
+      "risk analysis",
+      "moderated forum"
+    ],
+    "summary": "The RISKS Digest, formally the \"Forum On Risks to the Public in Computers and Related Systems,\" is a moderated mailing list and Usenet newsgroup (comp.risks) documenting failures, vulnerabilities, and unintended consequences of computer systems, moderated by Peter G. Neumann since its founding on August 1, 1985.",
+    "url": "publications/risks-digest.html"
+  },
+  {
+    "id": "sandworm-greenberg-book",
+    "type": "publication",
+    "typeLabel": "Publication",
+    "title": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
+    "slug": "sandworm-greenberg-book",
+    "era": "2019",
+    "tags": [
+      "book",
+      "notpetya",
+      "sandworm",
+      "gru",
+      "russia",
+      "cyberwar",
+      "ukraine",
+      "journalism"
+    ],
+    "summary": "\"Sandworm\" is a 2019 nonfiction book by American journalist Andy Greenberg, published by Doubleday, that chronicles the investigation into a Russian military-intelligence hacking group and its escalating cyberattacks, culminating in the 2017 NotPetya malware outbreak.",
+    "url": "publications/sandworm-greenberg-book.html"
+  },
+  {
+    "id": "the-art-of-deception-mitnick",
+    "type": "publication",
+    "typeLabel": "Publication",
+    "title": "The Art of Deception",
+    "slug": "the-art-of-deception-mitnick",
+    "era": "2002",
+    "tags": [
+      "social engineering",
+      "kevin mitnick",
+      "security awareness",
+      "phishing",
+      "human factor",
+      "book",
+      "wiley"
+    ],
+    "summary": "\"The Art of Deception: Controlling the Human Element of Security\" is a 2002 book by former hacker Kevin D. Mitnick and co-author William L. Simon, published by John Wiley & Sons, that explains how social engineering is used to bypass technical security controls.",
+    "url": "publications/the-art-of-deception-mitnick.html"
+  },
+  {
+    "id": "binary-ninja",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Binary Ninja",
+    "slug": "binary-ninja",
+    "era": "2016-Present",
+    "tags": [
+      "reverse-engineering",
+      "disassembler",
+      "decompiler",
+      "binary-analysis",
+      "vector-35",
+      "malware-analysis",
+      "vulnerability-research",
+      "commercial-tool"
+    ],
+    "summary": "Binary Ninja is a commercial interactive disassembler, decompiler, and binary analysis platform developed by Vector 35, first released publicly in July 2016 as an alternative to IDA Pro for reverse engineers.",
+    "url": "tools/binary-ninja.html"
+  },
+  {
+    "id": "cain-and-abel",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Cain & Abel",
+    "slug": "cain-and-abel",
+    "era": "2000s-2014",
+    "tags": [
+      "password recovery",
+      "network sniffing",
+      "arp spoofing",
+      "windows",
+      "credential attacks",
+      "man-in-the-middle",
+      "password cracking",
+      "penetration testing"
+    ],
+    "summary": "Cain & Abel was a free Windows password recovery and network analysis tool created by Italian developer Massimiliano Montoro, combining packet sniffing, ARP spoofing, and password-cracking techniques into a single application widely used for both legitimate security testing and credential theft during the 2000s and early 2010s.",
+    "url": "tools/cain-and-abel.html"
+  },
+  {
+    "id": "maltego",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Maltego",
+    "slug": "maltego",
+    "era": "2000s-Present",
+    "tags": [
+      "osint",
+      "link-analysis",
+      "reconnaissance",
+      "threat-intelligence",
+      "digital-forensics",
+      "kali-linux",
+      "investigation-software"
+    ],
+    "summary": "Maltego is a graphical link-analysis and open-source intelligence (OSINT) platform, originally developed by the company Paterva (now Maltego Technologies GmbH), used to map relationships between people, organizations, domains, and other entities for security research, threat intelligence, and investigations.",
+    "url": "tools/maltego.html"
+  },
+  {
+    "id": "ollydbg",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "OllyDbg",
+    "slug": "ollydbg",
+    "era": "2000s-2010s",
+    "tags": [
+      "windows-debugger",
+      "reverse-engineering",
+      "malware-analysis",
+      "x86",
+      "disassembler",
+      "software-cracking",
+      "freeware"
+    ],
+    "summary": "OllyDbg is a 32-bit x86 assembler-level debugger for Microsoft Windows, created by Oleh Yuschuk, that became one of the most widely used tools of the 2000s for binary code analysis, reverse engineering, and malware analysis when source code is unavailable.",
+    "url": "tools/ollydbg.html"
+  },
+  {
+    "id": "responder-tool",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Responder",
+    "slug": "responder-tool",
+    "era": "2013-Present",
+    "tags": [
+      "llmnr",
+      "nbt-ns",
+      "mdns",
+      "credential harvesting",
+      "man-in-the-middle",
+      "active directory",
+      "penetration testing",
+      "ntlm"
+    ],
+    "summary": "Responder is an open-source LLMNR, NBT-NS, and mDNS poisoning tool created by Laurent Gaffié that stands up rogue authentication servers to capture NetNTLM hashes and cleartext credentials on local networks.",
+    "url": "tools/responder-tool.html"
+  },
+  {
+    "id": "sysinternals-suite",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Sysinternals Suite",
+    "slug": "sysinternals-suite",
+    "era": "1996-Present",
+    "tags": [
+      "windows",
+      "system-utilities",
+      "process-monitoring",
+      "malware-analysis",
+      "microsoft",
+      "diagnostics",
+      "reverse-engineering"
+    ],
+    "summary": "Sysinternals is a suite of advanced Windows system-internals, diagnostic, and troubleshooting utilities — including Process Explorer, Autoruns, and Process Monitor — originally created by Mark Russinovich and Bryce Cogswell and acquired by Microsoft in 2006.",
+    "url": "tools/sysinternals-suite.html"
+  },
+  {
+    "id": "bluekeep",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability",
+    "title": "BlueKeep (CVE-2019-0708)",
+    "slug": "bluekeep",
+    "era": "2019",
+    "tags": [
+      "rdp",
+      "windows",
+      "wormable",
+      "remote-code-execution",
+      "microsoft",
+      "patch-tuesday",
+      "critical-infrastructure"
+    ],
+    "summary": "BlueKeep (CVE-2019-0708) is a critical, wormable remote code execution vulnerability in Microsoft's Remote Desktop Services affecting older Windows versions, disclosed and patched by Microsoft in May 2019.",
+    "url": "vulnerabilities/bluekeep.html"
+  },
+  {
+    "id": "citrix-bleed",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability",
+    "title": "Citrix Bleed (CVE-2023-4966)",
+    "slug": "citrix-bleed",
+    "era": "2023",
+    "tags": [
+      "citrix",
+      "netscaler",
+      "session-hijacking",
+      "information-disclosure",
+      "ransomware",
+      "lockbit",
+      "credential-theft",
+      "edge-device"
+    ],
+    "summary": "Citrix Bleed (CVE-2023-4966) is a critical information-disclosure vulnerability in Citrix NetScaler ADC and NetScaler Gateway appliances that let remote attackers steal valid session tokens from device memory and hijack authenticated sessions, bypassing passwords and multi-factor authentication.",
+    "url": "vulnerabilities/citrix-bleed.html"
+  },
+  {
+    "id": "dirty-cow",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability",
+    "title": "Dirty COW (CVE-2016-5195)",
+    "slug": "dirty-cow",
+    "era": "2016",
+    "tags": [
+      "linux-kernel",
+      "dirty-cow",
+      "cve-2016-5195",
+      "privilege-escalation",
+      "race-condition",
+      "copy-on-write",
+      "android",
+      "vulnerability",
+      "2016"
+    ],
+    "summary": "Dirty COW (CVE-2016-5195) is a race-condition flaw in the Linux kernel's copy-on-write memory handling that let unprivileged local users gain write access to read-only memory mappings and escalate to root, publicly disclosed in October 2016 after evidence of active exploitation.",
+    "url": "vulnerabilities/dirty-cow.html"
+  },
+  {
+    "id": "follina",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability",
+    "title": "Follina (CVE-2022-30190)",
+    "slug": "follina",
+    "era": "2022",
+    "tags": [
+      "windows",
+      "microsoft-office",
+      "msdt",
+      "zero-day",
+      "remote-code-execution",
+      "url-protocol-handler",
+      "2022"
+    ],
+    "summary": "Follina (CVE-2022-30190) is a remote code execution vulnerability in the Microsoft Windows Support Diagnostic Tool (MSDT), triggered via the ms-msdt URL protocol handler from malicious Microsoft Office documents, publicly disclosed in May 2022.",
+    "url": "vulnerabilities/follina.html"
+  },
+  {
+    "id": "proxylogon",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability",
+    "title": "ProxyLogon (CVE-2021-26855 and related)",
+    "slug": "proxylogon",
+    "era": "2021",
+    "tags": [
+      "exchange server",
+      "zero-day",
+      "microsoft",
+      "hafnium",
+      "web shell",
+      "pre-auth rce",
+      "china",
+      "2021"
+    ],
+    "summary": "ProxyLogon is the name given to a chain of Microsoft Exchange Server vulnerabilities, led by the pre-authentication server-side request forgery flaw CVE-2021-26855, discovered by Orange Tsai of DEVCORE and exploited at mass scale by the Chinese state-sponsored group HAFNIUM in early 2021.",
+    "url": "vulnerabilities/proxylogon.html"
+  },
+  {
+    "id": "rowhammer",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability",
+    "title": "Rowhammer",
+    "slug": "rowhammer",
+    "era": "2014-Present",
+    "tags": [
+      "hardware",
+      "dram",
+      "memory-corruption",
+      "privilege-escalation",
+      "side-channel",
+      "google-project-zero"
+    ],
+    "summary": "Rowhammer is a hardware vulnerability class in dense DRAM chips in which repeatedly and rapidly accessing (\"hammering\") a memory row can cause electrical interference that flips bits in adjacent rows, potentially altering data an attacker does not have permission to touch.",
+    "url": "vulnerabilities/rowhammer.html"
+  },
+  {
+    "id": "zerologon",
+    "type": "vulnerability",
+    "typeLabel": "Vulnerability",
+    "title": "Zerologon (CVE-2020-1472)",
+    "slug": "zerologon",
+    "era": "2020",
+    "tags": [
+      "windows",
+      "active-directory",
+      "domain-controller",
+      "netlogon",
+      "privilege-escalation",
+      "cryptography",
+      "microsoft",
+      "cisa"
+    ],
+    "summary": "Zerologon (CVE-2020-1472) is a critical cryptographic flaw in the Netlogon Remote Protocol used by Windows domain controllers, disclosed by Tom Tervoort of Secura in 2020, that let an unauthenticated attacker on the network take full control of an Active Directory domain.",
+    "url": "vulnerabilities/zerologon.html"
   }
 ]
