@@ -1,0 +1,79 @@
+{
+  "id": "jcr-licklider",
+  "type": "person",
+  "title": "J. C. R. Licklider",
+  "slug": "jcr-licklider",
+  "name": "J. C. R. Licklider",
+  "born": 1915,
+  "died": 1990,
+  "era": "1950s-1990",
+  "tags": [
+    "networking",
+    "interactive-computing",
+    "arpanet",
+    "academic-research"
+  ],
+  "summary": "American psychologist and computer scientist whose vision of interactive, networked computing and leadership at ARPA’s IPTO helped set the conditions for ARPANET.",
+  "whyThisMatters": "Licklider linked technical systems to human collaboration. His network vision and research leadership helped turn interactive computing and resource sharing into practical research programs.",
+  "knownFor": [
+    "Man-Computer Symbiosis",
+    "Intergalactic Computer Network",
+    "ARPA IPTO",
+    "Project MAC"
+  ],
+  "sections": {
+    "overview": "<p>Joseph Carl Robnett Licklider, widely known as “Lick,” was an American psychologist and computer scientist. His 1960 essay <em>Man-Computer Symbiosis</em> argued for close, interactive collaboration between people and computers.</p><h2>Network vision and ARPA</h2><p>As head of ARPA’s Information Processing Techniques Office from 1962, Licklider promoted time-sharing and a network of computers that could share resources. His memoranda described an “Intergalactic Computer Network,” a formative vision for the systems that became ARPANET.</p><h2>In memoriam</h2><p>Licklider died in 1990. His focus on people communicating through computers remains one of the clearest early statements of the social potential of networked computing.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1915-03-11",
+      "event": "Born in St. Louis, Missouri."
+    },
+    {
+      "date": "1960",
+      "event": "Publishes Man-Computer Symbiosis."
+    },
+    {
+      "date": "1962",
+      "event": "Becomes the first head of ARPA’s Information Processing Techniques Office."
+    },
+    {
+      "date": "1963",
+      "event": "Circulates memoranda about a time-sharing network of computers."
+    },
+    {
+      "date": "1968",
+      "event": "Co-authors The Computer as a Communication Device."
+    },
+    {
+      "date": "1990-06-26",
+      "event": "Dies in Arlington, Massachusetts."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Internet Hall of Fame: J.C.R. Licklider",
+      "url": "https://www.internethalloffame.org/inductee/jcr-licklider/"
+    },
+    {
+      "title": "DARPA: ARPANET history",
+      "url": "https://www.darpa.mil/news/features/arpanet"
+    },
+    {
+      "title": "MIT: In Memoriam J. C. R. Licklider",
+      "url": "https://web.mit.edu/STS.035/www/PDFs/Licklider.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "mati-aharoni",
+  "type": "person",
+  "title": "Mati Aharoni",
+  "slug": "mati-aharoni",
+  "name": "Mati Aharoni",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "penetration testing",
+    "Kali Linux",
+    "Offensive Security",
+    "security tooling",
+    "community"
+  ],
+  "summary": "Mati Aharoni is a penetration-testing practitioner and the founder of Offensive Security, best known for helping create Kali Linux, a Debian-based distribution used for security assessment and training.",
+  "whyThisMatters": "Aharoni helped turn a specialist collection of assessment tools into a maintained, widely documented platform. Kali Linux and the training ecosystem around Offensive Security made repeatable lab work and security testing more accessible to practitioners.",
+  "knownFor": [
+    "Founding Offensive Security",
+    "Co-creating Kali Linux as the successor to BackTrack",
+    "Supporting a distribution designed for penetration testing and security auditing",
+    "Building training and community resources around hands-on security assessment"
+  ],
+  "sections": {
+    "overview": "<p>Mati Aharoni is known in the security community by the handle <em>muts</em>. He founded Offensive Security and worked on the transition from BackTrack to Kali Linux, a distribution intended for penetration testing and security auditing.</p><p>Kali Linux was developed by Offensive Security as a Debian-based successor to BackTrack. Its documentation emphasizes that its purpose is professional security assessment, rather than a general-purpose operating system; that framing matters because the included tools must be used lawfully and with authorization.</p><p>Aharoni's contribution is therefore as much infrastructural as individual: maintaining a common environment for training, research, and testing helps practitioners reproduce work, exchange methods, and learn responsible assessment practice.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2006",
+      "event": "Offensive Security begins operating in the penetration-testing and training community."
+    },
+    {
+      "date": "2012",
+      "event": "Aharoni contacts Debian consultant Raphaël Hertzog about building BackTrack's successor on Debian."
+    },
+    {
+      "date": "2013-03",
+      "event": "Kali Linux is released as the Debian-based successor to BackTrack."
+    },
+    {
+      "date": "Present",
+      "event": "Kali Linux remains maintained as a security-assessment distribution with official documentation and verification guidance."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Kali Linux documentation: intended use",
+      "url": "https://www.kali.org/docs/introduction/should-i-use-kali-linux/"
+    },
+    {
+      "title": "Kali Linux Revealed: acknowledgements describing the Debian transition",
+      "url": "https://www.kali.org/docs/introduction/kali-linux-revealed-book/"
+    },
+    {
+      "title": "Kali Linux project history",
+      "url": "https://www.kali.org/blog/kali-linux-1-0-release/"
+    },
+    {
+      "title": "Meet the Kali team (archived project page)",
+      "url": "https://parstaz.com/about-us/default.htm"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "historyofhackers-editorial"
+  }
+}

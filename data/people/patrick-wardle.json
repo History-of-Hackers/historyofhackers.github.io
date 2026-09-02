@@ -1,0 +1,76 @@
+{
+  "id": "patrick-wardle",
+  "type": "person",
+  "title": "Patrick Wardle",
+  "slug": "patrick-wardle",
+  "name": "Patrick Wardle",
+  "born": null,
+  "died": null,
+  "era": "2010s-Present",
+  "tags": [
+    "macOS security",
+    "malware analysis",
+    "open source",
+    "Objective-See",
+    "vulnerability research"
+  ],
+  "summary": "Patrick Wardle is a macOS security researcher and the founder of Objective-See, a nonprofit that develops free, open-source defensive tools and runs the Objective by the Sea conference.",
+  "whyThisMatters": "Wardle pairs technical macOS research with software that users and defenders can inspect and deploy. Objective-See's tools, writing, books, and conference have made a focused technical community around Apple-platform security more accessible.",
+  "knownFor": [
+    "Founding Objective-See",
+    "Creating free and open-source macOS security tools",
+    "Authoring The Art of Mac Malware series",
+    "Founding the Objective by the Sea macOS-security conference"
+  ],
+  "sections": {
+    "overview": "<p>Patrick Wardle is a security researcher focused on Apple platforms and the creator of Objective-See. The organization began in 2015 as Objective-See LLC and later became a nonprofit foundation.</p><p>Objective-See publishes free and open-source utilities intended to help Mac users detect suspicious behavior and understand platform security. Wardle also writes technical material about macOS malware and vulnerabilities, which gives defensive practitioners concrete examples to study.</p><p>His work extends beyond tools. Wardle authored <em>The Art of Mac Malware</em> series and founded Objective by the Sea, a specialist conference for macOS and iOS security research. The combination of research, documentation, and a community venue is central to his influence.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2015",
+      "event": "Founds Objective-See LLC to create macOS security tools."
+    },
+    {
+      "date": "2016",
+      "event": "Objective-See tools receive wider attention in the Mac-security community."
+    },
+    {
+      "date": "2017",
+      "event": "Publicly demonstrates and reports a macOS High Sierra Keychain issue."
+    },
+    {
+      "date": "Present",
+      "event": "Leads the Objective-See Foundation and Objective by the Sea conference."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Objective-See: About",
+      "url": "https://objective-see.org/about"
+    },
+    {
+      "title": "Objective-See: Support and projects",
+      "url": "https://objective-see.org/support.html"
+    },
+    {
+      "title": "Black Hat interview biography",
+      "url": "https://i.blackhat.com/executive-interviews/2021/Informa-20211014-Intrusion_Arm-d-and-Dangerous_v2.pdf"
+    },
+    {
+      "title": "TIME: Wardle's High Sierra Keychain report",
+      "url": "https://time.com/4957050/apple-macos-high-sierra-bug/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "historyofhackers-editorial"
+  }
+}

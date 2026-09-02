@@ -1,0 +1,79 @@
+{
+  "id": "peter-samson",
+  "type": "person",
+  "title": "Peter Samson",
+  "slug": "peter-samson",
+  "name": "Peter Samson",
+  "born": 1941,
+  "died": null,
+  "era": "1950s-Present",
+  "tags": [
+    "mit",
+    "hacker-culture",
+    "pdp-1",
+    "spacewar",
+    "computer-music"
+  ],
+  "summary": "MIT hacker-culture pioneer who programmed the TX-0 and PDP-1, contributed to Spacewar!, and worked on interactive digital music and early minicomputer software.",
+  "whyThisMatters": "Samson’s work captures an early meaning of “hacker”: intense, playful, hands-on exploration of a shared computer system, directed toward elegant programs, music, games, and tools.",
+  "knownFor": [
+    "TX-0 and PDP-1 programming",
+    "Spacewar! “Expensive Planetarium”",
+    "Real-time digital music"
+  ],
+  "sections": {
+    "overview": "<p>Peter Samson was part of the MIT Model Railroad Club community that encountered the TX-0 and PDP-1, machines central to the earliest documented hacker culture. He developed real-time digital-music software and contributed the detailed star display for <em>Spacewar!</em>.</p><h2>Hands-on computing</h2><p>Samson’s experiments emphasized immediate interaction: he programmed the TX-0 to make music in real time and later worked on PDP-1 software. The technical play, collaboration, and demand for elegant solutions exemplify the historical hacker ethic.</p><h2>Later engineering</h2><p>His subsequent work included concepts for DEC’s PDP-6, a FORTRAN compiler, digital communication, and computer-music systems. The entry documents his technical contributions without treating the wider MIT community as the work of one person.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1941",
+      "event": "Born in Fitchburg, Massachusetts."
+    },
+    {
+      "date": "Late 1950s",
+      "event": "Joins MIT’s Tech Model Railroad Club and encounters the TX-0."
+    },
+    {
+      "date": "1960",
+      "event": "Programs real-time music on the TX-0."
+    },
+    {
+      "date": "1961",
+      "event": "Contributes the “Expensive Planetarium” star display to Spacewar! on the PDP-1."
+    },
+    {
+      "date": "1964",
+      "event": "Joins DEC and contributes to the PDP-6."
+    },
+    {
+      "date": "2020",
+      "event": "Demonstrates PDP-1 music programs at the Computer History Museum."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Computer History Museum: Peter Samson",
+      "url": "https://www.computerhistory.org/pdp-1/peter-samson/"
+    },
+    {
+      "title": "Computer History Museum: Programming in Harmony",
+      "url": "https://computerhistory.org/blog/programming-in-harmony/"
+    },
+    {
+      "title": "Computer History Museum: PDP-1 report archive",
+      "url": "https://tcm.computerhistory.org/reports/TCMReportFall1983.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

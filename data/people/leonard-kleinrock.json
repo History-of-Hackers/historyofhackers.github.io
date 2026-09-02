@@ -1,0 +1,74 @@
+{
+  "id": "leonard-kleinrock",
+  "type": "person",
+  "title": "Leonard Kleinrock",
+  "slug": "leonard-kleinrock",
+  "name": "Leonard Kleinrock",
+  "born": 1934,
+  "died": null,
+  "era": "1960s-Present",
+  "tags": [
+    "networking",
+    "packet-switching",
+    "arpanet",
+    "academic-research"
+  ],
+  "summary": "UCLA computer scientist whose queueing-theory research and leadership of the ARPANET Network Measurement Center helped shape early packet-networking practice.",
+  "whyThisMatters": "Kleinrock connects mathematical performance analysis to working networks. His UCLA laboratory hosted the first ARPANET node and the first host-to-host transmission was attempted there in 1969.",
+  "knownFor": [
+    "Mathematical theory of computer networks",
+    "ARPANET Network Measurement Center",
+    "Packet-network performance"
+  ],
+  "sections": {
+    "overview": "<p>Leonard Kleinrock is a UCLA computer scientist whose doctoral research developed mathematical tools for analysing computer networks. His work contributed to the technical foundations on which packet networking was built.</p><h2>ARPANET</h2><p>ARPA selected Kleinrock’s UCLA laboratory to operate the ARPANET Network Measurement Center. UCLA received the first node, and on 29 October 1969 a team led by Kleinrock attempted the first host-to-host transmission to SRI.</p><h2>Place in security history</h2><p>Network security depends on understanding traffic, congestion, reliability, and failure. Kleinrock’s work is included for helping establish the networked environment that security practitioners later had to defend.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1934-06-13",
+      "event": "Born in New York City."
+    },
+    {
+      "date": "1963",
+      "event": "Completes a PhD at MIT and joins the UCLA faculty."
+    },
+    {
+      "date": "1967",
+      "event": "UCLA is selected to run the ARPANET Network Measurement Center."
+    },
+    {
+      "date": "1969-10-29",
+      "event": "UCLA team attempts the first ARPANET host-to-host transmission to SRI."
+    },
+    {
+      "date": "2022",
+      "event": "Named a Computer History Museum Fellow."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Computer History Museum: Leonard Kleinrock",
+      "url": "https://computerhistory.org/profile/leonard-kleinrock-2/"
+    },
+    {
+      "title": "UCLA: Leonard Kleinrock",
+      "url": "https://www.ucla.edu/about/notable-bruins/08-leonard-kleinrock"
+    },
+    {
+      "title": "Kleinrock UCLA homepage",
+      "url": "https://www.lk.cs.ucla.edu/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

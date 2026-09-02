@@ -7437,5 +7437,336 @@
     ],
     "summary": "Canadian privacy scholar and former Information and Privacy Commissioner of Ontario known for developing and promoting Privacy by Design.",
     "url": "people/ann-cavoukian.html"
+  },
+  {
+    "id": "claude-shannon",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Claude Shannon",
+    "slug": "claude-shannon",
+    "era": "1930s-2001",
+    "tags": [
+      "information-theory",
+      "cryptography",
+      "digital-logic",
+      "academic-research"
+    ],
+    "summary": "American mathematician and engineer whose work on digital logic and information theory established core concepts used in computing and secure communications.",
+    "url": "people/claude-shannon.html"
+  },
+  {
+    "id": "james-ellis",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "James Ellis",
+    "slug": "james-ellis",
+    "era": "1950s-1997",
+    "tags": [
+      "cryptography",
+      "public-key-cryptography",
+      "gchq",
+      "academic-research"
+    ],
+    "summary": "GCHQ mathematician who conceived the possibility of public-key cryptography, then called non-secret encryption, before the idea was publicly disclosed.",
+    "url": "people/james-ellis.html"
+  },
+  {
+    "id": "clifford-cocks",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Clifford Cocks",
+    "slug": "clifford-cocks",
+    "era": "1970s-Present",
+    "tags": [
+      "cryptography",
+      "public-key-cryptography",
+      "rsa",
+      "gchq"
+    ],
+    "summary": "British mathematician whose classified GCHQ work in 1973 developed a practical public-key encryption method later recognised as closely related to RSA.",
+    "url": "people/clifford-cocks.html"
+  },
+  {
+    "id": "malcolm-williamson",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Malcolm Williamson",
+    "slug": "malcolm-williamson",
+    "era": "1970s-2015",
+    "tags": [
+      "cryptography",
+      "key-exchange",
+      "public-key-cryptography",
+      "gchq"
+    ],
+    "summary": "British mathematician and GCHQ cryptographer who developed an early key-agreement method in classified work during the 1970s.",
+    "url": "people/malcolm-williamson.html"
+  },
+  {
+    "id": "paul-baran",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Paul Baran",
+    "slug": "paul-baran",
+    "era": "1950s-2011",
+    "tags": [
+      "networking",
+      "packet-switching",
+      "resilient-systems",
+      "academic-research"
+    ],
+    "summary": "Polish-born American engineer whose RAND work on distributed communications and packet switching helped establish technical foundations for packet networks.",
+    "url": "people/paul-baran.html"
+  },
+  {
+    "id": "leonard-kleinrock",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Leonard Kleinrock",
+    "slug": "leonard-kleinrock",
+    "era": "1960s-Present",
+    "tags": [
+      "networking",
+      "packet-switching",
+      "arpanet",
+      "academic-research"
+    ],
+    "summary": "UCLA computer scientist whose queueing-theory research and leadership of the ARPANET Network Measurement Center helped shape early packet-networking practice.",
+    "url": "people/leonard-kleinrock.html"
+  },
+  {
+    "id": "dennis-ritchie",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Dennis Ritchie",
+    "slug": "dennis-ritchie",
+    "era": "1960s-2011",
+    "tags": [
+      "unix",
+      "c-language",
+      "systems-programming",
+      "computer-security"
+    ],
+    "summary": "Bell Labs computer scientist who co-created Unix and created the C programming language, two foundations of modern systems software.",
+    "url": "people/dennis-ritchie.html"
+  },
+  {
+    "id": "john-mccarthy",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John McCarthy",
+    "slug": "john-mccarthy",
+    "era": "1950s-2011",
+    "tags": [
+      "artificial-intelligence",
+      "lisp",
+      "timesharing",
+      "academic-research"
+    ],
+    "summary": "American computer scientist who coined the term artificial intelligence, created Lisp, and advanced time-sharing and interactive-computing research.",
+    "url": "people/john-mccarthy.html"
+  },
+  {
+    "id": "peter-samson",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Peter Samson",
+    "slug": "peter-samson",
+    "era": "1950s-Present",
+    "tags": [
+      "mit",
+      "hacker-culture",
+      "pdp-1",
+      "spacewar",
+      "computer-music"
+    ],
+    "summary": "MIT hacker-culture pioneer who programmed the TX-0 and PDP-1, contributed to Spacewar!, and worked on interactive digital music and early minicomputer software.",
+    "url": "people/peter-samson.html"
+  },
+  {
+    "id": "jcr-licklider",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "J. C. R. Licklider",
+    "slug": "jcr-licklider",
+    "era": "1950s-1990",
+    "tags": [
+      "networking",
+      "interactive-computing",
+      "arpanet",
+      "academic-research"
+    ],
+    "summary": "American psychologist and computer scientist whose vision of interactive, networked computing and leadership at ARPA’s IPTO helped set the conditions for ARPANET.",
+    "url": "people/jcr-licklider.html"
+  },
+  {
+    "id": "mati-aharoni",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Mati Aharoni",
+    "slug": "mati-aharoni",
+    "era": "2000s-Present",
+    "tags": [
+      "penetration testing",
+      "Kali Linux",
+      "Offensive Security",
+      "security tooling",
+      "community"
+    ],
+    "summary": "Mati Aharoni is a penetration-testing practitioner and the founder of Offensive Security, best known for helping create Kali Linux, a Debian-based distribution used for security assessment and training.",
+    "url": "people/mati-aharoni.html"
+  },
+  {
+    "id": "patrick-wardle",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Patrick Wardle",
+    "slug": "patrick-wardle",
+    "era": "2010s-Present",
+    "tags": [
+      "macOS security",
+      "malware analysis",
+      "open source",
+      "Objective-See",
+      "vulnerability research"
+    ],
+    "summary": "Patrick Wardle is a macOS security researcher and the founder of Objective-See, a nonprofit that develops free, open-source defensive tools and runs the Objective by the Sea conference.",
+    "url": "people/patrick-wardle.html"
+  },
+  {
+    "id": "joxean-koret",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Joxean Koret",
+    "slug": "joxean-koret",
+    "era": "2000s-Present",
+    "tags": [
+      "reverse engineering",
+      "malware analysis",
+      "database security",
+      "vulnerability research",
+      "Hex-Rays"
+    ],
+    "summary": "Joxean Koret is a Spanish security researcher known for reverse engineering, malware analysis, and vulnerability research, including work on database software and reverse-engineering tooling.",
+    "url": "people/joxean-koret.html"
+  },
+  {
+    "id": "aleksandr-matrosov",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Aleksandr Matrosov",
+    "slug": "aleksandr-matrosov",
+    "era": "2000s-Present",
+    "tags": [
+      "malware analysis",
+      "reverse engineering",
+      "bootkits",
+      "firmware security",
+      "threat research"
+    ],
+    "summary": "Aleksandr Matrosov is a malware and threat researcher whose published work has covered reverse engineering, bootkits, advanced threats, exploitation, and firmware or hardware security.",
+    "url": "people/aleksandr-matrosov.html"
+  },
+  {
+    "id": "jake-williams",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jake Williams",
+    "slug": "jake-williams",
+    "era": "2000s-Present",
+    "tags": [
+      "incident response",
+      "digital forensics",
+      "malware reverse engineering",
+      "penetration testing",
+      "security education"
+    ],
+    "summary": "Jake Williams is an incident-response, digital-forensics, malware-analysis, and penetration-testing practitioner known for teaching and course-authoring work in the SANS community.",
+    "url": "people/jake-williams.html"
+  },
+  {
+    "id": "lesley-carhart",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Lesley Carhart",
+    "slug": "lesley-carhart",
+    "era": "2000s-Present",
+    "tags": [
+      "industrial control systems",
+      "incident response",
+      "digital forensics",
+      "threat hunting",
+      "community"
+    ],
+    "summary": "Lesley Carhart is an industrial-cybersecurity incident-response leader known for investigations, digital forensics, threat hunting, education, and community work around operational technology.",
+    "url": "people/lesley-carhart.html"
+  },
+  {
+    "id": "marc-rogers",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Marc Rogers",
+    "slug": "marc-rogers",
+    "era": "1980s-Present",
+    "tags": [
+      "DEF CON",
+      "automotive security",
+      "vulnerability research",
+      "security leadership",
+      "technical communities"
+    ],
+    "summary": "Marc Rogers is a British security researcher and community organizer known for vulnerability research on connected technologies and for long-running leadership roles at DEF CON.",
+    "url": "people/marc-rogers.html"
+  },
+  {
+    "id": "paul-asadoorian",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Paul Asadoorian",
+    "slug": "paul-asadoorian",
+    "era": "2000s-Present",
+    "tags": [
+      "security podcasting",
+      "firmware security",
+      "penetration testing",
+      "vulnerability management",
+      "security community"
+    ],
+    "summary": "Paul Asadoorian is a security practitioner, educator, author, and podcaster known for founding Security Weekly and for work on penetration testing, firmware security, vulnerability management, and community education.",
+    "url": "people/paul-asadoorian.html"
+  },
+  {
+    "id": "kenneth-geers",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Kenneth Geers",
+    "slug": "kenneth-geers",
+    "era": "1990s-Present",
+    "tags": [
+      "cyber policy",
+      "NATO",
+      "threat intelligence",
+      "cyber conflict",
+      "research"
+    ],
+    "summary": "Kenneth Geers is a cybersecurity researcher and policy specialist whose work has addressed cyber conflict, threat intelligence, NATO cyber defence, and the relationship between technical security and international affairs.",
+    "url": "people/kenneth-geers.html"
+  },
+  {
+    "id": "paul-c-van-oorschot",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Paul C. van Oorschot",
+    "slug": "paul-c-van-oorschot",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "authentication",
+      "computer security",
+      "academic research",
+      "security engineering"
+    ],
+    "summary": "Paul C. van Oorschot is a Canadian cryptographer and computer-security researcher known for academic work on authentication and usable security and for co-authoring the Handbook of Applied Cryptography.",
+    "url": "people/paul-c-van-oorschot.html"
   }
 ]

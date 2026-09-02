@@ -1,0 +1,78 @@
+{
+  "id": "dennis-ritchie",
+  "type": "person",
+  "title": "Dennis Ritchie",
+  "slug": "dennis-ritchie",
+  "name": "Dennis Ritchie",
+  "born": 1941,
+  "died": 2011,
+  "era": "1960s-2011",
+  "tags": [
+    "unix",
+    "c-language",
+    "systems-programming",
+    "computer-security"
+  ],
+  "summary": "Bell Labs computer scientist who co-created Unix and created the C programming language, two foundations of modern systems software.",
+  "whyThisMatters": "The interfaces, processes, and programming idioms created around Unix and C became basic infrastructure for security research, operating systems, networking, and defensive engineering.",
+  "knownFor": [
+    "C programming language",
+    "Unix",
+    "ACM A.M. Turing Award"
+  ],
+  "sections": {
+    "overview": "<p>Dennis Ritchie was a Bell Labs computer scientist who created the C programming language and co-developed Unix with Ken Thompson. The combination made operating-system ideas portable across hardware and established a durable model for systems programming.</p><h2>Unix and C</h2><p>Unix began at Bell Labs in 1969. Ritchie’s work on C made it practical to rewrite Unix in a high-level language while retaining the control needed for systems programming, helping the system travel far beyond its original machines.</p><h2>In memoriam</h2><p>Ritchie died in 2011. The operating systems, tools, and programming languages influenced by his work continue to underpin much of modern computing.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1941-09-09",
+      "event": "Born in Bronxville, New York."
+    },
+    {
+      "date": "1968",
+      "event": "Joins Bell Telephone Laboratories."
+    },
+    {
+      "date": "1969",
+      "event": "Begins the Unix work with Ken Thompson."
+    },
+    {
+      "date": "1972",
+      "event": "Creates the C programming language."
+    },
+    {
+      "date": "1983",
+      "event": "Receives the ACM A.M. Turing Award with Ken Thompson."
+    },
+    {
+      "date": "2011-10-12",
+      "event": "Dies in Berkeley Heights, New Jersey."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Computer History Museum: Dennis Ritchie’s lost dissertation",
+      "url": "https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/"
+    },
+    {
+      "title": "Computer History Museum: earliest Unix source release",
+      "url": "https://computerhistory.org/blog/the-earliest-unix-code-an-anniversary-source-code-release/"
+    },
+    {
+      "title": "ACM: Dennis M. Ritchie Award",
+      "url": "https://sigops.hosting.acm.org/awards/dmr/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

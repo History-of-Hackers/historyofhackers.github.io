@@ -1,0 +1,81 @@
+{
+  "id": "paul-asadoorian",
+  "type": "person",
+  "title": "Paul Asadoorian",
+  "slug": "paul-asadoorian",
+  "name": "Paul Asadoorian",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "security podcasting",
+    "firmware security",
+    "penetration testing",
+    "vulnerability management",
+    "security community"
+  ],
+  "summary": "Paul Asadoorian is a security practitioner, educator, author, and podcaster known for founding Security Weekly and for work on penetration testing, firmware security, vulnerability management, and community education.",
+  "whyThisMatters": "Asadoorian helped build a durable public forum for security practitioners through Security Weekly. His combination of technical practice, books, conference presentations, and long-form interviews has connected research to a broad professional audience.",
+  "knownFor": [
+    "Founding Security Weekly",
+    "Co-authoring Ultimate WRT54G Hacking",
+    "Work in penetration testing and vulnerability management",
+    "Security education and conference presentations",
+    "Research and advocacy around firmware and supply-chain security"
+  ],
+  "sections": {
+    "overview": "<p>Paul Asadoorian is a security practitioner and communicator who founded Security Weekly, a podcast network covering information security and hacking. He has held technical roles in universities, consulting, and security-product companies.</p><p>His technical interests include penetration testing, vulnerability management, embedded devices, firmware, and supply-chain security. In 2007 he co-authored <em>WRT54G Ultimate Hacking</em>, a book focused on embedded-device and wireless experimentation.</p><p>Security Weekly gave practitioners a recurring forum for news, technical discussion, and interviews. Its community value is rooted in sustained, accessible conversation rather than a single vulnerability or product.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2005",
+      "event": "Founds Security Weekly."
+    },
+    {
+      "date": "2007",
+      "event": "Co-authors <em>WRT54G Ultimate Hacking</em>."
+    },
+    {
+      "date": "2009-2015",
+      "event": "Works at Tenable and builds material on vulnerability management."
+    },
+    {
+      "date": "2020",
+      "event": "Security Weekly is acquired by CyberRisk Alliance."
+    },
+    {
+      "date": "Present",
+      "event": "Focuses publicly on firmware and supply-chain security and continues security-community work."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Paul Asadoorian: About",
+      "url": "https://securitypodcaster.com/about/"
+    },
+    {
+      "title": "RSA Conference expert biography",
+      "url": "https://www.rsaconference.com/experts/paul-asadoorian"
+    },
+    {
+      "title": "InformIT author biography",
+      "url": "https://www.informit.com/authors/bio/8be0cc84-c2dd-451d-be73-04b9834af641"
+    },
+    {
+      "title": "Tenable profile",
+      "url": "https://fr.tenable.com/profile/paul-asadoorian"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "historyofhackers-editorial"
+  }
+}

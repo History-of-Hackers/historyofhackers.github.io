@@ -1,0 +1,80 @@
+{
+  "id": "kenneth-geers",
+  "type": "person",
+  "title": "Kenneth Geers",
+  "slug": "kenneth-geers",
+  "name": "Kenneth Geers",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cyber policy",
+    "NATO",
+    "threat intelligence",
+    "cyber conflict",
+    "research"
+  ],
+  "summary": "Kenneth Geers is a cybersecurity researcher and policy specialist whose work has addressed cyber conflict, threat intelligence, NATO cyber defence, and the relationship between technical security and international affairs.",
+  "whyThisMatters": "Geers has helped translate technical-security developments into policy and strategic context. His work on cyber conflict, including Ukraine, made questions of attribution, resilience, and international security accessible to both technical and policy audiences.",
+  "knownFor": [
+    "NATO CCD COE ambassador and contributor to cyber-defence discussions",
+    "Researching cyber conflict and threat intelligence",
+    "Editing <em>Ukraine and Cyber War</em>",
+    "Public scholarship on strategic cybersecurity and international affairs"
+  ],
+  "sections": {
+    "overview": "<p>Kenneth Geers is a cybersecurity researcher with a background in international relations, intelligence analysis, and cyber policy. Biographies from NATO-related and academic forums record roles across the U.S. government, NCIS, NATO, private-sector threat research, and university teaching.</p><p>His work considers cyber operations in their political and strategic setting, rather than treating incidents as purely technical events. He was involved in the early development of NATO's Cooperative Cyber Defence Centre of Excellence after the 2007 attacks on Estonia.</p><p>Geers has written and edited work on strategic cybersecurity and cyber conflict, including a volume on Ukraine and cyber war. This record recognizes policy research that helps contextualize technical threats and defensive choices.</p>"
+  },
+  "timeline": [
+    {
+      "date": "Mid-1990s",
+      "event": "Moves from geopolitical analysis into cyber and computer-affairs work."
+    },
+    {
+      "date": "2007",
+      "event": "Works in Estonia during the cyber attacks and helps build the NATO CCD COE."
+    },
+    {
+      "date": "2015",
+      "event": "Edits <em>Ukraine and Cyber War</em>."
+    },
+    {
+      "date": "2016",
+      "event": "Appears as NATO Cyber Centre Ambassador in international cybersecurity programming."
+    },
+    {
+      "date": "Present",
+      "event": "Continues research and public discussion of cyber conflict and defence."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Cybersec Forum speaker biography",
+      "url": "https://2016.cybersecforum.eu/en/speaker/kenneth-geers/"
+    },
+    {
+      "title": "NATO-related CyCon 2018 biography",
+      "url": "https://ccdcoe.org/uploads/2018/10/CyCon_2018_Full_Book.pdf"
+    },
+    {
+      "title": "AFCEA: NATO cyber posture",
+      "url": "https://www.afcea.org/signal-media/cyber-edge/nato-strengthens-its-cyber-stance"
+    },
+    {
+      "title": "Aalto University record for Ukraine and Cyber War",
+      "url": "https://research.aalto.fi/en/publications/northern-european-cyber-security-in-light-of-the-ukraine-war"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "historyofhackers-editorial"
+  }
+}

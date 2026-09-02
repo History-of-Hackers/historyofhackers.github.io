@@ -1,0 +1,78 @@
+{
+  "id": "paul-baran",
+  "type": "person",
+  "title": "Paul Baran",
+  "slug": "paul-baran",
+  "name": "Paul Baran",
+  "born": 1926,
+  "died": 2011,
+  "era": "1950s-2011",
+  "tags": [
+    "networking",
+    "packet-switching",
+    "resilient-systems",
+    "academic-research"
+  ],
+  "summary": "Polish-born American engineer whose RAND work on distributed communications and packet switching helped establish technical foundations for packet networks.",
+  "whyThisMatters": "Baran studied how communications could continue after failures by distributing routes and splitting messages. Those resilience questions remain central to network engineering and security.",
+  "knownFor": [
+    "Distributed communications",
+    "Packet switching",
+    "RAND Corporation"
+  ],
+  "sections": {
+    "overview": "<p>Paul Baran was an engineer and RAND researcher who developed an influential design for distributed digital communications. His RAND reports explored networks that could retain connectivity even when individual nodes or links failed.</p><h2>Packet switching and resilience</h2><p>Baran’s work described breaking communications into small blocks and routing them through distributed networks. His ideas were one of several independent lines of research that informed later packet-network work; they should not be reduced to a single-person origin story for ARPANET or the Internet.</p><h2>In memoriam</h2><p>Baran died in 2011. His work remains a durable reference for engineers designing networks to withstand disruption and failure.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1926-04-29",
+      "event": "Born in Grodno, Poland."
+    },
+    {
+      "date": "1959",
+      "event": "Joins RAND Corporation."
+    },
+    {
+      "date": "1961-1964",
+      "event": "Develops and publishes RAND work on distributed communications."
+    },
+    {
+      "date": "1968",
+      "event": "Co-founds the Institute for the Future."
+    },
+    {
+      "date": "2007",
+      "event": "Receives the U.S. National Medal of Technology."
+    },
+    {
+      "date": "2011-03-26",
+      "event": "Dies in Palo Alto, California."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Computer History Museum: Paul Baran",
+      "url": "https://computerhistory.org/profile/paul-baran/"
+    },
+    {
+      "title": "Computer History Museum: Internet history, 1960s",
+      "url": "https://www.computerhistory.org/internethistory/1960s/"
+    },
+    {
+      "title": "RAND: Improving Army Basic Research",
+      "url": "https://www.rand.org/content/dam/rand/pubs/monographs/2012/RAND_MG1176.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

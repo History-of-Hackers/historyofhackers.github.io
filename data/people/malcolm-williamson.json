@@ -1,0 +1,78 @@
+{
+  "id": "malcolm-williamson",
+  "type": "person",
+  "title": "Malcolm Williamson",
+  "slug": "malcolm-williamson",
+  "name": "Malcolm Williamson",
+  "born": 1950,
+  "died": 2015,
+  "era": "1970s-2015",
+  "tags": [
+    "cryptography",
+    "key-exchange",
+    "public-key-cryptography",
+    "gchq"
+  ],
+  "summary": "British mathematician and GCHQ cryptographer who developed an early key-agreement method in classified work during the 1970s.",
+  "whyThisMatters": "Williamson’s work belongs in the history of public-key cryptography because it anticipated the central key-agreement idea independently, while remaining unavailable to the public field until GCHQ’s later disclosure.",
+  "knownFor": [
+    "Early key-agreement method",
+    "Public-key cryptography at GCHQ",
+    "Cryptologic Hall of Honor"
+  ],
+  "sections": {
+    "overview": "<p>Malcolm John Williamson was a British mathematician and cryptographer. At GCHQ in the 1970s, he worked with the conceptual framework introduced by James Ellis and developed an early key-agreement method.</p><h2>A concealed parallel history</h2><p>GCHQ and the NSA describe Williamson’s work alongside that of Ellis and Clifford Cocks as an early discovery of public-key cryptography. The history requires care: classified work did not circulate in the open community and did not displace the independent public work of Diffie, Hellman, Merkle, Rivest, Shamir, and Adleman.</p><h2>In memoriam</h2><p>Williamson died in 2015. His contribution was later formally recognised with his colleagues in the Cryptologic Hall of Honor.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1950-11-02",
+      "event": "Born in Stockport, England."
+    },
+    {
+      "date": "1970s",
+      "event": "Works at GCHQ on early public-key cryptography."
+    },
+    {
+      "date": "1974",
+      "event": "Develops an early key-agreement method, according to the NSA historical account."
+    },
+    {
+      "date": "1997",
+      "event": "GCHQ publicly discloses the earlier work."
+    },
+    {
+      "date": "2015-09-15",
+      "event": "Dies in San Diego, California."
+    },
+    {
+      "date": "2021",
+      "event": "Inducted posthumously into the NSA Cryptologic Hall of Honor."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA: Cocks, Ellis, and Williamson",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/Historical-Figures-View/Article/3006218/clifford-cocks-james-ellis-and-malcolm-williamson/"
+    },
+    {
+      "title": "GCHQ: people from our past",
+      "url": "https://www.gchq.gov.uk/section/history/people-from-our-past"
+    },
+    {
+      "title": "GCHQ: quantum technologies speech",
+      "url": "https://www.gchq.gov.uk/speech/quantum-technologies-speech"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

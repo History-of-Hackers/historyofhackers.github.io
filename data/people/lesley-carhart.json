@@ -1,0 +1,76 @@
+{
+  "id": "lesley-carhart",
+  "type": "person",
+  "title": "Lesley Carhart",
+  "slug": "lesley-carhart",
+  "name": "Lesley Carhart",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "industrial control systems",
+    "incident response",
+    "digital forensics",
+    "threat hunting",
+    "community"
+  ],
+  "summary": "Lesley Carhart is an industrial-cybersecurity incident-response leader known for investigations, digital forensics, threat hunting, education, and community work around operational technology.",
+  "whyThisMatters": "Carhart brings incident-response experience into environments where safety and continuity matter as much as data confidentiality. Their writing, teaching, and career mentoring have also made the operational-security community more approachable.",
+  "knownFor": [
+    "Leading incident response and threat hunting for industrial environments",
+    "Prior incident-response leadership at Motorola Solutions",
+    "Developing incident-response and threat-hunting curriculum",
+    "Organizing career clinics and participating in security-community events"
+  ],
+  "sections": {
+    "overview": "<p>Lesley Carhart is an incident-response and digital-forensics practitioner focused on industrial control system and operational-technology environments. Dragos identifies Carhart as a Technical Director of Incident Response, leading investigations and proactive threat hunting in industrial networks.</p><p>Before Dragos, Carhart led incident response at Motorola Solutions. Their work covers commodity, targeted, and insider-threat investigations, a scope that demonstrates the operational complexity of responding to incidents in industrial settings.</p><p>Carhart also teaches, writes, and organizes career-oriented activities at conferences. This combination of technical response work and community support has made them a significant voice in industrial cybersecurity.</p>"
+  },
+  "timeline": [
+    {
+      "date": "Before 2019",
+      "event": "Leads an incident-response team at Motorola Solutions."
+    },
+    {
+      "date": "2019",
+      "event": "Joins Dragos as a principal incident responder."
+    },
+    {
+      "date": "2020s",
+      "event": "Leads incident response and proactive threat hunting in customers' ICS environments."
+    },
+    {
+      "date": "Present",
+      "event": "Develops training and participates in cybersecurity conference and career-support activities."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Dragos biography",
+      "url": "https://www.dragos.com/lesley-carhart"
+    },
+    {
+      "title": "Control Engineering: ICS Pulse interview",
+      "url": "https://www.controleng.com/tales-from-incident-response-ics-pulse-podcast-lesley-carhart-dragos/"
+    },
+    {
+      "title": "Cyber Daily interview",
+      "url": "https://www.cyberdaily.au/culture/10713-interview-dragos-lesley-carhart-on-industry-gatekeeping-and-the-importance-of-diversity-in-cyber-security"
+    },
+    {
+      "title": "Dragos blog author archive",
+      "url": "https://www.dragos.com/blog/author/lesley-carhart/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "historyofhackers-editorial"
+  }
+}

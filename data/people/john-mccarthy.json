@@ -1,0 +1,79 @@
+{
+  "id": "john-mccarthy",
+  "type": "person",
+  "title": "John McCarthy",
+  "slug": "john-mccarthy",
+  "name": "John McCarthy",
+  "born": 1927,
+  "died": 2011,
+  "era": "1950s-2011",
+  "tags": [
+    "artificial-intelligence",
+    "lisp",
+    "timesharing",
+    "academic-research"
+  ],
+  "summary": "American computer scientist who coined the term artificial intelligence, created Lisp, and advanced time-sharing and interactive-computing research.",
+  "whyThisMatters": "McCarthy’s work helped make computers interactive, programmable environments rather than isolated batch calculators. Those environments were central to the hacker cultures that formed around MIT and Stanford laboratories.",
+  "knownFor": [
+    "Term “artificial intelligence”",
+    "Lisp",
+    "Time-sharing",
+    "Stanford AI Laboratory"
+  ],
+  "sections": {
+    "overview": "<p>John McCarthy was an American computer scientist whose work spanned artificial intelligence, programming languages, and interactive systems. He coined the term “artificial intelligence” in a 1955 Dartmouth proposal and developed Lisp at MIT.</p><h2>Interactive computing culture</h2><p>McCarthy advocated time-sharing, allowing many people to interact with a costly computer as though each had direct access. He later founded the Stanford Artificial Intelligence Laboratory, a key environment for experimental programming and early network culture.</p><h2>In memoriam</h2><p>McCarthy died in 2011. His insistence on expressive programming systems and shared interactive computing remains visible in modern research and hacker practice.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1927-09-04",
+      "event": "Born in Boston, Massachusetts."
+    },
+    {
+      "date": "1955",
+      "event": "Coins the term artificial intelligence in a Dartmouth workshop proposal."
+    },
+    {
+      "date": "1958",
+      "event": "Develops Lisp at MIT."
+    },
+    {
+      "date": "1965",
+      "event": "Becomes founding director of the Stanford Artificial Intelligence Laboratory."
+    },
+    {
+      "date": "1971",
+      "event": "Receives the ACM A.M. Turing Award."
+    },
+    {
+      "date": "2011-10-24",
+      "event": "Dies in Stanford, California."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Computer History Museum: John McCarthy",
+      "url": "https://computerhistory.org/profile/john-mccarthy/?alias=bio&person=john-mccarthy"
+    },
+    {
+      "title": "Computer History Museum: PDP-1 project profile",
+      "url": "https://www.computerhistory.org/pdp-1/john-mccarthy/"
+    },
+    {
+      "title": "Computer History Museum oral history",
+      "url": "https://archive.computerhistory.org/resources/access/text/2012/10/102658149-05-01-acc.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

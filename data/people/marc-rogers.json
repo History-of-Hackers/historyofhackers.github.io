@@ -1,0 +1,80 @@
+{
+  "id": "marc-rogers",
+  "type": "person",
+  "title": "Marc Rogers",
+  "slug": "marc-rogers",
+  "name": "Marc Rogers",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "DEF CON",
+    "automotive security",
+    "vulnerability research",
+    "security leadership",
+    "technical communities"
+  ],
+  "summary": "Marc Rogers is a British security researcher and community organizer known for vulnerability research on connected technologies and for long-running leadership roles at DEF CON.",
+  "whyThisMatters": "Rogers links hands-on technical research with conference stewardship. His public work on connected devices and vehicles helped communicate that digital security has physical-world consequences.",
+  "knownFor": [
+    "Serving as DEF CON's Head of Security and an organizer",
+    "Researching vulnerabilities in connected devices, including Tesla systems",
+    "Publicly presenting security research at major conferences",
+    "Security leadership roles in technology companies"
+  ],
+  "sections": {
+    "overview": "<p>Marc Rogers is a British information-security researcher whose career combines technical testing, security leadership, and hacker-community organizing. He has been associated with DEF CON for many years and has served as its Head of Security.</p><p>Rogers has publicly discussed research on connected technologies, including Tesla systems, Google Glass, and biometric platforms. Work of this kind helps illustrate that vulnerabilities in consumer and vehicle systems can have consequences beyond a conventional desktop computer.</p><p>Alongside research, he has held security roles in technology companies and spoken at conferences. His record reflects how community events can connect independent research with wider public discussion of risk.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1980s",
+      "event": "Begins participating in the hacker community, according to interviews."
+    },
+    {
+      "date": "1990s-2000s",
+      "event": "Moves into professional information-security and ethical-hacking work."
+    },
+    {
+      "date": "2015",
+      "event": "Public reporting describes a Tesla Model S security demonstration associated with Rogers' team."
+    },
+    {
+      "date": "2019",
+      "event": "Infosecurity Magazine profiles him as an Okta security leader and DEF CON organizer."
+    },
+    {
+      "date": "Present",
+      "event": "Continues work in security leadership and technical-community roles."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Infosecurity Magazine interview",
+      "url": "https://www.infosecurity-magazine.com/interviews/interview-marc-rogers/"
+    },
+    {
+      "title": "HITB keynote biography",
+      "url": "https://gsec.hitb.org/materials/sg2019/D2-KEYNOTE-Never-Gonna-Give-You-Up-Never-Gonna-Let-You-Down-Marc-Rogers.pdf"
+    },
+    {
+      "title": "Axios: connected-car security context",
+      "url": "https://www.axios.com/2017/12/15/driverless-car-makers-hire-hackers-for-protection-1513302880"
+    },
+    {
+      "title": "Lifehacker interview",
+      "url": "https://www.lifehacker.jp/article/34886/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "historyofhackers-editorial"
+  }
+}

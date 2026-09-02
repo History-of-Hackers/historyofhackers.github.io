@@ -1,0 +1,80 @@
+{
+  "id": "aleksandr-matrosov",
+  "type": "person",
+  "title": "Aleksandr Matrosov",
+  "slug": "aleksandr-matrosov",
+  "name": "Aleksandr Matrosov",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "malware analysis",
+    "reverse engineering",
+    "bootkits",
+    "firmware security",
+    "threat research"
+  ],
+  "summary": "Aleksandr Matrosov is a malware and threat researcher whose published work has covered reverse engineering, bootkits, advanced threats, exploitation, and firmware or hardware security.",
+  "whyThisMatters": "Matrosov's research documents technically difficult malware and bootkit ecosystems that defenders need to understand. His conference work and reports connect low-level analysis to practical threat intelligence.",
+  "knownFor": [
+    "Researching malware, rootkits, bootkits, and advanced threats",
+    "Co-authoring research including Stuxnet Under the Microscope and work on TDL",
+    "Presenting at REcon, Virus Bulletin, AVAR, CARO, and Black Hat",
+    "Research on firmware and hardware attack surfaces"
+  ],
+  "sections": {
+    "overview": "<p>Aleksandr Matrosov is a security researcher specializing in malware analysis, reverse engineering, and advanced exploitation techniques. ESET and Black Hat biographies document research roles spanning ESET, Intel Security, and later work on firmware and hardware topics.</p><p>His work examines malicious code that operates below or around conventional application layers, including bootkits and rootkits. Such analysis helps defenders recognize persistence and evasion techniques that can otherwise be difficult to observe.</p><p>Matrosov has co-authored technical research on threats including Stuxnet, TDL, Festi, and bootkit families, and has presented at international security conferences. The record here focuses on his documented research and conference contributions.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2003",
+      "event": "Begins work as a security researcher, according to his ESET biography."
+    },
+    {
+      "date": "2009-10",
+      "event": "Joins ESET as a malware researcher."
+    },
+    {
+      "date": "2012",
+      "event": "Co-authors research on the Festi botnet and anti-forensic techniques."
+    },
+    {
+      "date": "2015",
+      "event": "Black Hat biography lists him in Intel Security's Advanced Threat Research team."
+    },
+    {
+      "date": "2019",
+      "event": "Presents research on modern Secure Boot attacks at Black Hat Asia."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "ESET expert profile",
+      "url": "https://www.welivesecurity.com/en/our-experts/aleksandr-matrosov/"
+    },
+    {
+      "title": "Black Hat USA 2015 biography",
+      "url": "https://blackhat.com/us-15/speakers/Alexander-Matrosov.html"
+    },
+    {
+      "title": "ESET/AVAR Festi botnet analysis",
+      "url": "https://www.eset.com/fileadmin/eset/US/resources/docs/white-papers/white-papers-avar-2012-festi-botnet-analysis-investigation.pdf"
+    },
+    {
+      "title": "Black Hat Asia Secure Boot presentation",
+      "url": "https://i.blackhat.com/asia-19/Fri-March-29/bh-asia-Matrosov-Modern-Secure-Boot-Attacks.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "historyofhackers-editorial"
+  }
+}

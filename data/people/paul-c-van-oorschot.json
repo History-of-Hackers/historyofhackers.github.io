@@ -1,0 +1,76 @@
+{
+  "id": "paul-c-van-oorschot",
+  "type": "person",
+  "title": "Paul C. van Oorschot",
+  "slug": "paul-c-van-oorschot",
+  "name": "Paul C. van Oorschot",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "authentication",
+    "computer security",
+    "academic research",
+    "security engineering"
+  ],
+  "summary": "Paul C. van Oorschot is a Canadian cryptographer and computer-security researcher known for academic work on authentication and usable security and for co-authoring the Handbook of Applied Cryptography.",
+  "whyThisMatters": "van Oorschot's research connects mathematical cryptography with the practical authentication systems people use. His scholarship and teaching have helped shape how computer-security professionals reason about protocols, passwords, and human factors.",
+  "knownFor": [
+    "Co-authoring Handbook of Applied Cryptography",
+    "Research on authentication and computer security",
+    "Holding a Canada Research Chair in authentication and computer security",
+    "Teaching and publishing in cryptography, usable security, and security engineering"
+  ],
+  "sections": {
+    "overview": "<p>Paul C. van Oorschot is a professor and cryptographer whose work spans authentication, computer security, usable security, and applied cryptography. He has been affiliated with Carleton University and held a Canada Research Chair in authentication and computer security.</p><p>He is co-author, with Alfred Menezes and Scott Vanstone, of <em>Handbook of Applied Cryptography</em>, a widely used reference that brings together foundations and applications of cryptography. The book's role is educational and technical, not a claim that security can be reduced to cryptography alone.</p><p>His later research has emphasized the systems and human aspects of authentication. That breadth is significant: secure protocols must be implemented, deployed, and used correctly to provide real protection.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1996",
+      "event": "Co-authors <em>Handbook of Applied Cryptography</em>."
+    },
+    {
+      "date": "2002",
+      "event": "Begins a Canada Research Chair term in authentication and computer security."
+    },
+    {
+      "date": "2000s-2020s",
+      "event": "Publishes and teaches on authentication, usable security, and applied cryptography at Carleton University."
+    },
+    {
+      "date": "2023",
+      "event": "Concludes the Canada Research Chair term recorded by Carleton University."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Carleton University faculty profile",
+      "url": "https://people.scs.carleton.ca/~paulv/"
+    },
+    {
+      "title": "Carleton University research profile",
+      "url": "https://carleton.ca/scs/people/paul-van-oorschot/"
+    },
+    {
+      "title": "Handbook of Applied Cryptography",
+      "url": "https://cacr.uwaterloo.ca/hac/"
+    },
+    {
+      "title": "Carleton University Canada Research Chair record",
+      "url": "https://carleton.ca/research/2023/paul-van-oorschot/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "historyofhackers-editorial"
+  }
+}

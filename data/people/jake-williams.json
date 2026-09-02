@@ -1,0 +1,76 @@
+{
+  "id": "jake-williams",
+  "type": "person",
+  "title": "Jake Williams",
+  "slug": "jake-williams",
+  "name": "Jake Williams",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "incident response",
+    "digital forensics",
+    "malware reverse engineering",
+    "penetration testing",
+    "security education"
+  ],
+  "summary": "Jake Williams is an incident-response, digital-forensics, malware-analysis, and penetration-testing practitioner known for teaching and course-authoring work in the SANS community.",
+  "whyThisMatters": "Williams connects incident response and forensic practice with education. His training and public explanations help operational teams turn technical findings into repeatable investigation and defensive practices.",
+  "knownFor": [
+    "Founding Rendition InfoSec",
+    "Teaching and authoring SANS forensic and malware-analysis courses",
+    "Work in incident response, digital forensics, and malware reverse engineering",
+    "Presenting at security conferences and contributing to practitioner training"
+  ],
+  "sections": {
+    "overview": "<p>Jake Williams is a security practitioner whose work spans incident response, digital forensics, malware reverse engineering, and penetration testing. He founded Rendition InfoSec and has taught and authored courses for the SANS Institute.</p><p>SANS biographies identify Williams as a co-author of FOR610 on malware reverse engineering and FOR526 on memory forensics, as well as a contributor to exploit-development training. Those areas are central to handling suspected intrusions: understanding hostile code, collecting evidence, and assessing impact.</p><p>His public role has also included conference presentations and practitioner education. This entry describes defensive and investigative work; it does not treat testing methods as authorization to access systems without permission.</p>"
+  },
+  "timeline": [
+    {
+      "date": "c. 2000s",
+      "event": "Works in security roles supporting government and other organizations before founding Rendition InfoSec."
+    },
+    {
+      "date": "2010s",
+      "event": "Serves as a SANS instructor and course author in malware analysis and digital forensics."
+    },
+    {
+      "date": "2016",
+      "event": "SANS event biography documents Rendition InfoSec leadership and work across response, forensics, and reverse engineering."
+    },
+    {
+      "date": "Present",
+      "event": "Continues advisory, training, and incident-response work."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "SANS event biography",
+      "url": "https://www.sans.org/event-downloads/43852/agenda.pdf"
+    },
+    {
+      "title": "SANS DFIR Blog: Williams on malware analysis",
+      "url": "https://www.sans.org/blog/jake-williams-tips-on-malware-analysis-and-reverse-engineering-part-2"
+    },
+    {
+      "title": "IANS Faculty profile",
+      "url": "https://www.iansresearch.com/home/jake-williams"
+    },
+    {
+      "title": "SANS paper author biography",
+      "url": "https://symantec-enterprise-blogs.security.com/sites/default/files/2021-05/White%20Paper%20%28SANS%29%20-%20Packets%20or%20it%20didn%E2%80%99t%20happen.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 4,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "historyofhackers-editorial"
+  }
+}

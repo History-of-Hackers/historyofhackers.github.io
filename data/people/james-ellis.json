@@ -1,0 +1,78 @@
+{
+  "id": "james-ellis",
+  "type": "person",
+  "title": "James Ellis",
+  "slug": "james-ellis",
+  "name": "James Ellis",
+  "born": 1924,
+  "died": 1997,
+  "era": "1950s-1997",
+  "tags": [
+    "cryptography",
+    "public-key-cryptography",
+    "gchq",
+    "academic-research"
+  ],
+  "summary": "GCHQ mathematician who conceived the possibility of public-key cryptography, then called non-secret encryption, before the idea was publicly disclosed.",
+  "whyThisMatters": "Ellis framed the possibility of communicating securely without a pre-shared secret. That conceptual move made later public-key constructions possible, although the classified work did not enter the public scientific record until decades later.",
+  "knownFor": [
+    "Non-secret encryption",
+    "Public-key cryptography at GCHQ",
+    "Cryptologic Hall of Honor"
+  ],
+  "sections": {
+    "overview": "<p>James Henry Ellis was a GCHQ mathematician who joined the organisation in 1952. He conceived the possibility of “non-secret encryption,” the idea now called public-key cryptography.</p><h2>Classified pioneering work</h2><p>Ellis’s proposal set a challenge for colleagues Clifford Cocks and Malcolm Williamson, whose work produced early asymmetric-encryption and key-agreement ideas. Because the work remained classified, it did not influence the independent public discoveries of the 1970s.</p><h2>In memoriam</h2><p>Ellis died in 1997, shortly before GCHQ publicly disclosed this history. His contribution is now recognised as a foundational chapter in modern cryptography.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1924-09-25",
+      "event": "Born in Australia."
+    },
+    {
+      "date": "1952",
+      "event": "Joins GCHQ."
+    },
+    {
+      "date": "1970",
+      "event": "Proposes the possibility of public-key cryptography, according to the NSA historical account."
+    },
+    {
+      "date": "1973",
+      "event": "GCHQ work develops early public-key systems."
+    },
+    {
+      "date": "1997-11-25",
+      "event": "Dies before the public disclosure of the GCHQ achievement."
+    },
+    {
+      "date": "2021",
+      "event": "Inducted posthumously into the NSA Cryptologic Hall of Honor with Cocks and Williamson."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "GCHQ: James Ellis",
+      "url": "https://www.gchq.gov.uk/person/james-ellis"
+    },
+    {
+      "title": "NSA: Clifford Cocks, James Ellis, and Malcolm Williamson",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/Historical-Figures-View/Article/3006218/clifford-cocks-james-ellis-and-malcolm-williamson/"
+    },
+    {
+      "title": "GCHQ: tribute to Alan Turing",
+      "url": "https://www.gchq.gov.uk/speech/director-gchq-makes-speech-in-tribute-to-alan-turing"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

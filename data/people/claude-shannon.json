@@ -1,0 +1,74 @@
+{
+  "id": "claude-shannon",
+  "type": "person",
+  "title": "Claude Shannon",
+  "slug": "claude-shannon",
+  "name": "Claude Shannon",
+  "born": 1916,
+  "died": 2001,
+  "era": "1930s-2001",
+  "tags": [
+    "information-theory",
+    "cryptography",
+    "digital-logic",
+    "academic-research"
+  ],
+  "summary": "American mathematician and engineer whose work on digital logic and information theory established core concepts used in computing and secure communications.",
+  "whyThisMatters": "Shannon supplied the language for reasoning about information, noise, secrecy, and digital circuits. His work is foundational to both the systems security seeks to protect and the cryptography used to protect them.",
+  "knownFor": [
+    "Boolean logic in switching circuits",
+    "Information theory",
+    "Communication Theory of Secrecy Systems"
+  ],
+  "sections": {
+    "overview": "<p>Claude Elwood Shannon was an American mathematician and engineer. His 1937 MIT master’s thesis showed how Boolean algebra could describe relay and switching circuits, a decisive bridge between symbolic logic and digital circuit design.</p><h2>Information and secrecy</h2><p>Shannon’s 1948 paper <em>A Mathematical Theory of Communication</em> founded information theory, defining a rigorous way to measure information and reason about noise in communication channels. His 1949 work on secrecy systems put cryptography on an information-theoretic footing.</p><h2>In memoriam</h2><p>Shannon died in 2001. His intellectual generosity and unusually broad technical curiosity remain a model for generations of engineers and researchers.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1916-04-30",
+      "event": "Born in Gaylord, Michigan."
+    },
+    {
+      "date": "1937",
+      "event": "Publishes his MIT master’s thesis on symbolic analysis of relay and switching circuits."
+    },
+    {
+      "date": "1948",
+      "event": "Publishes A Mathematical Theory of Communication."
+    },
+    {
+      "date": "1949",
+      "event": "Publishes Communication Theory of Secrecy Systems."
+    },
+    {
+      "date": "2001-02-24",
+      "event": "Dies in Massachusetts."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Computer History Museum: Claude Shannon and digital logic",
+      "url": "https://www.computerhistory.org/revolution/digital-logic/12/269"
+    },
+    {
+      "title": "Computer History Museum: A Mathematical Theory of Communication",
+      "url": "https://www.computerhistory.org/revolution/artifact/269/1331"
+    },
+    {
+      "title": "MIT News: Claude Shannon dies at 84",
+      "url": "https://news.mit.edu/2001/shannon-0124"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

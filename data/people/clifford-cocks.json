@@ -1,0 +1,78 @@
+{
+  "id": "clifford-cocks",
+  "type": "person",
+  "title": "Clifford Cocks",
+  "slug": "clifford-cocks",
+  "name": "Clifford Cocks",
+  "born": 1950,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "cryptography",
+    "public-key-cryptography",
+    "rsa",
+    "gchq"
+  ],
+  "summary": "British mathematician whose classified GCHQ work in 1973 developed a practical public-key encryption method later recognised as closely related to RSA.",
+  "whyThisMatters": "Cocks’s work illustrates an essential distinction in security history: a result can be independently discovered under classification without shaping the public research community until it is disclosed.",
+  "knownFor": [
+    "Early public-key encryption at GCHQ",
+    "RSA-related construction",
+    "Identity-based encryption"
+  ],
+  "sections": {
+    "overview": "<p>Clifford Cocks is a British mathematician and cryptographer. After research in number theory at Oxford, he joined the UK government cryptographic service in 1973.</p><h2>Public-key work under classification</h2><p>Responding to the challenge posed by James Ellis’s non-secret-encryption idea, Cocks developed a practical public-key encryption method in 1973. The work remained classified and was disclosed only in 1997; it therefore did not influence RSA’s independent public development.</p><h2>Later recognition</h2><p>The Royal Society credits Cocks with a 1973 practical public-key method and a 1998 identity-based-encryption discovery. He is included here for that carefully documented technical history rather than for a claim of sole priority.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1950-12-28",
+      "event": "Born in Prestbury, Cheshire."
+    },
+    {
+      "date": "1972",
+      "event": "Graduates from King’s College, Cambridge, and researches number theory at Oxford."
+    },
+    {
+      "date": "1973",
+      "event": "Joins the UK government cryptographic service and develops a practical public-key method."
+    },
+    {
+      "date": "1997",
+      "event": "GCHQ publicly discloses the earlier work."
+    },
+    {
+      "date": "1998",
+      "event": "Develops an identity-based-encryption construction."
+    },
+    {
+      "date": "2015",
+      "event": "Elected Fellow of the Royal Society."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Royal Society: Clifford Cocks",
+      "url": "https://royalsociety.org/people/Clifford-Cocks-11242"
+    },
+    {
+      "title": "NSA: Cocks, Ellis, and Williamson",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/Historical-Figures-View/Article/3006218/clifford-cocks-james-ellis-and-malcolm-williamson/"
+    },
+    {
+      "title": "GCHQ: quantum technologies speech",
+      "url": "https://www.gchq.gov.uk/speech/quantum-technologies-speech"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}
