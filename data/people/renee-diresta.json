@@ -1,0 +1,138 @@
+{
+  "id": "renee-diresta",
+  "type": "person",
+  "title": "Renee DiResta",
+  "slug": "renee-diresta",
+  "name": "Renee DiResta",
+  "born": null,
+  "died": null,
+  "era": "2010s-Present",
+  "tags": [
+    "disinformation",
+    "influence operations",
+    "platform manipulation",
+    "Stanford Internet Observatory",
+    "information warfare",
+    "election integrity",
+    "propaganda",
+    "social media research"
+  ],
+  "summary": "Renee DiResta is an American researcher and writer on online manipulation, propaganda, and state-sponsored influence operations, best known as lead author of a Senate Intelligence Committee report on Russia's Internet Research Agency and as technical research manager at the Stanford Internet Observatory. She is the author of Invisible Rulers (2024) and an associate research professor at Georgetown University's McCourt School of Public Policy.",
+  "whyThisMatters": "DiResta helped turn the study of coordinated online manipulation into a documented research discipline with a policy audience, producing one of the most cited primary analyses of the Russian Internet Research Agency's 2016 campaign. Her research on vaccine and election narratives demonstrated how a very small number of highly active accounts can dominate the visibility of a topic. The political and legal campaign that ended the Stanford Internet Observatory's election work, and her contract with it, became a widely cited example of the pressures facing researchers who study platform abuse.",
+  "knownFor": [
+    "Lead author of the Senate Intelligence Committee report The Tactics & Tropes of the Internet Research Agency",
+    "Technical research manager at the Stanford Internet Observatory",
+    "Co-leading the Election Integrity Partnership and the Virality Project",
+    "Research showing a tiny fraction of accounts produced most anti-vaccine content on Twitter",
+    "Author of Invisible Rulers: The People Who Turn Lies into Reality (2024)"
+  ],
+  "sections": {
+    "overview": "<h2>Background</h2>\n<p>Renee DiResta (born 1981) is an American researcher and writer who studies online manipulation, propaganda, and influence operations. She attended Stony Brook University, receiving a Bachelor of Science in computer science and political science in 2004. She has said that as an undergraduate she interned for the Central Intelligence Agency, and that her association with the agency ended in 2004. Before turning to disinformation research full time she worked in technology and venture investing, and in 2015 co-authored <em>The Hardware Startup: Building Your Product, Business, and Brand</em> with Brady Forrest and Ryan Vinyard, published by O'Reilly Media.</p>\n\n<h2>Vaccine Misinformation Research</h2>\n<p>DiResta's entry into the study of online manipulation came through public health. Following a measles outbreak traced to Disneyland, she began examining how anti-vaccination content spread on social platforms. Working with data scientist Gilad Lotan, she found that on Twitter roughly 25 percent of anti-vaccine content originated from about 0.6 percent of accounts, a concentration she compared to automation. The research also identified coordinated accounts created to shape the appearance of public opinion on specific policies. In 2015 she co-founded Vaccinate California, and the findings were used by that group and by state legislators during the debate over California Senate Bill 277, which removed personal-belief exemptions from school vaccination requirements.</p>\n\n<h2>Russian Influence Operations and the Senate Report</h2>\n<p>DiResta became widely known for her work analyzing state-sponsored information warfare. As director of research at the technology firm New Knowledge, she submitted a statement for the record to the United States Senate Select Committee on Intelligence in August 2018. She then served as lead author of <em>The Tactics &amp; Tropes of the Internet Research Agency</em>, a report prepared for the committee with co-authors including Kris Shaffer, Becky Ruppel, David Sullivan, Robert Matney, Ryan Fox, Jonathan Albright, and Ben Johnson. Drawing on data sets provided to the committee by Facebook, Twitter, and Alphabet, the report documented a multi-year, coordinated disinformation campaign run by the Russian state-supported Internet Research Agency against American audiences between 2014 and 2017, describing how fabricated personas and community pages were used to deepen existing political divisions. The report and its companion study became reference points for subsequent policy debate about platform accountability.</p>\n\n<h2>Stanford Internet Observatory</h2>\n<p>DiResta joined the Stanford Internet Observatory, founded in 2019 by former Facebook chief security officer Alex Stamos, and spent roughly five years there as technical research manager. In that role she helped lead two of the observatory's largest projects. The Election Integrity Partnership, established in 2020 as a coalition of the Stanford Internet Observatory, the University of Washington's Center for an Informed Public, and other partners, tracked claims aimed at suppressing voting, confusing voters, or delegitimizing results during the 2020 and 2022 United States election cycles. The Virality Project analyzed narratives about COVID-19 vaccines, publishing the 2021 report <em>Memes, Magnets and Microchips: Narrative dynamics around COVID-19 vaccines</em>. She also wrote extensively for general audiences, contributing to <em>Wired</em>, <em>The Atlantic</em>, <em>Foreign Affairs</em>, and <em>The New York Times</em>, and appeared in the 2020 documentary-drama <em>The Social Dilemma</em>.</p>\n\n<h2>Political Pressure and the End of the Observatory</h2>\n<p>Beginning around 2022, the Election Integrity Partnership and its researchers became the target of congressional document requests, subpoenas, and lawsuits brought by conservative politicians and advocacy organizations, alongside sustained online harassment. Critics characterized the partnership's flagging of election-related posts to platforms as government-adjacent censorship; DiResta and her colleagues maintained that the work was independent academic research and that platforms made their own moderation decisions. In June 2024 the Supreme Court decided <em>Murthy v. Missouri</em>, a related case about government contacts with platforms, in a way researchers described as vindicating. The same month DiResta's contract at Stanford was not renewed and the observatory shed staff; its election-integrity work wound down, and reporting attributed the outcome to a combination of exhausted founding grants and the cost of defending against legal and political attacks. DiResta described the episode in a June 2024 guest essay for <em>The New York Times</em> as a warning about the chilling of research ahead of the 2024 election.</p>\n\n<h2>Invisible Rulers and Later Work</h2>\n<p>DiResta's second book, <em>Invisible Rulers: The People Who Turn Lies into Reality</em>, was published by PublicAffairs on June 11, 2024. It argues that online influence has shifted from institutions to a networked class of influencers, algorithms, and dedicated online crowds, and proposes changes to the information environment: ranking systems tuned to values other than raw engagement, greater user control over feeds, added friction to slow viral spread, and renewed investment in propaganda literacy education modeled in part on the Institute for Propaganda Analysis of 1937 to 1942. The book was reviewed in <em>Nature</em> and other outlets. On October 8, 2024, Georgetown University announced her appointment as associate research professor at the McCourt School of Public Policy, where she works with the Tech and Public Policy program and the Massive Data Institute.</p>\n\n<h2>Significance</h2>\n<p>DiResta is among the researchers who helped move the study of online influence operations from an ad hoc activity into a documented research field with a public policy audience. Her Senate report on the Internet Research Agency is one of the most cited primary analyses of the 2016 Russian campaign, and her work on vaccine and election narratives established methods for measuring how small, highly active groups can dominate a topic's visibility. The dismantling of the Stanford Internet Observatory's election work also made her a case study in the political and legal vulnerability of researchers who study platform manipulation, a dynamic frequently cited in later debates over academic access to platform data.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1981",
+      "event": "Born in the United States."
+    },
+    {
+      "date": "2004",
+      "event": "Receives a Bachelor of Science in computer science and political science from Stony Brook University."
+    },
+    {
+      "date": "2015-05-20",
+      "event": "The Hardware Startup: Building Your Product, Business, and Brand, co-authored with Brady Forrest and Ryan Vinyard, is published by O'Reilly Media."
+    },
+    {
+      "date": "2015",
+      "event": "Co-founds Vaccinate California; her research with Gilad Lotan on concentrated anti-vaccine activity is used in the debate over California Senate Bill 277."
+    },
+    {
+      "date": "2018-08",
+      "event": "Submits a statement for the record to the U.S. Senate Select Committee on Intelligence as director of research at New Knowledge."
+    },
+    {
+      "date": "2018-12",
+      "event": "Reports prepared for the Senate Select Committee on Intelligence on the Internet Research Agency's social media operations are made public; DiResta writes a New York Times opinion piece on the findings."
+    },
+    {
+      "date": "2019",
+      "event": "Joins the Stanford Internet Observatory, founded that year by Alex Stamos, eventually as technical research manager."
+    },
+    {
+      "date": "2019-10",
+      "event": "The Tactics & Tropes of the Internet Research Agency is posted in the U.S. Senate Documents collection."
+    },
+    {
+      "date": "2020",
+      "event": "The Election Integrity Partnership is established by the Stanford Internet Observatory, the University of Washington Center for an Informed Public, and partners to study election-related manipulation."
+    },
+    {
+      "date": "2020",
+      "event": "Appears in the documentary-drama The Social Dilemma."
+    },
+    {
+      "date": "2021",
+      "event": "The Virality Project publishes Memes, Magnets and Microchips: Narrative dynamics around COVID-19 vaccines."
+    },
+    {
+      "date": "2024-06-11",
+      "event": "Invisible Rulers: The People Who Turn Lies into Reality is published by PublicAffairs."
+    },
+    {
+      "date": "2024-06",
+      "event": "Her contract at the Stanford Internet Observatory is not renewed amid staff cuts and sustained legal and political pressure on the program."
+    },
+    {
+      "date": "2024-10-08",
+      "event": "Georgetown University announces her appointment as associate research professor at the McCourt School of Public Policy."
+    }
+  ],
+  "relatedPeople": [
+    "alex-stamos"
+  ],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Renee DiResta - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ren%C3%A9e_DiResta"
+    },
+    {
+      "title": "Renee DiResta - McCourt School of Public Policy, Georgetown University",
+      "url": "https://mccourt.georgetown.edu/people/renee-diresta/"
+    },
+    {
+      "title": "A major disinformation research team's future is uncertain after political attacks - NPR",
+      "url": "https://www.npr.org/2024/06/14/g-s1-4570/a-major-disinformation-research-teams-future-is-uncertain-after-political-attacks"
+    },
+    {
+      "title": "The Tactics & Tropes of the Internet Research Agency (U.S. Senate Documents)",
+      "url": "https://digitalcommons.unl.edu/senatedocs/2"
+    },
+    {
+      "title": "How influencers and algorithms mobilize propaganda - and distort reality (Nature review of Invisible Rulers)",
+      "url": "https://www.nature.com/articles/d41586-024-02917-1"
+    },
+    {
+      "title": "The FRONTLINE Interview: Renee DiResta - PBS FRONTLINE",
+      "url": "https://www.pbs.org/wgbh/frontline/interview/renee-diresta/"
+    },
+    {
+      "title": "Renee DiResta - Stanford Freeman Spogli Institute for International Studies",
+      "url": "https://fsi.stanford.edu/people/renee-diresta"
+    },
+    {
+      "title": "Election Integrity Partnership",
+      "url": "https://www.eipartnership.net/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 8,
+    "lastReviewed": "2026-08-31",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "claude-taskforce-wave2-2026-08-31"
+  }
+}

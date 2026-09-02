@@ -1,0 +1,102 @@
+{
+  "id": "bill-landreth-cracker",
+  "type": "person",
+  "title": "Bill Landreth",
+  "slug": "bill-landreth-cracker",
+  "name": "Bill Landreth",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "early hackers",
+    "1980s",
+    "the inner circle",
+    "gte telemail",
+    "wire fraud",
+    "hacker literature",
+    "united states"
+  ],
+  "summary": "Bill Landreth, known by the handle \"The Cracker\", was an American teenage hacker who led the early-1980s group The Inner Circle and was prosecuted by U.S. federal authorities after intrusions into GTE's Telemail electronic mail service. He later co-wrote Out of the Inner Circle: A Hacker's Guide to Computer Security (1985) with Howard Rheingold, one of the first insider accounts of hacking published by a mainstream press.",
+  "whyThisMatters": "Landreth's case was among the first American computer intrusion prosecutions, brought at a time when no federal statute specifically criminalized unauthorized computer access, so prosecutors relied on wire fraud charges. The publicity around the GTE Telemail break-ins, alongside the contemporaneous 414s case, contributed to the congressional debate that produced the Computer Fraud and Abuse Act of 1986. His book was one of the earliest attempts to explain hacker motivation and technique to a general and corporate audience, and it introduced distinctions between exploratory hackers and destructive intruders that later writers and researchers reused. His subsequent disappearance and decades of homelessness also became a widely retold cautionary story about the aftermath of early hacker celebrity.",
+  "knownFor": [
+    "Leading the early-1980s hacker group The Inner Circle under the handle \"The Cracker\"",
+    "Unauthorized access to GTE's Telemail electronic mail service, which triggered a multi-state FBI investigation",
+    "One of the first U.S. federal computer intrusion prosecutions, charged under wire fraud statutes",
+    "Co-authoring Out of the Inner Circle: A Hacker's Guide to Computer Security (Microsoft Press, 1985) with Howard Rheingold"
+  ],
+  "sections": {
+    "overview": "<p><strong>Bill Landreth</strong>, who used the handle <em>The Cracker</em>, is an American hacker known for his activity in the early 1980s and for the book he later co-wrote about it. He was born in California in the early 1960s; published sources differ on the year, with Wikipedia citing a California birth record dated 5 April 1963 while library cataloguing for his book gives 1964. He grew up near San Diego and was a teenager throughout the events that made him publicly known.</p><h2>The Inner Circle</h2><p>Landreth was the central figure in a loose group calling itself <em>The Inner Circle</em>, described in later accounts as a coalition of roughly fifteen teenage hackers spread across several U.S. states. The group operated in the era of dial-up modems, packet-switched networks and bulletin board systems, before the public Internet, and its members explored corporate and institutional systems reachable over commercial data networks. MySpace cofounder Tom Anderson, who used the handle Lord Flathead, was an associate of the group.</p><h2>GTE Telemail</h2><p>The intrusions that led to Landreth's prosecution centred on Telemail, an electronic mail service operated by GTE that carried accounts for large corporations and government-related organisations. Landreth found that administrative passwords on the system were trivially guessable, which allowed him to create accounts of his own. He used the service to run an unauthorised bulletin board inside Telemail that, by his own account, eventually drew close to two hundred hackers, and group members played pranks on account holders by deleting messages and staging unexpected conference sessions. When users left traces that system operators noticed, GTE contacted the Federal Bureau of Investigation.</p><h2>Arrest and prosecution</h2><p>On 13 October 1983, FBI agents searched Landreth's home near San Diego and seized his computer, part of a coordinated operation against group members in nine states that followed cooperation by informant John Maxfield. Because no federal statute at the time specifically criminalised unauthorised computer access, prosecutors charged Landreth with wire fraud, based on three telephone calls. He entered a plea agreement and received three years of probation, and his equipment was returned to him. Later reference works, including Kaspersky's timeline of hacking history, date his conviction to 1984 and describe the case as involving access to NASA and Department of Defense computer data. Landreth subsequently violated the terms of his probation by leaving California without notifying his probation officer, was apprehended in Oregon and served three months in jail.</p><h2>Out of the Inner Circle</h2><p>While still a young man and short of money, Landreth assembled press clippings about his case into a book proposal. Microsoft Press offered an advance reported as $5,500, and the resulting book, <em>Out of the Inner Circle: A Hacker's Guide to Computer Security</em>, written with Howard Rheingold, was published in 1985 by Microsoft Press and distributed by Simon &amp; Schuster. Running to roughly 230 pages, it combined a narrative of Landreth's own exploits with practical advice for system administrators. It argued for a distinction between destructive intruders, whom Landreth called crashers, and hackers motivated by curiosity who in his framing would not intentionally damage a system. The book sold well, was reviewed in the general and computing press, and remains one of the earliest hacker memoirs issued by a major publisher.</p><h2>Disappearance and later life</h2><p>In September 1986 Landreth disappeared, prompting press coverage including a Los Angeles Times report in December of that year on the missing computer whiz. He reappeared roughly a year later. By 1989 he was homeless, a turn covered by the Associated Press in March 1989 and by The Sydney Morning Herald the following month. Reporting in 2016 found that he had remained chronically homeless for some three decades, then aged 52 and living in Southern California on Social Security and food stamps.</p><h2>Legacy</h2><p>Landreth is generally grouped with the 414s and other early-1980s cases as part of the first wave of publicised American computer intrusions, a period in which the legal system had no purpose-built tools for the conduct being prosecuted. That gap, visible in the decision to charge him with wire fraud, is frequently cited in histories of the Computer Fraud and Abuse Act. His book is cited in academic work on hacker psychology, including Marc Rogers's hacker taxonomy research and Eugene Spafford's writing on the ethics of computer break-ins, and it is often listed among the founding texts of the popular literature on hacking.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1983",
+      "event": "Leads The Inner Circle, a group of about fifteen teenage hackers, and gains unauthorised access to GTE's Telemail electronic mail service."
+    },
+    {
+      "date": "1983-10-13",
+      "event": "FBI agents search Landreth's home near San Diego and seize his computer, as part of a coordinated operation across nine states."
+    },
+    {
+      "date": "1984",
+      "event": "Convicted following a plea agreement on wire fraud charges arising from the Telemail intrusions; sentenced to three years of probation."
+    },
+    {
+      "date": "1985",
+      "event": "Out of the Inner Circle: A Hacker's Guide to Computer Security, written with Howard Rheingold, is published by Microsoft Press and distributed by Simon & Schuster."
+    },
+    {
+      "date": "1986-09",
+      "event": "Disappears, prompting national press coverage; he reappears about a year later."
+    },
+    {
+      "date": "1986-12-11",
+      "event": "The Los Angeles Times publishes a report on his disappearance."
+    },
+    {
+      "date": "1989-03",
+      "event": "Associated Press reports that Landreth is living on the streets."
+    },
+    {
+      "date": "2016",
+      "event": "Gizmodo reports that he has been chronically homeless for about three decades and is living in Southern California."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bill Landreth - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bill_Landreth"
+    },
+    {
+      "title": "The Untold Story of the Teen Hackers Who Transformed the Early Internet - Gizmodo",
+      "url": "https://gizmodo.com/the-untold-story-of-the-teen-hackers-who-transformed-th-1770977586"
+    },
+    {
+      "title": "Hackers Forever! - Antic (September 1985), atarimagazines.com",
+      "url": "https://www.atarimagazines.com/v4n5/hackers.html"
+    },
+    {
+      "title": "A brief history of hacking - Kaspersky IT Encyclopedia",
+      "url": "https://encyclopedia.kaspersky.com/knowledge/a-brief-history-of-hacking/"
+    },
+    {
+      "title": "Out of the Inner Circle: A Hacker's Guide to Computer Security - Internet Archive",
+      "url": "https://archive.org/details/out-of-the-inner-circle"
+    },
+    {
+      "title": "Out of the Inner Circle - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Out_of_the_Inner_Circle"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 6,
+    "lastReviewed": "2026-08-31",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "claude-taskforce-wave2-2026-08-31"
+  }
+}

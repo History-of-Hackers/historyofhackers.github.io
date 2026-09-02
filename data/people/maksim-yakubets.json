@@ -1,0 +1,106 @@
+{
+  "id": "maksim-yakubets",
+  "type": "person",
+  "title": "Maksim Yakubets",
+  "slug": "maksim-yakubets",
+  "name": "Maksim Yakubets",
+  "born": "1987-05-20",
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "cybercrime",
+    "evil-corp",
+    "dridex",
+    "zeus",
+    "banking-trojan",
+    "ransomware",
+    "sanctions",
+    "russia"
+  ],
+  "summary": "Maksim Viktorovich Yakubets is a Russian national identified by US and UK authorities as the leader of Evil Corp, the Moscow-based group behind the Dridex banking malware. He was indicted in the United States and sanctioned by the US Treasury on 5 December 2019, when the State Department also announced a reward of up to $5 million for information leading to his arrest.",
+  "whyThisMatters": "Yakubets is the central figure in one of the longest-running financially motivated cybercrime operations documented by Western law enforcement, spanning the Zeus era of 2009 through the Dridex banking trojan and later ransomware activity. The December 2019 action against him marked a shift in strategy, pairing criminal charges with economic sanctions and a record public reward rather than pursuing an arrest that authorities considered unlikely. US Treasury documents also asserted a working relationship between Yakubets and the Russian FSB, making his case a reference point in debates over state tolerance of, and use of, criminal hackers. The sanctions designation had knock-on effects across the ransomware economy by making payments to the group legally hazardous for victims.",
+  "knownFor": [
+    "Alleged leadership of the Evil Corp cybercriminal group",
+    "Development and distribution of the Bugat/Cridex/Dridex banking malware",
+    "Alleged role as the operator known as aqua in the Jabber Zeus scheme",
+    "Subject of a US State Department reward of up to $5 million",
+    "Designation by the US Treasury under Executive Order 13694 in December 2019"
+  ],
+  "sections": {
+    "overview": "<h2>Background</h2><p>Maksim Viktorovich Yakubets is a Russian national identified by United States and United Kingdom authorities as the leader and founder of Evil Corp, a Moscow-based cybercriminal organisation responsible for the development and distribution of the Dridex banking malware. According to U.S. Department of Justice filings unsealed in December 2019, Yakubets was 32 years old at the time and resident in Moscow. He is known online principally by the monikers <em>aqua</em> and <em>aquamo</em>, handles that investigators traced back to the Jabber Zeus criminal circle of the late 2000s.</p><p>U.S. Treasury documents state that before taking a leadership role in Evil Corp, Yakubets was directly associated with Evgeniy Bogachev, the Russian cybercriminal behind the Zeus, Jabber Zeus and GameOver Zeus malware families. In that earlier phase Yakubets was described as responsible for recruiting and managing a network of individuals, commonly called money mules, who moved funds stolen through Bogachev's operations.</p><h2>The Zeus and Bugat schemes</h2><p>The criminal complaint unsealed in Lincoln, Nebraska charges Yakubets with conspiracy to commit bank fraud in connection with the Zeus malware, alleging a conspiracy beginning in May 2009 in which thousands of business computers were infected with software that captured passwords and online banking credentials. Prosecutors identified 21 specific municipalities, banks, companies and non-profit organisations across eleven U.S. states as victims. The complaint states that deployment of Zeus resulted in the attempted theft of an estimated $220 million, with actual losses of approximately $70 million.</p><p>Separately, a federal grand jury in Pittsburgh returned a ten-count indictment charging Yakubets and Igor Turashev, then 38, of Yoshkar-Ola, Russia, with conspiracy, computer hacking, wire fraud and bank fraud in connection with the Bugat malware package. Bugat was renamed Cridex and later Dridex as its capabilities expanded, eventually including the ability to assist in the installation of ransomware. Prosecutors alleged Yakubets led the group that developed, maintained and distributed the malware, while Turashev handled system administration, the internal control panel and oversight of botnet operations. Victims named in the indictment included two banks, a school district, a firearm manufacturer and several companies in western Pennsylvania.</p><h2>Indictment, sanctions and reward</h2><p>On 5 December 2019 the United States and the United Kingdom announced a coordinated action. The Department of Justice unsealed the Pittsburgh indictment and the Nebraska complaint; the Department of the Treasury's Office of Foreign Assets Control designated Evil Corp along with 17 individuals and seven entities under Executive Order 13694, as amended; and the Department of State announced a reward of up to $5 million under its Transnational Organized Crime Rewards Program for information leading to Yakubets's arrest or conviction. At the time this was described as the largest such reward ever offered for a cybercriminal. The National Crime Agency's Rob Jones called the announcement a landmark for the NCA, FBI and U.S. authorities.</p><p>Treasury stated that as of 2016 Evil Corp had harvested banking credentials from customers of approximately 300 banks and financial institutions in more than 40 countries, and that the group had illicitly earned at least $100 million through Dridex. The designation notice went further than the criminal charges by asserting that, as of 2017, Yakubets was working for the Russian Federal Security Service (FSB) and that, as of April 2018, he was in the process of obtaining a licence to work with Russian classified information. This framing presented him as an example of the Russian state's enlistment of criminal hackers for its own purposes.</p><h2>Later developments</h2><p>On 1 October 2024, OFAC designated a further seven individuals and two entities linked to Evil Corp in a trilateral action with the United Kingdom's Foreign, Commonwealth and Development Office and Australia's Department of Foreign Affairs and Trade, timed to coincide with the U.S.-hosted Counter Ransomware Initiative summit. Among those designated was Eduard Benderskiy, a former FSB Spetsnaz officer and businessman described as Yakubets's father-in-law and as a key enabler of Evil Corp's relationship with the Russian state. Treasury also said Yakubets had used employment at the Russian National Engineering Corporation as cover for his activity, and the Justice Department unsealed an indictment charging an Evil Corp member over the use of BitPaymer ransomware.</p><h2>Significance</h2><p>The Yakubets case is frequently cited as a turning point in how Western governments responded to financially motivated cybercrime operating from Russia. Rather than relying on arrest and extradition, which the authorities regarded as unlikely, the December 2019 action combined criminal charges, economic sanctions, a large public reward and the public naming of a suspect, an approach sometimes described as identify-and-disrupt. The sanctions designation also carried practical consequences for the ransomware ecosystem, since paying a ransom to a sanctioned group can itself expose victims and incident response firms to legal risk, a factor widely credited with pushing Evil Corp to rebrand its ransomware repeatedly in subsequent years.</p><p>As of the most recent public actions, Yakubets remained at large in Russia and the charges against him are allegations that have not been tested at trial. The Department of Justice has emphasised that the defendants are presumed innocent unless and until proven guilty. His case is nonetheless routinely referenced in discussions of the overlap between organised cybercrime and state intelligence services, and of the limits of law enforcement when suspects reside beyond the reach of extradition.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1987-05-20",
+      "event": "Born, according to public wanted listings and reference sources."
+    },
+    {
+      "date": "2009-05",
+      "event": "Start of the Zeus malware bank fraud conspiracy alleged in the US criminal complaint later filed in Nebraska."
+    },
+    {
+      "date": "2015-10",
+      "event": "The US Department of Justice indicts Andrey Ghinkul for spreading Dridex, as the FBI and the UK National Crime Agency disrupt Evil Corp infrastructure."
+    },
+    {
+      "date": "2015",
+      "event": "Yuriy Konovalenko and Yevhen Kulibaba, co-conspirators of the operator known as aqua, plead guilty in the United States after extradition from the United Kingdom."
+    },
+    {
+      "date": "2016",
+      "event": "Evil Corp had by this point harvested banking credentials from customers of roughly 300 banks and financial institutions in over 40 countries, according to the US Treasury."
+    },
+    {
+      "date": "2017",
+      "event": "Yakubets was working for the Russian Federal Security Service, according to the US Treasury designation notice."
+    },
+    {
+      "date": "2019-03-19",
+      "event": "Most recent Bugat/Dridex intrusion activity cited in the Pittsburgh indictment."
+    },
+    {
+      "date": "2019-12-05",
+      "event": "The Justice Department unseals a ten-count Pittsburgh indictment against Yakubets and Igor Turashev and a Nebraska complaint over Zeus; Treasury designates Evil Corp and 17 individuals and seven entities; the State Department announces a reward of up to $5 million."
+    },
+    {
+      "date": "2024-10-01",
+      "event": "The US, UK and Australia take a trilateral action against Evil Corp; OFAC designates seven more individuals and two entities, including Eduard Benderskiy, a former FSB officer and Yakubets's father-in-law."
+    }
+  ],
+  "relatedPeople": [
+    "evgeniy-bogachev"
+  ],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Russian National Charged with Decade-Long Series of Hacking and Bank Fraud Offenses Resulting in Tens of Millions in Losses (U.S. Department of Justice, 5 December 2019)",
+      "url": "https://www.justice.gov/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens"
+    },
+    {
+      "title": "Treasury Sanctions Evil Corp, the Russia-Based Cybercriminal Group Behind Dridex Malware (U.S. Department of the Treasury, 5 December 2019)",
+      "url": "https://home.treasury.gov/news/press-releases/sm845"
+    },
+    {
+      "title": "Treasury Sanctions Members of the Russia-Based Cybercriminal Group Evil Corp in Tri-Lateral Action with the United Kingdom and Australia (U.S. Department of the Treasury, 1 October 2024)",
+      "url": "https://home.treasury.gov/news/press-releases/jy2623"
+    },
+    {
+      "title": "Inside 'Evil Corp,' a $100M Cybercrime Menace (KrebsOnSecurity, 16 December 2019)",
+      "url": "https://krebsonsecurity.com/2019/12/inside-evil-corp-a-100m-cybercrime-menace/"
+    },
+    {
+      "title": "Maksim Yakubets (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Maksim_Yakubets"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 5,
+    "lastReviewed": "2026-08-31",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "claude-taskforce-wave2-2026-08-31"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "eva-galperin",
+  "type": "person",
+  "title": "Eva Galperin",
+  "slug": "eva-galperin",
+  "name": "Eva Galperin",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "stalkerware",
+    "digital rights",
+    "eff",
+    "surveillance",
+    "threat research",
+    "privacy advocacy",
+    "civil society security"
+  ],
+  "summary": "Eva Galperin is the Director of Cybersecurity at the Electronic Frontier Foundation, where she has worked since 2007 on protecting activists, journalists, and other targeted users from malware and surveillance. She is best known for her campaign to make antivirus vendors detect stalkerware and for co-founding the Coalition Against Stalkerware.",
+  "whyThisMatters": "Galperin helped establish that commercially sold intimate partner surveillance software is a security problem the antivirus industry is responsible for addressing, not a legal grey area to be ignored. Her advocacy led major vendors to change how they classify and report such applications, and produced a cross-industry coalition linking security companies with domestic violence organizations. Her earlier research on malware campaigns against Syrian activists contributed to the broader recognition that civil society groups are routine targets of state-aligned intrusion operations. Together these efforts extended the practical scope of threat research beyond corporate and government networks.",
+  "knownFor": [
+    "Director of Cybersecurity at the Electronic Frontier Foundation",
+    "Campaign to make antivirus vendors detect and alert on stalkerware",
+    "Co-founder of the Coalition Against Stalkerware",
+    "Research on malware campaigns targeting Syrian activists",
+    "Security education work including EFF's Surveillance Self-Defense"
+  ],
+  "sections": {
+    "overview": "<h2>Background</h2><p>Eva Galperin was born in Latvia to a Jewish family that left the Soviet Union to escape state antisemitism and resettled in California during the 1980s. Her father worked in computer security, and she has said she was introduced to Unix and Solaris systems as a child. She later studied political science and international relations at San Francisco State University while working as a Unix system administrator at Silicon Valley companies, a combination of policy and systems-administration experience that became characteristic of her later work.</p><p>Before entering the digital rights field full time, Galperin worked at a center for United States and China policy studies, where she organized conferences and conducted research on Chinese energy policy. She joined the Electronic Frontier Foundation (EFF) in 2007.</p><h2>Work at the Electronic Frontier Foundation</h2><p>At EFF, Galperin's work has centered on the security of people who are targeted because of what they do rather than because of what they own: journalists, human rights defenders, lawyers, and activists. She contributed to EFF's public security education materials, including the Surveillance Self-Defense guide and the Digital First Aid Kit, and organized security training efforts aimed at civil society groups. She has argued publicly that technical expertise alone makes for poor security training, and that trust built within a community is a precondition for advice being adopted.</p><p>Galperin led EFF's Threat Lab, the organization's research team focused on malware and surveillance technology used against vulnerable populations, and became EFF's Director of Cybersecurity in 2017. She also serves as a technical advisor to the Freedom of the Press Foundation.</p><h2>Nation-state malware research</h2><p>Galperin was among the researchers who documented malware campaigns directed at activists during and after the Arab Spring. In December 2013 she co-authored the report \"Quantum of Surveillance: Familiar Actors and Possible False Flags in Syrian Malware Campaigns\" with Citizen Lab researchers Morgan Marquis-Boire and John Scott-Railton, analyzing remote access trojans and social-engineering lures used against members of the Syrian opposition. That line of work helped establish a pattern of collaboration between civil-society technologists and academic research labs in attributing and publicizing targeted attacks on non-governmental targets, a category of victim that commercial threat intelligence had largely overlooked.</p><h2>Campaign against stalkerware</h2><p>Beginning in 2018, Galperin turned much of her attention to stalkerware: commercially available applications installed covertly on a victim's phone or computer, typically by an intimate partner or family member, to monitor messages, calls, and location. She argued that the antivirus industry had systematically declined to treat these applications as malicious because they were sold as parental- or employee-monitoring tools, leaving survivors of domestic abuse without the detection tools that existed for other categories of spyware.</p><p>In April 2019 she publicly announced that she had persuaded Kaspersky Lab to begin explicitly alerting Android users when stalkerware was detected on their devices, rather than classifying it silently or not at all. In the same campaign she called on Apple to permit antivirus applications on its platform and to warn users when their devices had been jailbroken or rooted. She has also argued that executives of companies selling stalkerware should face prosecution under computer intrusion statutes.</p><p>In November 2019 EFF became one of ten founding partners of the Coalition Against Stalkerware, alongside Avira, the European Network for the Work with Perpetrators of Domestic Violence, G DATA Cyber Defense, Kaspersky, Malwarebytes, the National Network to End Domestic Violence, NortonLifeLock, Operation Safe Escape, and WEISSER RING. The coalition's stated aims include sharing stalkerware samples between vendors, establishing common detection standards, and building technical capacity inside domestic violence advocacy organizations. Galperin is credited by EFF as a co-founder.</p><h2>Significance</h2><p>Galperin's principal contribution has been to reframe intimate partner surveillance as a security problem with an industry-level solution rather than a purely legal or social one. By pressing antivirus vendors to change their detection policies and by helping assemble a cross-industry coalition that included both security companies and domestic violence organizations, she connected two communities that had previously worked largely in isolation. Her earlier research on malware targeting activists similarly helped normalize the idea that threat intelligence work should cover civil society, not only corporate and government networks. Her work has been profiled in outlets including Wired and Vice.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2007",
+      "event": "Joins the Electronic Frontier Foundation."
+    },
+    {
+      "date": "2013-12-28",
+      "event": "Co-authors \"Quantum of Surveillance: Familiar Actors and Possible False Flags in Syrian Malware Campaigns\" with Morgan Marquis-Boire and John Scott-Railton."
+    },
+    {
+      "date": "2017",
+      "event": "Becomes EFF's Director of Cybersecurity after leading the organization's Threat Lab project."
+    },
+    {
+      "date": "2018",
+      "event": "Begins focusing on eradicating stalkerware used in domestic abuse."
+    },
+    {
+      "date": "2019-04",
+      "event": "Announces that Kaspersky Lab will explicitly alert Android users when stalkerware is detected; calls on Apple to allow antivirus apps and warn users about modified devices."
+    },
+    {
+      "date": "2019-11",
+      "event": "EFF becomes one of ten founding partners of the Coalition Against Stalkerware, which Galperin is credited with co-founding."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Eva Galperin - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eva_Galperin"
+    },
+    {
+      "title": "Eva Galperin - Staff - Electronic Frontier Foundation",
+      "url": "https://www.eff.org/about/staff/eva-galperin"
+    },
+    {
+      "title": "About - Coalition Against Stalkerware",
+      "url": "https://stopstalkerware.org/about/"
+    },
+    {
+      "title": "The EFF's Eva Galperin Keeps Activists Safe Online - Vice (Corin Faife, March 21, 2017)",
+      "url": "https://www.vice.com/en/article/the-effs-eva-galperin-keeps-activists-safe-online/"
+    },
+    {
+      "title": "Hacker Eva Galperin Has a Plan to Eradicate Stalkerware - Wired (Andy Greenberg, April 3, 2019)",
+      "url": "https://www.wired.com/story/eva-galperin-stalkerware-kaspersky-antivirus/"
+    },
+    {
+      "title": "Quantum of Surveillance: Familiar Actors and Possible False Flags in Syrian Malware Campaigns - EFF",
+      "url": "https://www.eff.org/document/quantum-surveillance-familiar-actors-and-possible-false-flags-syrian-malware-campaigns"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 6,
+    "lastReviewed": "2026-08-31",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "claude-taskforce-wave2-2026-08-31"
+  }
+}

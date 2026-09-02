@@ -1,0 +1,121 @@
+{
+  "id": "kate-temkin",
+  "type": "person",
+  "title": "Kate Temkin",
+  "slug": "kate-temkin",
+  "name": "Katherine \"Kate\" Temkin",
+  "born": null,
+  "died": null,
+  "era": "2010s-Present",
+  "tags": [
+    "usb",
+    "hardware hacking",
+    "console hacking",
+    "reverse engineering",
+    "fpga",
+    "fault injection",
+    "open source hardware",
+    "nintendo switch"
+  ],
+  "summary": "Kate Temkin is a hardware and firmware engineer known for discovering and disclosing Fusée Gelée, an unpatchable bootROM vulnerability in NVIDIA Tegra processors (CVE-2018-6242), and for open-source USB and hardware-hacking tools including Facedancer, GreatFET, GlitchKit, and LUNA.",
+  "whyThisMatters": "Fusée Gelée demonstrated that a flaw in immutable mask ROM can compromise a chip's entire root of trust with no software prerequisites, leaving already-shipped devices permanently exposed. Its disclosure report is a widely referenced statement of the case for prompt public disclosure when a vulnerability already circulates privately and cannot be patched in the field. Separately, Temkin's open-source USB tooling has become standard equipment for hardware security research, lowering the cost of USB emulation, protocol analysis, and fault injection for the wider community.",
+  "knownFor": [
+    "Discovery and implementation of the Fusée Gelée Tegra bootROM vulnerability (CVE-2018-6242)",
+    "Principal contributor to the Facedancer USB emulation framework",
+    "Leading contributor to GreatFET hardware interface tools",
+    "Co-creator of GlitchKit, an open-source fault-injection toolkit",
+    "Lead developer of LUNA, the Amaranth HDL USB gateware framework behind Cynthion",
+    "Member of the ReSwitched team"
+  ],
+  "sections": {
+    "overview": "<h2>Background</h2><p>Katherine \"Kate\" Temkin is an American hardware and firmware engineer and security researcher who works primarily on low-level systems, USB, and FPGA gateware. She publishes under the handle <em>ktemkin</em>, describes herself as a hardware hacker and low-level engineer focused on \"tools to help you do cool things,\" and is based in Denver, Colorado. Much of her output takes the form of open-source tooling rather than private research: the projects she is best known for are released publicly, and the vulnerability she is best known for was documented in a public disclosure report rather than sold or kept private.</p><h2>USB tooling and Great Scott Gadgets</h2><p>Temkin is a long-standing contributor to the open-source hardware ecosystem around Great Scott Gadgets. She is one of the principal contributors to Facedancer, a Python framework that drives remote-controlled USB controller hardware so that a host computer can emulate arbitrary USB devices for testing, fuzzing, and protocol analysis. The project originated with Travis Goodspeed's Facedancer21 board; the modern Great Scott Gadgets codebase credits both Goodspeed and Temkin among its authors. She is also a leading contributor to GreatFET, the successor to the GoodFET family of hardware interface tools.</p><p>In August 2017 she presented \"FaceDancer 2.0\" with Dominic Spill at SHA2017 in the Netherlands, covering USB hacking, sniffing, and spoofing with the rewritten toolchain. In December 2017 the two presented \"Opening Closed Systems with GlitchKit\" at the 34th Chaos Communication Congress. GlitchKit is an open-source hardware and firmware toolkit for fault-injection attacks, built on top of GreatFET, Facedancer, and ChipWhisperer, and aimed at synchronising voltage glitches with communication events so that closed devices can be induced to disclose their own firmware.</p><h2>Fusée Gelée</h2><p>Temkin is most widely known for Fusée Gelée, a coldboot vulnerability in the boot instruction ROM of NVIDIA's Tegra line of embedded processors, which she discovered and implemented as a member of the ReSwitched team. The vulnerability lies in the USB software stack contained in the immutable bootROM: a copy operation exposed through Tegra Recovery Mode (RCM) has an attacker-controllable length, so a carefully constructed USB control request can overwrite the active execution stack. This yields arbitrary code execution on the Boot and Power Management Processor before any lock-outs or privilege reductions take effect, compromising the device's entire root of trust and permitting exfiltration of secrets burned into device fuses.</p><p>The disclosure report names Temkin as the reporter, gives her affiliation as ReSwitched, and states that the flaw is believed to affect Tegra system-on-chips released prior to the T186 / X2. NVIDIA assigned CVE-2018-6242, describing a buffer overflow in BootROM Recovery Mode affecting Tegra mobile processors released prior to 2016; the CVE record was published in May 2018. Because the vulnerable code resides in mask ROM, devices already in users' hands could not be patched.</p><h2>Disclosure and aftermath</h2><p>The report contains an unusually explicit public-disclosure notice. Citing the number of affected devices, the severity of the issue, and the immutability of the affected code, Temkin and the ReSwitched team argued that prompt public disclosure best served the public interest, in part because other groups already appeared to hold an equivalent exploit and at least one had announced plans to sell access to it. The report set a disclosure deadline of 15 June 2018, or earlier if another group released an implementation first. The reasoning was framed around minimising information asymmetry between the general public and exploit-holders so that users could assess their own exposure.</p><p>The Tegra X1 is the processor used in the original Nintendo Switch, and the vulnerability became the basis of that console's homebrew and custom-firmware scene. NVIDIA's Tegra X1+ revision, released in 2019, is documented as fixing Fusée Gelée, and Nintendo shipped revised Switch hardware to block the class of exploits affecting the original models.</p><h2>LUNA, Cynthion, and later work</h2><p>From 2019 Temkin worked on LUNA, an Amaranth HDL gateware framework for monitoring, hacking, and developing USB devices, hosted under the Great Scott Gadgets organisation, where she is the leading contributor. LUNA underpins Cynthion, Great Scott Gadgets' FPGA-based USB test instrument, which combines protocol analysis of Low-, Full-, and High-Speed USB with the ability to synthesise custom USB devices when paired with LUNA and Facedancer. Her later published work has concentrated on USB 3, SerDes design, and FPGA development, documented on her technical notebook at ktemk.in, where she lists her role as chief executive and engineering lead at Tactile Metrology.</p><h2>Significance</h2><p>Temkin's work sits at the junction of two strands of the hacking tradition: open tooling that lowers the barrier to hardware research, and console hacking as a route to user control over purchased devices. Facedancer, GreatFET, GlitchKit, LUNA, and Cynthion made USB emulation, protocol analysis, and fault injection accessible to researchers without specialist hardware design experience. Fusée Gelée is frequently cited as an example of an unpatchable silicon-level flaw, and its disclosure report is cited as an argument for early public disclosure when a vulnerability is already circulating privately and cannot be fixed in the field.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2017-08-08",
+      "event": "Presents \"FaceDancer 2.0\" with Dominic Spill at SHA2017, covering USB hacking, sniffing, and spoofing."
+    },
+    {
+      "date": "2017-12-28",
+      "event": "Presents \"Opening Closed Systems with GlitchKit\" with Dominic Spill at the 34th Chaos Communication Congress."
+    },
+    {
+      "date": "2018",
+      "event": "Publishes the Fusée Gelée vulnerability disclosure report as a member of ReSwitched, documenting arbitrary code execution via Tegra Recovery Mode."
+    },
+    {
+      "date": "2018-05",
+      "event": "CVE-2018-6242 is published, describing a BootROM Recovery Mode buffer overflow in NVIDIA Tegra processors released prior to 2016."
+    },
+    {
+      "date": "2018-06-15",
+      "event": "Date named in the disclosure report as the latest planned public disclosure of Fusée Gelée."
+    },
+    {
+      "date": "2019",
+      "event": "NVIDIA's Tegra X1+ (Mariko) revision is released, fixing the Fusée Gelée vulnerability."
+    },
+    {
+      "date": "2019-10",
+      "event": "Work begins on LUNA, an Amaranth HDL framework for USB gateware, under the Great Scott Gadgets organisation."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Fusée Gelée: Vulnerability Disclosure Report (fusee-launcher)",
+      "url": "https://github.com/Smeat/fusee-launcher/blob/master/report/fusee_gelee.md"
+    },
+    {
+      "title": "CVE-2018-6242 record",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2018-6242"
+    },
+    {
+      "title": "NVD entry for CVE-2018-6242",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2018-6242"
+    },
+    {
+      "title": "Tegra — Wikipedia (Tegra X1 and Fusée Gelée)",
+      "url": "https://en.wikipedia.org/wiki/Tegra"
+    },
+    {
+      "title": "Facedancer — Great Scott Gadgets",
+      "url": "https://github.com/greatscottgadgets/facedancer"
+    },
+    {
+      "title": "LUNA — Great Scott Gadgets",
+      "url": "https://github.com/greatscottgadgets/luna"
+    },
+    {
+      "title": "Cynthion — Great Scott Gadgets",
+      "url": "https://greatscottgadgets.com/cynthion/"
+    },
+    {
+      "title": "Opening Closed Systems with GlitchKit (34C3)",
+      "url": "https://media.ccc.de/v/34c3-9207-opening_closed_systems_with_glitchkit"
+    },
+    {
+      "title": "FaceDancer 2.0 (SHA2017)",
+      "url": "https://media.ccc.de/v/SHA2017-221-facedancer_2_0"
+    },
+    {
+      "title": "Kate Temkin (ktemkin) — GitHub profile",
+      "url": "https://github.com/ktemkin"
+    },
+    {
+      "title": "ktemk.in — Kate Temkin's lab notebook",
+      "url": "https://ktemk.in/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 11,
+    "lastReviewed": "2026-08-31",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "claude-taskforce-wave2-2026-08-31"
+  }
+}

@@ -5726,5 +5726,987 @@
     ],
     "summary": "Open-source Android security assessment framework.",
     "url": "tools/drozer.html"
+  },
+  {
+    "id": "alexandre-cazes",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Alexandre Cazes",
+    "slug": "alexandre-cazes",
+    "era": "2010s",
+    "tags": [
+      "dark web",
+      "darknet market",
+      "alphabay",
+      "drug trafficking",
+      "operation bayonet",
+      "canada",
+      "thailand",
+      "opsec failure"
+    ],
+    "summary": "Alexandre Cazes was a Canadian citizen who, under the online alias \"Alpha02,\" created and administered AlphaBay, which grew into the largest dark web marketplace for drugs, stolen data, and other illegal goods before its 2017 takedown. He was arrested in Bangkok, Thailand in July 2017 and died in Thai police custody days later, in what Thai authorities described as an apparent suicide.",
+    "url": "people/alexandre-cazes.html"
+  },
+  {
+    "id": "amit-klein",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Amit Klein",
+    "slug": "amit-klein",
+    "era": "2000s-Present",
+    "tags": [
+      "web security",
+      "http",
+      "application security",
+      "protocol security",
+      "device tracking",
+      "israel",
+      "academia"
+    ],
+    "summary": "Amit Klein is an Israeli security researcher who published the 2004 whitepaper that defined HTTP response splitting and co-authored the 2005 paper that introduced HTTP request smuggling. He later held research leadership roles at Sanctum, Cyota, Trusteer and SafeBreach, and is an associate professor of computer science at the Hebrew University of Jerusalem.",
+    "url": "people/amit-klein.html"
+  },
+  {
+    "id": "angela-sasse",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "M. Angela Sasse",
+    "slug": "angela-sasse",
+    "era": "1990s-Present",
+    "tags": [
+      "usable security",
+      "human factors",
+      "passwords",
+      "security economics",
+      "hci",
+      "academia",
+      "riscs",
+      "germany",
+      "united kingdom"
+    ],
+    "summary": "Martina Angela Sasse is a German psychologist and computer scientist whose research established usable security as a distinct field, most influentially through the 1999 paper \"Users Are Not The Enemy\", co-authored with Anne Adams. She is Horst G\u00f6rtz Endowed Professor of Human-Centred Security at Ruhr University Bochum and a part-time Professor of Human-Centred Technology at University College London.",
+    "url": "people/angela-sasse.html"
+  },
+  {
+    "id": "bill-landreth-cracker",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Bill Landreth",
+    "slug": "bill-landreth-cracker",
+    "era": "1980s-Present",
+    "tags": [
+      "early hackers",
+      "1980s",
+      "the inner circle",
+      "gte telemail",
+      "wire fraud",
+      "hacker literature",
+      "united states"
+    ],
+    "summary": "Bill Landreth, known by the handle \"The Cracker\", was an American teenage hacker who led the early-1980s group The Inner Circle and was prosecuted by U.S. federal authorities after intrusions into GTE's Telemail electronic mail service. He later co-wrote Out of the Inner Circle: A Hacker's Guide to Computer Security (1985) with Howard Rheingold, one of the first insider accounts of hacking published by a mainstream press.",
+    "url": "people/bill-landreth-cracker.html"
+  },
+  {
+    "id": "bunnie-huang",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Andrew \"bunnie\" Huang",
+    "slug": "bunnie-huang",
+    "era": "2000s-Present",
+    "tags": [
+      "hardware hacking",
+      "reverse engineering",
+      "Xbox",
+      "open hardware",
+      "Chumby",
+      "DMCA",
+      "right to repair",
+      "electronics"
+    ],
+    "summary": "Andrew \"bunnie\" Huang is an American hardware engineer and hacker best known for reverse-engineering the original Xbox's security while a graduate student at MIT, publishing his findings in the book \"Hacking the Xbox: An Introduction to Reverse Engineering,\" and for subsequent work co-founding the Chumby internet appliance and building open-source hardware projects such as NeTV and the Novena laptop.",
+    "url": "people/bunnie-huang.html"
+  },
+  {
+    "id": "chenxi-wang",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Chenxi Wang",
+    "slug": "chenxi-wang",
+    "era": "2000s-Present",
+    "tags": [
+      "venture capital",
+      "industry analyst",
+      "code obfuscation",
+      "cloud security",
+      "container security",
+      "women in security",
+      "carnegie mellon"
+    ],
+    "summary": "Chenxi Wang is a computer scientist, security industry analyst and executive who founded Rain Capital, an early-stage venture fund focused on cybersecurity. Her doctoral research at the University of Virginia produced an early description of control-flow flattening, an obfuscation technique later nicknamed \"chenxification\".",
+    "url": "people/chenxi-wang.html"
+  },
+  {
+    "id": "chris-goggans-erik-bloodaxe",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Chris Goggans",
+    "slug": "chris-goggans-erik-bloodaxe",
+    "era": "1980s-Present",
+    "tags": [
+      "legion of doom",
+      "erik bloodaxe",
+      "phrack",
+      "comsec",
+      "masters of deception",
+      "hacker crackdown",
+      "texas",
+      "infosec history"
+    ],
+    "summary": "Chris Goggans, known by the handle Erik Bloodaxe, was a member of the Legion of Doom hacker group in the late 1980s and early 1990s and edited Phrack magazine from 1993 to 1995. He co-founded Comsec Data Security, an early attempt to turn underground hacking expertise into a commercial security consultancy.",
+    "url": "people/chris-goggans-erik-bloodaxe.html"
+  },
+  {
+    "id": "cindy-cohn",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Cindy Cohn",
+    "slug": "cindy-cohn",
+    "era": "1990s-Present",
+    "tags": [
+      "digital rights",
+      "encryption policy",
+      "EFF",
+      "crypto wars",
+      "first amendment",
+      "surveillance litigation",
+      "internet law"
+    ],
+    "summary": "Cindy Cohn is an American civil liberties attorney specializing in Internet law who argued Bernstein v. United States, the case in which the Ninth Circuit held that encryption source code is speech protected by the First Amendment. She spent fifteen years as legal director and general counsel of the Electronic Frontier Foundation before serving as its executive director from 2015 to 2026.",
+    "url": "people/cindy-cohn.html"
+  },
+  {
+    "id": "collin-mulliner",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Collin Mulliner",
+    "slug": "collin-mulliner",
+    "era": "2000s-Present",
+    "tags": [
+      "mobile security",
+      "sms security",
+      "nfc",
+      "android security",
+      "fuzzing",
+      "bluetooth",
+      "embedded security",
+      "firmware analysis"
+    ],
+    "summary": "Collin Mulliner is a German security researcher known for pioneering work on the security of mobile telephony interfaces, including SMS and MMS fuzzing, NFC-enabled phone attacks, and Android instrumentation and patching. His research demonstrated that the messaging and baseband layers of ordinary phones were a largely unexamined and remotely reachable attack surface.",
+    "url": "people/collin-mulliner.html"
+  },
+  {
+    "id": "comex-ios-jailbreak",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Nicholas Allegra",
+    "slug": "comex-ios-jailbreak",
+    "era": "2010s-Present",
+    "tags": [
+      "ios",
+      "jailbreak",
+      "exploit development",
+      "mobile security",
+      "apple",
+      "browser exploit",
+      "pwnie award"
+    ],
+    "summary": "Nicholas Allegra, better known by the online handle \"comex,\" is an American security researcher who created the JailbreakMe 2.0 and 3.0 browser-based iOS jailbreak tools, which let users jailbreak an iPhone or iPad simply by visiting a website.",
+    "url": "people/comex-ios-jailbreak.html"
+  },
+  {
+    "id": "david-chaum",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "David Chaum",
+    "slug": "david-chaum",
+    "era": "1980s-Present",
+    "tags": [
+      "cryptography",
+      "digital-cash",
+      "digicash",
+      "privacy",
+      "mix-networks",
+      "anonymity",
+      "ecash",
+      "cypherpunk"
+    ],
+    "summary": "David Chaum is an American computer scientist and cryptographer who invented the concept of digital cash and founded DigiCash, while also originating the mix network design that underlies later anonymity systems such as Tor.",
+    "url": "people/david-chaum.html"
+  },
+  {
+    "id": "dawn-song",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Dawn Song",
+    "slug": "dawn-song",
+    "era": "2000s-Present",
+    "tags": [
+      "academia",
+      "program analysis",
+      "binary analysis",
+      "malware defense",
+      "applied cryptography",
+      "adversarial machine learning",
+      "blockchain",
+      "uc berkeley"
+    ],
+    "summary": "Dawn Song is a Chinese-American computer scientist and professor of electrical engineering and computer sciences at the University of California, Berkeley, known for research in software security, automated binary and program analysis, applied cryptography, adversarial machine learning, and blockchain privacy. She was named a MacArthur Fellow and a Guggenheim Fellow in 2010 and an ACM Fellow in 2019.",
+    "url": "people/dawn-song.html"
+  },
+  {
+    "id": "dildog-christien-rioux",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Christien Rioux",
+    "slug": "dildog-christien-rioux",
+    "era": "1990s-Present",
+    "tags": [
+      "L0pht",
+      "Cult of the Dead Cow",
+      "Back Orifice 2000",
+      "Veracode",
+      "application security",
+      "buffer overflows",
+      "Veilid",
+      "binary analysis"
+    ],
+    "summary": "Christien Rioux, known by the handle DilDog, is an American computer security researcher who was a member of L0pht Heavy Industries and the Cult of the Dead Cow, wrote the original code for the Back Orifice 2000 remote administration tool, and co-founded the application security company Veracode.",
+    "url": "people/dildog-christien-rioux.html"
+  },
+  {
+    "id": "eli-ladopoulos-acid-phreak",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Elias Ladopoulos",
+    "slug": "eli-ladopoulos-acid-phreak",
+    "era": "1980s-Present",
+    "tags": [
+      "masters of deception",
+      "phone phreaking",
+      "legion of doom",
+      "hacker crackdown",
+      "computer crime law",
+      "new york",
+      "information security"
+    ],
+    "summary": "Elias Ladopoulos, known by the handle Acid Phreak, is a New York technologist who co-founded the hacking group Masters of Deception in the late 1980s and was one of five members federally indicted in 1992 for intrusions into telephone company systems. After serving his sentence he worked in professional information security and later founded technology companies.",
+    "url": "people/eli-ladopoulos-acid-phreak.html"
+  },
+  {
+    "id": "eva-galperin",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Eva Galperin",
+    "slug": "eva-galperin",
+    "era": "2000s-Present",
+    "tags": [
+      "stalkerware",
+      "digital rights",
+      "eff",
+      "surveillance",
+      "threat research",
+      "privacy advocacy",
+      "civil society security"
+    ],
+    "summary": "Eva Galperin is the Director of Cybersecurity at the Electronic Frontier Foundation, where she has worked since 2007 on protecting activists, journalists, and other targeted users from malware and surveillance. She is best known for her campaign to make antivirus vendors detect stalkerware and for co-founding the Coalition Against Stalkerware.",
+    "url": "people/eva-galperin.html"
+  },
+  {
+    "id": "evgeniy-bogachev",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Evgeniy Bogachev",
+    "slug": "evgeniy-bogachev",
+    "era": "2000s-Present",
+    "tags": [
+      "botnet",
+      "banking-trojan",
+      "ransomware",
+      "russia",
+      "fbi-most-wanted",
+      "cybercrime",
+      "gameover-zeus",
+      "cryptolocker"
+    ],
+    "summary": "Evgeniy Bogachev is a Russian cybercriminal identified by U.S. authorities as the creator and operator of the GameOver Zeus botnet and the figure behind the distribution of CryptoLocker ransomware, and he remains a fugitive on the FBI's Cyber Most Wanted list with a $3 million reward for information leading to his capture.",
+    "url": "people/evgeniy-bogachev.html"
+  },
+  {
+    "id": "fred-cohen",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Fred Cohen",
+    "slug": "fred-cohen",
+    "era": "1980s-Present",
+    "tags": [
+      "computer viruses",
+      "malware theory",
+      "academic research",
+      "undecidability",
+      "deception defense",
+      "information assurance",
+      "usc"
+    ],
+    "summary": "Fred Cohen is an American computer scientist who in 1983 conducted the first documented controlled experiments with self-replicating programs on a multi-user Unix system and who gave the computer virus its formal definition in his 1984 paper, popularising a term suggested to him by Leonard Adleman. His work established that no algorithm can perfectly detect all possible viruses.",
+    "url": "people/fred-cohen.html"
+  },
+  {
+    "id": "giorgio-maone",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Giorgio Maone",
+    "slug": "giorgio-maone",
+    "era": "2000s-Present",
+    "tags": [
+      "browser security",
+      "noscript",
+      "firefox",
+      "javascript",
+      "xss",
+      "tor browser",
+      "open source",
+      "mozilla"
+    ],
+    "summary": "Giorgio Maone is the software developer who created and maintains NoScript, a browser extension first released in 2005 that blocks JavaScript and other active web content by default and permits it only on user-trusted sites. He has been a member of the Mozilla Security Group since 2007 and works on the Tor Browser as part of the Tor Project's Applications Development Team.",
+    "url": "people/giorgio-maone.html"
+  },
+  {
+    "id": "joe-engressia",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Joe Engressia",
+    "slug": "joe-engressia",
+    "era": "1950s-2007",
+    "tags": [
+      "phone phreaking",
+      "2600 hz",
+      "blue box",
+      "telephony",
+      "ma bell",
+      "1970s",
+      "hacker culture"
+    ],
+    "summary": "Josef Carl Engressia Jr. (1949-2007), later legally named Joybubbles, was a blind American phone phreak with absolute pitch who discovered as a child that he could whistle the 2600 Hz tone used to signal idle long-distance trunks on the Bell System network. He became one of the best-known figures of the 1960s and 1970s phone phreak subculture and was profiled in Ron Rosenbaum's 1971 Esquire article \"Secrets of the Little Blue Box\".",
+    "url": "people/joe-engressia.html"
+  },
+  {
+    "id": "john-hultquist",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John Hultquist",
+    "slug": "john-hultquist",
+    "era": "2010s-Present",
+    "tags": [
+      "threat-intelligence",
+      "sandworm",
+      "mandiant",
+      "google",
+      "fireeye",
+      "isight-partners",
+      "russia",
+      "apt-tracking"
+    ],
+    "summary": "John Hultquist is an American threat intelligence analyst who worked at iSight Partners, FireEye, and Mandiant before becoming Chief Analyst at Google's Threat Intelligence Group, best known for his team's role in identifying and naming the Sandworm hacking group.",
+    "url": "people/john-hultquist.html"
+  },
+  {
+    "id": "jon-lech-johansen-dvd-jon",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jon Lech Johansen",
+    "slug": "jon-lech-johansen-dvd-jon",
+    "era": "1990s-Present",
+    "tags": [
+      "decss",
+      "dvd",
+      "drm",
+      "reverse engineering",
+      "norway",
+      "copyright law",
+      "fairplay",
+      "digital rights"
+    ],
+    "summary": "Jon Lech Johansen, widely known by the nickname \"DVD Jon\", is a Norwegian software engineer who as a teenager in 1999 helped release DeCSS, one of the first freely available programs able to decrypt the Content Scramble System used on commercial DVD-Video discs. He was prosecuted in Norway over the release and acquitted in 2003, and later wrote several tools that circumvented Apple's FairPlay digital rights management.",
+    "url": "people/jon-lech-johansen-dvd-jon.html"
+  },
+  {
+    "id": "kate-temkin",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Kate Temkin",
+    "slug": "kate-temkin",
+    "era": "2010s-Present",
+    "tags": [
+      "usb",
+      "hardware hacking",
+      "console hacking",
+      "reverse engineering",
+      "fpga",
+      "fault injection",
+      "open source hardware",
+      "nintendo switch"
+    ],
+    "summary": "Kate Temkin is a hardware and firmware engineer known for discovering and disclosing Fus\u00e9e Gel\u00e9e, an unpatchable bootROM vulnerability in NVIDIA Tegra processors (CVE-2018-6242), and for open-source USB and hardware-hacking tools including Facedancer, GreatFET, GlitchKit, and LUNA.",
+    "url": "people/kate-temkin.html"
+  },
+  {
+    "id": "lewis-de-payne",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Lewis De Payne",
+    "slug": "lewis-de-payne",
+    "era": "1970s-1990s",
+    "tags": [
+      "phone phreaking",
+      "social engineering",
+      "los angeles",
+      "kevin mitnick",
+      "telephone networks",
+      "computer fraud",
+      "1980s underground"
+    ],
+    "summary": "Lewis De Payne, known by the handle Rosco, is an American former phone phreaker and computer hacker who was a leading figure in the Southern California phreaking scene of the late 1970s and 1980s and an early close associate of Kevin Mitnick. He was charged as Mitnick's co-defendant in the 25-count federal indictment returned in Los Angeles in September 1996.",
+    "url": "people/lewis-de-payne.html"
+  },
+  {
+    "id": "liveoverflow-fabian-faessler",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Fabian Faessler",
+    "slug": "liveoverflow-fabian-faessler",
+    "era": "2015-Present",
+    "tags": [
+      "security-education",
+      "youtube",
+      "ctf",
+      "binary-exploitation",
+      "browser-exploitation",
+      "game-hacking",
+      "reverse-engineering",
+      "germany"
+    ],
+    "summary": "Fabian Faessler, known online as LiveOverflow, is a German security researcher and educator whose YouTube channel, started in March 2015, teaches capture-the-flag technique, binary and browser exploitation, fuzzing and game hacking. He is also the founder and CEO of the Berlin company Security Flag GmbH, registered in January 2019.",
+    "url": "people/liveoverflow-fabian-faessler.html"
+  },
+  {
+    "id": "lorrie-cranor",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Lorrie Faith Cranor",
+    "slug": "lorrie-cranor",
+    "era": "2000s-Present",
+    "tags": [
+      "usable security",
+      "privacy",
+      "passwords",
+      "carnegie mellon",
+      "p3p",
+      "ftc",
+      "academia",
+      "soups"
+    ],
+    "summary": "Lorrie Faith Cranor is an American computer scientist and engineering-and-public-policy researcher at Carnegie Mellon University, where she directs the CyLab Security and Privacy Institute and the CyLab Usable Privacy and Security Laboratory (CUPS). She helped establish usable privacy and security as a research field, chaired the W3C Platform for Privacy Preferences (P3P) working group, founded the Symposium on Usable Privacy and Security (SOUPS), and served as Chief Technologist of the U.S. Federal Trade Commission in 2016.",
+    "url": "people/lorrie-cranor.html"
+  },
+  {
+    "id": "loyd-blankenship-mentor",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Loyd Blankenship",
+    "slug": "loyd-blankenship-mentor",
+    "era": "1980s-1990s",
+    "tags": [
+      "hacker manifesto",
+      "phrack",
+      "legion of doom",
+      "the mentor",
+      "bbs",
+      "steve jackson games",
+      "gurps cyberpunk",
+      "hacker culture"
+    ],
+    "summary": "Loyd Blankenship, known by the handle The Mentor, is an American hacker and game designer who wrote The Conscience of a Hacker, the 1986 Phrack essay universally known as The Hacker Manifesto. His employment at Steve Jackson Games placed him at the centre of the 1990 US Secret Service raid that produced the landmark case Steve Jackson Games, Inc. v. United States Secret Service.",
+    "url": "people/loyd-blankenship-mentor.html"
+  },
+  {
+    "id": "maksim-yakubets",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Maksim Yakubets",
+    "slug": "maksim-yakubets",
+    "era": "2000s-Present",
+    "tags": [
+      "cybercrime",
+      "evil-corp",
+      "dridex",
+      "zeus",
+      "banking-trojan",
+      "ransomware",
+      "sanctions",
+      "russia"
+    ],
+    "summary": "Maksim Viktorovich Yakubets is a Russian national identified by US and UK authorities as the leader of Evil Corp, the Moscow-based group behind the Dridex banking malware. He was indicted in the United States and sanctioned by the US Treasury on 5 December 2019, when the State Department also announced a reward of up to $5 million for information leading to his arrest.",
+    "url": "people/maksim-yakubets.html"
+  },
+  {
+    "id": "marcia-hofmann",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Marcia Hofmann",
+    "slug": "marcia-hofmann",
+    "era": "2000s-Present",
+    "tags": [
+      "digital rights",
+      "cfaa",
+      "eff",
+      "privacy law",
+      "security research",
+      "free speech",
+      "foia"
+    ],
+    "summary": "Marcia Clare Hofmann is an American attorney known for her work on electronic privacy, computer crime law and free expression, including years as a staff attorney and special counsel at the Electronic Frontier Foundation. She has defended programmers and security researchers in high-profile computer crime cases, among them the appeals of Andrew \"weev\" Auernheimer and the Lavabit encryption-key dispute.",
+    "url": "people/marcia-hofmann.html"
+  },
+  {
+    "id": "mark-abene-phiber-optik",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Mark Abene",
+    "slug": "mark-abene-phiber-optik",
+    "era": "1980s-Present",
+    "tags": [
+      "phone phreaking",
+      "masters of deception",
+      "legion of doom",
+      "hacker crackdown",
+      "computer crime law",
+      "new york",
+      "security consulting"
+    ],
+    "summary": "Mark Abene, known by the handle Phiber Optik, is an American hacker who belonged to both the Legion of Doom and the New York group Masters of Deception, and who became one of the best-known defendants of the early 1990s federal crackdown on computer intrusion. After serving a one-year federal sentence and being released in November 1994, he worked as an information security consultant and public speaker.",
+    "url": "people/mark-abene-phiber-optik.html"
+  },
+  {
+    "id": "mark-curphey",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Mark Curphey",
+    "slug": "mark-curphey",
+    "era": "2000s-Present",
+    "tags": [
+      "owasp",
+      "application security",
+      "appsec",
+      "open source",
+      "software supply chain",
+      "startup founder"
+    ],
+    "summary": "Mark Curphey is a software and security practitioner who started the Open Web Application Security Project (OWASP) in 2001, the open community effort that became one of the most widely referenced sources of web application security guidance. He later founded the software composition analysis company SourceClear and co-founded Crash Override.",
+    "url": "people/mark-curphey.html"
+  },
+  {
+    "id": "micah-scott-scanlime",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Micah Elizabeth Scott",
+    "slug": "micah-scott-scanlime",
+    "era": "2000s-Present",
+    "tags": [
+      "hardware reverse engineering",
+      "embedded systems",
+      "usb",
+      "open source hardware",
+      "firmware",
+      "led art",
+      "documentation"
+    ],
+    "summary": "Micah Elizabeth Scott, known online as scanlime, is an American engineer and artist who works on hardware reverse engineering, embedded firmware and open source hardware. She is the creator of the Fadecandy LED controller, a co-author of the Fyre rendering program, the developer of the Virtual USB Analyzer at VMware, and the author of a long-running video series documenting her reverse engineering work.",
+    "url": "people/micah-scott-scanlime.html"
+  },
+  {
+    "id": "orin-kerr",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Orin Kerr",
+    "slug": "orin-kerr",
+    "era": "2000s-Present",
+    "tags": [
+      "cfaa",
+      "computer crime law",
+      "fourth amendment",
+      "digital privacy",
+      "surveillance law",
+      "legal scholarship",
+      "academia"
+    ],
+    "summary": "Orin Samuel Kerr is an American legal scholar and former U.S. Department of Justice computer crime prosecutor who is widely regarded as a founding figure in the academic field of computer crime law. His work on the Computer Fraud and Abuse Act (CFAA) and on the Fourth Amendment's application to digital evidence has been cited by courts up to and including the U.S. Supreme Court.",
+    "url": "people/orin-kerr.html"
+  },
+  {
+    "id": "paras-jha",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Paras Jha",
+    "slug": "paras-jha",
+    "era": "2010s-Present",
+    "tags": [
+      "mirai",
+      "botnet",
+      "ddos",
+      "iot-security",
+      "cybercrime",
+      "rutgers",
+      "click-fraud"
+    ],
+    "summary": "Paras Jha is an American computer science student who, under the online alias \"Anna-senpai,\" co-authored the Mirai botnet malware and pleaded guilty in federal court in December 2017 to computer crimes related to Mirai and to a separate series of denial-of-service attacks against Rutgers University.",
+    "url": "people/paras-jha.html"
+  },
+  {
+    "id": "paul-le-roux",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Paul Le Roux",
+    "slug": "paul-le-roux",
+    "era": "1990s-2010s",
+    "tags": [
+      "encryption",
+      "disk encryption",
+      "e4m",
+      "truecrypt",
+      "cybercrime",
+      "transnational crime",
+      "drug trafficking",
+      "arms trafficking",
+      "informant"
+    ],
+    "summary": "Paul Le Roux is a Zimbabwe-born programmer who wrote the disk-encryption program E4M (Encryption for the Masses) in the late 1990s before building a sprawling transnational criminal organization involved in drug trafficking, arms smuggling, and murder-for-hire, which led to his 2012 arrest and 2020 sentencing.",
+    "url": "people/paul-le-roux.html"
+  },
+  {
+    "id": "peter-tippett",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Peter Tippett",
+    "slug": "peter-tippett",
+    "era": "1980s-Present",
+    "tags": [
+      "antivirus",
+      "malware defense",
+      "certus international",
+      "ncsa",
+      "icsa labs",
+      "trusecure",
+      "risk management",
+      "security industry"
+    ],
+    "summary": "Peter Tippett is an American physician and software developer who founded the Cleveland software house FoundationWare, later renamed Certus International, whose commercial anti-virus products included Vaccine and NOVI. After Symantec acquired Certus International in late 1992 and folded its technology into Norton AntiVirus, Tippett moved into industry leadership, serving as president of the National Computer Security Association and later as chief scientist of ICSA.net and a senior executive at its successors TruSecure and Cybertrust.",
+    "url": "people/peter-tippett.html"
+  },
+  {
+    "id": "ralph-merkle",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ralph Merkle",
+    "slug": "ralph-merkle",
+    "era": "1970s-Present",
+    "tags": [
+      "cryptography",
+      "public key cryptography",
+      "merkle trees",
+      "hash functions",
+      "digital signatures",
+      "nanotechnology",
+      "cryonics"
+    ],
+    "summary": "Ralph C. Merkle is an American computer scientist and cryptographer who independently conceived public key cryptography as an undergraduate in 1974 and later invented Merkle trees, the hash-tree structure used in digital signatures, distributed file systems, and blockchains. He is also known for work on cryptographic hash functions, block ciphers at Xerox PARC, and, in a second career, molecular nanotechnology.",
+    "url": "people/ralph-merkle.html"
+  },
+  {
+    "id": "randy-suess",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Randy Suess",
+    "slug": "randy-suess",
+    "era": "1978-2019",
+    "tags": [
+      "bbs",
+      "cbbs",
+      "chinet",
+      "online communities",
+      "dial-up",
+      "s-100",
+      "public-access unix",
+      "chicago"
+    ],
+    "summary": "Randy Suess (1945-2019) was an American computer hobbyist who, with Ward Christensen, built CBBS, generally recognized as the first computer bulletin board system, brought online in Chicago on February 16, 1978. He later founded Chinet, one of the earliest public-access Unix systems.",
+    "url": "people/randy-suess.html"
+  },
+  {
+    "id": "renee-diresta",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Renee DiResta",
+    "slug": "renee-diresta",
+    "era": "2010s-Present",
+    "tags": [
+      "disinformation",
+      "influence operations",
+      "platform manipulation",
+      "Stanford Internet Observatory",
+      "information warfare",
+      "election integrity",
+      "propaganda",
+      "social media research"
+    ],
+    "summary": "Renee DiResta is an American researcher and writer on online manipulation, propaganda, and state-sponsored influence operations, best known as lead author of a Senate Intelligence Committee report on Russia's Internet Research Agency and as technical research manager at the Stanford Internet Observatory. She is the author of Invisible Rulers (2024) and an associate research professor at Georgetown University's McCourt School of Public Policy.",
+    "url": "people/renee-diresta.html"
+  },
+  {
+    "id": "ross-ulbricht",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ross Ulbricht",
+    "slug": "ross-ulbricht",
+    "era": "2010s-2020s",
+    "tags": [
+      "silk road",
+      "dark web",
+      "dread pirate roberts",
+      "bitcoin",
+      "tor",
+      "darknet markets",
+      "cybercrime",
+      "presidential pardon"
+    ],
+    "summary": "Ross Ulbricht is an American who created and operated the Silk Road, an early and influential dark web marketplace for illegal goods, under the alias \"Dread Pirate Roberts.\" Convicted in 2015 and sentenced to life in prison without parole, he was granted a full and unconditional pardon by President Donald Trump in January 2025.",
+    "url": "people/ross-ulbricht.html"
+  },
+  {
+    "id": "saurik-jay-freeman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jay Freeman",
+    "slug": "saurik-jay-freeman",
+    "era": "2000s-Present",
+    "tags": [
+      "ios jailbreaking",
+      "cydia",
+      "package manager",
+      "app store alternative",
+      "mobile security",
+      "reverse engineering",
+      "antitrust"
+    ],
+    "summary": "Jay Freeman, known online as \"saurik,\" is an American software developer and hacker best known for creating Cydia, the graphical package manager and alternative app distribution platform for jailbroken iOS devices.",
+    "url": "people/saurik-jay-freeman.html"
+  },
+  {
+    "id": "shafi-goldwasser",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Shafi Goldwasser",
+    "slug": "shafi-goldwasser",
+    "era": "1980s-Present",
+    "tags": [
+      "cryptography",
+      "zero-knowledge proofs",
+      "probabilistic encryption",
+      "turing award",
+      "complexity theory",
+      "provable security",
+      "mit"
+    ],
+    "summary": "Shafi Goldwasser is an American-Israeli computer scientist and cryptographer whose work with Silvio Micali established the theoretical foundations of modern provable security, including probabilistic encryption and zero-knowledge proofs. She and Micali received the 2012 ACM A.M. Turing Award for this body of work.",
+    "url": "people/shafi-goldwasser.html"
+  },
+  {
+    "id": "silvio-micali",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Silvio Micali",
+    "slug": "silvio-micali",
+    "era": "1980s-Present",
+    "tags": [
+      "cryptography",
+      "zero-knowledge proofs",
+      "probabilistic encryption",
+      "turing award",
+      "blockchain",
+      "algorand",
+      "mit"
+    ],
+    "summary": "Silvio Micali is an Italian-American computer scientist and MIT professor who co-invented probabilistic encryption and zero-knowledge proofs, work for which he shared the 2012 ACM Turing Award, and who later founded the Algorand blockchain protocol.",
+    "url": "people/silvio-micali.html"
+  },
+  {
+    "id": "skape-matt-miller",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Matt Miller",
+    "slug": "skape-matt-miller",
+    "era": "2000s-Present",
+    "tags": [
+      "exploit development",
+      "metasploit",
+      "meterpreter",
+      "shellcode",
+      "windows internals",
+      "exploit mitigation",
+      "memory safety",
+      "microsoft",
+      "uninformed journal"
+    ],
+    "summary": "Matt Miller, known online as skape, is a security researcher who was a core Metasploit Framework developer from 2004 to 2008, documented the Meterpreter payload, and edited the Uninformed journal before joining Microsoft, where he worked on Windows exploit mitigation research.",
+    "url": "people/skape-matt-miller.html"
+  },
+  {
+    "id": "susan-headley",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Susan Headley",
+    "slug": "susan-headley",
+    "era": "1970s-1990s",
+    "tags": [
+      "phone phreaking",
+      "social engineering",
+      "Susan Thunder",
+      "Pacific Bell",
+      "Los Angeles",
+      "pretexting",
+      "Senate testimony",
+      "DEF CON"
+    ],
+    "summary": "Susan Headley, known by the handle Susan Thunder (also rendered Susy Thunder), is an American former phone phreak and computer intruder who was active in the Los Angeles scene of the late 1970s and early 1980s. She is remembered chiefly as an early practitioner of what she called psychological subversion, the manipulation of people rather than machines to obtain access to telephone and computer systems.",
+    "url": "people/susan-headley.html"
+  },
+  {
+    "id": "taher-elgamal",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Taher Elgamal",
+    "slug": "taher-elgamal",
+    "era": "1980s-Present",
+    "tags": [
+      "cryptography",
+      "public-key cryptography",
+      "discrete logarithm",
+      "ssl",
+      "tls",
+      "netscape",
+      "digital signatures",
+      "web security"
+    ],
+    "summary": "Taher Elgamal is an Egyptian-American cryptographer who published the ElGamal public-key cryptosystem and signature scheme in 1985, the latter forming the basis of the NIST Digital Signature Algorithm. As chief scientist at Netscape Communications from 1995 to 1998 he led the company's security work during the development and release of the Secure Sockets Layer protocol, and he is widely described as the \"father of SSL.\"",
+    "url": "people/taher-elgamal.html"
+  },
+  {
+    "id": "tom-jennings",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Tom Jennings",
+    "slug": "tom-jennings",
+    "era": "1980s-Present",
+    "tags": [
+      "fidonet",
+      "bbs",
+      "store-and-forward",
+      "networking",
+      "diy culture",
+      "zines",
+      "queercore",
+      "internet history"
+    ],
+    "summary": "Tom Jennings is an American programmer and artist who wrote the Fido bulletin board system software in 1983\u20131984 and then created FidoNet, the store-and-forward messaging network that linked dial-up BBSes worldwide during the 1980s and early 1990s. He was also an early internet service provider operator through The Little Garden and a publisher of the queercore zine Homocore.",
+    "url": "people/tom-jennings.html"
+  },
+  {
+    "id": "val-smith",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Val Smith",
+    "slug": "val-smith",
+    "era": "2000s-Present",
+    "tags": [
+      "penetration testing",
+      "malware research",
+      "Metasploit",
+      "Attack Research",
+      "Offensive Computing",
+      "post-exploitation",
+      "reverse engineering",
+      "DEF CON"
+    ],
+    "summary": "Val Smith, known as \"Valsmith\", is an American security researcher who co-founded the public malware research project Offensive Computing and later founded the penetration testing firm Attack Research, LLC. He worked on the Metasploit Project development team and presented widely at DEF CON and Black Hat on tactical exploitation, post-exploitation and malware analysis.",
+    "url": "people/val-smith.html"
+  },
+  {
+    "id": "vitaly-kamluk",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Vitaly Kamluk",
+    "slug": "vitaly-kamluk",
+    "era": "2000s-Present",
+    "tags": [
+      "malware research",
+      "digital forensics",
+      "kaspersky",
+      "great",
+      "interpol",
+      "botnet takedown",
+      "bitscout",
+      "apt research"
+    ],
+    "summary": "Vitaly Kamluk is a Belarusian malware researcher and digital forensics specialist with Kaspersky's Global Research and Analysis Team, who was seconded in 2014 to the INTERPOL Global Complex for Innovation in Singapore. He took part in the 2015 international takedown of the Simda botnet and released the open-source remote forensics tool Bitscout in 2017.",
+    "url": "people/vitaly-kamluk.html"
+  },
+  {
+    "id": "ward-christensen",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ward Christensen",
+    "slug": "ward-christensen",
+    "era": "1970s-2024",
+    "tags": [
+      "bbs",
+      "xmodem",
+      "cbbs",
+      "file transfer",
+      "modems",
+      "cp/m",
+      "online communities",
+      "ibm"
+    ],
+    "summary": "Ward Christensen was an American computer hobbyist and longtime IBM systems engineer who created the XMODEM file transfer protocol in 1977 and, with Randy Suess, brought the first bulletin board system, CBBS, online in Chicago on February 16, 1978. His work established the technical and social template for dial-up online communities that preceded the public Internet.",
+    "url": "people/ward-christensen.html"
+  },
+  {
+    "id": "yan-shoshitaishvili",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Yan Shoshitaishvili",
+    "slug": "yan-shoshitaishvili",
+    "era": "2010s-Present",
+    "tags": [
+      "binary analysis",
+      "symbolic execution",
+      "angr",
+      "shellphish",
+      "ctf",
+      "academia",
+      "security education",
+      "cyber grand challenge"
+    ],
+    "summary": "Yan Shoshitaishvili, known online as Zardus, is a computer security researcher and associate professor at Arizona State University who co-created the open-source binary analysis framework angr. He is a long-time member and captain emeritus of the Shellphish CTF team, helped build the autonomous hacking system Shellphish entered in the DARPA Cyber Grand Challenge, and founded the pwn.college security education platform.",
+    "url": "people/yan-shoshitaishvili.html"
   }
 ]

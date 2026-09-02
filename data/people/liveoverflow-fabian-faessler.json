@@ -1,0 +1,114 @@
+{
+  "id": "liveoverflow-fabian-faessler",
+  "type": "person",
+  "title": "Fabian Faessler",
+  "slug": "liveoverflow-fabian-faessler",
+  "name": "Fabian Faessler",
+  "born": null,
+  "died": null,
+  "era": "2015-Present",
+  "tags": [
+    "security-education",
+    "youtube",
+    "ctf",
+    "binary-exploitation",
+    "browser-exploitation",
+    "game-hacking",
+    "reverse-engineering",
+    "germany"
+  ],
+  "summary": "Fabian Faessler, known online as LiveOverflow, is a German security researcher and educator whose YouTube channel, started in March 2015, teaches capture-the-flag technique, binary and browser exploitation, fuzzing and game hacking. He is also the founder and CEO of the Berlin company Security Flag GmbH, registered in January 2019.",
+  "whyThisMatters": "LiveOverflow is among the most widely followed independent security-education channels, with roughly 944,000 YouTube subscribers as of 2026. Its videos document the full working process of exploitation research, including failures and debugging, rather than presenting only finished results. That format helped move practical offensive-security knowledge, previously concentrated in conference talks and private CTF teams, into freely available public material, and the channel is a common entry point for newcomers to binary exploitation and CTF play.",
+  "knownFor": [
+    "Creating and presenting the LiveOverflow YouTube channel, launched 16 March 2015",
+    "Long-form video series on binary exploitation, memory corruption and fuzzing with AFL",
+    "A browser exploitation series built on WebKit and JavaScriptCore internals",
+    "Game-hacking tutorials based on the deliberately vulnerable game Pwn Adventure 3: Pwnie Island",
+    "The Minecraft: HACKED series on protocol analysis, decompilation and modding",
+    "A multi-part reconstruction of CVE-2021-3156 (sudo Baron Samedit) and analysis of CVE-2023-4863 (WebP)",
+    "Founding Security Flag GmbH, the Berlin company behind the channel, in January 2019"
+  ],
+  "sections": {
+    "overview": "<p>Fabian Faessler, who publishes under the handle LiveOverflow, is a German security researcher and educational video producer. His YouTube channel, created on 16 March 2015, publishes scripted and edited videos on offensive security topics including capture-the-flag (CTF) challenges, memory corruption, browser exploitation, web hacking, reverse engineering and game hacking. The channel describes itself simply as \"just a wannabe hacker... making videos about various IT security topics and participating in hacking competitions.\" As of September 2026 it lists roughly 944,000 subscribers and about 66.8 million total views.</p><h2>Approach and content</h2><p>Rather than producing short introductory tutorials, Faessler's videos typically follow a single technical problem from first principles to a working exploit, showing failed attempts and debugging sessions alongside successful results. Recurring series on the accompanying site liveoverflow.com include a browser exploitation course built around WebKit and JavaScriptCore internals, a game-hacking series based on the deliberately vulnerable multiplayer game Pwn Adventure 3: Pwnie Island, fuzzing walkthroughs using American Fuzzy Lop, and CTF challenge write-ups. A parallel series, Minecraft: HACKED, uses the game as a vehicle for teaching network protocol analysis, Java decompilation, modding with Fabric and Mixin, and protocol-level vulnerability hunting.</p><h2>Vulnerability walkthroughs</h2><p>Faessler has produced extended series reconstructing publicly disclosed vulnerabilities. In 2021 he published a multi-part treatment of CVE-2021-3156, the sudo heap-based buffer overflow known as Baron Samedit, which was published on 26 January 2021 and allows local privilege escalation to root through a command-line argument ending in a backslash. The series, beginning with an article dated 29 April 2021, credits Qualys researchers with the original discovery and demonstrates how the bug could be rediscovered by adapting AFL to fuzz command-line arguments; supporting code is published in his pwnedit repository. In May 2024 he published an analysis of CVE-2023-4863, the WebP image-parsing flaw in the VP8LBuildHuffmanTable() function, accompanied by an interactive visualisation of the out-of-bounds writes and referencing Ian Beer's OffensiveCon presentation on the bug.</p><h2>Business and professional background</h2><p>In an April 2019 post marking 300,000 subscribers, Faessler described roughly five years of professional IT security experience, initially as a freelance consultant, with the channel run alongside that work. He recounted two growth phases: viral videos in early 2018 that took the channel from about 40,000 to more than 100,000 subscribers, and a November 2018 video that accumulated 3.2 million views and carried the channel past 200,000 subscribers. Because German rules made it impractical to take advertising revenue as a freelancer, he registered the company Security Flag GmbH in January 2019, describing it as \"an experiment and my playground.\" The company's imprint lists him as its CEO and legal representative, and it is registered in Berlin. In the same post he noted that he was completing a master's degree and had engaged the creator PwnFunction as a technical writer to convert videos into written articles.</p><h2>Significance</h2><p>LiveOverflow is one of the most widely followed independent sources of technical security education on YouTube, and its material is frequently recommended as a starting point for people entering binary exploitation and CTF competition. Its influence stems less from original vulnerability discovery than from method: the videos document the reasoning, tooling and dead ends of exploitation work in a form that had previously circulated mainly in conference talks, mailing lists and private CTF teams. The channel is part of a wider shift in which security knowledge that once spread through closed communities became publicly documented, free and searchable.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2015-03-16",
+      "event": "The LiveOverflow YouTube channel is created."
+    },
+    {
+      "date": "2018",
+      "event": "Videos published in early 2018 take the channel from roughly 40,000 to more than 100,000 subscribers."
+    },
+    {
+      "date": "2018-11",
+      "event": "A video reaches 3.2 million views and the channel passes 200,000 subscribers."
+    },
+    {
+      "date": "2019-01",
+      "event": "Registers Security Flag GmbH, the company behind the channel, in Berlin."
+    },
+    {
+      "date": "2019-04",
+      "event": "Publishes \"Business, Money, 300k Subscribers and What's Next,\" marking 300,000 subscribers and describing the channel's finances."
+    },
+    {
+      "date": "2019-04-17",
+      "event": "Relaunches liveoverflow.com with written articles accompanying the videos."
+    },
+    {
+      "date": "2021-04-29",
+      "event": "Publishes the first part of a research series on the sudo vulnerability CVE-2021-3156, disclosed by Qualys on 26 January 2021."
+    },
+    {
+      "date": "2024-05-13",
+      "event": "Publishes an analysis of the WebP vulnerability CVE-2023-4863 in VP8LBuildHuffmanTable()."
+    },
+    {
+      "date": "2026-09",
+      "event": "The YouTube channel lists approximately 944,000 subscribers and 66.8 million total views."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Wikidata: Fabian Faessler (Q105515839)",
+      "url": "https://www.wikidata.org/wiki/Q105515839"
+    },
+    {
+      "title": "LiveOverflow - Imprint / Contact / Privacy Policy",
+      "url": "https://liveoverflow.com/imprint/"
+    },
+    {
+      "title": "LiveOverflow - Business, Money, 300k Subscribers and What's Next",
+      "url": "https://liveoverflow.com/business-money-300k-subs-and-whats-next/"
+    },
+    {
+      "title": "LiveOverflow YouTube channel",
+      "url": "https://www.youtube.com/@LiveOverflow"
+    },
+    {
+      "title": "LiveOverflow - Why Pick sudo as Research Target? - Part 1: Discovering the Bug",
+      "url": "https://liveoverflow.com/why-pick-sudo-research-target-part-1/"
+    },
+    {
+      "title": "LiveOverflow on GitHub",
+      "url": "https://github.com/LiveOverflow"
+    },
+    {
+      "title": "CVE Record: CVE-2021-3156",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2021-3156"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 7,
+    "lastReviewed": "2026-08-31",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "claude-taskforce-wave2-2026-08-31"
+  }
+}

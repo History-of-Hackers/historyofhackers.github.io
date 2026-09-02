@@ -1,0 +1,149 @@
+{
+  "id": "peter-tippett",
+  "type": "person",
+  "title": "Peter Tippett",
+  "slug": "peter-tippett",
+  "name": "Peter Tippett",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "antivirus",
+    "malware defense",
+    "certus international",
+    "ncsa",
+    "icsa labs",
+    "trusecure",
+    "risk management",
+    "security industry"
+  ],
+  "summary": "Peter Tippett is an American physician and software developer who founded the Cleveland software house FoundationWare, later renamed Certus International, whose commercial anti-virus products included Vaccine and NOVI. After Symantec acquired Certus International in late 1992 and folded its technology into Norton AntiVirus, Tippett moved into industry leadership, serving as president of the National Computer Security Association and later as chief scientist of ICSA.net and a senior executive at its successors TruSecure and Cybertrust.",
+  "whyThisMatters": "Tippett was one of the small group of entrepreneurs who turned anti-virus protection from a hobbyist concern into a commercial software category during the late 1980s and early 1990s. The integrity-checking and behaviour-blocking techniques developed at his company passed into Norton AntiVirus after Symantec's 1992 acquisition, giving his work a long afterlife in one of the most widely deployed security products of the decade. In his later roles at the NCSA and ICSA he helped build the certification schemes, prevalence studies and vendor consortia that gave the young security industry shared standards and shared data.",
+  "knownFor": [
+    "Founding FoundationWare, later Certus International, an early commercial anti-virus software house",
+    "The Vaccine and Certus PC anti-virus and system-integrity packages",
+    "The NOVI anti-virus system, whose technology went into Norton AntiVirus after Symantec's 1992 acquisition",
+    "Serving as president and executive director of the National Computer Security Association",
+    "Serving as chief scientist of ICSA.net and a senior executive at TruSecure and Cybertrust",
+    "Widely cited commentary on virus epidemiology and the cost of malware outbreaks"
+  ],
+  "sections": {
+    "overview": "<h2>Background</h2><p>Peter Tippett trained as a physician and biochemist before moving into computer security, and he continued to hold medical qualifications throughout his technology career. That dual background shaped the way he framed the malware problem in public: he consistently described computer viruses in epidemiological terms, arguing about prevalence, rates of spread and the cost of infection rather than about individual virus specimens.</p><h2>FoundationWare and the first products</h2><p>By the late 1980s Tippett was president of FoundationWare Inc., a software house based in Cleveland, Ohio. The company sold a commercial PC anti-virus product called Vaccine, which was listed at $189 in Ralph Roberts' 1988 survey <em>COMPUTE!'s Computer Viruses</em> — a book that had to distinguish it explicitly from a similarly named product from World Wide Data and from several public-domain programs of the same name. FoundationWare's approach was less about scanning for known virus signatures than about controlling and verifying what ran on a machine: file-integrity checking, execution control that blocked unapproved programs from loading into memory, and recovery of the partition table, boot record and file allocation table after damage.</p><p>In 1990 the company drew wider attention with a report by Tippett titled <em>The Kinetic Replication Of Computer Viruses</em>, which predicted that viruses would affect millions of personal computers and reach what it called epidemic proportions within a few years. <em>Virus Bulletin</em> devoted its May 1990 editorial to the report, noting both that FoundationWare had a commercial interest in the conclusion and that early evidence suggested the forecast might prove broadly correct. In the same editorial the magazine recorded that FoundationWare's flagship package, Certus, had been designed by Tippett in association with Mark Hosmer; <em>Virus Bulletin</em> reviewed the Certus package the following month.</p><h2>Certus International and the Symantec acquisition</h2><p>FoundationWare was reorganised as Certus International, taking its name from the product, and became one of the recognised anti-virus vendors of the period, participating in the National Computer Security Association's Anti-Virus Product Developers group alongside Symantec, McAfee Associates, Central Point Software, XTree and Fifth Generation Systems. Its later scanner was called NOVI.</p><p>In early October 1992 Symantec announced that it had acquired Certus International. <em>Virus Bulletin</em> reported the deal in its November 1992 issue, quoting Symantec's Rod Turner as saying the Certus technology would assist in developing a more comprehensive anti-virus solution and marked the company's entry into the systems security market. The absorption was consequential: Norton AntiVirus 3.0, reviewed by <em>Virus Bulletin</em> in November 1993, was described as the offspring of the Certus NOVI acquisition, and a 1994 profile recorded that NOVI's file-watch component became the product's \"virus sensor\" while the heart of its scanning engine was an enhancement of NOVI's \"warp drive\". Tippett moved to Symantec with the acquisition and was listed on <em>Virus Bulletin</em>'s editorial advisory board under the Symantec affiliation into early 1995.</p><h2>NCSA, ICSA and the security industry</h2><p>In March 1995 the National Computer Security Association announced Tippett's appointment as its president and executive director. Under his leadership the NCSA expanded from anti-virus certification into broader product testing and industry coordination; in September 1995 it organised a Firewall Product Developers' Consortium intended, in Tippett's words, to bring together firewall vendors, the customers who bought the products and independent security experts. He also became a frequent conference speaker on the economics of malware, presenting NCSA virus-prevalence studies and cost models that argued anti-virus software was strongly cost-effective but was often deployed or maintained incorrectly.</p><p>The NCSA became ICSA and then ICSA.net, where Tippett served as chief scientist. In that role he was one of the most quoted analysts of the May 2000 ILOVEYOU outbreak; <em>Time</em> described him as chief scientist at ICSA.net and reported his assessment that the Love Bug was the biggest virus outbreak in history by at least threefold. The company was subsequently renamed TruSecure, merged with BeTrusted in November 2004 to form Cybertrust, and was acquired by Verizon Business in 2007. Tippett held senior executive positions across that lineage.</p><h2>Later work</h2><p>After the Verizon acquisition Tippett remained with the company, working on technology innovation and on health-care information technology, where his medical training was directly relevant. He later founded careMESH, a health-care communications company, where he is listed as founder and chief executive. Over the course of his career he also served on advisory bodies concerned with computer ethics and information technology policy.</p><h2>Assessment</h2><p>Tippett's technical legacy sits mostly inside other companies' products: the integrity-checking and execution-control ideas built at FoundationWare and Certus International were absorbed into Norton AntiVirus after 1992 and shipped to a mass market under a different name. His more durable contribution may be argumentative rather than technical. By insisting that malware be measured — how many machines are infected, how fast it spreads, what an outbreak costs — he helped push the security industry towards prevalence surveys, product certification and evidence-based risk arguments, an approach that later became standard practice in enterprise security reporting.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1988",
+      "event": "Vaccine, a commercial PC anti-virus product from Tippett's Cleveland-based company FoundationWare, is listed among available anti-virus packages in Ralph Roberts' book COMPUTE!'s Computer Viruses."
+    },
+    {
+      "date": "1990-05",
+      "event": "Virus Bulletin devotes its editorial to The Kinetic Replication Of Computer Viruses, a report by FoundationWare president Dr. Peter Tippett predicting a global virus epidemic, and notes that FoundationWare's Certus package was designed by Tippett with Mark Hosmer."
+    },
+    {
+      "date": "1990-06",
+      "event": "Virus Bulletin publishes a product review of FoundationWare's Certus package, then priced at $189."
+    },
+    {
+      "date": "1992-10",
+      "event": "Symantec announces it has acquired Certus International, the Ohio software house developing the NOVI anti-virus system."
+    },
+    {
+      "date": "1993-11",
+      "event": "Virus Bulletin reviews Norton AntiVirus 3.0, describing it as the product of Symantec's acquisition of Certus NOVI."
+    },
+    {
+      "date": "1995-03",
+      "event": "The National Computer Security Association announces the appointment of Tippett, formerly of Symantec, as its president and executive director."
+    },
+    {
+      "date": "1995-09",
+      "event": "The NCSA under Tippett organises a Firewall Product Developers' Consortium bringing together firewall vendors, buyers and security experts."
+    },
+    {
+      "date": "1998-06",
+      "event": "Tippett, by then associated with ICSA, opens the IVPC'98 conference with a talk on the cost of computer viruses and the epidemiology of malicious software."
+    },
+    {
+      "date": "2000-05",
+      "event": "As chief scientist of ICSA.net, Tippett is widely quoted on the ILOVEYOU (Love Bug) outbreak, calling it the biggest virus outbreak in history by at least threefold."
+    },
+    {
+      "date": "2004-11",
+      "event": "TruSecure, the successor to ICSA.net, merges with BeTrusted; the combined company is incorporated in Virginia as Cybertrust."
+    },
+    {
+      "date": "2007",
+      "event": "Verizon Business acquires Cybertrust; Tippett continues in senior roles at Verizon."
+    }
+  ],
+  "relatedPeople": [
+    "john-mcafee",
+    "fred-cohen",
+    "eugene-kaspersky"
+  ],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Peter Tippett - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peter_Tippett"
+    },
+    {
+      "title": "Virus Bulletin, May 1990 - editorial on the FoundationWare report by Dr. Peter Tippett",
+      "url": "https://www.virusbulletin.com/uploads/pdf/magazine/1990/199005.pdf"
+    },
+    {
+      "title": "Virus Bulletin, June 1990 - product review of FoundationWare's Certus",
+      "url": "https://www.virusbulletin.com/uploads/pdf/magazine/1990/199006.pdf"
+    },
+    {
+      "title": "Virus Bulletin, November 1992 - Industry Watch: Symantec acquires Certus International",
+      "url": "https://www.virusbulletin.com/uploads/pdf/magazine/1992/199211.pdf"
+    },
+    {
+      "title": "Virus Bulletin, November 1993 - product review of Norton AntiVirus 3.0",
+      "url": "https://www.virusbulletin.com/uploads/pdf/magazine/1993/199311.pdf"
+    },
+    {
+      "title": "Virus Bulletin, February 1994 - profile describing Certus/NOVI technology inside Norton AntiVirus",
+      "url": "https://www.virusbulletin.com/uploads/pdf/magazine/1994/199402.pdf"
+    },
+    {
+      "title": "Virus Bulletin, March 1995 - NCSA appoints Dr Peter Tippett president and executive director",
+      "url": "https://www.virusbulletin.com/uploads/pdf/magazine/1995/199503.pdf"
+    },
+    {
+      "title": "Virus Bulletin, September 1995 - NCSA Firewall Product Developers' Consortium",
+      "url": "https://www.virusbulletin.com/uploads/pdf/magazine/1995/199509.pdf"
+    },
+    {
+      "title": "Virus Bulletin, June 1998 - IVPC'98 conference report on Dr Peter Tippett of ICSA",
+      "url": "https://www.virusbulletin.com/uploads/pdf/magazine/1998/199806.pdf"
+    },
+    {
+      "title": "Attack of the Love Bug - Time (15 May 2000)",
+      "url": "https://time.com/archive/6953596/attack-of-the-love-bug-2/"
+    },
+    {
+      "title": "Ralph Roberts, COMPUTE!'s Computer Viruses (COMPUTE! Books, 1988) - entry for Vaccine from FoundationWare",
+      "url": "https://raw.githubusercontent.com/opsxcq/mirror-vxheaven.org/master/vxheaven.org/lib/arr00.html"
+    },
+    {
+      "title": "Cybertrust - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cybertrust"
+    },
+    {
+      "title": "careMESH leadership page",
+      "url": "https://www.caremesh.com/leadership"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 13,
+    "lastReviewed": "2026-08-31",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "claude-taskforce-wave2-2026-08-31"
+  }
+}

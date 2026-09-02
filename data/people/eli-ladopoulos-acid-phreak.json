@@ -1,0 +1,112 @@
+{
+  "id": "eli-ladopoulos-acid-phreak",
+  "type": "person",
+  "title": "Elias Ladopoulos",
+  "slug": "eli-ladopoulos-acid-phreak",
+  "name": "Elias Ladopoulos",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "masters of deception",
+    "phone phreaking",
+    "legion of doom",
+    "hacker crackdown",
+    "computer crime law",
+    "new york",
+    "information security"
+  ],
+  "summary": "Elias Ladopoulos, known by the handle Acid Phreak, is a New York technologist who co-founded the hacking group Masters of Deception in the late 1980s and was one of five members federally indicted in 1992 for intrusions into telephone company systems. After serving his sentence he worked in professional information security and later founded technology companies.",
+  "whyThisMatters": "Ladopoulos was a central figure in the Masters of Deception, whose 1992 federal prosecution was one of the defining American computer-crime cases of the early 1990s and among the first to rely on court-authorized wiretaps against hackers. The case helped shape public and legal understanding of where exploratory intrusion ended and federal crime began. The surrounding coverage also produced the widely repeated but disputed narrative of a hacker gang war between MOD and the Legion of Doom. His later move into corporate security work is often cited as an example of the early underground's absorption into the professional security industry.",
+  "knownFor": [
+    "Co-founding the Masters of Deception under the handle Acid Phreak",
+    "Being one of five MOD members federally indicted in 1992 over telephone network intrusions",
+    "Association with the disputed MOD-versus-Legion of Doom \"Great Hacker War\" narrative",
+    "Later work in enterprise information security at Instinet and NetSec",
+    "Founding Kinetic Global Markets (2008) and Supermassive Corp (2013)"
+  ],
+  "sections": {
+    "overview": "<h2>Background</h2>\n<p>Elias Ladopoulos, who used the handle Acid Phreak, is a New York City-based technologist known for his role in the computer underground of the late 1980s and early 1990s. He came out of the same New York bulletin-board and telephone-phreaking scene that produced several of the era's best-known hackers, and his activity centered on the switching systems and administrative computers operated by the Regional Bell Operating Companies.</p>\n<h2>Founding the Masters of Deception</h2>\n<p>Ladopoulos co-founded the Masters of Deception (MOD) in the late 1980s together with Paul Stira, known as Scorpion, and a member using the handle HAC. Mark Abene, who used the handle Phiber Optik and had previously been associated with the Legion of Doom, was recruited into the group; John Lee (Corrupt) and Julio Fernandez (Outlaw) were also among its members. The group's name was in part a play on that of the Legion of Doom, the older and largely Texas-based group with which MOD is often contrasted.</p>\n<p>MOD operated as a closed circle rather than a publishing collective. Members used handles instead of names, and technical knowledge was shared inside the group through what amounted to degrees of initiation, an approach borrowed from the compartmentalized structure the Legion of Doom had used. The group's principal targets were telephone company switches and the computer systems attached to them.</p>\n<h2>Investigations and the 1992 indictment</h2>\n<p>On 15 January 1990, AT&amp;T's long-distance network collapsed in a nationwide outage. The failure was subsequently traced to a fault in the software running the company's switching systems rather than to intrusion, but the incident sharpened law-enforcement attention on the phone-phreaking scene. On 24 January 1990, the U.S. Secret Service and the New York State Police searched the homes of several New York hackers, among them Ladopoulos, Abene and Stira.</p>\n<p>The investigation continued, and on 8 July 1992 a federal grand jury in Manhattan returned an eleven-count indictment against Abene and four other MOD members. The case, brought by the U.S. Attorney's Office for the Southern District of New York and prosecuted by Assistant U.S. Attorneys Stephen Fishbein and Geoffrey S. Berman, relied on court-authorized wiretaps of the defendants' telephone conversations. All five defendants pleaded guilty within roughly six months and were sentenced during 1993 to terms of probation or imprisonment. Ladopoulos pleaded guilty and was sentenced to six months at a supervised camp facility followed by six months of home confinement; Abene received the longest term, a year in federal prison, and was released in November 1994.</p>\n<h2>The disputed \"gang war\"</h2>\n<p>Press coverage of the prosecutions, and the 1995 book <em>Masters of Deception: The Gang That Ruled Cyberspace</em> by Michelle Slatalla and Joshua Quittner, popularized the idea of a \"Great Hacker War\" fought online between MOD and the Legion of Doom. Participants have disputed that framing. Abene has described the supposed gang war as a fabrication by prosecutors amplified by sensationalist reporting, and the episode is now generally treated as a contested and partly mythologized account rather than a settled historical event.</p>\n<h2>Later career</h2>\n<p>After completing his sentence, Ladopoulos moved into professional information security, working as a security engineer at the electronic brokerage Instinet and building security teams there, and later serving as vice president of operations at the managed security firm NetSec, which subsequently became part of Verizon. In 2008 he co-founded Kinetic Global Markets with Roger Ehrenberg, working on systematic trading, and in 2013 he founded Supermassive Corp, an incubation studio for technology start-ups staffed from the hacker community.</p>\n<h2>Significance</h2>\n<p>The MOD prosecutions were among the most consequential American computer-crime cases of the early 1990s, notable for the use of court-authorized wiretaps against hackers and for the public argument they provoked about whether exploratory intrusion should be treated as a serious federal crime. Ladopoulos's trajectory, from teenage defendant to security practitioner and company founder, became one of the standard illustrations of how members of that generation's underground moved into the professional security industry.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1980s",
+      "event": "Active in the New York computer underground under the handle Acid Phreak."
+    },
+    {
+      "date": "1980s",
+      "event": "Co-founds the Masters of Deception with Paul Stira (Scorpion) and a member using the handle HAC; Mark Abene (Phiber Optik) is recruited into the group."
+    },
+    {
+      "date": "1990-01-15",
+      "event": "AT&T's long-distance network suffers a nationwide collapse, later attributed to a software fault in its switching systems rather than intrusion."
+    },
+    {
+      "date": "1990-01-24",
+      "event": "The U.S. Secret Service and New York State Police search the homes of New York hackers including Ladopoulos, Mark Abene and Paul Stira."
+    },
+    {
+      "date": "1992-07-08",
+      "event": "A federal grand jury in Manhattan returns an eleven-count indictment against five Masters of Deception members."
+    },
+    {
+      "date": "1993",
+      "event": "All five defendants having pleaded guilty, sentences of probation or imprisonment are handed down; Ladopoulos receives six months at a supervised camp facility followed by six months of home confinement."
+    },
+    {
+      "date": "1995",
+      "event": "Michelle Slatalla and Joshua Quittner publish Masters of Deception: The Gang That Ruled Cyberspace, popularizing the group's story."
+    },
+    {
+      "date": "2008",
+      "event": "Co-founds Kinetic Global Markets with Roger Ehrenberg."
+    },
+    {
+      "date": "2013",
+      "event": "Founds Supermassive Corp, an incubation studio for technology start-ups."
+    }
+  ],
+  "relatedPeople": [
+    "mark-abene-phiber-optik"
+  ],
+  "relatedGroups": [
+    "masters-of-deception-mod",
+    "legion-of-doom-lod"
+  ],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Elias Ladopoulos - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Elias_Ladopoulos"
+    },
+    {
+      "title": "Masters of Deception - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Masters_of_Deception"
+    },
+    {
+      "title": "Mark Abene - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mark_Abene"
+    },
+    {
+      "title": "Great Hacker War - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Great_Hacker_War"
+    },
+    {
+      "title": "Bruce Sterling, The Hacker Crackdown: Law and Disorder on the Electronic Frontier (Project Gutenberg full text)",
+      "url": "https://www.gutenberg.org/cache/epub/101/pg101.txt"
+    },
+    {
+      "title": "Michelle Slatalla and Joshua Quittner, Masters of Deception: The Gang That Ruled Cyberspace (Internet Archive)",
+      "url": "https://archive.org/details/mastersofdecepti00slat"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 6,
+    "lastReviewed": "2026-08-31",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "claude-taskforce-wave2-2026-08-31"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "loyd-blankenship-mentor",
+  "type": "person",
+  "title": "Loyd Blankenship",
+  "slug": "loyd-blankenship-mentor",
+  "name": "Loyd Blankenship",
+  "born": null,
+  "died": null,
+  "era": "1980s-1990s",
+  "tags": [
+    "hacker manifesto",
+    "phrack",
+    "legion of doom",
+    "the mentor",
+    "bbs",
+    "steve jackson games",
+    "gurps cyberpunk",
+    "hacker culture"
+  ],
+  "summary": "Loyd Blankenship, known by the handle The Mentor, is an American hacker and game designer who wrote The Conscience of a Hacker, the 1986 Phrack essay universally known as The Hacker Manifesto. His employment at Steve Jackson Games placed him at the centre of the 1990 US Secret Service raid that produced the landmark case Steve Jackson Games, Inc. v. United States Secret Service.",
+  "whyThisMatters": "The Conscience of a Hacker is the single most reproduced statement of hacker self-identity from the 1980s computer underground and shaped how the subculture described its own motivations. Blankenship's association with the 1990 Secret Service raid on Steve Jackson Games also connects him to one of the earliest American court decisions to limit law enforcement seizures of bulletin board systems and electronic mail. Together the essay and the case mark a turning point at which computer intrusion became both a cultural identity and a civil liberties question. His work on GURPS Cyberpunk further illustrates how closely the hacker underground and cyberpunk fiction were intertwined in that period.",
+  "knownFor": [
+    "Writing The Conscience of a Hacker (The Hacker Manifesto) in 1986",
+    "Publishing under the handle The Mentor in Phrack",
+    "Membership in the Legion of Doom and Extasyy Elite",
+    "Authoring the GURPS Cyberpunk role-playing sourcebook",
+    "Being the connection that triggered the 1990 Secret Service raid on Steve Jackson Games"
+  ],
+  "sections": {
+    "overview": "<h2>Background</h2>\n<p>Loyd Blankenship is an American computer hacker, writer and game designer who used the handle The Mentor. He was active in the mid-1980s United States bulletin board system (BBS) underground and was a member of the hacking groups Extasyy Elite and the Legion of Doom, two of the best-known crews of the era. He is most closely associated with Austin, Texas, where he later worked in the tabletop game industry.</p>\n\n<h2>The Conscience of a Hacker</h2>\n<p>On 8 January 1986, shortly after being arrested, Blankenship wrote a short first-person essay titled <em>The Conscience of a Hacker</em>. It was published in the underground electronic magazine <em>Phrack</em>, in Volume One, Issue 7, as the third file of ten, under the byline The Mentor. The text opens with the line “Another one got caught today, it's all over the papers,” and argues that the hackers described in press accounts were driven by curiosity and a desire to explore rather than by malice.</p>\n<p>The essay became far better known as <em>The Hacker Manifesto</em>. Blankenship has described writing it while feeling cut off from hacking after his arrest, and as an attempt to explain the motivations behind the activity to a public whose impressions had been shaped largely by the 1983 film <em>WarGames</em>. Its combination of brevity, defiance and idealism made it one of the most widely reproduced documents in computer underground culture.</p>\n\n<h2>Steve Jackson Games and the 1990 Secret Service raid</h2>\n<p>Blankenship was hired by the Austin tabletop publisher Steve Jackson Games in 1989, where he wrote the cyberpunk role-playing sourcebook <em>GURPS Cyberpunk</em>. On 1 March 1990, the United States Secret Service raided the company's offices as part of an investigation into the circulation of a proprietary BellSouth 911 document, which investigators had traced to a bulletin board system Blankenship operated. Agents seized three of the company's computers and more than 300 floppy disks, including material from the company's Illuminati BBS and the master copy of the <em>GURPS Cyberpunk</em> manuscript, which investigators characterised as a handbook for computer crime.</p>\n<p>The seizure forced the book to be reconstructed from earlier drafts and delayed its release; <em>GURPS Cyberpunk</em> was published in 1990. The raid is frequently but incorrectly attributed to Operation Sundevil, a separate nationwide crackdown that took place around the same period.</p>\n\n<h2>Steve Jackson Games v. United States Secret Service</h2>\n<p>The raid led Steve Jackson Games to sue the federal government, in a case supported by the newly formed Electronic Frontier Foundation. On 12 March 1993 the United States District Court for the Western District of Texas ruled largely in the company's favour, awarding 50,000 US dollars in statutory damages and 250,000 US dollars in attorneys' fees; the court found that the Secret Service had no basis to suspect the company of wrongdoing. In October 1994 the Fifth Circuit Court of Appeals addressed the remaining count, which concerned whether the seizure of stored electronic mail amounted to an interception of communications.</p>\n\n<h2>Significance and legacy</h2>\n<p>Blankenship occupies an unusual double position in computer history: he is both the author of the most widely quoted statement of 1980s hacker self-identity and an incidental cause of one of the first court cases to extend constitutional protections to electronic speech and bulletin board systems. The Electronic Frontier Foundation has described the Steve Jackson Games case as an early step toward establishing that online speech is speech.</p>\n<p><em>The Conscience of a Hacker</em> has circulated continuously since 1986. It was quoted in the 1995 film <em>Hackers</em>, appeared as a poster in the 2010 film <em>The Social Network</em>, and was referenced by Edward Snowden in his memoir <em>Permanent Record</em>. Its persistence has made it a recurring point of reference in debates over how computer intrusion is understood and prosecuted, and it is routinely cited in histories of the 1980s and 1990s computer underground.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1986-01-08",
+      "event": "Writes The Conscience of a Hacker shortly after being arrested."
+    },
+    {
+      "date": "1986",
+      "event": "The essay is published in Phrack, Volume One, Issue 7, file 3 of 10, under the handle The Mentor."
+    },
+    {
+      "date": "1989",
+      "event": "Hired by the Austin, Texas tabletop publisher Steve Jackson Games."
+    },
+    {
+      "date": "1990-03-01",
+      "event": "US Secret Service agents raid Steve Jackson Games, seizing computers, over 300 floppy disks and the master copy of the GURPS Cyberpunk manuscript."
+    },
+    {
+      "date": "1990",
+      "event": "GURPS Cyberpunk is published after being reconstructed from earlier drafts."
+    },
+    {
+      "date": "1993-03-12",
+      "event": "The US District Court for the Western District of Texas rules largely for Steve Jackson Games, awarding $50,000 in statutory damages and $250,000 in attorneys' fees."
+    },
+    {
+      "date": "1994-10",
+      "event": "The Fifth Circuit Court of Appeals rules on the remaining count concerning the seizure of stored electronic mail."
+    },
+    {
+      "date": "1995",
+      "event": "The manifesto is quoted in the film Hackers, misattributed there to 2600 magazine."
+    },
+    {
+      "date": "2010",
+      "event": "The manifesto appears as a poster in the film The Social Network."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Loyd Blankenship - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Loyd_Blankenship"
+    },
+    {
+      "title": "The Conscience of a Hacker - Phrack Inc., Volume One, Issue 7, Phile 3 of 10",
+      "url": "http://phrack.org/issues/7/3.html"
+    },
+    {
+      "title": "Hacker Manifesto - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hacker_Manifesto"
+    },
+    {
+      "title": "Steve Jackson Games, Inc. v. United States Secret Service - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Steve_Jackson_Games,_Inc._v._United_States_Secret_Service"
+    },
+    {
+      "title": "Steve Jackson Games v. Secret Service Case Archive - Electronic Frontier Foundation",
+      "url": "https://www.eff.org/cases/steve-jackson-games-v-secret-service-case-archive"
+    },
+    {
+      "title": "GURPS Cyberpunk - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/GURPS_Cyberpunk"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 6,
+    "lastReviewed": "2026-08-31",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "claude-taskforce-wave2-2026-08-31"
+  }
+}
