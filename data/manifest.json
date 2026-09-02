@@ -493,7 +493,7 @@
       "open source",
       "port scanning"
     ],
-    "summary": "Gordon Lyon, known by the handle 'Fyodor,' wrote and released the Nmap Security Scanner in 1997 and has remained its lead developer for nearly three decades, while also founding Insecure.Org, SecLists.Org, and SecTools.Org \u2014 long-running pieces of infrastructure that the security research community still relies on.",
+    "summary": "Gordon Lyon, known by the handle 'Fyodor,' wrote and released the Nmap Security Scanner in 1997 and has remained its lead developer for nearly three decades, while also founding Insecure.Org, SecLists.Org, and SecTools.Org — long-running pieces of infrastructure that the security research community still relies on.",
     "url": "people/gordon-lyon.html"
   },
   {
@@ -585,7 +585,7 @@
       "iris recognition",
       "Germany"
     ],
-    "summary": "Jan Krissler, known by the handle 'Starbug', is a German security researcher and long-time Chaos Computer Club member whose public demonstrations against fingerprint and iris authentication systems \u2014 including defeating Apple's Touch ID days after its 2013 launch and reconstructing a German cabinet minister's fingerprint from photographs in 2014 \u2014 became landmark illustrations of the fragility of biometric security.",
+    "summary": "Jan Krissler, known by the handle 'Starbug', is a German security researcher and long-time Chaos Computer Club member whose public demonstrations against fingerprint and iris authentication systems — including defeating Apple's Touch ID days after its 2013 launch and reconstructing a German cabinet minister's fingerprint from photographs in 2014 — became landmark illustrations of the fragility of biometric security.",
     "url": "people/jan-krissler.html"
   },
   {
@@ -921,7 +921,7 @@
     "id": "mikko-hypponen",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Mikko Hypp\u00f6nen",
+    "title": "Mikko Hyppönen",
     "slug": "mikko-hypponen",
     "era": "1990s-Present",
     "tags": [
@@ -932,7 +932,7 @@
       "antivirus",
       "TED speaker"
     ],
-    "summary": "Mikko Hypp\u00f6nen is a Finnish computer security researcher who spent over three decades at F-Secure and its successor WithSecure, becoming one of the most publicly recognized voices in malware research and cybersecurity communication, known for tracking down early virus authors and for widely viewed talks on cybercrime.",
+    "summary": "Mikko Hyppönen is a Finnish computer security researcher who spent over three decades at F-Secure and its successor WithSecure, becoming one of the most publicly recognized voices in malware research and cybersecurity communication, known for tracking down early virus authors and for widely viewed talks on cybercrime.",
     "url": "people/mikko-hypponen.html"
   },
   {
@@ -1025,7 +1025,7 @@
       "Black Hat",
       "GitHub Security Lab"
     ],
-    "summary": "Nicolas \"Nico\" Waisman is an Argentine security researcher who spent over a decade at Immunity, Inc. \u2014 rising to Vice President of Latin America \u2014 where he built a reputation as a globally recognized heap-exploitation expert, later contributing to GitHub's Security Lab research team.",
+    "summary": "Nicolas \"Nico\" Waisman is an Argentine security researcher who spent over a decade at Immunity, Inc. — rising to Vice President of Latin America — where he built a reputation as a globally recognized heap-exploitation expert, later contributing to GitHub's Security Lab research team.",
     "url": "people/nicolas-waisman.html"
   },
   {
@@ -1124,7 +1124,7 @@
       "patents",
       "chief-technology-officer"
     ],
-    "summary": "Renaud Deraison is a French-born security researcher who created the Nessus vulnerability scanner as a lyc\u00e9e student in 1998 and went on to co-found Tenable Network Security in 2002, serving as the company's chief technology officer through its 2018 Nasdaq IPO before moving into advisory and board roles across the cybersecurity industry.",
+    "summary": "Renaud Deraison is a French-born security researcher who created the Nessus vulnerability scanner as a lycée student in 1998 and went on to co-found Tenable Network Security in 2002, serving as the company's chief technology officer through its 2018 Nasdaq IPO before moving into advisory and board roles across the cybersecurity industry.",
     "url": "people/renaud-deraison.html"
   },
   {
@@ -1469,7 +1469,7 @@
       "vulnerability-research",
       "white-hat"
     ],
-    "summary": "DEVCORE (\u6234\u592b\u5bc7\u723e) is a Taipei-based offensive-security firm founded in 2012 as Taiwan's first company to offer red-team exercises, whose research bench \u2014 not just Orange Tsai \u2014 has produced hundreds of CVEs, the ProxyLogon/ProxyShell Exchange Server disclosures, and repeated Pwn2Own titles.",
+    "summary": "DEVCORE (戴夫寇爾) is a Taipei-based offensive-security firm founded in 2012 as Taiwan's first company to offer red-team exercises, whose research bench — not just Orange Tsai — has produced hundreds of CVEs, the ProxyLogon/ProxyShell Exchange Server disclosures, and repeated Pwn2Own titles.",
     "url": "groups/devcore.html"
   },
   {
@@ -1752,7 +1752,7 @@
       "mobile security",
       "open source"
     ],
-    "summary": "Frida is an open-source, JavaScript-scriptable dynamic instrumentation toolkit created by Norwegian developer Ole Andr\u00e9 Vadla Ravn\u00e5s, which lets researchers inject code into running processes on the fly to hook functions and inspect behavior without source code, becoming a foundational tool in mobile app reverse engineering and bug bounty hunting.",
+    "summary": "Frida is an open-source, JavaScript-scriptable dynamic instrumentation toolkit created by Norwegian developer Ole André Vadla Ravnås, which lets researchers inject code into running processes on the fly to hook functions and inspect behavior without source code, becoming a foundational tool in mobile app reverse engineering and bug bounty hunting.",
     "url": "tools/frida.html"
   },
   {
@@ -2526,7 +2526,7 @@
       "media",
       "documentary"
     ],
-    "summary": "How movies and documentaries like WarGames, Hackers, and The Social Network have shaped the public's perception of hacker culture \u2014 for better and for worse.",
+    "summary": "How movies and documentaries like WarGames, Hackers, and The Social Network have shaped the public's perception of hacker culture — for better and for worse.",
     "url": "fields/hackers-in-film.html"
   },
   {
@@ -2640,7 +2640,7 @@
     "id": "loic-duflot",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Lo\u00efc Duflot",
+    "title": "Loïc Duflot",
     "slug": "loic-duflot",
     "era": "2006-2011 (documented research period)",
     "tags": [
@@ -5288,7 +5288,7 @@
       "penetration testing",
       "ntlm"
     ],
-    "summary": "Responder is an open-source LLMNR, NBT-NS, and mDNS poisoning tool created by Laurent Gaffi\u00e9 that stands up rogue authentication servers to capture NetNTLM hashes and cleartext credentials on local networks.",
+    "summary": "Responder is an open-source LLMNR, NBT-NS, and mDNS poisoning tool created by Laurent Gaffié that stands up rogue authentication servers to capture NetNTLM hashes and cleartext credentials on local networks.",
     "url": "tools/responder-tool.html"
   },
   {
@@ -5307,7 +5307,7 @@
       "diagnostics",
       "reverse-engineering"
     ],
-    "summary": "Sysinternals is a suite of advanced Windows system-internals, diagnostic, and troubleshooting utilities \u2014 including Process Explorer, Autoruns, and Process Monitor \u2014 originally created by Mark Russinovich and Bryce Cogswell and acquired by Microsoft in 2006.",
+    "summary": "Sysinternals is a suite of advanced Windows system-internals, diagnostic, and troubleshooting utilities — including Process Explorer, Autoruns, and Process Monitor — originally created by Mark Russinovich and Bryce Cogswell and acquired by Microsoft in 2006.",
     "url": "tools/sysinternals-suite.html"
   },
   {
@@ -5784,7 +5784,7 @@
       "germany",
       "united kingdom"
     ],
-    "summary": "Martina Angela Sasse is a German psychologist and computer scientist whose research established usable security as a distinct field, most influentially through the 1999 paper \"Users Are Not The Enemy\", co-authored with Anne Adams. She is Horst G\u00f6rtz Endowed Professor of Human-Centred Security at Ruhr University Bochum and a part-time Professor of Human-Centred Technology at University College London.",
+    "summary": "Martina Angela Sasse is a German psychologist and computer scientist whose research established usable security as a distinct field, most influentially through the 1999 paper \"Users Are Not The Enemy\", co-authored with Anne Adams. She is Horst Görtz Endowed Professor of Human-Centred Security at Ruhr University Bochum and a part-time Professor of Human-Centred Technology at University College London.",
     "url": "people/angela-sasse.html"
   },
   {
@@ -6156,7 +6156,7 @@
       "open source hardware",
       "nintendo switch"
     ],
-    "summary": "Kate Temkin is a hardware and firmware engineer known for discovering and disclosing Fus\u00e9e Gel\u00e9e, an unpatchable bootROM vulnerability in NVIDIA Tegra processors (CVE-2018-6242), and for open-source USB and hardware-hacking tools including Facedancer, GreatFET, GlitchKit, and LUNA.",
+    "summary": "Kate Temkin is a hardware and firmware engineer known for discovering and disclosing Fusée Gelée, an unpatchable bootROM vulnerability in NVIDIA Tegra processors (CVE-2018-6242), and for open-source USB and hardware-hacking tools including Facedancer, GreatFET, GlitchKit, and LUNA.",
     "url": "people/kate-temkin.html"
   },
   {
@@ -6626,7 +6626,7 @@
       "queercore",
       "internet history"
     ],
-    "summary": "Tom Jennings is an American programmer and artist who wrote the Fido bulletin board system software in 1983\u20131984 and then created FidoNet, the store-and-forward messaging network that linked dial-up BBSes worldwide during the 1980s and early 1990s. He was also an early internet service provider operator through The Little Garden and a publisher of the queercore zine Homocore.",
+    "summary": "Tom Jennings is an American programmer and artist who wrote the Fido bulletin board system software in 1983–1984 and then created FidoNet, the store-and-forward messaging network that linked dial-up BBSes worldwide during the 1980s and early 1990s. He was also an early internet service provider operator through The Little Garden and a publisher of the queercore zine Homocore.",
     "url": "people/tom-jennings.html"
   },
   {
@@ -6740,7 +6740,7 @@
       "computer-crime",
       "doj"
     ],
-    "summary": "University student convicted for unauthorized access to Sarah Palin\u2019s Yahoo email account in 2008.",
+    "summary": "University student convicted for unauthorized access to Sarah Palin’s Yahoo email account in 2008.",
     "url": "people/david-kernell.html"
   },
   {
@@ -6776,5 +6776,56 @@
     ],
     "summary": "Application-security leader who helped found OWASP and co-founded Contrast Security.",
     "url": "people/jeff-williams-owasp.html"
+  },
+  {
+    "id": "rodrigo-rubira-branco-bsdaemon",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Rodrigo Rubira Branco (BSDaemon)",
+    "slug": "rodrigo-rubira-branco-bsdaemon",
+    "era": "2000s-Present",
+    "tags": [
+      "vulnerability-research",
+      "kernel-security",
+      "malware-analysis",
+      "h2hc",
+      "brazil"
+    ],
+    "summary": "Brazilian security researcher known as BSDaemon, whose work includes vulnerability research, kernel security, and the Hackers to Hackers Conference (H2HC).",
+    "url": "people/rodrigo-rubira-branco-bsdaemon.html"
+  },
+  {
+    "id": "james-p-anderson",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "James P. Anderson",
+    "slug": "james-p-anderson",
+    "era": "1960s-2014",
+    "tags": [
+      "computer-security",
+      "penetration-testing",
+      "security-evaluation",
+      "reference-monitor",
+      "research"
+    ],
+    "summary": "Computer-security pioneer whose 1972 planning study formalized malicious-user threats, penetration techniques, and engineering requirements for secure multi-user systems.",
+    "url": "people/james-p-anderson.html"
+  },
+  {
+    "id": "alan-turing",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Alan Turing",
+    "slug": "alan-turing",
+    "era": "1930s-1954",
+    "tags": [
+      "computing",
+      "cryptanalysis",
+      "codebreaking",
+      "mathematics",
+      "academic-research"
+    ],
+    "summary": "British mathematician, cryptanalyst, and computing pioneer whose work on computability and Enigma cryptanalysis became foundational to modern computing and security history.",
+    "url": "people/alan-turing.html"
   }
 ]
