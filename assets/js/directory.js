@@ -5,7 +5,7 @@
   function qs(id) { return document.getElementById(id); }
 
   async function loadManifest(base) {
-    const res = await fetch(base + '/data/manifest.json');
+    const res = await fetch(base + '/data/manifest.json', { cache: 'no-store' });
     if (!res.ok) throw new Error('manifest fetch failed');
     return res.json();
   }
