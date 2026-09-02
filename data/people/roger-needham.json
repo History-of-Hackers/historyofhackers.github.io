@@ -1,0 +1,74 @@
+{
+  "id": "roger-needham",
+  "type": "person",
+  "title": "Roger Needham",
+  "slug": "roger-needham",
+  "name": "Roger Needham",
+  "born": 1935,
+  "died": 2003,
+  "era": "1960s-2003",
+  "tags": [
+    "computer-security",
+    "authentication",
+    "distributed-systems",
+    "academic-research"
+  ],
+  "summary": "British computer scientist whose work on authentication, operating systems, and distributed systems shaped practical computer-security research.",
+  "whyThisMatters": "Needham's research connected access control and authentication to the realities of operating and distributed systems. The Needham–Schroeder protocol remains central to the study of authentication protocols and their failure modes.",
+  "knownFor": [
+    "Needham–Schroeder authentication protocol",
+    "Cambridge Computer Laboratory",
+    "Microsoft Research Cambridge"
+  ],
+  "sections": {
+    "overview": "<p>Roger Needham was a British computer scientist who led the University of Cambridge Computer Laboratory and later founded Microsoft Research Cambridge. His work covered operating systems, distributed systems, and computer security.</p><h2>Authentication protocols</h2><p>With Michael Schroeder, Needham described an authentication protocol that became a foundational object of protocol analysis. Later attacks and repairs to variants of the protocol became equally important: they showed why authentication claims must be tested against active adversaries.</p><h2>Institutional leadership</h2><p>Needham led Cambridge's Computer Laboratory from 1980 to 1995 and became managing director of Microsoft Research Cambridge in 1997. His legacy spans research ideas and institutions that trained and supported later security researchers.</p><h2>In memoriam</h2><p>Needham died in 2003. The continuing use of the Needham–Schroeder family in security education reflects the durability of his contribution.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1935-02-09",
+      "event": "Born in Sheffield, England."
+    },
+    {
+      "date": "1978",
+      "event": "Co-authors the Needham–Schroeder authentication protocol with Michael Schroeder."
+    },
+    {
+      "date": "1980",
+      "event": "Becomes head of the Cambridge Computer Laboratory."
+    },
+    {
+      "date": "1997",
+      "event": "Becomes managing director of Microsoft Research Cambridge."
+    },
+    {
+      "date": "2003-02-28",
+      "event": "Dies in Cambridge, England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Cambridge: Roger Needham obituaries",
+      "url": "https://www.cl.cam.ac.uk/misc/obituaries/needham/"
+    },
+    {
+      "title": "Needham and Schroeder: Using Encryption for Authentication in Large Networks of Computers",
+      "url": "https://doi.org/10.1145/359168.359176"
+    },
+    {
+      "title": "The Guardian: Roger Needham obituary",
+      "url": "https://www.theguardian.com/news/2003/mar/10/guardianobituaries.microsoft"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

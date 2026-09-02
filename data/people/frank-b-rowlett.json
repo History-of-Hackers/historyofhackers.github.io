@@ -1,0 +1,78 @@
+{
+  "id": "frank-b-rowlett",
+  "type": "person",
+  "title": "Frank B. Rowlett",
+  "slug": "frank-b-rowlett",
+  "name": "Frank B. Rowlett",
+  "born": 1908,
+  "died": 1998,
+  "era": "1930s-1998",
+  "tags": [
+    "cryptanalysis",
+    "cryptography",
+    "signals-intelligence",
+    "communications-security"
+  ],
+  "summary": "American cryptologic pioneer who helped solve Japanese diplomatic cipher systems and helped protect U.S. communications during the Second World War.",
+  "whyThisMatters": "Rowlett's work illustrates the two-sided nature of cryptologic security: analyzing foreign systems while helping design a U.S. system, SIGABA, that resisted Axis cryptanalysis during the war.",
+  "knownFor": [
+    "Japanese RED and PURPLE systems",
+    "SIGABA cipher machine",
+    "National Cryptologic School"
+  ],
+  "sections": {
+    "overview": "<p>Frank B. Rowlett was an American cryptanalyst recruited by William F. Friedman to the U.S. Army Signal Intelligence Service in 1930. He became a central figure in the small group that developed U.S. cryptologic capability before and during the Second World War.</p><h2>Cryptanalysis and protection</h2><p>Rowlett participated in work against Japanese diplomatic systems known to U.S. analysts as RED and PURPLE. He also helped with the design of SIGABA, a U.S. cipher machine whose wartime security against Axis cryptanalysis was a notable communications-security achievement.</p><h2>Later service</h2><p>After senior roles in precursor agencies and the CIA, Rowlett returned to NSA and became commandant of the National Cryptologic School. This sequence connects analysis, secure design, and professional education.</p><h2>In memoriam</h2><p>Rowlett died in 1998. The NSA's Rowlett Awards continue to recognize information-assurance work in his name.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1908-05-02",
+      "event": "Born in Rose Hill, Virginia."
+    },
+    {
+      "date": "1930",
+      "event": "Joins the Army Signal Intelligence Service as a junior cryptanalyst."
+    },
+    {
+      "date": "1930s",
+      "event": "Works on Japanese diplomatic systems including RED."
+    },
+    {
+      "date": "1939-1940",
+      "event": "Plays a major role in solving the Japanese diplomatic system called PURPLE."
+    },
+    {
+      "date": "1965",
+      "event": "Becomes commandant of the National Cryptologic School."
+    },
+    {
+      "date": "1998-06-29",
+      "event": "Dies at age 90."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA: Frank B. Rowlett historical figure",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/Historical-Figures-View/Article/1623037/frank-b-rowlett/"
+    },
+    {
+      "title": "NSA: Frank B. Rowlett Awards",
+      "url": "https://www.nsa.gov/Cybersecurity/Rowlett-Awards/"
+    },
+    {
+      "title": "Government Attic: NSA oral histories of Frank Rowlett",
+      "url": "https://www.governmentattic.org/50docs/NSA2ohiFrank_Rowlett1983_1985u.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

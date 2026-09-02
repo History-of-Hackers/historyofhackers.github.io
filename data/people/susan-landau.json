@@ -1,0 +1,71 @@
+{
+  "id": "susan-landau",
+  "type": "person",
+  "title": "Susan Landau",
+  "slug": "susan-landau",
+  "name": "Susan Landau",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "cybersecurity-policy",
+    "privacy",
+    "encryption",
+    "surveillance",
+    "academic-research"
+  ],
+  "summary": "Mathematician and cybersecurity-policy scholar whose work addresses privacy, encryption, communications surveillance, law, and public policy.",
+  "whyThisMatters": "Landau's scholarship demonstrates that technical security and privacy cannot be separated from legal and policy choices. Her work on encryption and surveillance has informed public debates as well as security research.",
+  "knownFor": [
+    "Privacy on the Line",
+    "Encryption and surveillance policy",
+    "Cybersecurity and public policy"
+  ],
+  "sections": {
+    "overview": "<p>Susan Landau is a professor of cybersecurity and policy at Tufts University. Her research and public work address the intersection of privacy, communications surveillance, cybersecurity, and law.</p><h2>Encryption, privacy, and policy</h2><p>With Whitfield Diffie, Landau wrote <em>Privacy on the Line: The Politics of Wiretapping and Encryption</em>, a book examining encryption policy, law enforcement, national security, and civil liberties. She has also written and testified on related policy questions.</p><h2>Bridging disciplines</h2><p>Landau has held academic and industry roles, including at Google and Sun Microsystems. USENIX awarded its 2023 Lifetime Achievement Award jointly to Landau, Steven Bellovin, and Matt Blaze for work connecting computer science, computer security, law, and public policy.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1983",
+      "event": "Completes a Ph.D. at the Massachusetts Institute of Technology."
+    },
+    {
+      "date": "1998",
+      "event": "Privacy on the Line is published by MIT Press with Whitfield Diffie."
+    },
+    {
+      "date": "2023",
+      "event": "Receives the USENIX Lifetime Achievement Award with Steven Bellovin and Matt Blaze."
+    },
+    {
+      "date": "2024",
+      "event": "Receives the American Mathematical Society's Bertrand Russell Prize."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Tufts University: Susan Landau",
+      "url": "https://fletcher.tufts.edu/academics/faculty/susan-landau"
+    },
+    {
+      "title": "MIT Press: Privacy on the Line",
+      "url": "https://mitpress.mit.edu/9780262041676/privacy-on-the-line/"
+    },
+    {
+      "title": "USENIX Flame Award",
+      "url": "https://www.usenix.org/about/awards/flame"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-academics-2026-09-02"
+  }
+}

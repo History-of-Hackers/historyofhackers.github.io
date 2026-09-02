@@ -1,0 +1,71 @@
+{
+  "id": "dorothy-denning",
+  "type": "person",
+  "title": "Dorothy E. Denning",
+  "slug": "dorothy-denning",
+  "name": "Dorothy E. Denning",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "computer-security",
+    "intrusion-detection",
+    "cryptography",
+    "access-control",
+    "academic-research"
+  ],
+  "summary": "American information-security researcher whose work spans access control, intrusion detection, cryptography, and the social dimensions of computer security.",
+  "whyThisMatters": "Denning's research helped articulate early models for detecting computer intrusions and for controlling information flow. Her academic and public-policy work makes her an important figure in the development of computer-security research.",
+  "knownFor": [
+    "Intrusion-detection model",
+    "Information-flow and access-control research",
+    "Computer-security scholarship"
+  ],
+  "sections": {
+    "overview": "<p>Dorothy E. Denning is an American computer-security researcher whose work has addressed cryptography, access control, information warfare, and intrusion detection. She held research and teaching positions at Purdue, SRI International, Digital Equipment Corporation, Georgetown University, and the Naval Postgraduate School.</p><h2>Intrusion detection</h2><p>Her 1987 article <em>An Intrusion-Detection Model</em> presented a model for identifying unauthorized activity from audit data. The work is commonly cited in the research history of intrusion-detection systems.</p><h2>Security research and public discussion</h2><p>Denning has also written about cryptography policy, cyber conflict, and the interaction between technical security and society. The record of her work illustrates how computer-security research combines formal models, system observation, and public-policy questions.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1975",
+      "event": "Completes a Ph.D. in computer science at Purdue University."
+    },
+    {
+      "date": "1983",
+      "event": "Leaves Purdue for a position at SRI International."
+    },
+    {
+      "date": "1987",
+      "event": "Publishes An Intrusion-Detection Model in IEEE Transactions on Software Engineering."
+    },
+    {
+      "date": "2008",
+      "event": "Receives ACM SIGSAC's Outstanding Innovation Award."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Purdue University: Dorothy Denning",
+      "url": "https://www.cs.purdue.edu/about/womens-history/dorothy_denning.html"
+    },
+    {
+      "title": "IEEE Xplore: An Intrusion-Detection Model",
+      "url": "https://doi.org/10.1109/TSE.1987.232894"
+    },
+    {
+      "title": "ACM SIGSAC Awards",
+      "url": "https://mail.sigsac.hosting.acm.org/award/index.html"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-academics-2026-09-02"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "peter-g-neumann",
+  "type": "person",
+  "title": "Peter G. Neumann",
+  "slug": "peter-g-neumann",
+  "name": "Peter G. Neumann",
+  "born": null,
+  "died": null,
+  "era": "1960s-Present",
+  "tags": [
+    "computer-security",
+    "system-safety",
+    "reliability",
+    "multics",
+    "risk-analysis"
+  ],
+  "summary": "Computer-security and reliability researcher associated with SRI International, known for work on trustworthy systems, the RISKS Forum, and analysis of computer-related risk.",
+  "whyThisMatters": "Neumann's work joins secure-system design with reliability, safety, and societal risk. It has helped keep attention on the ways technical failures and security failures can interact.",
+  "knownFor": [
+    "Secure and survivable systems research",
+    "RISKS Forum",
+    "Computer-Related Risks"
+  ],
+  "sections": {
+    "overview": "<p>Peter G. Neumann is a computer scientist associated with SRI International's Computer Science Laboratory. His research interests include security, survivability, reliability, safety, formal methods, and software engineering.</p><h2>Secure systems and risk</h2><p>Neumann worked on secure-system architectures and, at SRI, contributed to research on intrusion detection and survivable systems. NIST recognized his long-term contributions to computer-security solutions with the 2002 Computer System Security Award.</p><h2>Public discussion of failures</h2><p>He has also moderated the ACM RISKS Forum and authored <em>Computer-Related Risks</em>, helping sustain a public technical record of computer-system failures, hazards, and security concerns.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1971",
+      "event": "Joins SRI International's Computer Science Laboratory."
+    },
+    {
+      "date": "1979",
+      "event": "Coauthors work on the foundations of a provably secure operating system."
+    },
+    {
+      "date": "1995",
+      "event": "Computer-Related Risks is published."
+    },
+    {
+      "date": "2002",
+      "event": "Receives the NIST/NSA Computer System Security Award."
+    }
+  ],
+  "sources": [
+    {
+      "title": "SRI International: Dr. Peter Neumann",
+      "url": "https://www.csl.sri.com/people/neumann/"
+    },
+    {
+      "title": "NIST: Neumann Receives Computer System Security Award",
+      "url": "https://www.nist.gov/news-events/news/2002/06/neumann-receives-computer-system-security-award"
+    },
+    {
+      "title": "Peter G. Neumann: biographical background",
+      "url": "https://www.csl.sri.com/~neumann/house00.html"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-academics-2026-09-02"
+  }
+}

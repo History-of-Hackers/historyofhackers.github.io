@@ -1,0 +1,71 @@
+{
+  "id": "joan-feigenbaum",
+  "type": "person",
+  "title": "Joan Feigenbaum",
+  "slug": "joan-feigenbaum",
+  "name": "Joan Feigenbaum",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "security",
+    "privacy",
+    "trust-management",
+    "cryptography",
+    "academic-research"
+  ],
+  "summary": "Computer scientist whose research includes security, privacy, trust management, Internet algorithms, computational complexity, and the relationship between computing and law.",
+  "whyThisMatters": "Feigenbaum's work on trust management and security formalizes questions of authorization and accountability in distributed information systems. Her research also links security and privacy with the economic and legal settings in which systems operate.",
+  "knownFor": [
+    "Trust management",
+    "Security and privacy research",
+    "Internet algorithms"
+  ],
+  "sections": {
+    "overview": "<p>Joan Feigenbaum is the Grace Murray Hopper Professor of Computer Science at Yale University and also holds an economics appointment. Her research interests include security, privacy, anonymity, accountability, Internet algorithms, and computational complexity.</p><h2>Trust management</h2><p>At AT&amp;T's research laboratories, Feigenbaum and colleagues developed work that Yale identifies as part of the security-research area called trust management. The area addresses how systems can represent and evaluate authorization and trust assertions.</p><h2>Research and service</h2><p>Feigenbaum has combined research in security and privacy with work in algorithms, incentives, and data streams. She served as editor-in-chief of the <em>Journal of Cryptology</em> from 1997 to 2002 and has contributed to technical and public discussions about privacy and security.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1986",
+      "event": "Completes a Ph.D. in computer science at Stanford University."
+    },
+    {
+      "date": "1986",
+      "event": "Begins research work at AT&amp;T after completing her doctorate."
+    },
+    {
+      "date": "1997",
+      "event": "Begins a term as editor-in-chief of the Journal of Cryptology."
+    },
+    {
+      "date": "2000",
+      "event": "Joins Yale University."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Yale Engineering: Joan Feigenbaum",
+      "url": "https://engineering.yale.edu/research-and-faculty/faculty-directory/joan-feigenbaum"
+    },
+    {
+      "title": "Yale Algorithms, Complexity, and Cryptography Lab: People",
+      "url": "https://yacl.cs.yale.edu/people/"
+    },
+    {
+      "title": "Joan Feigenbaum, Yale Computer Science",
+      "url": "https://www.cs.yale.edu/homes/jf/"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-academics-2026-09-02"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "dan-boneh",
+  "type": "person",
+  "title": "Dan Boneh",
+  "slug": "dan-boneh",
+  "name": "Dan Boneh",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "computer-security",
+    "applied-cryptography",
+    "web-security",
+    "academic-research"
+  ],
+  "summary": "Stanford computer scientist whose research focuses on applied cryptography and computer security, including cryptosystems, web security, mobile security, and cryptanalysis.",
+  "whyThisMatters": "Boneh's work connects cryptographic research with practical computer-security problems. His teaching and research leadership have also made advanced cryptography more accessible to broad technical audiences.",
+  "knownFor": [
+    "Applied cryptography",
+    "Stanford Computer Security Lab",
+    "Cryptography education"
+  ],
+  "sections": {
+    "overview": "<p>Dan Boneh is a professor of computer science and electrical engineering at Stanford University. He heads Stanford's applied cryptography group and co-directs its Computer Security Lab.</p><h2>Applied cryptography</h2><p>His research focuses on applications of cryptography to computer security, including cryptosystems with novel properties, web security, mobile-device security, and cryptanalysis. Stanford records that he joined the faculty in 1997 after completing a Princeton Ph.D.</p><h2>Research and teaching</h2><p>Boneh has combined research with public educational materials in cryptography. The ACM recognized him with its 2014 Prize in Computing, and his work is frequently used to connect cryptographic theory with deployed systems.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1996",
+      "event": "Completes a Ph.D. at Princeton University."
+    },
+    {
+      "date": "1997",
+      "event": "Joins Stanford University."
+    },
+    {
+      "date": "2013",
+      "event": "Receives the Gödel Prize."
+    },
+    {
+      "date": "2014",
+      "event": "Receives the ACM Prize in Computing."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Stanford Profiles: Dan Boneh",
+      "url": "https://profiles.stanford.edu/dan-boneh"
+    },
+    {
+      "title": "Dan Boneh, Stanford Applied Cryptography Group",
+      "url": "https://crypto.stanford.edu/~dabo/"
+    },
+    {
+      "title": "ACM Awards booklet",
+      "url": "https://awards.acm.org/binaries/content/assets/awards/awards-booklet-2023.pdf"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-academics-2026-09-02"
+  }
+}

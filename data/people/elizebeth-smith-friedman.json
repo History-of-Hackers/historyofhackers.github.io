@@ -1,0 +1,74 @@
+{
+  "id": "elizebeth-smith-friedman",
+  "type": "person",
+  "title": "Elizebeth Smith Friedman",
+  "slug": "elizebeth-smith-friedman",
+  "name": "Elizebeth Smith Friedman",
+  "born": 1892,
+  "died": 1980,
+  "era": "1910s-1980",
+  "tags": [
+    "cryptanalysis",
+    "law-enforcement",
+    "codebreaking",
+    "women-in-security"
+  ],
+  "summary": "American cryptanalyst whose work ranged from wartime codebreaking to investigations of Prohibition-era smuggling and Axis espionage.",
+  "whyThisMatters": "Friedman's record corrects a long-running blind spot in the history of cryptology. Her work shows that applied cryptanalysis supported law enforcement and wartime intelligence long before modern cybersecurity institutions existed.",
+  "knownFor": [
+    "Riverbank Laboratories",
+    "Prohibition-era smuggling cases",
+    "Second World War cryptanalysis"
+  ],
+  "sections": {
+    "overview": "<p>Elizebeth Smith Friedman was an American cryptanalyst and one of the early professional codebreakers in the United States. She began cryptologic work at Riverbank Laboratories and later applied it to military, law-enforcement, and wartime problems.</p><h2>Applied cryptanalysis</h2><p>During Prohibition, Friedman and her team broke communications used by smuggling networks and she appeared as an expert witness in criminal cases. During the Second World War, her work on clandestine Axis communications in South America remained largely uncredited publicly for decades because of secrecy.</p><h2>Historical recognition</h2><p>Declassification and later scholarship made more of her contribution visible. Her place in this archive rests on documented cryptanalytic work, not on a symbolic role assigned after the fact.</p><h2>In memoriam</h2><p>Friedman died in 1980. Her life is now recognized as an essential chapter in the history of American codebreaking.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1892-08-26",
+      "event": "Born in Huntington, Indiana."
+    },
+    {
+      "date": "1916",
+      "event": "Begins cryptanalytic research at Riverbank Laboratories."
+    },
+    {
+      "date": "1925",
+      "event": "Leads U.S. Coast Guard cryptanalytic work against smuggling networks."
+    },
+    {
+      "date": "1943",
+      "event": "Contributes to work against Axis clandestine communications in South America."
+    },
+    {
+      "date": "1980-10-31",
+      "event": "Dies in Plainfield, New Jersey."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA: Pioneering codebreaker Elizebeth Friedman",
+      "url": "https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2299166/pioneering-codebreaker-elizebeth-friedman-honored-by-us-coast-guard/"
+    },
+    {
+      "title": "National Women's History Museum: Elizebeth Smith Friedman",
+      "url": "https://www.womenshistory.org/education-resources/biographies/elizebeth-smith-friedman"
+    },
+    {
+      "title": "U.S. Army Intelligence: Elizebeth S. Friedman biography",
+      "url": "https://www.ikn.army.mil/apps/MIHOF/biographies/friedman%20elizebeth%202023.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

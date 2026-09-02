@@ -1,0 +1,71 @@
+{
+  "id": "cynthia-dwork",
+  "type": "person",
+  "title": "Cynthia Dwork",
+  "slug": "cynthia-dwork",
+  "name": "Cynthia Dwork",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "privacy",
+    "differential-privacy",
+    "cryptography",
+    "theoretical-computer-science",
+    "academic-research"
+  ],
+  "summary": "Computer scientist known for foundational contributions to differential privacy, distributed computing, cryptography, and theoretical computer science.",
+  "whyThisMatters": "Differential privacy provides a rigorous framework for reasoning about disclosure risk in statistical analysis. Dwork's work has made privacy a central, mathematically explicit concern in modern data analysis and security research.",
+  "knownFor": [
+    "Differential privacy",
+    "Privacy-preserving data analysis",
+    "Theoretical computer science"
+  ],
+  "sections": {
+    "overview": "<p>Cynthia Dwork is a computer scientist and Harvard professor whose research uses theoretical computer science to study privacy, cryptography, distributed computing, and algorithmic questions. She has also held a distinguished-scientist role at Microsoft.</p><h2>Differential privacy</h2><p>Dwork was among the authors of the research that introduced and developed differential privacy: a formal approach to limiting what can be learned about an individual from the result of a computation over a data set.</p><h2>Research impact</h2><p>The framework has become a major reference point for privacy-preserving data analysis. Her awards include the Gödel Prize, the Knuth Prize, and the ACM Paris Kanellakis Theory and Practice Award shared with collaborators for contributions to differential privacy.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1983",
+      "event": "Completes a Ph.D. at Cornell University."
+    },
+    {
+      "date": "2006",
+      "event": "Coauthors Calibrating Noise to Sensitivity in Private Data Analysis."
+    },
+    {
+      "date": "2017",
+      "event": "Receives the Gödel Prize with collaborators for work on differential privacy."
+    },
+    {
+      "date": "2020",
+      "event": "Receives the Knuth Prize."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Harvard Law School: Cynthia Dwork",
+      "url": "https://hls.harvard.edu/faculty/cynthia-dwork/"
+    },
+    {
+      "title": "Microsoft Research: Calibrating Noise to Sensitivity in Private Data Analysis",
+      "url": "https://www.microsoft.com/en-us/research/publication/calibrating-noise-to-sensitivity-in-private-data-analysis/"
+    },
+    {
+      "title": "ACM SIGACT: 2020 Knuth Prize citation",
+      "url": "https://www.sigact.sigact.hosting.acm.org/prizes/knuth/citation2020.pdf"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-academics-2026-09-02"
+  }
+}

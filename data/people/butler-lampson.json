@@ -1,0 +1,71 @@
+{
+  "id": "butler-lampson",
+  "type": "person",
+  "title": "Butler W. Lampson",
+  "slug": "butler-lampson",
+  "name": "Butler W. Lampson",
+  "born": null,
+  "died": null,
+  "era": "1960s-Present",
+  "tags": [
+    "computer-security",
+    "operating-systems",
+    "access-control",
+    "distributed-systems",
+    "research"
+  ],
+  "summary": "Computer scientist whose work has influenced operating systems, distributed computing, access control, and computer-security design.",
+  "whyThisMatters": "Lampson's 1971 paper on protection supplied influential conceptual models for access control. His broader systems work shows why security mechanisms must be understood as part of operating-system and distributed-system design.",
+  "knownFor": [
+    "Protection (1971)",
+    "Distributed systems and operating systems",
+    "ACM A.M. Turing Award"
+  ],
+  "sections": {
+    "overview": "<p>Butler W. Lampson is a computer scientist whose career has included work at Berkeley, Xerox PARC, Digital Equipment Corporation, and Microsoft. His research spans operating systems, distributed computing, networking, security, and system design.</p><h2>Protection and access control</h2><p>In <em>Protection</em> (1971), Lampson described abstract models for mechanisms that control a program's access to system objects. The paper remains a frequently cited early treatment of access-control mechanisms.</p><h2>Systems perspective</h2><p>Lampson helped design systems including the SDS 940, the Xerox Alto environment, and security-related architectures. His work treats security as one of several system properties that must be engineered together with reliability, performance, and usability.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1967",
+      "event": "Works on the SDS 940 time-sharing system."
+    },
+    {
+      "date": "1971",
+      "event": "Publishes Protection, a foundational paper on access-control mechanisms."
+    },
+    {
+      "date": "1992",
+      "event": "Receives the ACM A.M. Turing Award."
+    },
+    {
+      "date": "2004",
+      "event": "Receives the IEEE John von Neumann Medal."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Microsoft Research: Butler Lampson",
+      "url": "https://www.microsoft.com/en-us/research/people/blampson/"
+    },
+    {
+      "title": "Butler Lampson: Protection",
+      "url": "https://bwlampson.site/08-Protection/WebPage.html"
+    },
+    {
+      "title": "ACM Awards fact sheet",
+      "url": "https://www.acm.org/binaries/content/assets/awards/about-the-acm-a.m.-turing-award-fact-sheet.pdf"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-academics-2026-09-02"
+  }
+}

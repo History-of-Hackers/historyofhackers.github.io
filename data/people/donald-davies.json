@@ -1,0 +1,74 @@
+{
+  "id": "donald-davies",
+  "type": "person",
+  "title": "Donald Davies",
+  "slug": "donald-davies",
+  "name": "Donald Davies",
+  "born": 1924,
+  "died": 2000,
+  "era": "1940s-2000",
+  "tags": [
+    "networking",
+    "packet-switching",
+    "network-security",
+    "academic-research"
+  ],
+  "summary": "British computer scientist whose packet-switching work at the National Physical Laboratory helped establish the technical basis of modern data networks.",
+  "whyThisMatters": "Security depends on the networks that carry data. Davies's packet-switching designs made scalable digital networking practical and later informed the environment in which network security became a distinct field.",
+  "knownFor": [
+    "Packet switching",
+    "NPL data network",
+    "Security for Computer Networks"
+  ],
+  "sections": {
+    "overview": "<p>Donald Davies was a British computer scientist at the National Physical Laboratory (NPL). He worked on early computing and became a principal inventor and advocate of packet switching for data communications.</p><h2>Packets and networks</h2><p>Davies proposed dividing messages into short packets and routing them through a network of computers. NPL publicly presented these ideas in the late 1960s and built a packet-switched network, work that influenced subsequent networking efforts.</p><h2>Security relevance</h2><p>Davies later pursued computer-network security and cryptography as well as network architecture. He belongs in security history because secure communication depends on the protocols, routing systems, and threat assumptions made possible by the packet-network model.</p><h2>In memoriam</h2><p>Davies died in 2000. His technical imagination remains visible whenever independent packets traverse a modern network.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1924-06-07",
+      "event": "Born in Treorchy, Wales."
+    },
+    {
+      "date": "1947",
+      "event": "Joins the National Physical Laboratory."
+    },
+    {
+      "date": "1965",
+      "event": "Originates the packet-switching concept for data communication."
+    },
+    {
+      "date": "1967",
+      "event": "Presents packet-switching work publicly at the ACM symposium in Gatlinburg."
+    },
+    {
+      "date": "2000-05-28",
+      "event": "Dies in Esher, England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Internet Hall of Fame: Donald Davies",
+      "url": "https://www.internethalloffame.org/inductee/donald-davies/"
+    },
+    {
+      "title": "National Museum of Computing: technology of the Internet",
+      "url": "https://www.tnmoc.org/npl-gallery"
+    },
+    {
+      "title": "University of St Andrews MacTutor: Donald Davies",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Davies_Donald/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

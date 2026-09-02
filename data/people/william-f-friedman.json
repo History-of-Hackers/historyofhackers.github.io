@@ -1,0 +1,74 @@
+{
+  "id": "william-f-friedman",
+  "type": "person",
+  "title": "William F. Friedman",
+  "slug": "william-f-friedman",
+  "name": "William F. Friedman",
+  "born": 1891,
+  "died": 1969,
+  "era": "1910s-1969",
+  "tags": [
+    "cryptanalysis",
+    "cryptography",
+    "signals-intelligence",
+    "academic-research"
+  ],
+  "summary": "American cryptologist who introduced systematic mathematical methods to U.S. cryptology and led work against Japan's PURPLE diplomatic cipher.",
+  "whyThisMatters": "Friedman helped turn cryptology into a disciplined technical profession. His methods, teaching, and institutional leadership materially shaped twentieth-century signals intelligence and information-security practice.",
+  "knownFor": [
+    "Cryptanalytic training and methodology",
+    "PURPLE diplomatic cipher",
+    "U.S. Army Signal Intelligence Service"
+  ],
+  "sections": {
+    "overview": "<p>William F. Friedman was an American cryptologist whose career ran from Riverbank Laboratories through the U.S. Army's Signal Intelligence Service. He was a prolific author, teacher, and organizer of cryptologic work.</p><h2>Scientific cryptology</h2><p>Friedman introduced mathematical and scientific approaches to cryptologic analysis and developed training material used by generations of practitioners. Before the United States entered the Second World War, his team made a major breakthrough against the Japanese diplomatic system known to Americans as PURPLE.</p><h2>Enduring influence</h2><p>His legacy includes both cryptanalysis and communications protection. That combination makes him a foundational figure for a security history that treats attacking and defending information systems as connected disciplines.</p><h2>In memoriam</h2><p>Friedman died in 1969. His work continues to be recognized by the U.S. cryptologic community and by historians of cryptography.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1891-09-24",
+      "event": "Born in Kishinev, then in the Russian Empire."
+    },
+    {
+      "date": "1915",
+      "event": "Begins cryptologic work at Riverbank Laboratories."
+    },
+    {
+      "date": "1930",
+      "event": "Builds the Army Signal Intelligence Service's cryptanalytic staff."
+    },
+    {
+      "date": "1940",
+      "event": "His team achieves a decisive solution of Japan's PURPLE diplomatic cipher."
+    },
+    {
+      "date": "1969-11-02",
+      "event": "Dies in Washington, D.C."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA: William F. Friedman biography",
+      "url": "https://www.nsa.gov/Press-Room/Digital-Media-Center/Biographies/Biography-View-Page/Article/1623026/william-f-friedman/"
+    },
+    {
+      "title": "NSA: Friedman documents and search strategies",
+      "url": "https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/Friedman-Documents/search-strategies/"
+    },
+    {
+      "title": "U.S. Army: William F. Friedman, master code-breaker",
+      "url": "https://www.army.mil/article/127519/william_f_friedman_master_code_breaker"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

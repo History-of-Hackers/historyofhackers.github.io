@@ -1,0 +1,74 @@
+{
+  "id": "david-kahn",
+  "type": "person",
+  "title": "David Kahn",
+  "slug": "david-kahn",
+  "name": "David Kahn",
+  "born": 1930,
+  "died": 2024,
+  "era": "1950s-2024",
+  "tags": [
+    "cryptography-history",
+    "journalism",
+    "books",
+    "signals-intelligence"
+  ],
+  "summary": "American journalist and historian whose 1967 book The Codebreakers brought the history of cryptology to a broad readership.",
+  "whyThisMatters": "Kahn did not claim to be a cryptanalyst for a state agency; his contribution was historical inquiry. The Codebreakers made a large, previously obscure history of codes, ciphers, and signals intelligence available to generations of readers and researchers.",
+  "knownFor": [
+    "The Codebreakers (1967)",
+    "History of cryptology",
+    "Signals-intelligence scholarship"
+  ],
+  "sections": {
+    "overview": "<p>David Kahn was an American journalist, author, and historian of cryptology. His book <em>The Codebreakers</em>, first published in 1967, assembled a wide-ranging history of secret writing and codebreaking for general readers.</p><h2>Documenting a hidden field</h2><p>Kahn's reporting and research opened public discussion of cryptologic history at a time when much of it remained obscure or classified. He later earned a doctorate in modern history at Oxford and continued to write about intelligence and military history.</p><h2>Place in the archive</h2><p>His work belongs beside technical research because security culture also depends on the records that explain its past. Readers should nevertheless distinguish Kahn's role as historian from the operational work of the cryptanalysts he documented.</p><h2>In memoriam</h2><p>Kahn died in 2024. His books remain important entry points into the history of cryptology.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1930-02-07",
+      "event": "Born in New York, United States."
+    },
+    {
+      "date": "1967",
+      "event": "Publishes The Codebreakers."
+    },
+    {
+      "date": "1974",
+      "event": "Receives a doctorate in modern history from the University of Oxford."
+    },
+    {
+      "date": "1978",
+      "event": "Publishes Hitler's Spies: German Military Intelligence in World War II."
+    },
+    {
+      "date": "2024-01-23",
+      "event": "Dies in the Bronx, New York."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Washington Post: David Kahn obituary",
+      "url": "https://www.washingtonpost.com/obituaries/2024/02/01/david-kahn-codebreakers-nsa-dead/"
+    },
+    {
+      "title": "Cryptologia: The Immortal David Kahn",
+      "url": "https://doi.org/10.1080/01611194.2024.2327725"
+    },
+    {
+      "title": "The New York Times: David Kahn, author of The Codebreakers, dies",
+      "url": "https://www.nytimes.com/2024/01/31/books/david-kahn-dead.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

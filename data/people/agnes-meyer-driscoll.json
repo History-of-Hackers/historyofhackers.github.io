@@ -1,0 +1,74 @@
+{
+  "id": "agnes-meyer-driscoll",
+  "type": "person",
+  "title": "Agnes Meyer Driscoll",
+  "slug": "agnes-meyer-driscoll",
+  "name": "Agnes Meyer Driscoll",
+  "born": 1889,
+  "died": 1971,
+  "era": "1910s-1971",
+  "tags": [
+    "cryptanalysis",
+    "naval-cryptology",
+    "codebreaking",
+    "women-in-security"
+  ],
+  "summary": "American naval cryptanalyst whose work on Japanese naval systems made her a major figure in twentieth-century U.S. cryptology.",
+  "whyThisMatters": "Driscoll was a technical practitioner of naval cryptology across two world wars. Her career demonstrates the sustained analytical work behind cryptographic intelligence, including the often under-documented contributions of women in the field.",
+  "knownFor": [
+    "U.S. Navy cryptanalysis",
+    "Japanese naval cipher systems",
+    "Training naval cryptanalysts"
+  ],
+  "sections": {
+    "overview": "<p>Agnes Meyer Driscoll was an American cryptanalyst associated with U.S. naval cryptology. Trained in mathematics and languages, she worked on naval codes and cipher systems from the First World War through the postwar cryptologic organizations.</p><h2>Naval codebreaking</h2><p>Driscoll worked on Japanese naval systems and trained or advised other cryptologic personnel. Her long career spanned the Navy's cryptologic work, the Armed Forces Security Agency, and the early National Security Agency era.</p><h2>Historical record</h2><p>Much operational detail remained classified for years; responsible accounts should avoid attributing every later naval success to one individual. The documented record nevertheless establishes her as a leading naval cryptanalyst and teacher.</p><h2>In memoriam</h2><p>Driscoll died in 1971. Her posthumous recognition has helped restore an important pioneer to the public history of cryptology.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1889-07-24",
+      "event": "Born in Geneseo, Illinois."
+    },
+    {
+      "date": "1918",
+      "event": "Begins work in U.S. Navy cryptology during the First World War."
+    },
+    {
+      "date": "1920s",
+      "event": "Works on Japanese naval cryptographic systems."
+    },
+    {
+      "date": "1949",
+      "event": "Moves into the Armed Forces Security Agency, a predecessor of NSA."
+    },
+    {
+      "date": "1971-09-16",
+      "event": "Dies in Fairfax County, Virginia."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "U.S. Naval Cryptologic Veterans Association: Agnes Meyer Driscoll",
+      "url": "https://www.usncva.org/history/women-in-cryptology/the-first-lady-of-naval-cryptology.html"
+    },
+    {
+      "title": "Indiana University: Agnes Driscoll profile",
+      "url": "https://womenandtech.indiana.edu/programs/cybersecurity/profiles-cybersecurity-women/driscoll.html"
+    },
+    {
+      "title": "NSA Center for Cryptologic History: The Neglected Giant",
+      "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-quarterly/2015/2015-02.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

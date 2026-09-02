@@ -1,0 +1,71 @@
+{
+  "id": "willis-ware",
+  "type": "person",
+  "title": "Willis H. Ware",
+  "slug": "willis-ware",
+  "name": "Willis H. Ware",
+  "born": null,
+  "died": 2013,
+  "era": "1940s-2013",
+  "tags": [
+    "computer-security",
+    "privacy",
+    "secure-systems",
+    "rand",
+    "computer-history"
+  ],
+  "summary": "American computer engineer and RAND researcher who chaired the 1970 study on security controls for computer systems commonly called the Ware Report.",
+  "whyThisMatters": "The Ware Report was an early systematic examination of security controls for shared computer systems. Ware also helped connect computer-security concerns with long-running questions about privacy and public policy.",
+  "knownFor": [
+    "Security Controls for Computer Systems (1970)",
+    "RAND computer research",
+    "Computer privacy policy"
+  ],
+  "sections": {
+    "overview": "<p>Willis H. Ware was an American computer engineer whose career included early electronic computing, long service at RAND, and foundational work on computer security and privacy. He joined RAND in 1952 and worked there for more than five decades.</p><h2>The Ware Report</h2><p>Ware chaired the Defense Science Board task force whose 1970 report, <em>Security Controls for Computer Systems</em>, considered safeguards for multi-user, resource-sharing systems. The report is a primary document in the early history of secure-system design.</p><h2>Privacy and public service</h2><p>Ware also worked on the implications of computing for privacy. RAND records describe his leadership on committees concerned with computer users' privacy rights, linking technical change with questions of governance and civil liberties.</p><h2>In memoriam</h2><p>Ware's work remains a historical reference for the proposition that shared computing requires deliberate security controls and public accountability.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1946",
+      "event": "Begins work at the Institute for Advanced Study on early electronic computing."
+    },
+    {
+      "date": "1952",
+      "event": "Joins RAND and helps build the JOHNNIAC computer."
+    },
+    {
+      "date": "1970",
+      "event": "The Defense Science Board task force report Security Controls for Computer Systems is issued."
+    },
+    {
+      "date": "2013",
+      "event": "Dies; RAND records his passing and career as a computer pioneer."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NIST: Early Computer Security Papers, 1970-1985",
+      "url": "https://csrc.nist.gov/files/pubs/conference/1998/10/08/proceedings-of-the-21st-nissc-1998/final/docs/early-cs-papers/early-cs-papers-1970-1985.pdf"
+    },
+    {
+      "title": "RAND: 2013 Annual Report, Willis Ware profile",
+      "url": "https://www.rand.org/content/dam/rand/pubs/corporate_pubs/CP000/CP1-2013/RAND_CP1-2013.pdf"
+    },
+    {
+      "title": "NIST: Computer Security From the Trojan War to Now",
+      "url": "https://csrc.nist.gov/files/pubs/conference/2000/10/19/proceedings-of-the-23rd-nissc-2000/final/docs/papers/920slide.pdf"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-academics-2026-09-02"
+  }
+}

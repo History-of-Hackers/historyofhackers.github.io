@@ -6893,5 +6893,389 @@
     ],
     "summary": "Technology journalist and co-author of Cyberpunk: Outlaws and Hackers on the Computer Frontier, an early book-length account of 1980s hacker culture.",
     "url": "people/katie-hafner.html"
+  },
+  {
+    "id": "agnes-meyer-driscoll",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Agnes Meyer Driscoll",
+    "slug": "agnes-meyer-driscoll",
+    "era": "1910s-1971",
+    "tags": [
+      "cryptanalysis",
+      "naval-cryptology",
+      "codebreaking",
+      "women-in-security"
+    ],
+    "summary": "American naval cryptanalyst whose work on Japanese naval systems made her a major figure in twentieth-century U.S. cryptology.",
+    "url": "people/agnes-meyer-driscoll.html"
+  },
+  {
+    "id": "butler-lampson",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Butler W. Lampson",
+    "slug": "butler-lampson",
+    "era": "1960s-Present",
+    "tags": [
+      "computer-security",
+      "operating-systems",
+      "access-control",
+      "distributed-systems",
+      "research"
+    ],
+    "summary": "Computer scientist whose work has influenced operating systems, distributed computing, access control, and computer-security design.",
+    "url": "people/butler-lampson.html"
+  },
+  {
+    "id": "cynthia-dwork",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Cynthia Dwork",
+    "slug": "cynthia-dwork",
+    "era": "1980s-Present",
+    "tags": [
+      "privacy",
+      "differential-privacy",
+      "cryptography",
+      "theoretical-computer-science",
+      "academic-research"
+    ],
+    "summary": "Computer scientist known for foundational contributions to differential privacy, distributed computing, cryptography, and theoretical computer science.",
+    "url": "people/cynthia-dwork.html"
+  },
+  {
+    "id": "dan-boneh",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Dan Boneh",
+    "slug": "dan-boneh",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "computer-security",
+      "applied-cryptography",
+      "web-security",
+      "academic-research"
+    ],
+    "summary": "Stanford computer scientist whose research focuses on applied cryptography and computer security, including cryptosystems, web security, mobile security, and cryptanalysis.",
+    "url": "people/dan-boneh.html"
+  },
+  {
+    "id": "david-kahn",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "David Kahn",
+    "slug": "david-kahn",
+    "era": "1950s-2024",
+    "tags": [
+      "cryptography-history",
+      "journalism",
+      "books",
+      "signals-intelligence"
+    ],
+    "summary": "American journalist and historian whose 1967 book The Codebreakers brought the history of cryptology to a broad readership.",
+    "url": "people/david-kahn.html"
+  },
+  {
+    "id": "donald-davies",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Donald Davies",
+    "slug": "donald-davies",
+    "era": "1940s-2000",
+    "tags": [
+      "networking",
+      "packet-switching",
+      "network-security",
+      "academic-research"
+    ],
+    "summary": "British computer scientist whose packet-switching work at the National Physical Laboratory helped establish the technical basis of modern data networks.",
+    "url": "people/donald-davies.html"
+  },
+  {
+    "id": "dorothy-denning",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Dorothy E. Denning",
+    "slug": "dorothy-denning",
+    "era": "1970s-Present",
+    "tags": [
+      "computer-security",
+      "intrusion-detection",
+      "cryptography",
+      "access-control",
+      "academic-research"
+    ],
+    "summary": "American information-security researcher whose work spans access control, intrusion detection, cryptography, and the social dimensions of computer security.",
+    "url": "people/dorothy-denning.html"
+  },
+  {
+    "id": "elizebeth-smith-friedman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Elizebeth Smith Friedman",
+    "slug": "elizebeth-smith-friedman",
+    "era": "1910s-1980",
+    "tags": [
+      "cryptanalysis",
+      "law-enforcement",
+      "codebreaking",
+      "women-in-security"
+    ],
+    "summary": "American cryptanalyst whose work ranged from wartime codebreaking to investigations of Prohibition-era smuggling and Axis espionage.",
+    "url": "people/elizebeth-smith-friedman.html"
+  },
+  {
+    "id": "frank-b-rowlett",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Frank B. Rowlett",
+    "slug": "frank-b-rowlett",
+    "era": "1930s-1998",
+    "tags": [
+      "cryptanalysis",
+      "cryptography",
+      "signals-intelligence",
+      "communications-security"
+    ],
+    "summary": "American cryptologic pioneer who helped solve Japanese diplomatic cipher systems and helped protect U.S. communications during the Second World War.",
+    "url": "people/frank-b-rowlett.html"
+  },
+  {
+    "id": "fred-kaplan",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Fred Kaplan",
+    "slug": "fred-kaplan",
+    "era": "2016-Present",
+    "tags": [
+      "author",
+      "journalism",
+      "cyberwar",
+      "national-security",
+      "books"
+    ],
+    "summary": "National-security journalist and author of Dark Territory: The Secret History of Cyber War.",
+    "url": "people/fred-kaplan.html"
+  },
+  {
+    "id": "james-bamford",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "James Bamford",
+    "slug": "james-bamford",
+    "era": "1982-Present",
+    "tags": [
+      "author",
+      "journalism",
+      "signals-intelligence",
+      "nsa",
+      "books"
+    ],
+    "summary": "Investigative journalist and author whose books, including The Puzzle Palace and Body of Secrets, document the National Security Agency and signals intelligence.",
+    "url": "people/james-bamford.html"
+  },
+  {
+    "id": "joan-feigenbaum",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Joan Feigenbaum",
+    "slug": "joan-feigenbaum",
+    "era": "1980s-Present",
+    "tags": [
+      "security",
+      "privacy",
+      "trust-management",
+      "cryptography",
+      "academic-research"
+    ],
+    "summary": "Computer scientist whose research includes security, privacy, trust management, Internet algorithms, computational complexity, and the relationship between computing and law.",
+    "url": "people/joan-feigenbaum.html"
+  },
+  {
+    "id": "john-markoff",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John Markoff",
+    "slug": "john-markoff",
+    "era": "1985-Present",
+    "tags": [
+      "author",
+      "journalism",
+      "hacker-culture",
+      "cybersecurity",
+      "books"
+    ],
+    "summary": "Technology journalist and co-author of Cyberpunk: Outlaws and Hackers on the Computer Frontier, a book-length account of early hacker culture.",
+    "url": "people/john-markoff.html"
+  },
+  {
+    "id": "joseph-menn",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Joseph Menn",
+    "slug": "joseph-menn",
+    "era": "2003-Present",
+    "tags": [
+      "author",
+      "journalism",
+      "cybersecurity",
+      "hacker-culture",
+      "books"
+    ],
+    "summary": "Investigative cybersecurity journalist and author of Cult of the Dead Cow, a history of the influential hacker collective.",
+    "url": "people/joseph-menn.html"
+  },
+  {
+    "id": "parmy-olson",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Parmy Olson",
+    "slug": "parmy-olson",
+    "era": "2012-Present",
+    "tags": [
+      "author",
+      "journalism",
+      "hacktivism",
+      "anonymous",
+      "books"
+    ],
+    "summary": "Technology journalist and author of We Are Anonymous, a reported account of Anonymous and LulzSec.",
+    "url": "people/parmy-olson.html"
+  },
+  {
+    "id": "peter-g-neumann",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Peter G. Neumann",
+    "slug": "peter-g-neumann",
+    "era": "1960s-Present",
+    "tags": [
+      "computer-security",
+      "system-safety",
+      "reliability",
+      "multics",
+      "risk-analysis"
+    ],
+    "summary": "Computer-security and reliability researcher associated with SRI International, known for work on trustworthy systems, the RISKS Forum, and analysis of computer-related risk.",
+    "url": "people/peter-g-neumann.html"
+  },
+  {
+    "id": "peter-sommer-hugo-cornwall",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Peter Sommer (Hugo Cornwall)",
+    "slug": "peter-sommer-hugo-cornwall",
+    "era": "1985-Present",
+    "tags": [
+      "author",
+      "digital-forensics",
+      "computer-security",
+      "hacker-culture",
+      "books"
+    ],
+    "summary": "Digital-forensics scholar and security consultant who wrote The Hacker’s Handbook under the pseudonym Hugo Cornwall.",
+    "url": "people/peter-sommer-hugo-cornwall.html"
+  },
+  {
+    "id": "phil-lapsley",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Phil Lapsley",
+    "slug": "phil-lapsley",
+    "era": "1986-Present",
+    "tags": [
+      "author",
+      "engineering",
+      "phone-phreaking",
+      "internet-history",
+      "books"
+    ],
+    "summary": "Engineer and author of Exploding the Phone, a documented history of telephone phreaking and the people who challenged Ma Bell.",
+    "url": "people/phil-lapsley.html"
+  },
+  {
+    "id": "roger-needham",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Roger Needham",
+    "slug": "roger-needham",
+    "era": "1960s-2003",
+    "tags": [
+      "computer-security",
+      "authentication",
+      "distributed-systems",
+      "academic-research"
+    ],
+    "summary": "British computer scientist whose work on authentication, operating systems, and distributed systems shaped practical computer-security research.",
+    "url": "people/roger-needham.html"
+  },
+  {
+    "id": "susan-landau",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Susan Landau",
+    "slug": "susan-landau",
+    "era": "1980s-Present",
+    "tags": [
+      "cybersecurity-policy",
+      "privacy",
+      "encryption",
+      "surveillance",
+      "academic-research"
+    ],
+    "summary": "Mathematician and cybersecurity-policy scholar whose work addresses privacy, encryption, communications surveillance, law, and public policy.",
+    "url": "people/susan-landau.html"
+  },
+  {
+    "id": "thomas-rid",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Thomas Rid",
+    "slug": "thomas-rid",
+    "era": "2013-Present",
+    "tags": [
+      "author",
+      "academic",
+      "cyberwar",
+      "cybernetics",
+      "books"
+    ],
+    "summary": "Scholar and author whose books examine cyberwar, cybernetics, and the historical relationship between technology and conflict.",
+    "url": "people/thomas-rid.html"
+  },
+  {
+    "id": "william-f-friedman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "William F. Friedman",
+    "slug": "william-f-friedman",
+    "era": "1910s-1969",
+    "tags": [
+      "cryptanalysis",
+      "cryptography",
+      "signals-intelligence",
+      "academic-research"
+    ],
+    "summary": "American cryptologist who introduced systematic mathematical methods to U.S. cryptology and led work against Japan's PURPLE diplomatic cipher.",
+    "url": "people/william-f-friedman.html"
+  },
+  {
+    "id": "willis-ware",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Willis H. Ware",
+    "slug": "willis-ware",
+    "era": "1940s-2013",
+    "tags": [
+      "computer-security",
+      "privacy",
+      "secure-systems",
+      "rand",
+      "computer-history"
+    ],
+    "summary": "American computer engineer and RAND researcher who chaired the 1970 study on security controls for computer systems commonly called the Ware Report.",
+    "url": "people/willis-ware.html"
   }
 ]
