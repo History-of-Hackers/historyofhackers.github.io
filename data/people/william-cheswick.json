@@ -1,0 +1,67 @@
+{
+  "id": "william-cheswick",
+  "type": "person",
+  "title": "William R. Cheswick",
+  "slug": "william-cheswick",
+  "name": "William R. Cheswick",
+  "born": null,
+  "died": null,
+  "era": "1987-Present",
+  "tags": [
+    "firewalls",
+    "honeypots",
+    "network-security",
+    "bell-labs",
+    "internet-mapping"
+  ],
+  "summary": "Network-security researcher known for early firewall work at Bell Labs and for co-authoring Firewalls and Internet Security.",
+  "whyThisMatters": "Cheswick’s practical research on gateways, firewalls, and network visibility helped define early Internet-defense practice.",
+  "knownFor": [
+    "Secure Internet gateway",
+    "Firewalls and Internet Security",
+    "Internet Mapping Project"
+  ],
+  "sections": {
+    "overview": "<p>William R. Cheswick, often known as Bill or Ches, is a network-security researcher. His work at Bell Laboratories included early firewall and secure-gateway research; with Steven Bellovin, he co-authored <em>Firewalls and Internet Security</em>.</p><h2>From gateways to visibility</h2><p>Cheswick’s 1990 secure-gateway paper described an application-level architecture for protecting an internal network while offering controlled services. His later work also contributed to Internet mapping and to public discussion of usable operational security.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1987",
+      "event": "Joins Bell Laboratories."
+    },
+    {
+      "date": "1990",
+      "event": "Publishes The Design of a Secure Internet Gateway."
+    },
+    {
+      "date": "1994",
+      "event": "Co-authors Firewalls and Internet Security with Steven Bellovin."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "USENIX: Security Lessons From All Over",
+      "url": "https://www.usenix.org/conference/7th-usenix-security-symposium/keynote-address-security-lessons-all-over"
+    },
+    {
+      "title": "Cheswick: The Design of a Secure Internet Gateway",
+      "url": "https://www.cheswick.com/ches/papers/gateway.pdf"
+    },
+    {
+      "title": "USENIX: Bill Cheswick on Firewalls",
+      "url": "https://www.usenix.org/publications/login/august-2013-volume-38-number-4/bill-cheswick-firewalls-interview"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

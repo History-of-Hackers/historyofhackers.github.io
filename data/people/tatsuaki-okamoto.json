@@ -1,0 +1,70 @@
+{
+  "id": "tatsuaki-okamoto",
+  "type": "person",
+  "title": "Tatsuaki Okamoto",
+  "slug": "tatsuaki-okamoto",
+  "name": "Tatsuaki Okamoto",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "cryptography",
+    "authentication",
+    "public-key-cryptography",
+    "information-security"
+  ],
+  "summary": "Japanese cryptographer and NTT Fellow known for long-running research and leadership in cryptography and information security.",
+  "whyThisMatters": "Okamoto's career links foundational cryptographic research, authentication technologies, standards-oriented work, and long-term technical leadership at NTT.",
+  "knownFor": [
+    "Cryptography research",
+    "Authentication technologies",
+    "NTT cryptography leadership"
+  ],
+  "sections": {
+    "overview": "<p>Tatsuaki Okamoto is an NTT Fellow and cryptography researcher. NTT describes his research subject as cryptography and records a long publication and awards history.</p><h2>Research and application</h2><p>Okamoto has worked on cryptographic theory and on authentication and security technologies. His career shows how foundational research can inform both protocol design and institutional research programs.</p><h2>Community leadership</h2><p>He has held leadership roles in the International Association for Cryptologic Research and Japanese professional societies, as well as directing cryptography and information-security research at NTT.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1978",
+      "event": "Joins NTT after completing a master’s degree at the University of Tokyo."
+    },
+    {
+      "date": "1988",
+      "event": "Receives a Ph.D. in engineering from the University of Tokyo."
+    },
+    {
+      "date": "1999",
+      "event": "Named an NTT R&D Fellow."
+    },
+    {
+      "date": "2019",
+      "event": "Joins NTT Research at its founding."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NTT R&D: Dr. Tatsuaki Okamoto",
+      "url": "https://www.rd.ntt/e/organization/researcher/fellow/f_001.html"
+    },
+    {
+      "title": "NTT Research: Tatsuaki Okamoto profile",
+      "url": "https://ntt-research.com/defining-the-future-of-security-tatsuaki-okamoto-on-cryptography-contributions-favorite-articles-and-cis-lab-goals/"
+    },
+    {
+      "title": "IEICE: Tatsuaki Okamoto honorary member profile",
+      "url": "https://www.ieice.org/eng/about_ieice/new_honorary_members_award_winners/2017/meiyo_02e.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

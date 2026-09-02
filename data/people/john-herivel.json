@@ -1,0 +1,77 @@
+{
+  "id": "john-herivel",
+  "type": "person",
+  "title": "John Herivel",
+  "slug": "john-herivel",
+  "name": "John Herivel",
+  "born": "1918-08-29",
+  "died": "2011-01-18",
+  "era": "1940s-2011",
+  "tags": [
+    "cryptanalysis",
+    "enigma",
+    "bletchley-park",
+    "mathematics",
+    "history-of-science",
+    "codebreaking"
+  ],
+  "summary": "Irish mathematician, historian of science, and Bletchley Park codebreaker remembered for the \"Herivel Tip\" used in Enigma cryptanalysis.",
+  "whyThisMatters": "Herivel's analytical observation about operator procedure was incorporated into Bletchley Park's early work against Enigma. It is an instructive historical example of security analysis combining technical systems with human operational behavior.",
+  "knownFor": [
+    "Herivel Tip",
+    "Bletchley Park Hut 6",
+    "Enigma cryptanalysis",
+    "History of science"
+  ],
+  "sections": {
+    "overview": "<p>John William Jamieson Herivel was an Irish mathematician and historian of science who worked at Bletchley Park during the Second World War. He joined the Enigma effort in Hut 6.</p><h2>The Herivel Tip</h2><p>Herivel's early insight concerned the likely routine followed by German Enigma operators when setting their machines. The resulting method, called the Herivel Tip or Herivelismus, helped codebreakers exploit predictable operational practice rather than a cryptographic flaw in isolation.</p><h2>In memoriam</h2><p>After the war, Herivel taught and wrote on the history of science. He died in 2011; accounts of his work emphasize the collective context of Bletchley Park while recognizing his specific analytical contribution.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1918-08-29",
+      "event": "Is born in Belfast, Northern Ireland."
+    },
+    {
+      "date": "1940",
+      "event": "Develops the observation later called the Herivel Tip."
+    },
+    {
+      "date": "1940s",
+      "event": "Works on Enigma cryptanalysis at Bletchley Park."
+    },
+    {
+      "date": "2008",
+      "event": "Publishes Herivelismus and the German Military Enigma."
+    },
+    {
+      "date": "2011-01-18",
+      "event": "Dies in Oxford, England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "The Guardian: John Herivel obituary",
+      "url": "https://www.theguardian.com/world/2011/feb/13/john-herivel-obituary"
+    },
+    {
+      "title": "MacTutor: John Herivel biography",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies//Herivel/"
+    },
+    {
+      "title": "The Guardian: John Herivel remembered",
+      "url": "https://www.theguardian.com/theobserver/2011/dec/11/john-herivel-enigma-obituary-susan"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "frederick-p-brooks-jr",
+  "type": "person",
+  "title": "Frederick P. Brooks Jr.",
+  "slug": "frederick-p-brooks-jr",
+  "name": "Frederick P. Brooks Jr.",
+  "born": "1931-04-19",
+  "died": "2022-11-17",
+  "era": "1950s-2022",
+  "tags": [
+    "software-engineering",
+    "computer-architecture",
+    "ibm-system-360",
+    "operating-systems",
+    "academic-research",
+    "books"
+  ],
+  "summary": "American computer scientist and software-engineering author who led work on IBM System/360 projects and wrote The Mythical Man-Month.",
+  "whyThisMatters": "Brooks connected practice, management, and theory in software engineering. His writing remains influential because it framed the coordination costs and communication constraints that affect complex software—including security-critical systems.",
+  "knownFor": [
+    "IBM System/360",
+    "OS/360",
+    "The Mythical Man-Month",
+    "UNC computer science department"
+  ],
+  "sections": {
+    "overview": "<p>Frederick P. Brooks Jr. was an American computer scientist whose work at IBM included leadership roles on the System/360 family and OS/360. He later founded the computer science department at the University of North Carolina at Chapel Hill.</p><h2>Software engineering</h2><p>Brooks drew lessons from OS/360 in <em>The Mythical Man-Month</em>, a collection of essays on the management and design of complex software projects. ACM SIGGRAPH notes his additional work in graphics, virtual reality, architecture, and design.</p><h2>In memoriam</h2><p>Brooks died in 2022. His work continues to be cited for its careful treatment of the social and technical limits of large software projects.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1956",
+      "event": "Joins IBM after completing doctoral study."
+    },
+    {
+      "date": "1960s",
+      "event": "Leads major IBM System/360 and OS/360 work."
+    },
+    {
+      "date": "1964",
+      "event": "Joins UNC-Chapel Hill and founds its computer science department."
+    },
+    {
+      "date": "1975",
+      "event": "Publishes The Mythical Man-Month."
+    },
+    {
+      "date": "2022-11-17",
+      "event": "Dies in Chapel Hill, North Carolina."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "ACM SIGGRAPH: Remembering Frederick P. Brooks Jr.",
+      "url": "https://www.siggraph.org/remembering/remembering-frederick-p-brooks-jr/"
+    },
+    {
+      "title": "UNC Computer Science: CompSci at Carolina",
+      "url": "https://www.cs.unc.edu/NewsAndNotes/Issue53/issue53.pdf"
+    },
+    {
+      "title": "News & Observer: Frederick P. Brooks Jr. obituary",
+      "url": "https://www.legacy.com/us/obituaries/newsobserver/name/frederick-brooks-obituary?id=37962924"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

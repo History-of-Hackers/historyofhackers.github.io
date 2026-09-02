@@ -1,0 +1,77 @@
+{
+  "id": "david-wheeler",
+  "type": "person",
+  "title": "David Wheeler",
+  "slug": "david-wheeler",
+  "name": "David Wheeler",
+  "born": "1927-02-09",
+  "died": "2004-12-13",
+  "era": "1940s-2004",
+  "tags": [
+    "computer-science",
+    "edsac",
+    "subroutines",
+    "cryptography",
+    "cambridge",
+    "software-engineering"
+  ],
+  "summary": "British computer scientist who worked on EDSAC, developed the closed subroutine, and co-designed the Tiny Encryption Algorithm with Roger Needham.",
+  "whyThisMatters": "Wheeler's work links early stored-program computing, reusable software techniques, testing, and lightweight cryptographic design. His career at Cambridge documents how foundational programming practices were developed alongside computer engineering.",
+  "knownFor": [
+    "EDSAC programming",
+    "Closed subroutine",
+    "Tiny Encryption Algorithm",
+    "Burrows-Wheeler transform"
+  ],
+  "sections": {
+    "overview": "<p>David John Wheeler was a British computer scientist associated with the University of Cambridge's Mathematical Laboratory and Computer Laboratory. He contributed to the EDSAC project and to techniques for structuring stored-program software.</p><h2>Software and security work</h2><p>Cambridge and the Computer History Museum credit Wheeler with the closed subroutine, a durable programming idea. Late in his career, he and Roger Needham designed the Tiny Encryption Algorithm, a compact block cipher published in the 1990s.</p><h2>In memoriam</h2><p>Wheeler remained active in Cambridge computing after formal retirement. He died in 2004; his work is remembered through the Wheeler Lecture and historical accounts of EDSAC-era programming.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1940s",
+      "event": "Works at Cambridge's Mathematical Laboratory on EDSAC."
+    },
+    {
+      "date": "1949",
+      "event": "EDSAC enters regular computing service at Cambridge."
+    },
+    {
+      "date": "1981",
+      "event": "Is elected a Fellow of the Royal Society."
+    },
+    {
+      "date": "1994",
+      "event": "Retires as Professor of Computer Science; later co-designs TEA with Roger Needham."
+    },
+    {
+      "date": "2004-12-13",
+      "event": "Dies in Cambridge, England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Cambridge: David Wheeler, FRS 1927-2004",
+      "url": "https://www.cam.ac.uk/news/david-wheeler-frs-1927-2004"
+    },
+    {
+      "title": "Computer History Museum: An Evening with David Wheeler",
+      "url": "https://computerhistory.org/events/an-evening-with-david-wheeler/"
+    },
+    {
+      "title": "The Independent: Professor David Wheeler obituary",
+      "url": "https://www.independent.co.uk/news/obituaries/professor-david-wheeler-25885.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

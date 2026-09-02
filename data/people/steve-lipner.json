@@ -1,0 +1,67 @@
+{
+  "id": "steve-lipner",
+  "type": "person",
+  "title": "Steve Lipner",
+  "slug": "steve-lipner",
+  "name": "Steve Lipner",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "secure-development",
+    "microsoft",
+    "software-assurance",
+    "msrc",
+    "leadership"
+  ],
+  "summary": "Security engineer and technical leader associated with Microsoft’s Security Development Lifecycle and software-assurance practice.",
+  "whyThisMatters": "Lipner’s work links vulnerability response and security engineering with a repeatable product-development process.",
+  "knownFor": [
+    "Microsoft Security Development Lifecycle",
+    "Microsoft Security Response Center",
+    "Software assurance"
+  ],
+  "sections": {
+    "overview": "<p>Steve Lipner is a security engineer and executive whose career has focused on computer and network security and software assurance. At Microsoft he led the Security Response Center and later oversaw work on the Security Development Lifecycle (SDL).</p><h2>Building security into development</h2><p>The SDL made security activities an explicit part of the engineering lifecycle, rather than a final-stage response to defects. Lipner has also written and spoken about the organizational practices needed to make secure development durable.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1999",
+      "event": "Joins Microsoft as director of the Microsoft Security Response Center."
+    },
+    {
+      "date": "2004",
+      "event": "Takes responsibility for Microsoft’s secure-development process."
+    },
+    {
+      "date": "2015",
+      "event": "Retires from Microsoft and becomes executive director of SAFECode."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Steve Lipner: biography",
+      "url": "https://www.stevelipner.org/about_me/default.html"
+    },
+    {
+      "title": "Microsoft Press: Steve Lipner",
+      "url": "https://www.microsoftpressstore.com/authors/bio.aspx?a=8760c02e-1b20-4c58-8557-2502f01abe94"
+    },
+    {
+      "title": "NIST: An Industry Perspective on Cybersecurity",
+      "url": "https://www.nist.gov/document/lipnerupdatefinalpdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

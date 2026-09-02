@@ -1,0 +1,67 @@
+{
+  "id": "donna-dodson",
+  "type": "person",
+  "title": "Donna Dodson",
+  "slug": "donna-dodson",
+  "name": "Donna Dodson",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "cryptography",
+    "nist",
+    "standards",
+    "computer-security",
+    "leadership"
+  ],
+  "summary": "Computer-security and cryptography leader associated with NIST’s Computer Security Division and national cryptographic standards work.",
+  "whyThisMatters": "Dodson helped connect cryptographic research, public standards, and implementation guidance for broad security use.",
+  "knownFor": [
+    "NIST computer security",
+    "Cryptographic standards",
+    "Key-management guidance"
+  ],
+  "sections": {
+    "overview": "<p>Donna Dodson is a computer-security and cryptography leader associated with the U.S. National Institute of Standards and Technology. She led NIST’s Computer Security Division and contributed to work on cryptographic standards and guidance.</p><h2>Public standards infrastructure</h2><p>NIST publications are widely used as reference points for selecting algorithms, managing keys, and implementing security controls. Dodson’s career illustrates the technical and institutional work required to maintain this public standards infrastructure.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2007",
+      "event": "Becomes chief of NIST’s Computer Security Division."
+    },
+    {
+      "date": "2012",
+      "event": "Co-authors NIST SP 800-57 Part 1 revision 3."
+    },
+    {
+      "date": "2016",
+      "event": "Receives the NIST Gold Medal for work on cryptographic standards and guidance."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NIST: Donna Dodson biography",
+      "url": "https://www.nist.gov/people/donna-dodson"
+    },
+    {
+      "title": "NIST SP 800-57 Part 1",
+      "url": "https://doi.org/10.6028/NIST.SP.800-57pt1r5"
+    },
+    {
+      "title": "NIST: Computer Security Division",
+      "url": "https://www.nist.gov/itl/csd"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

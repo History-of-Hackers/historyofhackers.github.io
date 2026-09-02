@@ -1,0 +1,70 @@
+{
+  "id": "ralf-kusters",
+  "type": "person",
+  "title": "Ralf Küsters",
+  "slug": "ralf-kusters",
+  "name": "Ralf Küsters",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "formal-security",
+    "cryptographic-protocols",
+    "web-security",
+    "electronic-voting"
+  ],
+  "summary": "German computer-security researcher known for formal analysis of cryptographic protocols, web security, electronic voting, and related systems.",
+  "whyThisMatters": "Küsters applies rigorous models and proofs to security protocols and deployed system classes, linking formal security theory with issues such as web security and e-voting.",
+  "knownFor": [
+    "Formal security analysis",
+    "Cryptographic protocols",
+    "Electronic voting"
+  ],
+  "sections": {
+    "overview": "<p>Ralf Küsters is professor and head of the Institute of Information Security at the University of Stuttgart. The institute’s research covers system security, web security, cryptography, protocol analysis, blockchains, and electronic voting.</p><h2>Formal analysis for protocols</h2><p>Küsters’ research uses formal methods to specify and analyze security properties in cryptographic and distributed protocols. The aim is to make claims about authentication, secrecy, privacy, and integrity amenable to precise checking.</p><h2>From theory to high-stakes systems</h2><p>His group’s topics include internet and web security, electronic voting, and distributed ledgers—areas where a vague assurance claim is insufficient and assumptions must be exposed.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2000",
+      "event": "Completes a doctorate in computer science at RWTH Aachen."
+    },
+    {
+      "date": "2007",
+      "event": "Appointed professor of information security and cryptography at the University of Trier."
+    },
+    {
+      "date": "2017",
+      "event": "Founds and leads the Institute of Information Security at the University of Stuttgart."
+    },
+    {
+      "date": "2021",
+      "event": "Co-authors a formal security framework for distributed ledgers."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Stuttgart: Ralf Küsters",
+      "url": "https://www.sec.uni-stuttgart.de/de/institut/team/Kuesters-00002/"
+    },
+    {
+      "title": "University of Stuttgart: expert profile",
+      "url": "https://www.uni-stuttgart.de/presse/experten/Prof.-Dr.-Ralf-Kuesters/"
+    },
+    {
+      "title": "IACR ePrint: A Security Framework for Distributed Ledgers",
+      "url": "https://eprint.iacr.org/2021/145"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

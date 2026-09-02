@@ -1,0 +1,77 @@
+{
+  "id": "robert-w-taylor",
+  "type": "person",
+  "title": "Robert W. Taylor",
+  "slug": "robert-w-taylor",
+  "name": "Robert W. Taylor",
+  "born": "1932-02-10",
+  "died": "2017-04-13",
+  "era": "1960s-2017",
+  "tags": [
+    "arpanet",
+    "computer-networks",
+    "xerox-parc",
+    "interactive-computing",
+    "research-management",
+    "internet-history"
+  ],
+  "summary": "American computer-science research leader whose work at ARPA, Xerox PARC, and DEC supported major advances in networking and personal computing.",
+  "whyThisMatters": "Taylor's influence was organizational as well as technical: he assembled and funded research groups that produced foundational networked-computing systems. This is relevant to hacker and security history because it situates later network practice in its institutional and technical origins.",
+  "knownFor": [
+    "ARPANET initiation",
+    "ARPA Information Processing Techniques Office",
+    "Xerox PARC Computer Science Laboratory",
+    "DEC Systems Research Center"
+  ],
+  "sections": {
+    "overview": "<p>Robert William Taylor was an American computer-science research manager and leader. He worked at ARPA during the formative period of interactive-computing and networking research.</p><h2>Networks and personal computing</h2><p>The Computer History Museum credits Taylor with initiating ARPANET and with sponsoring interactive-computing research. At Xerox PARC, he founded the Computer Science Laboratory, where teams worked on Ethernet, the Alto, and networked personal-computing systems.</p><h2>In memoriam</h2><p>Taylor retired in 1996 and died in 2017. His record is a reminder that major computing systems are built by communities of engineers and researchers, with program leadership helping sustain their work.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1965",
+      "event": "Becomes director of ARPA's Information Processing Techniques Office."
+    },
+    {
+      "date": "1969",
+      "event": "Leaves ARPA after the initial ARPANET program period."
+    },
+    {
+      "date": "1970",
+      "event": "Founds the Computer Science Laboratory at Xerox PARC."
+    },
+    {
+      "date": "1983",
+      "event": "Becomes founding director of DEC's Systems Research Center."
+    },
+    {
+      "date": "2017-04-13",
+      "event": "Dies in Woodside, California."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Computer History Museum: Robert W. Taylor",
+      "url": "https://computerhistory.org/profile/robert-w-taylor/"
+    },
+    {
+      "title": "Computer History Museum: Robert Taylor oral history",
+      "url": "https://archive.computerhistory.org/resources/text/Oral_History/Taylor_Robert/102702015.05.01.acc.pdf"
+    },
+    {
+      "title": "Los Angeles Times: Robert W. Taylor obituary",
+      "url": "https://www.latimes.com/local/california/la-me-ln-robert-taylor-obit-20170414-story.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "martin-abadi",
+  "type": "person",
+  "title": "Martín Abadi",
+  "slug": "martin-abadi",
+  "name": "Martín Abadi",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "security-protocols",
+    "formal-methods",
+    "programming-languages",
+    "cryptography"
+  ],
+  "summary": "Computer scientist whose formal work on authentication protocols and programming-language security shaped methods for reasoning about secure systems.",
+  "whyThisMatters": "Abadi co-developed widely used formal approaches to authentication-protocol analysis, helping make security claims about protocols explicit and open to scrutiny.",
+  "knownFor": [
+    "BAN logic",
+    "Authentication-protocol analysis",
+    "Programming-language security"
+  ],
+  "sections": {
+    "overview": "<p>Martín Abadi is a computer scientist whose research has crossed formal methods, programming languages, cryptography, and security. His work on protocol logics became a central reference point for analyzing authentication designs.</p><h2>Reasoning about protocols</h2><p>With Michael Burrows and Roger Needham, Abadi developed BAN logic, a notation and reasoning system for authentication protocols. Its importance lies in making assumptions, beliefs, and desired guarantees visible for analysis.</p><h2>Formal security research</h2><p>Abadi’s later work has continued to connect language-based methods and formal models with practical questions of system and protocol security.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1987",
+      "event": "Receives a Ph.D. in computer science from Stanford University."
+    },
+    {
+      "date": "1989",
+      "event": "Co-authors work introducing BAN logic for authentication protocols."
+    },
+    {
+      "date": "2000s",
+      "event": "Publishes widely on language-based security and distributed systems."
+    },
+    {
+      "date": "Present",
+      "event": "Continues research in formal methods and security."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "ACM Digital Library: A Logic of Authentication",
+      "url": "https://dl.acm.org/doi/10.1145/96709.96739"
+    },
+    {
+      "title": "IEEE Computer Society: Security and cryptography test-of-time recognition",
+      "url": "https://www.computer.org/csdl/proceedings-article/sp/1994/02107275/12OmNwYMUuX"
+    },
+    {
+      "title": "Google Research: Martín Abadi publications",
+      "url": "https://research.google/people/106166/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

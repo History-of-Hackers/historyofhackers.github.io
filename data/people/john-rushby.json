@@ -1,0 +1,67 @@
+{
+  "id": "john-rushby",
+  "type": "person",
+  "title": "John Rushby",
+  "slug": "john-rushby",
+  "name": "John Rushby",
+  "born": null,
+  "died": null,
+  "era": "1983-Present",
+  "tags": [
+    "formal-methods",
+    "high-assurance",
+    "computer-security",
+    "sri",
+    "research"
+  ],
+  "summary": "Computer-security researcher whose work applies formal methods to the assurance of secure, safe, and dependable systems.",
+  "whyThisMatters": "Rushby helped make formal assurance a practical part of the security conversation for high-consequence systems.",
+  "knownFor": [
+    "Formal methods for security assurance",
+    "PVS and SAL",
+    "High-assurance and safety-critical systems"
+  ],
+  "sections": {
+    "overview": "<p>John Rushby is a computer-security researcher and SRI Fellow whose work addresses the assurance of critical systems. His research connects formal specification and automated reasoning to security, safety, and dependability.</p><h2>Assurance as a security practice</h2><p>At SRI International, Rushby has led and contributed to work on methods and tools used to reason about systems whose failure can have serious consequences. His publications include work on security policies, certification, and formal verification.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1983",
+      "event": "Joins SRI International."
+    },
+    {
+      "date": "1992",
+      "event": "Co-authors the PVS prototype-verification-system paper."
+    },
+    {
+      "date": "2011",
+      "event": "Receives the IEEE Harlan D. Mills Award."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "SRI: John Rushby",
+      "url": "https://www.sri.com/people/john-rushby/"
+    },
+    {
+      "title": "SRI CSL: research and biography",
+      "url": "https://www.csl.sri.com/users/rushby/"
+    },
+    {
+      "title": "IEEE Computer Society profile",
+      "url": "https://www.computer.org/profiles/john-rushby"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

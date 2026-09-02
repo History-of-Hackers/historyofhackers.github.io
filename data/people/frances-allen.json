@@ -1,0 +1,73 @@
+{
+  "id": "frances-allen",
+  "type": "person",
+  "title": "Frances Allen",
+  "slug": "frances-allen",
+  "name": "Frances Allen",
+  "born": "1932-08-04",
+  "died": "2020-08-04",
+  "era": "1950s-2020",
+  "tags": [
+    "compiler-optimization",
+    "programming-languages",
+    "high-performance-computing",
+    "ibm",
+    "academic-research",
+    "women-in-computing"
+  ],
+  "summary": "American computer scientist whose research in compiler optimization and parallel computing helped shape modern high-performance computing.",
+  "whyThisMatters": "Allen's compiler research made programs more efficiently executable and supported automatic parallelization. Her career also documents a foundational contribution to computer science from an IBM researcher who became the company's first woman IBM Fellow and the first woman to receive the ACM A.M. Turing Award.",
+  "knownFor": [
+    "Optimizing compilers",
+    "Automatic parallelization",
+    "IBM Fellow",
+    "ACM A.M. Turing Award"
+  ],
+  "sections": {
+    "overview": "<p>Frances Elizabeth Allen was an American computer scientist who spent her career at IBM and became a pioneer in optimizing compilers and parallel computing. She joined IBM in 1957, initially teaching new employees FORTRAN.</p><h2>Compiler research</h2><p>Allen's work advanced the theory and practice of program optimization: the analysis and transformation of programs into more efficient machine instructions. The ACM's Turing Award citation recognized this work as foundational to modern optimizing compilers and automatic parallel execution.</p><h2>In memoriam</h2><p>Allen died in 2020 on her eighty-eighth birthday. IBM, ACM, and the Computer History Museum have preserved accounts of her technical work and her long record of mentoring researchers and engineers.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1957",
+      "event": "Joins IBM Research as a programmer."
+    },
+    {
+      "date": "1989",
+      "event": "Becomes the first woman named an IBM Fellow."
+    },
+    {
+      "date": "2006",
+      "event": "Receives the ACM A.M. Turing Award for compiler-optimization research."
+    },
+    {
+      "date": "2020-08-04",
+      "event": "Dies in Schenectady, New York."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "IBM: Frances Allen",
+      "url": "https://www.ibm.com/history/frances-allen"
+    },
+    {
+      "title": "Computer History Museum: Frances Allen",
+      "url": "https://computerhistory.org/profile/frances-allen/"
+    },
+    {
+      "title": "ACM: First Woman to Receive ACM Turing Award",
+      "url": "https://www.acm.org/binaries/content/assets/press-releases/2006/2006-turing-award-laureate.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

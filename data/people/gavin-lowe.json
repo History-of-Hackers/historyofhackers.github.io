@@ -1,0 +1,70 @@
+{
+  "id": "gavin-lowe",
+  "type": "person",
+  "title": "Gavin Lowe",
+  "slug": "gavin-lowe",
+  "name": "Gavin Lowe",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "formal-methods",
+    "security-protocols",
+    "authentication",
+    "csp"
+  ],
+  "summary": "Oxford computer scientist whose formal analysis exposed a flaw in the Needham–Schroeder public-key protocol and influenced protocol-verification practice.",
+  "whyThisMatters": "Lowe’s attack on a well-known authentication protocol showed why protocol designs require adversarial analysis, not just intuitive arguments about cryptographic primitives.",
+  "knownFor": [
+    "Needham–Schroeder–Lowe attack",
+    "Protocol verification",
+    "CSP"
+  ],
+  "sections": {
+    "overview": "<p>Gavin Lowe is a computer scientist associated with the University of Oxford whose work includes formal methods and security-protocol analysis.</p><h2>An attack that changed a protocol</h2><p>In 1995, Lowe demonstrated a man-in-the-middle attack on the Needham–Schroeder public-key protocol using formal methods. The corrected variant is commonly known as the Needham–Schroeder–Lowe protocol.</p><h2>Why the result matters</h2><p>The episode became a durable lesson: sound cryptographic building blocks do not automatically yield a sound protocol. Formal modeling can reveal attacks that informal review misses.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1995",
+      "event": "Publishes the discovery of an attack on the Needham–Schroeder public-key protocol."
+    },
+    {
+      "date": "1996",
+      "event": "Publishes a corrected version of the protocol."
+    },
+    {
+      "date": "2000s",
+      "event": "Continues work on formal methods and concurrency at Oxford."
+    },
+    {
+      "date": "Present",
+      "event": "Research and teaching remain associated with the University of Oxford."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Oxford: Gavin Lowe",
+      "url": "https://www.cs.ox.ac.uk/people/gavin.lowe/"
+    },
+    {
+      "title": "ACM Digital Library: Breaking and Fixing the Needham-Schroeder Public-Key Protocol",
+      "url": "https://dl.acm.org/doi/10.1145/325694.325716"
+    },
+    {
+      "title": "Springer: A Hierarchy of Authentication Specifications",
+      "url": "https://link.springer.com/article/10.1007/BF01215475"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

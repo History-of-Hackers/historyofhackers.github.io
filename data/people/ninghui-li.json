@@ -1,0 +1,67 @@
+{
+  "id": "ninghui-li",
+  "type": "person",
+  "title": "Ninghui Li",
+  "slug": "ninghui-li",
+  "name": "Ninghui Li",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "access-control",
+    "trust-management",
+    "privacy",
+    "applied-cryptography",
+    "academia"
+  ],
+  "summary": "Computer-security researcher known for work on access control, trust management, privacy, and distributed-system security.",
+  "whyThisMatters": "Li’s research and service have helped shape access-control and privacy research as well as the security research community.",
+  "knownFor": [
+    "Access control",
+    "Trust management",
+    "ACM SIGSAC leadership"
+  ],
+  "sections": {
+    "overview": "<p>Ninghui Li is a computer-security researcher and professor associated with Purdue University. His research includes access control, trust management, distributed-system security, applied cryptography, and privacy.</p><h2>Policy and trust</h2><p>Li’s work studies how systems express, delegate, and enforce security policy. Alongside his research, he has served the field through ACM SIGSAC and editorial leadership for ACM Transactions on Privacy and Security.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2001",
+      "event": "Joins Purdue University."
+    },
+    {
+      "date": "2017",
+      "event": "Begins a term as chair of ACM SIGSAC."
+    },
+    {
+      "date": "2020",
+      "event": "Becomes editor-in-chief of ACM Transactions on Privacy and Security."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Purdue: Ninghui Li",
+      "url": "https://www.cs.purdue.edu/homes/ninghui/"
+    },
+    {
+      "title": "CERIAS faculty directory",
+      "url": "https://www.cerias.purdue.edu/site/people/faculty"
+    },
+    {
+      "title": "Purdue: research projects",
+      "url": "https://www.cs.purdue.edu/homes/ninghui/research.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

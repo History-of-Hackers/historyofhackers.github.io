@@ -1,0 +1,70 @@
+{
+  "id": "michael-backes",
+  "type": "person",
+  "title": "Michael Backes",
+  "slug": "michael-backes",
+  "name": "Michael Backes",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "computer-security",
+    "privacy",
+    "cryptography",
+    "formal-methods"
+  ],
+  "summary": "Computer-security and privacy researcher whose work spans cryptographic protocol analysis, formal methods, and privacy-preserving systems.",
+  "whyThisMatters": "Backes has helped connect mathematically grounded security analysis with system and privacy research, while building major institutional capacity for cybersecurity research.",
+  "knownFor": [
+    "Security and privacy research",
+    "Cryptographic protocol analysis",
+    "CISPA"
+  ],
+  "sections": {
+    "overview": "<p>Michael Backes is a computer-security researcher associated with CISPA Helmholtz Center for Information Security. His research covers security, privacy, cryptography, and formal methods.</p><h2>Security and privacy together</h2><p>Backes’ work addresses the analysis of security protocols and privacy-preserving systems. This combination recognizes that a system can protect one property while failing another unless both are specified and evaluated.</p><h2>Research institutions</h2><p>He has also held leadership roles in German cybersecurity research, helping establish CISPA as a center for work spanning foundational and applied information security.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2000s",
+      "event": "Publishes research on formal and cryptographic security analysis."
+    },
+    {
+      "date": "2011",
+      "event": "Becomes founding director of the CISPA research center."
+    },
+    {
+      "date": "2017",
+      "event": "CISPA becomes a Helmholtz Center for Information Security."
+    },
+    {
+      "date": "Present",
+      "event": "Continues research in security and privacy."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "CISPA: Michael Backes",
+      "url": "https://cispa.de/en/people/c01mi"
+    },
+    {
+      "title": "CISPA: institutional history",
+      "url": "https://cispa.de/en/about-us"
+    },
+    {
+      "title": "ACM Digital Library: Michael Backes author profile",
+      "url": "https://dl.acm.org/profile/81100328540"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

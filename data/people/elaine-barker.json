@@ -1,0 +1,67 @@
+{
+  "id": "elaine-barker",
+  "type": "person",
+  "title": "Elaine Barker",
+  "slug": "elaine-barker",
+  "name": "Elaine Barker",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "cryptography",
+    "nist",
+    "standards",
+    "key-management",
+    "research"
+  ],
+  "summary": "Cryptography specialist associated with NIST guidance on key management and cryptographic standards.",
+  "whyThisMatters": "Barker’s standards work helped translate cryptographic research into durable guidance used by system designers and evaluators.",
+  "knownFor": [
+    "NIST key-management guidance",
+    "Cryptographic standards",
+    "Public-key infrastructure"
+  ],
+  "sections": {
+    "overview": "<p>Elaine Barker is a cryptography specialist known for her work at the U.S. National Institute of Standards and Technology. Her work has contributed to guidance on cryptographic key management and the selection and use of cryptographic mechanisms.</p><h2>Making cryptography operational</h2><p>Cryptographic security depends not only on an algorithm but on key lifecycles, parameter choices, and implementation context. Barker’s NIST publications address these operational questions in guidance meant for practitioners and evaluators.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2005",
+      "event": "Co-authors an early NIST recommendation for key management."
+    },
+    {
+      "date": "2012",
+      "event": "Co-authors NIST SP 800-57 Part 1 revision 3."
+    },
+    {
+      "date": "2020",
+      "event": "Contributes to continued NIST cryptographic guidance and transition work."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NIST author profile: Elaine Barker",
+      "url": "https://csrc.nist.gov/people/elaine-barker"
+    },
+    {
+      "title": "NIST SP 800-57 Part 1",
+      "url": "https://doi.org/10.6028/NIST.SP.800-57pt1r5"
+    },
+    {
+      "title": "NIST publications search: Elaine Barker",
+      "url": "https://csrc.nist.gov/publications/search?authors=Elaine%20Barker"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "elisa-bertino",
+  "type": "person",
+  "title": "Elisa Bertino",
+  "slug": "elisa-bertino",
+  "name": "Elisa Bertino",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "access-control",
+    "database-security",
+    "privacy",
+    "cerias",
+    "academia"
+  ],
+  "summary": "Computer-security and database researcher whose work includes access control, privacy, and secure data management.",
+  "whyThisMatters": "Bertino’s work helped establish database security and access control as rigorous, broad research areas.",
+  "knownFor": [
+    "Database security",
+    "Access control",
+    "Privacy-preserving data management"
+  ],
+  "sections": {
+    "overview": "<p>Elisa Bertino is a computer scientist at Purdue University and a former research director at CERIAS. Her research spans information security and database systems, including access control, secure data publishing, privacy, and distributed systems.</p><h2>Protecting data systems</h2><p>Bertino’s work combines theoretical and practical approaches to securing data and governing access to it. Her contributions have informed research on role-based access control, privacy, and security for data-intensive systems.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1980",
+      "event": "Receives a doctorate in computer science from the University of Pisa."
+    },
+    {
+      "date": "2004",
+      "event": "Joins Purdue University and CERIAS."
+    },
+    {
+      "date": "2019",
+      "event": "Receives the ACM Athena Lecturer Award."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Purdue Computer Science: Elisa Bertino",
+      "url": "https://www.cs.purdue.edu/people/faculty/bertino.html"
+    },
+    {
+      "title": "Purdue Engineering profile",
+      "url": "https://engineering.purdue.edu/Engr/People/ptProfile?resource_id=2983"
+    },
+    {
+      "title": "Purdue annual report: Bertino biography",
+      "url": "https://www.cs.purdue.edu/about/docs/CSannualreport2006-2007.PDF"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

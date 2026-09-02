@@ -1,0 +1,67 @@
+{
+  "id": "mark-s-miller",
+  "type": "person",
+  "title": "Mark S. Miller",
+  "slug": "mark-s-miller",
+  "name": "Mark S. Miller",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "capability-security",
+    "programming-languages",
+    "object-capabilities",
+    "secure-systems",
+    "research"
+  ],
+  "summary": "Computer scientist known for object-capability security and programming-language designs for secure open systems.",
+  "whyThisMatters": "Miller’s work made authority and confinement explicit design concerns for programmable distributed systems.",
+  "knownFor": [
+    "Object-capability security",
+    "E programming language",
+    "Secure open systems"
+  ],
+  "sections": {
+    "overview": "<p>Mark S. Miller is a computer scientist whose research focuses on object-capability systems and language design for secure open systems. He has worked on distributed persistent object-capability languages and participated in standards and WebAssembly-related work.</p><h2>Authority by construction</h2><p>Object-capability security treats references as authority-bearing objects and encourages systems to make authority explicit. Miller’s work has helped explain how this model can support confinement, delegation, and secure composition.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1980",
+      "event": "Receives a bachelor’s degree in computer science from Yale."
+    },
+    {
+      "date": "2006",
+      "event": "Completes a doctorate at Johns Hopkins University."
+    },
+    {
+      "date": "2015",
+      "event": "Joins the WebAssembly community as a security-focused language researcher."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Foresight Institute: Mark Miller",
+      "url": "https://foresight.org/people/mark-miller/"
+    },
+    {
+      "title": "Mark S. Miller dissertation",
+      "url": "http://erights.org/talks/thesis/"
+    },
+    {
+      "title": "E programming language archive",
+      "url": "http://erights.org/elang/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

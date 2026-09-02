@@ -1,0 +1,67 @@
+{
+  "id": "jeannette-wing",
+  "type": "person",
+  "title": "Jeannette M. Wing",
+  "slug": "jeannette-wing",
+  "name": "Jeannette M. Wing",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "trustworthy-computing",
+    "security-and-privacy",
+    "formal-methods",
+    "academia",
+    "research-leadership"
+  ],
+  "summary": "Computer scientist whose research and research leadership address trustworthy computing, security, privacy, and formal methods.",
+  "whyThisMatters": "Wing has connected formal reasoning, security research, and public research leadership under the goal of trustworthy computing.",
+  "knownFor": [
+    "Trustworthy computing",
+    "Security and privacy",
+    "Formal methods"
+  ],
+  "sections": {
+    "overview": "<p>Jeannette M. Wing is a computer scientist and research leader whose work spans trustworthy computing, security and privacy, specification and verification, and distributed systems. She has held senior roles in academia, government, and industrial research.</p><h2>Trustworthy systems</h2><p>Wing’s research treats security and privacy as central properties of systems that must be designed and assessed alongside correctness and reliability. Her leadership has also helped bring these concerns into broader computing-research agendas.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1985",
+      "event": "Joins the Carnegie Mellon computer-science faculty."
+    },
+    {
+      "date": "2007",
+      "event": "Becomes assistant director of NSF’s CISE directorate."
+    },
+    {
+      "date": "2017",
+      "event": "Joins Columbia University as inaugural director of its Data Science Institute."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Columbia University: Jeannette M. Wing",
+      "url": "https://datascience.columbia.edu/people/jeannette-m-wing/"
+    },
+    {
+      "title": "Carnegie Mellon: Wing homepage",
+      "url": "https://www.cs.cmu.edu/afs/cs/usr/wing/www/home.html"
+    },
+    {
+      "title": "NSF: Jeannette Wing appointed CISE assistant director",
+      "url": "https://www.nsf.gov/news/news_summ.jsp?cntn_id=114213"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

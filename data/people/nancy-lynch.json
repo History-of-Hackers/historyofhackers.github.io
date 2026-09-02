@@ -1,0 +1,70 @@
+{
+  "id": "nancy-lynch",
+  "type": "person",
+  "title": "Nancy Lynch",
+  "slug": "nancy-lynch",
+  "name": "Nancy Lynch",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "distributed-systems",
+    "formal-methods",
+    "fault-tolerance",
+    "security"
+  ],
+  "summary": "MIT computer scientist whose formal models of distributed systems underpin reasoning about reliability and security in concurrent systems.",
+  "whyThisMatters": "Lynch supplied durable formal tools for reasoning about distributed behavior, timing, and failures—properties that security protocols and dependable systems must make explicit.",
+  "knownFor": [
+    "Distributed Algorithms",
+    "I/O automata",
+    "Theory of distributed systems"
+  ],
+  "sections": {
+    "overview": "<p>Nancy Lynch is the NEC Professor of Software Science and Engineering at MIT and heads the Theory of Distributed Systems group at CSAIL. Her work addresses distributed algorithms, impossibility results, and formal modeling and validation.</p><h2>Models for distributed behavior</h2><p>Lynch and collaborators developed the I/O automata framework and related work on timed systems. Such models let researchers state and test what a distributed component is allowed to do, including under failures and adversarial conditions.</p><h2>A foundation for assurance</h2><p>Her research is not an exploit technique; it provides methods used to reason about the correctness and guarantees of distributed and secure systems.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1982",
+      "event": "Joins the MIT faculty."
+    },
+    {
+      "date": "1989",
+      "event": "Publishes early work on timed I/O automata with colleagues."
+    },
+    {
+      "date": "1996",
+      "event": "Publishes <em>Distributed Algorithms</em>."
+    },
+    {
+      "date": "Present",
+      "event": "Leads the Theory of Distributed Systems group at MIT CSAIL."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "MIT CSAIL: Nancy Lynch",
+      "url": "https://www.csail.mit.edu/person/nancy-lynch"
+    },
+    {
+      "title": "MIT CSAIL: Nancy Lynch home page",
+      "url": "https://people.csail.mit.edu/lynch/"
+    },
+    {
+      "title": "MIT: The Theory of Timed I/O Automata",
+      "url": "https://groups.csail.mit.edu/tds/papers/Lynch/Monograph-second-edition.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "charles-rackoff",
+  "type": "person",
+  "title": "Charles Rackoff",
+  "slug": "charles-rackoff",
+  "name": "Charles Rackoff",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "cryptography",
+    "complexity-theory",
+    "zero-knowledge",
+    "interactive-proofs"
+  ],
+  "summary": "Cryptographer and complexity theorist whose work helped establish the theory of interactive proofs and zero-knowledge.",
+  "whyThisMatters": "Rackoff co-authored foundational work on the knowledge complexity of interactive proof systems. That line of work gave cryptography a more rigorous language for showing knowledge without disclosing a secret.",
+  "knownFor": [
+    "Interactive proofs",
+    "Zero-knowledge proofs",
+    "Cryptography"
+  ],
+  "sections": {
+    "overview": "<p>Charles Rackoff is a computer scientist at the University of Toronto whose research spans cryptography and computational complexity. University material identifies cryptography, security, and security protocols among his areas of work.</p><h2>Knowledge without disclosure</h2><p>With Shafi Goldwasser and Silvio Micali, Rackoff helped develop the theoretical study of knowledge complexity in interactive proof systems. This work is central to the idea that a prover can demonstrate knowledge while revealing no useful additional information.</p><h2>Lasting foundations</h2><p>Interactive-proof and zero-knowledge ideas became core tools in modern cryptographic protocol design. Rackoff's work belongs to the foundational literature rather than a single deployed product or exploit.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1970s",
+      "event": "Begins publishing in computational complexity and cryptography."
+    },
+    {
+      "date": "1985",
+      "event": "Co-authors the foundational paper on knowledge complexity of interactive proof systems."
+    },
+    {
+      "date": "Present",
+      "event": "Continues teaching and research in cryptography at the University of Toronto."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Toronto: Charles Rackoff homepage",
+      "url": "https://www.cs.toronto.edu/~rackoff/"
+    },
+    {
+      "title": "University of Toronto: Theory Group faculty",
+      "url": "https://www.cs.toronto.edu/theory/faculty.html"
+    },
+    {
+      "title": "ACM Digital Library: The Knowledge Complexity of Interactive Proof Systems",
+      "url": "https://dl.acm.org/doi/10.1145/800070.802211"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

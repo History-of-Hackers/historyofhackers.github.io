@@ -1,0 +1,70 @@
+{
+  "id": "ivan-damgard",
+  "type": "person",
+  "title": "Ivan Bjerre Damgård",
+  "slug": "ivan-damgard",
+  "name": "Ivan Bjerre Damgård",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "cryptography",
+    "secure-computation",
+    "hash-functions",
+    "multiparty-computation"
+  ],
+  "summary": "Danish cryptographer whose research spans hash-function constructions, secure computation, and cryptographic protocol design.",
+  "whyThisMatters": "Damgård's work helped shape core cryptographic constructions and secure multi-party computation, making him a key academic contributor to modern protocol theory.",
+  "knownFor": [
+    "Merkle–Damgård construction",
+    "Secure multi-party computation",
+    "Cryptography"
+  ],
+  "sections": {
+    "overview": "<p>Ivan Bjerre Damgård is a professor at Aarhus University and heads its cryptography group. His research includes theoretical and applied cryptography and secure computation.</p><h2>From hashing to protocols</h2><p>The Merkle–Damgård construction is a standard way to extend a fixed-input-length compression function into a hash function. Damgård has also made major contributions to protocols for computing jointly on protected data.</p><h2>Security by construction</h2><p>His work illustrates how formal cryptographic definitions and proofs can guide the design of systems that must preserve secrecy or correctness even when participants do not fully trust one another.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1988",
+      "event": "Completes doctoral work on multiparty unconditionally secure protocols."
+    },
+    {
+      "date": "1989",
+      "event": "Publishes the Merkle–Damgård hash-function construction."
+    },
+    {
+      "date": "2010",
+      "event": "Named an IACR Fellow."
+    },
+    {
+      "date": "Present",
+      "event": "Leads the cryptography group at Aarhus University."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Aarhus University: Ivan Damgård home page",
+      "url": "https://www.cs.au.dk/~ivan/"
+    },
+    {
+      "title": "IACR: Fellow awards",
+      "url": "https://www.iacr.org/fellows.html"
+    },
+    {
+      "title": "IACR ePrint: Cryptography in the Bounded Quantum-Storage Model",
+      "url": "https://eprint.iacr.org/2005/324"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

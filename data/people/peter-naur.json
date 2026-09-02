@@ -1,0 +1,77 @@
+{
+  "id": "peter-naur",
+  "type": "person",
+  "title": "Peter Naur",
+  "slug": "peter-naur",
+  "name": "Peter Naur",
+  "born": "1928-10-25",
+  "died": "2016-01-03",
+  "era": "1950s-2016",
+  "tags": [
+    "programming-languages",
+    "algol",
+    "bnf",
+    "computer-science",
+    "academic-research",
+    "turing-award"
+  ],
+  "summary": "Danish computer-science pioneer whose work on ALGOL 60 and formal language description contributed to modern programming-language practice.",
+  "whyThisMatters": "Naur's work helped make programming-language specifications legible and reproducible. The notation associated with Backus and Naur became a durable tool for describing syntax, a prerequisite for reliable implementations and later language-security work.",
+  "knownFor": [
+    "ALGOL 60 report",
+    "Backus-Naur form",
+    "Programming as Theory Building",
+    "ACM A.M. Turing Award"
+  ],
+  "sections": {
+    "overview": "<p>Peter Naur was a Danish computer-science pioneer, initially trained in astronomy, who became a central contributor to programming-language design. He worked on the ALGOL 60 report and its influential syntactic notation.</p><h2>Language description and theory</h2><p>The ACM recognized Naur with the 2005 A.M. Turing Award for his role in defining ALGOL 60, including the pioneering use of a formal notation commonly called Backus-Naur form. He also wrote influential work on programming as theory building.</p><h2>In memoriam</h2><p>Naur died in 2016. His publications and bibliographic archive preserve a record of a career that joined programming-language practice with wider questions about human understanding of programs.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1957",
+      "event": "Completes doctoral work in astronomy at the University of Copenhagen."
+    },
+    {
+      "date": "1960",
+      "event": "Helps edit the Report on the Algorithmic Language ALGOL 60."
+    },
+    {
+      "date": "1969",
+      "event": "Becomes professor of computer science at the University of Copenhagen."
+    },
+    {
+      "date": "2005",
+      "event": "Receives the ACM A.M. Turing Award."
+    },
+    {
+      "date": "2016-01-03",
+      "event": "Dies in Herlev, Denmark."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "ACM: Peter Naur, 2005 A.M. Turing Award",
+      "url": "https://amturing.acm.org/award_winners/naur_1024454.cfm"
+    },
+    {
+      "title": "Peter Naur: Bibliography and biography",
+      "url": "https://www.naur.com/bibliography.html"
+    },
+    {
+      "title": "Computerworld Denmark: Peter Naur dies",
+      "url": "https://www.computerworld.dk/art/234491/den-verdensberoemte-it-dansker-peter-naur-er-doed"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

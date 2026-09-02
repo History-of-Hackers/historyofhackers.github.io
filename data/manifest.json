@@ -9209,5 +9209,479 @@
     ],
     "summary": "Cryptographer and educator whose research focuses on secure multiparty computation, rigorous cryptographic protocols, and practical key-protection systems.",
     "url": "people/yehuda-lindell.html"
+  },
+  {
+    "id": "john-rushby",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John Rushby",
+    "slug": "john-rushby",
+    "era": "1983-Present",
+    "tags": [
+      "formal-methods",
+      "high-assurance",
+      "computer-security",
+      "sri",
+      "research"
+    ],
+    "summary": "Computer-security researcher whose work applies formal methods to the assurance of secure, safe, and dependable systems.",
+    "url": "people/john-rushby.html"
+  },
+  {
+    "id": "steve-lipner",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Steve Lipner",
+    "slug": "steve-lipner",
+    "era": "1970s-Present",
+    "tags": [
+      "secure-development",
+      "microsoft",
+      "software-assurance",
+      "msrc",
+      "leadership"
+    ],
+    "summary": "Security engineer and technical leader associated with Microsoft’s Security Development Lifecycle and software-assurance practice.",
+    "url": "people/steve-lipner.html"
+  },
+  {
+    "id": "dieter-gollmann",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Dieter Gollmann",
+    "slug": "dieter-gollmann",
+    "era": "1980s-Present",
+    "tags": [
+      "security-engineering",
+      "distributed-systems",
+      "software-security",
+      "academia",
+      "books"
+    ],
+    "summary": "Computer-security scholar known for research and teaching spanning communications, software, and application security.",
+    "url": "people/dieter-gollmann.html"
+  },
+  {
+    "id": "elisa-bertino",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Elisa Bertino",
+    "slug": "elisa-bertino",
+    "era": "1980s-Present",
+    "tags": [
+      "access-control",
+      "database-security",
+      "privacy",
+      "cerias",
+      "academia"
+    ],
+    "summary": "Computer-security and database researcher whose work includes access control, privacy, and secure data management.",
+    "url": "people/elisa-bertino.html"
+  },
+  {
+    "id": "ninghui-li",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ninghui Li",
+    "slug": "ninghui-li",
+    "era": "2000s-Present",
+    "tags": [
+      "access-control",
+      "trust-management",
+      "privacy",
+      "applied-cryptography",
+      "academia"
+    ],
+    "summary": "Computer-security researcher known for work on access control, trust management, privacy, and distributed-system security.",
+    "url": "people/ninghui-li.html"
+  },
+  {
+    "id": "william-cheswick",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "William R. Cheswick",
+    "slug": "william-cheswick",
+    "era": "1987-Present",
+    "tags": [
+      "firewalls",
+      "honeypots",
+      "network-security",
+      "bell-labs",
+      "internet-mapping"
+    ],
+    "summary": "Network-security researcher known for early firewall work at Bell Labs and for co-authoring Firewalls and Internet Security.",
+    "url": "people/william-cheswick.html"
+  },
+  {
+    "id": "jeannette-wing",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jeannette M. Wing",
+    "slug": "jeannette-wing",
+    "era": "1980s-Present",
+    "tags": [
+      "trustworthy-computing",
+      "security-and-privacy",
+      "formal-methods",
+      "academia",
+      "research-leadership"
+    ],
+    "summary": "Computer scientist whose research and research leadership address trustworthy computing, security, privacy, and formal methods.",
+    "url": "people/jeannette-wing.html"
+  },
+  {
+    "id": "mark-s-miller",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Mark S. Miller",
+    "slug": "mark-s-miller",
+    "era": "1980s-Present",
+    "tags": [
+      "capability-security",
+      "programming-languages",
+      "object-capabilities",
+      "secure-systems",
+      "research"
+    ],
+    "summary": "Computer scientist known for object-capability security and programming-language designs for secure open systems.",
+    "url": "people/mark-s-miller.html"
+  },
+  {
+    "id": "elaine-barker",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Elaine Barker",
+    "slug": "elaine-barker",
+    "era": "1970s-Present",
+    "tags": [
+      "cryptography",
+      "nist",
+      "standards",
+      "key-management",
+      "research"
+    ],
+    "summary": "Cryptography specialist associated with NIST guidance on key management and cryptographic standards.",
+    "url": "people/elaine-barker.html"
+  },
+  {
+    "id": "donna-dodson",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Donna Dodson",
+    "slug": "donna-dodson",
+    "era": "1980s-Present",
+    "tags": [
+      "cryptography",
+      "nist",
+      "standards",
+      "computer-security",
+      "leadership"
+    ],
+    "summary": "Computer-security and cryptography leader associated with NIST’s Computer Security Division and national cryptographic standards work.",
+    "url": "people/donna-dodson.html"
+  },
+  {
+    "id": "charles-rackoff",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Charles Rackoff",
+    "slug": "charles-rackoff",
+    "era": "1970s-Present",
+    "tags": [
+      "cryptography",
+      "complexity-theory",
+      "zero-knowledge",
+      "interactive-proofs"
+    ],
+    "summary": "Cryptographer and complexity theorist whose work helped establish the theory of interactive proofs and zero-knowledge.",
+    "url": "people/charles-rackoff.html"
+  },
+  {
+    "id": "nancy-lynch",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Nancy Lynch",
+    "slug": "nancy-lynch",
+    "era": "1970s-Present",
+    "tags": [
+      "distributed-systems",
+      "formal-methods",
+      "fault-tolerance",
+      "security"
+    ],
+    "summary": "MIT computer scientist whose formal models of distributed systems underpin reasoning about reliability and security in concurrent systems.",
+    "url": "people/nancy-lynch.html"
+  },
+  {
+    "id": "ivan-damgard",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ivan Bjerre Damgård",
+    "slug": "ivan-damgard",
+    "era": "1980s-Present",
+    "tags": [
+      "cryptography",
+      "secure-computation",
+      "hash-functions",
+      "multiparty-computation"
+    ],
+    "summary": "Danish cryptographer whose research spans hash-function constructions, secure computation, and cryptographic protocol design.",
+    "url": "people/ivan-damgard.html"
+  },
+  {
+    "id": "tatsuaki-okamoto",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Tatsuaki Okamoto",
+    "slug": "tatsuaki-okamoto",
+    "era": "1970s-Present",
+    "tags": [
+      "cryptography",
+      "authentication",
+      "public-key-cryptography",
+      "information-security"
+    ],
+    "summary": "Japanese cryptographer and NTT Fellow known for long-running research and leadership in cryptography and information security.",
+    "url": "people/tatsuaki-okamoto.html"
+  },
+  {
+    "id": "martin-abadi",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Martín Abadi",
+    "slug": "martin-abadi",
+    "era": "1980s-Present",
+    "tags": [
+      "security-protocols",
+      "formal-methods",
+      "programming-languages",
+      "cryptography"
+    ],
+    "summary": "Computer scientist whose formal work on authentication protocols and programming-language security shaped methods for reasoning about secure systems.",
+    "url": "people/martin-abadi.html"
+  },
+  {
+    "id": "andrew-appel",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Andrew W. Appel",
+    "slug": "andrew-appel",
+    "era": "1980s-Present",
+    "tags": [
+      "formal-verification",
+      "computer-security",
+      "election-security",
+      "programming-languages"
+    ],
+    "summary": "Princeton computer scientist whose work joins formal verification, secure systems, and public scrutiny of election technology.",
+    "url": "people/andrew-appel.html"
+  },
+  {
+    "id": "ralf-kusters",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ralf Küsters",
+    "slug": "ralf-kusters",
+    "era": "1990s-Present",
+    "tags": [
+      "formal-security",
+      "cryptographic-protocols",
+      "web-security",
+      "electronic-voting"
+    ],
+    "summary": "German computer-security researcher known for formal analysis of cryptographic protocols, web security, electronic voting, and related systems.",
+    "url": "people/ralf-kusters.html"
+  },
+  {
+    "id": "gavin-lowe",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Gavin Lowe",
+    "slug": "gavin-lowe",
+    "era": "1990s-Present",
+    "tags": [
+      "formal-methods",
+      "security-protocols",
+      "authentication",
+      "csp"
+    ],
+    "summary": "Oxford computer scientist whose formal analysis exposed a flaw in the Needham–Schroeder public-key protocol and influenced protocol-verification practice.",
+    "url": "people/gavin-lowe.html"
+  },
+  {
+    "id": "michael-backes",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Michael Backes",
+    "slug": "michael-backes",
+    "era": "1990s-Present",
+    "tags": [
+      "computer-security",
+      "privacy",
+      "cryptography",
+      "formal-methods"
+    ],
+    "summary": "Computer-security and privacy researcher whose work spans cryptographic protocol analysis, formal methods, and privacy-preserving systems.",
+    "url": "people/michael-backes.html"
+  },
+  {
+    "id": "catherine-meadows",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Catherine A. Meadows",
+    "slug": "catherine-meadows",
+    "era": "1980s-Present",
+    "tags": [
+      "formal-methods",
+      "cryptographic-protocols",
+      "protocol-analysis",
+      "high-assurance-systems"
+    ],
+    "summary": "Cryptographer and formal-methods researcher known for advancing formal analysis and automated discovery of flaws in security protocols.",
+    "url": "people/catherine-meadows.html"
+  },
+  {
+    "id": "david-wheeler",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "David Wheeler",
+    "slug": "david-wheeler",
+    "era": "1940s-2004",
+    "tags": [
+      "computer-science",
+      "edsac",
+      "subroutines",
+      "cryptography",
+      "cambridge",
+      "software-engineering"
+    ],
+    "summary": "British computer scientist who worked on EDSAC, developed the closed subroutine, and co-designed the Tiny Encryption Algorithm with Roger Needham.",
+    "url": "people/david-wheeler.html"
+  },
+  {
+    "id": "douglas-engelbart",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Douglas Engelbart",
+    "slug": "douglas-engelbart",
+    "era": "1950s-2013",
+    "tags": [
+      "human-computer-interaction",
+      "mouse",
+      "hypertext",
+      "collaboration",
+      "computer-networks",
+      "research"
+    ],
+    "summary": "American engineer whose work at SRI advanced interactive computing, hypertext, collaborative systems, and the computer mouse.",
+    "url": "people/douglas-engelbart.html"
+  },
+  {
+    "id": "frances-allen",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Frances Allen",
+    "slug": "frances-allen",
+    "era": "1950s-2020",
+    "tags": [
+      "compiler-optimization",
+      "programming-languages",
+      "high-performance-computing",
+      "ibm",
+      "academic-research",
+      "women-in-computing"
+    ],
+    "summary": "American computer scientist whose research in compiler optimization and parallel computing helped shape modern high-performance computing.",
+    "url": "people/frances-allen.html"
+  },
+  {
+    "id": "frederick-p-brooks-jr",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Frederick P. Brooks Jr.",
+    "slug": "frederick-p-brooks-jr",
+    "era": "1950s-2022",
+    "tags": [
+      "software-engineering",
+      "computer-architecture",
+      "ibm-system-360",
+      "operating-systems",
+      "academic-research",
+      "books"
+    ],
+    "summary": "American computer scientist and software-engineering author who led work on IBM System/360 projects and wrote The Mythical Man-Month.",
+    "url": "people/frederick-p-brooks-jr.html"
+  },
+  {
+    "id": "genevieve-grotjan-feinstein",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Genevieve Grotjan Feinstein",
+    "slug": "genevieve-grotjan-feinstein",
+    "era": "1930s-2006",
+    "tags": [
+      "cryptanalysis",
+      "purple",
+      "venona",
+      "mathematics",
+      "signals-intelligence",
+      "women-in-cryptology"
+    ],
+    "summary": "American mathematician and cryptanalyst whose breakthroughs assisted the solution of Japan's Purple diplomatic system and later work on Venona.",
+    "url": "people/genevieve-grotjan-feinstein.html"
+  },
+  {
+    "id": "john-herivel",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John Herivel",
+    "slug": "john-herivel",
+    "era": "1940s-2011",
+    "tags": [
+      "cryptanalysis",
+      "enigma",
+      "bletchley-park",
+      "mathematics",
+      "history-of-science",
+      "codebreaking"
+    ],
+    "summary": "Irish mathematician, historian of science, and Bletchley Park codebreaker remembered for the \"Herivel Tip\" used in Enigma cryptanalysis.",
+    "url": "people/john-herivel.html"
+  },
+  {
+    "id": "peter-naur",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Peter Naur",
+    "slug": "peter-naur",
+    "era": "1950s-2016",
+    "tags": [
+      "programming-languages",
+      "algol",
+      "bnf",
+      "computer-science",
+      "academic-research",
+      "turing-award"
+    ],
+    "summary": "Danish computer-science pioneer whose work on ALGOL 60 and formal language description contributed to modern programming-language practice.",
+    "url": "people/peter-naur.html"
+  },
+  {
+    "id": "robert-w-taylor",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Robert W. Taylor",
+    "slug": "robert-w-taylor",
+    "era": "1960s-2017",
+    "tags": [
+      "arpanet",
+      "computer-networks",
+      "xerox-parc",
+      "interactive-computing",
+      "research-management",
+      "internet-history"
+    ],
+    "summary": "American computer-science research leader whose work at ARPA, Xerox PARC, and DEC supported major advances in networking and personal computing.",
+    "url": "people/robert-w-taylor.html"
   }
 ]

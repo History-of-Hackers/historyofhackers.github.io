@@ -1,0 +1,73 @@
+{
+  "id": "douglas-engelbart",
+  "type": "person",
+  "title": "Douglas Engelbart",
+  "slug": "douglas-engelbart",
+  "name": "Douglas Engelbart",
+  "born": "1925-01-30",
+  "died": "2013-07-02",
+  "era": "1950s-2013",
+  "tags": [
+    "human-computer-interaction",
+    "mouse",
+    "hypertext",
+    "collaboration",
+    "computer-networks",
+    "research"
+  ],
+  "summary": "American engineer whose work at SRI advanced interactive computing, hypertext, collaborative systems, and the computer mouse.",
+  "whyThisMatters": "Engelbart's systems research anticipated many practices of collaborative computing. His 1968 demonstration is significant to technical culture because it showed interacting ideas—pointing devices, shared work, links, and networked collaboration—as a coherent system.",
+  "knownFor": [
+    "Computer mouse",
+    "NLS",
+    "1968 demonstration",
+    "Augmentation Research Center"
+  ],
+  "sections": {
+    "overview": "<p>Douglas Carl Engelbart was an American engineer and researcher who pursued computers as tools for augmenting human collaboration. At SRI, he founded the Augmentation Research Center and developed the oN-Line System, or NLS.</p><h2>The 1968 demonstration</h2><p>On 9 December 1968, Engelbart and colleagues demonstrated NLS in San Francisco. The presentation included a pointing device later known as the mouse, hypertext, shared-screen collaboration, and interactive editing.</p><h2>In memoriam</h2><p>Engelbart died in 2013. His institute and archival institutions continue to preserve a record of a career focused on collective problem-solving through computing.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1959",
+      "event": "Founds the Augmentation Research Center at SRI."
+    },
+    {
+      "date": "1968-12-09",
+      "event": "Demonstrates NLS in San Francisco."
+    },
+    {
+      "date": "2000",
+      "event": "Receives the National Medal of Technology."
+    },
+    {
+      "date": "2013-07-02",
+      "event": "Dies in Atherton, California."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Computer History Museum: Douglas Engelbart",
+      "url": "https://computerhistory.org/profile/doug-engelbart/"
+    },
+    {
+      "title": "Stanford Engineering: Doug Engelbart dies",
+      "url": "https://engineering.stanford.edu/news/stanford-researcher-doug-engelbart-inventor-computer-mouse-dies"
+    },
+    {
+      "title": "Doug Engelbart Institute: Remembering Doug Engelbart",
+      "url": "https://dougengelbart.org/about/remembering-doug.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

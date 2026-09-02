@@ -1,0 +1,70 @@
+{
+  "id": "andrew-appel",
+  "type": "person",
+  "title": "Andrew W. Appel",
+  "slug": "andrew-appel",
+  "name": "Andrew W. Appel",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "formal-verification",
+    "computer-security",
+    "election-security",
+    "programming-languages"
+  ],
+  "summary": "Princeton computer scientist whose work joins formal verification, secure systems, and public scrutiny of election technology.",
+  "whyThisMatters": "Appel has brought proof-oriented software assurance into contact with real security questions, including cryptographic software, voting systems, and election policy.",
+  "knownFor": [
+    "Verified Software Toolchain",
+    "Election security",
+    "Formal verification"
+  ],
+  "sections": {
+    "overview": "<p>Andrew W. Appel is a Princeton computer scientist whose research spans software verification, computer security, programming languages, compilers, and election technology.</p><h2>Verification that reaches systems</h2><p>Appel’s research has developed proof-oriented tools and methods for reasoning about software. The Verified Software Toolchain is part of that effort to apply formal verification to systems software and related components.</p><h2>Security and civic technology</h2><p>He has also examined voting-machine and election-system security in public-facing technical and policy work, emphasizing auditable election infrastructure.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1985",
+      "event": "Receives a Ph.D. in computer science from Carnegie Mellon University."
+    },
+    {
+      "date": "1986",
+      "event": "Joins Princeton University."
+    },
+    {
+      "date": "2004",
+      "event": "Begins sustained public work on voting-machine security."
+    },
+    {
+      "date": "2025",
+      "event": "Becomes professor emeritus at Princeton while continuing research."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Princeton CS: Andrew Appel",
+      "url": "https://www.cs.princeton.edu/people/profile/appel"
+    },
+    {
+      "title": "Princeton: Andrew Appel biography",
+      "url": "https://dof.princeton.edu/people/andrew-appel"
+    },
+    {
+      "title": "Andrew Appel: curriculum vitae",
+      "url": "https://www.cs.princeton.edu/~appel/vita.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

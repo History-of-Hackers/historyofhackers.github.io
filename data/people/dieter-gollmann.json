@@ -1,0 +1,67 @@
+{
+  "id": "dieter-gollmann",
+  "type": "person",
+  "title": "Dieter Gollmann",
+  "slug": "dieter-gollmann",
+  "name": "Dieter Gollmann",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "security-engineering",
+    "distributed-systems",
+    "software-security",
+    "academia",
+    "books"
+  ],
+  "summary": "Computer-security scholar known for research and teaching spanning communications, software, and application security.",
+  "whyThisMatters": "Gollmann’s research and widely used security-engineering texts connect foundational concepts to deployed systems.",
+  "knownFor": [
+    "Security engineering",
+    "Distributed applications",
+    "Computer Security textbook"
+  ],
+  "sections": {
+    "overview": "<p>Dieter Gollmann is a computer-security scholar associated with Hamburg University of Technology and SBA Research. His work has covered communications security, software security, application security, and security in distributed systems.</p><h2>Security engineering across layers</h2><p>Gollmann’s writing emphasizes that sound security depends on the interaction of mechanisms, systems, and operational context. His textbook <em>Computer Security</em> has been used to introduce the discipline’s concepts and engineering trade-offs.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1984",
+      "event": "Receives a doctorate from Johannes Kepler University Linz."
+    },
+    {
+      "date": "1991",
+      "event": "Receives habilitation in computer science at Karlsruhe Institute of Technology."
+    },
+    {
+      "date": "2001",
+      "event": "Publishes the first edition of Computer Security."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Hamburg University of Technology repository profile",
+      "url": "https://tore.tuhh.de/entities/person/b1689186-d5f3-4877-82e2-f46bebd2876e"
+    },
+    {
+      "title": "SBA Research: Dieter Gollmann",
+      "url": "https://www.sba-research.org/team/dieter-gollmann/"
+    },
+    {
+      "title": "Wiley: Computer Security",
+      "url": "https://www.wiley.com/en-us/Computer+Security%2C+3rd+Edition-p-9781119439025"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

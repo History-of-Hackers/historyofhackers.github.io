@@ -1,0 +1,81 @@
+{
+  "id": "genevieve-grotjan-feinstein",
+  "type": "person",
+  "title": "Genevieve Grotjan Feinstein",
+  "slug": "genevieve-grotjan-feinstein",
+  "name": "Genevieve Grotjan Feinstein",
+  "born": "1913-04-30",
+  "died": "2006-08-10",
+  "era": "1930s-2006",
+  "tags": [
+    "cryptanalysis",
+    "purple",
+    "venona",
+    "mathematics",
+    "signals-intelligence",
+    "women-in-cryptology"
+  ],
+  "summary": "American mathematician and cryptanalyst whose breakthroughs assisted the solution of Japan's Purple diplomatic system and later work on Venona.",
+  "whyThisMatters": "Grotjan Feinstein's documented breakthroughs show the central role of mathematical analysis in cryptologic operations. Her record also preserves the contribution of a woman whose wartime work was largely classified during her career.",
+  "knownFor": [
+    "Purple-system cryptanalysis",
+    "Venona key-reuse analysis",
+    "Signals Intelligence Service",
+    "NSA Cryptologic Hall of Honor"
+  ],
+  "sections": {
+    "overview": "<p>Genevieve Grotjan Feinstein was an American mathematician and cryptanalyst hired by the Army Signal Intelligence Service in 1939. The NSA records that her September 1940 breakthrough enabled the service to build an analog machine for work against Japan's Purple diplomatic system.</p><h2>Cryptologic work</h2><p>She later worked on the Soviet problem that became Venona. The NSA credits her with a process for identifying reused key material, an analytical step that assisted later decryption work.</p><h2>In memoriam</h2><p>Feinstein left government service in 1947 and later taught mathematics. She died in 2006 and was inducted into the NSA/CSS Cryptologic Hall of Honor in 2010.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1939",
+      "event": "Is hired by the Army Signal Intelligence Service."
+    },
+    {
+      "date": "1940-09",
+      "event": "Makes the breakthrough that assisted work against the Purple system."
+    },
+    {
+      "date": "1943",
+      "event": "Is assigned to the Soviet cryptanalytic problem later known as Venona."
+    },
+    {
+      "date": "1947-05",
+      "event": "Leaves government service."
+    },
+    {
+      "date": "2006-08-10",
+      "event": "Dies in Fairfax, Virginia."
+    },
+    {
+      "date": "2010",
+      "event": "Is inducted into the NSA/CSS Cryptologic Hall of Honor."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA: Genevieve Grotjan Feinstein",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/Historical-Figures-View/Article/1621585/genevieve-grotjan-feinstein/"
+    },
+    {
+      "title": "University at Buffalo: Life after cryptography",
+      "url": "https://www.buffalo.edu/content/dam/www/atbuffalo/Spring2018Issue/Homepage/At-Buffalo-Spring-2018.pdf"
+    },
+    {
+      "title": "George Mason University: Feinstein Award in Math",
+      "url": "https://science.gmu.edu/admissions-aid/undergraduate-scholarships"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}
