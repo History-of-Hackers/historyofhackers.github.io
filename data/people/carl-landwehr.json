@@ -1,0 +1,66 @@
+{
+  "id": "carl-landwehr",
+  "type": "person",
+  "title": "Carl E. Landwehr",
+  "slug": "carl-landwehr",
+  "name": "Carl E. Landwehr",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "computer-security",
+    "formal-methods",
+    "trustworthy-computing",
+    "research-policy"
+  ],
+  "summary": "Computer-security researcher and research-program leader whose work includes formal security models, trustworthy computing, and federal cybersecurity research.",
+  "whyThisMatters": "Landwehr's 1981 survey helped map the formal-model landscape of computer security. His later work at research institutions and funding agencies connected foundational research with long-term cybersecurity programs.",
+  "knownFor": [
+    "Formal models for computer security",
+    "Trustworthy-computing research",
+    "Cybersecurity research leadership"
+  ],
+  "sections": {
+    "overview": "<p>Carl E. Landwehr is a computer-security researcher whose work spans formal methods, trustworthy computing, and cybersecurity research leadership. His 1981 ACM Computing Surveys article, <em>Formal Models for Computer Security</em>, surveyed security models and their assumptions at an important formative moment for the field.</p><h2>Research and public programs</h2><p>Landwehr's career included research at the Naval Research Laboratory and leadership roles in federal cybersecurity research programs. This combination of technical scholarship and program stewardship made him an important bridge between security theory and sustained public research investment.</p><h2>Why he belongs in this archive</h2><p>Security history includes the people who develop methods for reasoning about protection as well as those who test systems. Landwehr's published survey remains a useful record of early formal approaches to computer security.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1981",
+      "event": "Publishes Formal Models for Computer Security in ACM Computing Surveys."
+    },
+    {
+      "date": "2001",
+      "event": "Begins a term directing cybersecurity research programs at the U.S. National Science Foundation."
+    },
+    {
+      "date": "2005",
+      "event": "Moves into leadership of advanced cybersecurity research programs in the U.S. intelligence-research community."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Carl E. Landwehr: publications",
+      "url": "https://www.landwehr.org/publications.html"
+    },
+    {
+      "title": "ACM: Formal Models for Computer Security",
+      "url": "https://doi.org/10.1145/356850.356852"
+    },
+    {
+      "title": "U.S. Government Publishing Office: Carl E. Landwehr biography",
+      "url": "https://www.govinfo.gov/content/pkg/GPO-TNW-19-2-2012/pdf/GPO-TNW-19-2-2012.pdf"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-academics-2026-09-02"
+  }
+}

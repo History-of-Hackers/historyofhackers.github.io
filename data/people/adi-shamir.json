@@ -1,0 +1,70 @@
+{
+  "id": "adi-shamir",
+  "type": "person",
+  "title": "Adi Shamir",
+  "slug": "adi-shamir",
+  "name": "Adi Shamir",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "cryptography",
+    "public-key-cryptography",
+    "cryptanalysis",
+    "academic-research"
+  ],
+  "summary": "Israeli cryptographer and co-inventor of RSA public-key cryptography, also known for foundational work in cryptanalysis and secret sharing.",
+  "whyThisMatters": "Shamir’s research made durable contributions to public-key cryptography and to the language and practice of modern cryptanalysis.",
+  "knownFor": [
+    "RSA public-key cryptosystem",
+    "Shamir secret sharing",
+    "Cryptanalysis"
+  ],
+  "sections": {
+    "overview": "<p>Adi Shamir is a cryptographer whose work has shaped modern information security. With Ron Rivest and Leonard Adleman, he co-invented RSA, a public-key cryptosystem that became one of the best-known tools in digital security.</p><h2>Foundations</h2><p>Shamir also introduced a widely used secret-sharing method and has contributed influential ideas in cryptanalysis. His work matters to hacker culture and security history because it made the assumptions behind secure communication concrete, testable, and contestable.</p><h2>Recognition</h2><p>The ACM recognized the RSA inventors with the Turing Award in 2002, reflecting the cryptosystem’s enduring significance.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1977",
+      "event": "Co-invents the RSA public-key cryptosystem with Ron Rivest and Leonard Adleman."
+    },
+    {
+      "date": "1979",
+      "event": "Introduces the secret-sharing scheme now known as Shamir secret sharing."
+    },
+    {
+      "date": "2002",
+      "event": "Receives the ACM Turing Award with Rivest and Adleman for RSA."
+    },
+    {
+      "date": "Present",
+      "event": "Continues scholarly work in cryptography and related fields."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Weizmann Institute: Adi Shamir",
+      "url": "https://www.wisdom.weizmann.ac.il/~adi/"
+    },
+    {
+      "title": "ACM: 2002 Turing Award announcement",
+      "url": "https://awards.acm.org/about/2002-turing"
+    },
+    {
+      "title": "RSA paper (MIT CSAIL archive)",
+      "url": "https://people.csail.mit.edu/rivest/Rsapaper.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

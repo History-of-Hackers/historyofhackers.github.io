@@ -1,0 +1,75 @@
+{
+  "id": "jerzy-rozycki",
+  "type": "person",
+  "title": "Jerzy Różycki",
+  "slug": "jerzy-rozycki",
+  "name": "Jerzy Różycki",
+  "born": 1909,
+  "died": 1942,
+  "era": "1930s-1942",
+  "tags": [
+    "cryptanalysis",
+    "enigma",
+    "polish-cipher-bureau",
+    "mathematics",
+    "codebreaking"
+  ],
+  "summary": "Polish mathematician and Cipher Bureau cryptanalyst who worked with Marian Rejewski and Henryk Zygalski against Enigma.",
+  "whyThisMatters": "Różycki’s work was part of the collaborative Polish breakthrough against Enigma. Recording the team, rather than only its most famous member, gives a more accurate account of how cryptanalytic advances happen.",
+  "knownFor": [
+    "Polish Cipher Bureau",
+    "Enigma cryptanalysis",
+    "Clock method"
+  ],
+  "sections": {
+    "overview": "<p>Jerzy Różycki was a Polish mathematician and cryptanalyst assigned to the Cipher Bureau’s German section. Alongside Marian Rejewski and Henryk Zygalski, he contributed to early successful work against Enigma.</p><h2>Collaborative cryptanalysis</h2><p>Różycki developed the “clock” method, which used characteristics of Enigma traffic to help determine rotor settings. The Polish team’s results were shared with Allied partners before the Second World War.</p><h2>In memoriam</h2><p>Różycki died in 1942 when the passenger ship Lamoricière sank in the Mediterranean. His contribution belongs to the collective history of the Polish Cipher Bureau.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1909",
+      "event": "Born in Olszana, then in the Russian Empire."
+    },
+    {
+      "date": "1932",
+      "event": "Begins work for Poland’s Cipher Bureau."
+    },
+    {
+      "date": "1930s",
+      "event": "Contributes to methods for attacking Enigma traffic."
+    },
+    {
+      "date": "1939",
+      "event": "The Polish team shares Enigma knowledge with Britain and France."
+    },
+    {
+      "date": "1942",
+      "event": "Dies in the sinking of the Lamoricière."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bletchley Park: Polish Enigma cryptologists",
+      "url": "https://bletchleypark.org.uk/our-story/polish-enigma-cryptologists"
+    },
+    {
+      "title": "Polish History Museum: Enigma codebreakers",
+      "url": "https://muzhp.pl/en/c/1522/enigma-codebreakers"
+    },
+    {
+      "title": "Encyclopaedia Britannica: Enigma",
+      "url": "https://www.britannica.com/topic/Enigma-German-code-device"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

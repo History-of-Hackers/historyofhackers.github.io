@@ -1,0 +1,80 @@
+{
+  "id": "william-tutte",
+  "type": "person",
+  "title": "William Tutte",
+  "slug": "william-tutte",
+  "name": "William Tutte",
+  "born": 1917,
+  "died": 2002,
+  "era": "1940s-2002",
+  "tags": [
+    "cryptanalysis",
+    "colossus",
+    "tunny",
+    "mathematics",
+    "bletchley-park"
+  ],
+  "summary": "British mathematician whose analysis of the German Lorenz cipher made high-level wartime cryptanalysis possible without seeing the machine.",
+  "whyThisMatters": "Tutte’s reconstruction of the Lorenz cipher from intercepted traffic is a classic example of extracting a system’s structure from its outputs—the central intellectual move of cryptanalysis and security analysis.",
+  "knownFor": [
+    "Lorenz/Tunny cryptanalysis",
+    "Statistical methods",
+    "Colossus context",
+    "Graph theory"
+  ],
+  "sections": {
+    "overview": "<p>William Tutte was a British mathematician and wartime cryptanalyst at Bletchley Park. Working from intercepted ciphertext, he deduced the logical structure of the German Lorenz SZ40/42 cipher machine, known to British analysts as Tunny.</p><h2>Lorenz and mechanised analysis</h2><p>Tutte’s analysis enabled the later mechanisation of attacks on Lorenz traffic. That work formed part of the setting in which Colossus was developed and used for high-speed cryptanalytic processing.</p><h2>In memoriam</h2><p>Tutte died in 2002. He is remembered both for cryptanalysis and for major contributions to mathematics.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1917",
+      "event": "Born in Newmarket, England."
+    },
+    {
+      "date": "1941",
+      "event": "Joins Bletchley Park."
+    },
+    {
+      "date": "1942",
+      "event": "Deduces the structure of the Lorenz cipher machine from traffic."
+    },
+    {
+      "date": "1943",
+      "event": "Mechanised work against Tunny enters operation at Bletchley Park."
+    },
+    {
+      "date": "1948",
+      "event": "Emigrates to Canada and continues a mathematical career."
+    },
+    {
+      "date": "2002",
+      "event": "Dies in Ontario, Canada."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bletchley Park: Bill Tutte",
+      "url": "https://bletchleypark.org.uk/our-story/bill-tutte"
+    },
+    {
+      "title": "GCHQ: Bill Tutte",
+      "url": "https://www.gchq.gov.uk/information/bill-tutte"
+    },
+    {
+      "title": "University of Waterloo: William Tutte",
+      "url": "https://uwaterloo.ca/math/history/william-tutte"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

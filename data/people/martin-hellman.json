@@ -1,0 +1,70 @@
+{
+  "id": "martin-hellman",
+  "type": "person",
+  "title": "Martin Hellman",
+  "slug": "martin-hellman",
+  "name": "Martin Hellman",
+  "born": null,
+  "died": null,
+  "era": "1960s-Present",
+  "tags": [
+    "cryptography",
+    "public-key-cryptography",
+    "information-theory",
+    "academic-research"
+  ],
+  "summary": "Cryptographer and Stanford professor emeritus whose collaboration with Whitfield Diffie established a foundational approach to public-key cryptography.",
+  "whyThisMatters": "Hellman’s research helped make secure communication over open networks technically possible and academically legitimate.",
+  "knownFor": [
+    "Public-key cryptography",
+    "Diffie–Hellman key exchange",
+    "Information theory"
+  ],
+  "sections": {
+    "overview": "<p>Martin Hellman is a cryptographer and Stanford professor emeritus. With Whitfield Diffie, he co-authored the 1976 paper that opened a new direction for cryptography and introduced concepts central to public-key systems.</p><h2>Open-network security</h2><p>Hellman and Diffie focused on a practical challenge: how parties can communicate securely when they have not privately arranged a key in advance. Their ideas became fundamental to the cryptographic infrastructure behind secure digital communication.</p><h2>Lasting impact</h2><p>The work has remained influential in both research and deployed protocol design, and it was recognized with the 2015 ACM Turing Award.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1976",
+      "event": "Publishes “New Directions in Cryptography” with Whitfield Diffie."
+    },
+    {
+      "date": "1970s",
+      "event": "Develops the work that became known as Diffie–Hellman key exchange."
+    },
+    {
+      "date": "2015",
+      "event": "Receives the ACM Turing Award with Whitfield Diffie."
+    },
+    {
+      "date": "Present",
+      "event": "Maintains public educational material about cryptography and security."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Stanford: Martin Hellman",
+      "url": "https://ee.stanford.edu/~hellman/"
+    },
+    {
+      "title": "ACM Turing Award: Martin Hellman",
+      "url": "https://amturing.acm.org/award_winners/hellman_4055781.cfm"
+    },
+    {
+      "title": "IEEE: New Directions in Cryptography",
+      "url": "https://ieeexplore.ieee.org/document/1055638"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

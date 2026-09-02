@@ -1,0 +1,67 @@
+{
+  "id": "ravi-sandhu",
+  "type": "person",
+  "title": "Ravi Sandhu",
+  "slug": "ravi-sandhu",
+  "name": "Ravi Sandhu",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "access-control",
+    "rbac",
+    "authorization",
+    "computer-security",
+    "academic-research"
+  ],
+  "summary": "Computer-security researcher known for access-control models and for coauthoring the RBAC96 reference models for role-based access control.",
+  "whyThisMatters": "Sandhu's work helped give role-based access control a widely used formal vocabulary. RBAC remains a foundational authorization pattern in enterprise and public-sector systems.",
+  "knownFor": [
+    "Role-based access control (RBAC)",
+    "Access-control models",
+    "Information-security research"
+  ],
+  "sections": {
+    "overview": "<p>Ravi Sandhu is a computer-security researcher whose work focuses on access control, authorization, privacy, and trust. His research career has included faculty and research leadership roles at George Mason University and the University of Texas at San Antonio.</p><h2>Role-based access control</h2><p>Sandhu coauthored the 1996 RBAC reference models, which describe an approach in which permissions are associated with roles and users gain permissions through role membership. The model was influential in how organizations structure authorization.</p><h2>Research leadership</h2><p>Beyond RBAC, Sandhu has worked on access-control models, protocols, and mechanisms. His career demonstrates why identity and authorization architecture are central themes in security history.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1996",
+      "event": "Coauthors Role-Based Access Control Models."
+    },
+    {
+      "date": "2007",
+      "event": "Becomes founding executive director of the Institute for Cyber Security at UTSA."
+    },
+    {
+      "date": "2024",
+      "event": "Listed as professor emeritus by the University of Texas at San Antonio."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ravi Sandhu: career synopsis",
+      "url": "https://www.profsandhu.com/"
+    },
+    {
+      "title": "NIST: Role-Based Access Control Models",
+      "url": "https://csrc.nist.gov/csrc/media/projects/role-based-access-control/documents/sandhu96.pdf"
+    },
+    {
+      "title": "ACM: Roles versus groups",
+      "url": "https://doi.org/10.1145/270152.270163"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-academics-2026-09-02"
+  }
+}

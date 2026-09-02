@@ -1,0 +1,67 @@
+{
+  "id": "sushil-jajodia",
+  "type": "person",
+  "title": "Sushil Jajodia",
+  "slug": "sushil-jajodia",
+  "name": "Sushil Jajodia",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "cybersecurity",
+    "access-control",
+    "secure-databases",
+    "adaptive-defense",
+    "academic-research"
+  ],
+  "summary": "Computer-security and privacy researcher, founding director of George Mason University's Center for Secure Information Systems, known for work on access control, secure databases, and adaptive cyber defense.",
+  "whyThisMatters": "Jajodia helped establish security research as an enduring academic program while contributing to access control, secure databases, vulnerability analysis, and adaptive defense. His work shows the field's progression from protection models to operational cyber defense.",
+  "knownFor": [
+    "Center for Secure Information Systems",
+    "Secure databases and access control",
+    "Adaptive cyber defense"
+  ],
+  "sections": {
+    "overview": "<p>Sushil Jajodia is a computer-security and privacy researcher at George Mason University. He founded the Center for Secure Information Systems (CSIS) and has worked across access control, multilevel secure databases, vulnerability analysis, cyber defense, cloud security, and steganography.</p><h2>Research and institution building</h2><p>Jajodia's record combines technical research with the development of a long-running academic center for security. He was founding editor-in-chief of the <em>Journal of Computer Security</em> and has held professional-service roles across the field.</p><h2>Adaptive defense</h2><p>His later work includes methods for understanding vulnerabilities and defenses in changing environments. This makes his career useful for tracing a line from classic information-security models to more adaptive approaches to cyber defense.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1990",
+      "event": "Establishes the Center for Secure Information Systems at George Mason University."
+    },
+    {
+      "date": "1992",
+      "event": "Becomes founding editor-in-chief of the Journal of Computer Security."
+    },
+    {
+      "date": "2020",
+      "event": "Receives the IEEE Computer Society W. Wallace McDowell Award for adaptive cyber-defense research."
+    }
+  ],
+  "sources": [
+    {
+      "title": "George Mason University: Sushil Jajodia",
+      "url": "https://csis.gmu.edu/jajodia/"
+    },
+    {
+      "title": "George Mason University: McDowell Award announcement",
+      "url": "https://content.sitemasonry.gmu.edu/news/2020-12/mason-engineering-cybersecurity-expert-receives-prestigious-award-his-research"
+    },
+    {
+      "title": "From Database to Cyber Security (honor volume)",
+      "url": "https://csis.gmu.edu/jajodia/477049.pdf"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-academics-2026-09-02"
+  }
+}

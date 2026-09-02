@@ -1,0 +1,80 @@
+{
+  "id": "marian-rejewski",
+  "type": "person",
+  "title": "Marian Rejewski",
+  "slug": "marian-rejewski",
+  "name": "Marian Rejewski",
+  "born": 1905,
+  "died": 1980,
+  "era": "1930s-1980",
+  "tags": [
+    "cryptanalysis",
+    "enigma",
+    "mathematics",
+    "polish-cipher-bureau",
+    "codebreaking"
+  ],
+  "summary": "Polish mathematician and cryptanalyst who reconstructed the German Enigma machine’s wiring and developed methods for reading its traffic before the Second World War.",
+  "whyThisMatters": "Rejewski’s work is a cornerstone of Enigma history. It demonstrates how mathematical modeling, captured materials, and operational traffic can be combined to recover the structure of a cipher system.",
+  "knownFor": [
+    "Enigma reconstruction",
+    "Polish Cipher Bureau",
+    "Bomba kryptologiczna",
+    "Zygalski sheets"
+  ],
+  "sections": {
+    "overview": "<p>Marian Rejewski was a Polish mathematician working for Poland’s Cipher Bureau. In the early 1930s he reconstructed Enigma’s internal wiring and developed methods for recovering daily settings from intercepted German traffic.</p><h2>International cryptanalytic legacy</h2><p>Before the German invasion of Poland, the Cipher Bureau shared key Enigma knowledge and techniques with British and French counterparts. Those contributions informed later Allied work at Bletchley Park.</p><h2>In memoriam</h2><p>Rejewski died in 1980. His achievements are recognized as foundational to the Allied Enigma effort.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1905",
+      "event": "Born in Bydgoszcz, Poland."
+    },
+    {
+      "date": "1932",
+      "event": "Reconstructs Enigma rotor wiring while working for the Polish Cipher Bureau."
+    },
+    {
+      "date": "1938",
+      "event": "Develops the bomba kryptologiczna method."
+    },
+    {
+      "date": "1939",
+      "event": "Polish cryptologists share Enigma results with British and French allies."
+    },
+    {
+      "date": "1946",
+      "event": "Returns to Poland after the war."
+    },
+    {
+      "date": "1980",
+      "event": "Dies in Warsaw, Poland."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bletchley Park: Polish Enigma cryptologists",
+      "url": "https://bletchleypark.org.uk/our-story/polish-enigma-cryptologists"
+    },
+    {
+      "title": "Polish History Museum: Marian Rejewski",
+      "url": "https://muzhp.pl/en/c/2273/marian-rejewski"
+    },
+    {
+      "title": "Encyclopaedia Britannica: Enigma",
+      "url": "https://www.britannica.com/topic/Enigma-German-code-device"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

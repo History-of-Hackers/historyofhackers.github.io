@@ -1,0 +1,66 @@
+{
+  "id": "john-mchugh",
+  "type": "person",
+  "title": "John McHugh",
+  "slug": "john-mchugh",
+  "name": "John McHugh",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "intrusion-detection",
+    "security-evaluation",
+    "computer-security",
+    "academic-research"
+  ],
+  "summary": "Computer-security researcher associated with critical work on intrusion-detection evaluation and the assessment of security technologies.",
+  "whyThisMatters": "McHugh's critique of the 1998 and 1999 DARPA intrusion-detection evaluations made evaluation methodology itself a central security-research question. It remains a frequently cited reminder that detection results depend on realistic data, assumptions, and measurements.",
+  "knownFor": [
+    "Intrusion-detection evaluation",
+    "DARPA IDS evaluation critique",
+    "Security-technology assessment"
+  ],
+  "sections": {
+    "overview": "<p>John McHugh is a computer-security researcher whose work includes intrusion detection and the evaluation of detection systems. His scholarship examined not only how systems identify suspicious activity but also how claims about detector performance should be tested.</p><h2>Testing the tests</h2><p>In a 2000 ACM Transactions on Information and System Security article, McHugh analyzed the 1998 and 1999 DARPA intrusion-detection evaluations performed by Lincoln Laboratory. The critique focused attention on experimental design and the limits of benchmark-driven conclusions.</p><h2>Security practice</h2><p>McHugh also contributed to Carnegie Mellon University's Software Engineering Institute work documenting the state of intrusion-detection technologies. That work placed research questions alongside the realities of deployed security products.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2000",
+      "event": "Coauthors an SEI report on the state of intrusion-detection technologies."
+    },
+    {
+      "date": "2000",
+      "event": "Publishes a critique of the 1998 and 1999 DARPA intrusion-detection evaluations."
+    },
+    {
+      "date": "2004",
+      "event": "Teaches an intrusion-detection module in Carnegie Mellon security coursework."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Carnegie Mellon SEI: John McHugh author profile",
+      "url": "https://www.sei.cmu.edu/authors/john-mchugh/"
+    },
+    {
+      "title": "ACM: Testing Intrusion Detection Systems",
+      "url": "https://doi.org/10.1145/382912.382923"
+    },
+    {
+      "title": "Carnegie Mellon SEI: State of the Practice of Intrusion Detection Technologies",
+      "url": "https://www.sei.cmu.edu/library/state-of-the-practice-of-intrusion-detection-technologies/"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-academics-2026-09-02"
+  }
+}

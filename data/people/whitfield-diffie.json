@@ -1,0 +1,70 @@
+{
+  "id": "whitfield-diffie",
+  "type": "person",
+  "title": "Whitfield Diffie",
+  "slug": "whitfield-diffie",
+  "name": "Whitfield Diffie",
+  "born": null,
+  "died": null,
+  "era": "1960s-Present",
+  "tags": [
+    "cryptography",
+    "public-key-cryptography",
+    "privacy",
+    "computer-security"
+  ],
+  "summary": "Cryptographer whose work with Martin Hellman introduced the public-key distribution problem and the Diffie–Hellman key-exchange method.",
+  "whyThisMatters": "Diffie helped transform secure communication from a problem of secret shared keys into a public, mathematical field central to modern network security.",
+  "knownFor": [
+    "Public-key cryptography",
+    "Diffie–Hellman key exchange",
+    "Cryptography policy"
+  ],
+  "sections": {
+    "overview": "<p>Whitfield Diffie is a cryptographer best known for the work that introduced the public-key distribution problem and the method now called Diffie–Hellman key exchange. The 1976 paper written with Martin Hellman changed how researchers thought about secure communication over open networks.</p><h2>Changing the model</h2><p>Before public-key cryptography, securely exchanging keys was a central obstacle. Diffie and Hellman described a way to establish a shared secret without first sharing one, opening a path toward many later cryptographic systems.</p><h2>Security history</h2><p>Their work is both a mathematical contribution and a cultural turning point: it made strong cryptography an openly discussed research subject rather than solely a government concern.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1976",
+      "event": "Publishes “New Directions in Cryptography” with Martin Hellman."
+    },
+    {
+      "date": "1978",
+      "event": "The Diffie–Hellman approach becomes a central reference point in public-key cryptography."
+    },
+    {
+      "date": "2015",
+      "event": "Receives the ACM Turing Award with Martin Hellman."
+    },
+    {
+      "date": "Present",
+      "event": "Continues public engagement on cryptography and security policy."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Computer History Museum: Whitfield Diffie",
+      "url": "https://computerhistory.org/profile/whitfield-diffie/"
+    },
+    {
+      "title": "ACM Turing Award: Whitfield Diffie",
+      "url": "https://amturing.acm.org/award_winners/diffie_8371646.cfm"
+    },
+    {
+      "title": "IEEE: New Directions in Cryptography",
+      "url": "https://ieeexplore.ieee.org/document/1055638"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

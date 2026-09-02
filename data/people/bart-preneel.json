@@ -1,0 +1,70 @@
+{
+  "id": "bart-preneel",
+  "type": "person",
+  "title": "Bart Preneel",
+  "slug": "bart-preneel",
+  "name": "Bart Preneel",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "cryptography",
+    "hash-functions",
+    "privacy",
+    "academic-research"
+  ],
+  "summary": "Belgian cryptographer and professor known for research on symmetric cryptography, hash functions, privacy, and security engineering.",
+  "whyThisMatters": "Preneel’s scholarship and institutional leadership have helped sustain European cryptography research and training across theory and practice.",
+  "knownFor": [
+    "KU Leuven COSIC",
+    "Symmetric cryptography",
+    "Hash functions and privacy"
+  ],
+  "sections": {
+    "overview": "<p>Bart Preneel is a Belgian cryptographer and professor associated with KU Leuven’s COSIC research group. His research covers symmetric cryptography, hash functions, privacy, and the engineering questions that connect mathematical schemes to usable systems.</p><h2>Research and training</h2><p>Cryptography advances through both new constructions and careful analysis of existing ones. Preneel’s work and supervision have contributed to that ecosystem, linking academic research with practical information-security needs.</p><h2>European security community</h2><p>His long-term role at COSIC has made him an important figure in European cryptography education and research.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1980s",
+      "event": "Begins research in cryptography and information security."
+    },
+    {
+      "date": "1990s",
+      "event": "Contributes research on hash functions and symmetric cryptography."
+    },
+    {
+      "date": "2000s",
+      "event": "Leads and mentors researchers through KU Leuven’s COSIC group."
+    },
+    {
+      "date": "Present",
+      "event": "Continues research, teaching, and public engagement in cryptography."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "KU Leuven COSIC: Bart Preneel",
+      "url": "https://www.esat.kuleuven.be/cosic/people/bart-preneel/"
+    },
+    {
+      "title": "KU Leuven person profile",
+      "url": "https://www.kuleuven.be/wieiswie/en/person/00005854"
+    },
+    {
+      "title": "Springer: The State of the Art in Applied Cryptography",
+      "url": "https://link.springer.com/book/10.1007/978-3-540-49643-8"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

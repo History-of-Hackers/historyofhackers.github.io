@@ -1,0 +1,70 @@
+{
+  "id": "tadayoshi-kohno",
+  "type": "person",
+  "title": "Tadayoshi Kohno",
+  "slug": "tadayoshi-kohno",
+  "name": "Tadayoshi Kohno",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "security-usability",
+    "embedded-security",
+    "privacy",
+    "academic-research"
+  ],
+  "summary": "Computer-security researcher whose work examines the safety, privacy, and security of devices and systems used in everyday life.",
+  "whyThisMatters": "Kohno’s research makes security risks in consumer, medical, and civic technologies concrete, connecting technical analysis with human consequences.",
+  "knownFor": [
+    "University of Washington professor",
+    "Embedded-device security",
+    "Privacy and usable security"
+  ],
+  "sections": {
+    "overview": "<p>Tadayoshi Kohno is a computer-security researcher and professor at the University of Washington. His work investigates security and privacy failures in technologies that affect people directly, including medical devices and connected consumer systems.</p><h2>Human consequences</h2><p>Kohno’s research is especially valuable because it treats security as a property of real devices in real settings. Public demonstrations and peer-reviewed work have helped engineers and policymakers understand why vulnerabilities in embedded systems can have safety implications.</p><h2>Research community</h2><p>Through scholarship and teaching, he has helped broaden security research beyond traditional desktop and network software.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2000s",
+      "event": "Publishes research on practical security and privacy problems in consumer technology."
+    },
+    {
+      "date": "2008",
+      "event": "Co-authors research demonstrating security and privacy risks in implantable medical devices."
+    },
+    {
+      "date": "2010s",
+      "event": "Expands work on connected devices, vehicles, and usable security."
+    },
+    {
+      "date": "Present",
+      "event": "Leads research and teaching in computer security at the University of Washington."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Washington: Tadayoshi Kohno",
+      "url": "https://homes.cs.washington.edu/~yoshi/"
+    },
+    {
+      "title": "University of Washington faculty profile",
+      "url": "https://www.cs.washington.edu/people/faculty/tadayoshi-kohno"
+    },
+    {
+      "title": "USENIX Security paper: implantable medical devices",
+      "url": "https://www.usenix.org/legacy/event/sec08/tech/full_papers/halperin/halperin.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

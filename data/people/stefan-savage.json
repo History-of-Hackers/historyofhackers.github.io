@@ -1,0 +1,70 @@
+{
+  "id": "stefan-savage",
+  "type": "person",
+  "title": "Stefan Savage",
+  "slug": "stefan-savage",
+  "name": "Stefan Savage",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "systems-security",
+    "internet-measurement",
+    "malware",
+    "academic-research"
+  ],
+  "summary": "Computer-security researcher known for empirical studies of Internet abuse, malware ecosystems, and the security of networked systems.",
+  "whyThisMatters": "Savage helped establish data-driven, ecosystem-level analysis as a core method for understanding online abuse and defensive priorities.",
+  "knownFor": [
+    "UC San Diego professor",
+    "Internet-abuse measurement",
+    "Malware and systems-security research"
+  ],
+  "sections": {
+    "overview": "<p>Stefan Savage is a computer-security researcher at the University of California, San Diego. His work studies how Internet-scale systems fail and how abuse operates across technical and economic infrastructure.</p><h2>Measuring abuse</h2><p>Rather than treating malicious activity as isolated incidents, Savage’s research has used measurement to map relationships among malware, hosting, advertising, and payment systems. This perspective has helped security teams focus on intervention points beyond a single compromised machine.</p><h2>Systems perspective</h2><p>His work illustrates the value of reproducible measurement and interdisciplinary thinking in security research.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1990s",
+      "event": "Begins research on networked systems and security."
+    },
+    {
+      "date": "2000s",
+      "event": "Publishes widely cited work on Internet measurement, spam, and malicious online ecosystems."
+    },
+    {
+      "date": "2010s",
+      "event": "Leads large-scale studies of malware distribution and the economics of cybercrime."
+    },
+    {
+      "date": "Present",
+      "event": "Continues security and systems research at UC San Diego."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "UC San Diego home page",
+      "url": "https://cseweb.ucsd.edu/~savage/"
+    },
+    {
+      "title": "UC San Diego Systems and Networking group",
+      "url": "https://www.sysnet.ucsd.edu/sysnet/"
+    },
+    {
+      "title": "UC San Diego Jacobs School profile",
+      "url": "https://jacobs.ucsd.edu/people/profile/stefan-savage"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

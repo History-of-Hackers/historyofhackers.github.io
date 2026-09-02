@@ -1,0 +1,80 @@
+{
+  "id": "gordon-welchman",
+  "type": "person",
+  "title": "Gordon Welchman",
+  "slug": "gordon-welchman",
+  "name": "Gordon Welchman",
+  "born": 1906,
+  "died": 1985,
+  "era": "1930s-1985",
+  "tags": [
+    "cryptanalysis",
+    "enigma",
+    "bletchley-park",
+    "traffic-analysis",
+    "computer-history"
+  ],
+  "summary": "British mathematician and Bletchley Park leader who directed Hut 6’s Enigma work and advanced the operational organization of codebreaking.",
+  "whyThisMatters": "Welchman’s work joined cryptanalytic insight with scalable operational process. His leadership of Hut 6 and contribution to Bombe methods show how security analysis becomes effective through both ideas and infrastructure.",
+  "knownFor": [
+    "Hut 6",
+    "Enigma cryptanalysis",
+    "Bombe diagonal board",
+    "The Hut Six Story"
+  ],
+  "sections": {
+    "overview": "<p>Gordon Welchman was a British mathematician and cryptanalyst at Bletchley Park. He led Hut 6, the section responsible for German Army and Luftwaffe Enigma traffic, during much of the Second World War.</p><h2>From insight to operations</h2><p>Welchman helped turn Enigma work into a large-scale, managed operation and proposed the diagonal-board enhancement used with the Bombe. After the war he worked on defense data-handling projects in the United States.</p><h2>In memoriam</h2><p>Welchman died in 1985. His published recollections helped document a crucial part of Bletchley Park’s history.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1906",
+      "event": "Born near Bristol, England."
+    },
+    {
+      "date": "1938",
+      "event": "Attends a Government Code and Cypher School cryptology course."
+    },
+    {
+      "date": "1939",
+      "event": "Joins Bletchley Park."
+    },
+    {
+      "date": "1940",
+      "event": "Leads Hut 6 after the first Bletchley Park Enigma break."
+    },
+    {
+      "date": "1943",
+      "event": "Takes responsibility for mechanisation work across Bletchley Park."
+    },
+    {
+      "date": "1985",
+      "event": "Dies in Massachusetts, United States."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bletchley Park: Gordon Welchman biography",
+      "url": "https://bletchleypark.org.uk/wp-content/uploads/record_attachments/1839.pdf"
+    },
+    {
+      "title": "GCHQ: Bletchley Park history",
+      "url": "https://www.gchq.gov.uk/information/bletchley-park"
+    },
+    {
+      "title": "Imperial War Museums: Bletchley Park",
+      "url": "https://www.iwm.org.uk/history/how-bletchley-park-cracked-the-enigma-code"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

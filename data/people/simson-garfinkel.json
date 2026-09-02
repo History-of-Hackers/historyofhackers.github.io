@@ -1,0 +1,70 @@
+{
+  "id": "simson-garfinkel",
+  "type": "person",
+  "title": "Simson L. Garfinkel",
+  "slug": "simson-garfinkel",
+  "name": "Simson L. Garfinkel",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "digital-forensics",
+    "privacy",
+    "security-writing",
+    "academic-research"
+  ],
+  "summary": "Computer scientist, journalist, and author whose work spans digital forensics, privacy, usable security, and the public understanding of computing.",
+  "whyThisMatters": "Garfinkel has connected technical research, writing, and policy-oriented analysis, making complex questions of privacy and digital evidence accessible to broader audiences.",
+  "knownFor": [
+    "Digital forensics",
+    "Privacy research",
+    "Technology writing"
+  ],
+  "sections": {
+    "overview": "<p>Simson L. Garfinkel is a computer scientist, journalist, and author whose work crosses digital forensics, privacy, and computer security. He has written for technical and general audiences while contributing to research on digital evidence and data protection.</p><h2>Explaining security</h2><p>Security history depends on people who can investigate systems and explain why the findings matter. Garfinkel’s work has connected forensic practice and privacy research with public-facing writing.</p><h2>Interdisciplinary record</h2><p>His career shows how computer-security research can inform journalism, public policy, and the design of tools for handling digital evidence.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1980s",
+      "event": "Begins writing and research on computing, security, and privacy."
+    },
+    {
+      "date": "2000s",
+      "event": "Publishes books and articles on digital evidence, privacy, and computer security."
+    },
+    {
+      "date": "2010s",
+      "event": "Contributes research on digital forensics and data-driven security questions."
+    },
+    {
+      "date": "Present",
+      "event": "Continues research and writing on computing, privacy, and security."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Simson Garfinkel: official site",
+      "url": "https://simson.net/"
+    },
+    {
+      "title": "University of Maryland: Simson Garfinkel",
+      "url": "https://www.gsd.umd.edu/people/simson-garfinkel"
+    },
+    {
+      "title": "USENIX author profile",
+      "url": "https://www.usenix.org/conference/woot20/presentation/garfinkel"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

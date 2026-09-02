@@ -1,0 +1,70 @@
+{
+  "id": "ron-rivest",
+  "type": "person",
+  "title": "Ron Rivest",
+  "slug": "ron-rivest",
+  "name": "Ron Rivest",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "cryptography",
+    "public-key-cryptography",
+    "algorithms",
+    "academic-research"
+  ],
+  "summary": "MIT computer scientist and co-inventor of RSA public-key cryptography, with major contributions to cryptographic design and electronic voting research.",
+  "whyThisMatters": "Rivest’s work helped establish public-key cryptography as a practical discipline, while his later work has engaged with the security of civic technology.",
+  "knownFor": [
+    "RSA public-key cryptosystem",
+    "Cryptographic algorithms",
+    "Electronic-voting research"
+  ],
+  "sections": {
+    "overview": "<p>Ron Rivest is an MIT computer scientist and co-inventor of RSA public-key cryptography. RSA provided a practical construction for encryption and digital signatures based on a publicly shareable key, profoundly influencing computer security.</p><h2>Cryptographic design</h2><p>Rivest’s work spans algorithms, cryptographic primitives, and the societal uses of security technology. He has also contributed to discussions of verifiable elections and the risks of trusting opaque systems.</p><h2>Recognition</h2><p>Rivest shared the 2002 ACM Turing Award with Adi Shamir and Leonard Adleman for RSA.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1977",
+      "event": "Co-invents RSA with Adi Shamir and Leonard Adleman."
+    },
+    {
+      "date": "1978",
+      "event": "Publishes the RSA paper with Shamir and Adleman."
+    },
+    {
+      "date": "2002",
+      "event": "Receives the ACM Turing Award with Shamir and Adleman."
+    },
+    {
+      "date": "Present",
+      "event": "Continues research and teaching through MIT and affiliated projects."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "MIT: Ron Rivest",
+      "url": "https://web.mit.edu/rivest/"
+    },
+    {
+      "title": "ACM Turing Award: Ron Rivest",
+      "url": "https://amturing.acm.org/award_winners/rivest_1403005.cfm"
+    },
+    {
+      "title": "RSA paper (MIT CSAIL archive)",
+      "url": "https://people.csail.mit.edu/rivest/Rsapaper.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

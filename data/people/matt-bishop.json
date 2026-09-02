@@ -1,0 +1,67 @@
+{
+  "id": "matt-bishop",
+  "type": "person",
+  "title": "Matt Bishop",
+  "slug": "matt-bishop",
+  "name": "Matt Bishop",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "computer-security",
+    "vulnerability-analysis",
+    "security-education",
+    "insider-threat",
+    "election-security"
+  ],
+  "summary": "Computer-security researcher and UC Davis professor emeritus known for vulnerability analysis, security education, and the book Computer Security: Art and Science.",
+  "whyThisMatters": "Bishop's research and teaching have helped explain why vulnerabilities arise and how technical and social countermeasures work. His textbook is a substantial reference for computer-security education.",
+  "knownFor": [
+    "Vulnerability analysis",
+    "Computer-security education",
+    "Computer Security: Art and Science"
+  ],
+  "sections": {
+    "overview": "<p>Matt Bishop is a computer-security researcher and professor emeritus at the University of California, Davis. His research addresses vulnerabilities and countermeasures, data sanitization, election systems, formal modeling, policy, and insider threats.</p><h2>Teaching security</h2><p>Bishop has made security education a visible part of his work. His book <em>Computer Security: Art and Science</em> presents principles alongside the practical reasoning needed to understand attacks, vulnerabilities, and defenses.</p><h2>Laboratory work</h2><p>At UC Davis, Bishop co-directed the Computer Security Laboratory. The laboratory's history reflects a long-lived academic effort to connect vulnerability research, systems work, and security teaching.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1986",
+      "event": "UC Davis establishes its Computer Security Laboratory, later co-directed by Bishop."
+    },
+    {
+      "date": "2003",
+      "event": "Publishes the first edition of Computer Security: Art and Science."
+    },
+    {
+      "date": "2018",
+      "event": "A second edition of Computer Security: Art and Science is published."
+    }
+  ],
+  "sources": [
+    {
+      "title": "UC Davis: Matt Bishop faculty profile",
+      "url": "https://cs.ucdavis.edu/directory/matt-bishop"
+    },
+    {
+      "title": "Matt Bishop's UC Davis homepage",
+      "url": "https://nob.cs.ucdavis.edu/bishop/"
+    },
+    {
+      "title": "UC Davis Computer Security Laboratory",
+      "url": "https://seclab.cs.ucdavis.edu/index.html"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-academics-2026-09-02"
+  }
+}

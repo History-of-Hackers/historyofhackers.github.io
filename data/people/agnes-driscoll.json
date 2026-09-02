@@ -1,0 +1,79 @@
+{
+  "id": "agnes-driscoll",
+  "type": "person",
+  "title": "Agnes Meyer Driscoll",
+  "slug": "agnes-driscoll",
+  "name": "Agnes Meyer Driscoll",
+  "born": 1889,
+  "died": 1971,
+  "era": "1910s-1971",
+  "tags": [
+    "cryptanalysis",
+    "naval-cryptology",
+    "machine-ciphers",
+    "codebreaking",
+    "women-in-cryptology"
+  ],
+  "summary": "American naval cryptanalyst and cryptographic-machine specialist whose long career included work against Japanese naval systems.",
+  "whyThisMatters": "Driscoll combined manual and machine-oriented cryptanalysis at a formative point in U.S. naval cryptology. Her work illustrates the continuity between codebreaking, system evaluation, and the technical security profession.",
+  "knownFor": [
+    "U.S. Navy cryptanalysis",
+    "Japanese naval systems",
+    "Cipher-machine development"
+  ],
+  "sections": {
+    "overview": "<p>Agnes Meyer Driscoll was an American cryptanalyst who served the U.S. Navy’s cryptologic organizations from the First World War era through the early Cold War. Her career covered both cipher-machine work and analysis of Japanese naval communications.</p><h2>Technical legacy</h2><p>The National Security Agency identifies Driscoll as a leading Navy cryptanalyst who worked against multiple Japanese naval systems and contributed to early machine approaches to cryptography. Her experience made her an important technical continuity figure in an organization whose military personnel frequently rotated.</p><h2>In memoriam</h2><p>Driscoll died in 1971. Her career remains a landmark in the history of women in cryptology and technical intelligence.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1889",
+      "event": "Born in Ohio, United States."
+    },
+    {
+      "date": "1918",
+      "event": "Enlists in the U.S. Navy and is assigned to cryptologic work."
+    },
+    {
+      "date": "1923",
+      "event": "Works as technical adviser to the Hebern Electric Code Company."
+    },
+    {
+      "date": "1924",
+      "event": "Returns to Navy cryptologic work."
+    },
+    {
+      "date": "1940",
+      "event": "Makes critical inroads into the Japanese JN-25 system, according to NSA history."
+    },
+    {
+      "date": "1971",
+      "event": "Dies; later recognized in the NSA/CSS Hall of Honor."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA: Agnes Meyer Driscoll biography",
+      "url": "https://www.nsa.gov/Press-Room/Digital-Media-Center/Biographies/Biography-View-Page/Article/1623020/agnes-meyer-driscoll/"
+    },
+    {
+      "title": "NSA: Navy Cryptology, the Early Days",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Events/Article-View/article/2740632/navy-cryptology-the-early-days/"
+    },
+    {
+      "title": "NSA: Women in American Cryptology",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "david-wagner",
+  "type": "person",
+  "title": "David Wagner",
+  "slug": "david-wagner",
+  "name": "David Wagner",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "cryptography",
+    "web-security",
+    "privacy",
+    "academic-research"
+  ],
+  "summary": "Computer-security and cryptography researcher whose work spans web security, privacy, voting technology, and the analysis of real-world systems.",
+  "whyThisMatters": "Wagner’s research connects rigorous security analysis with deployed technologies, particularly in web security and election systems.",
+  "knownFor": [
+    "UC Berkeley professor",
+    "Web and systems security research",
+    "Electronic-voting security analysis"
+  ],
+  "sections": {
+    "overview": "<p>David Wagner is a computer-security researcher and professor at the University of California, Berkeley. His research has addressed cryptography, web security, privacy, voting technology, and the difficult problem of evaluating systems that people actually use.</p><h2>Security research in practice</h2><p>Wagner’s work is notable for joining formal analysis with empirical evaluation. His collaborations have examined browser security boundaries and the security assumptions of electronic voting systems, helping make technical risks legible to engineers and the public.</p><h2>Academic contribution</h2><p>Through research, teaching, and public technical analysis, Wagner has contributed to the modern security community’s emphasis on independently testing high-consequence systems.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1994",
+      "event": "Begins publishing research in cryptography and computer security."
+    },
+    {
+      "date": "2004",
+      "event": "Co-authors influential work examining the security properties of electronic voting systems."
+    },
+    {
+      "date": "2008",
+      "event": "Co-authors research on the security architecture of modern web browsers."
+    },
+    {
+      "date": "Present",
+      "event": "Continues research and teaching in security and privacy at UC Berkeley."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "UC Berkeley: David Wagner",
+      "url": "https://people.eecs.berkeley.edu/~daw/"
+    },
+    {
+      "title": "UC Berkeley research profile",
+      "url": "https://vcresearch.berkeley.edu/faculty/david-wagner"
+    },
+    {
+      "title": "U.S. House testimony by David Wagner",
+      "url": "https://people.eecs.berkeley.edu/~daw/papers/testimony-oversight07.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "dilly-knox",
+  "type": "person",
+  "title": "Alfred Dillwyn Knox",
+  "slug": "dilly-knox",
+  "name": "Alfred Dillwyn Knox",
+  "born": 1884,
+  "died": 1943,
+  "era": "1910s-1943",
+  "tags": [
+    "cryptanalysis",
+    "enigma",
+    "bletchley-park",
+    "classics",
+    "codebreaking"
+  ],
+  "summary": "British classicist and cryptanalyst whose pre-war and wartime work helped establish Bletchley Park’s attack on Enigma.",
+  "whyThisMatters": "Knox was a formative teacher and analyst in British cryptology. His work illustrates how linguistic, mathematical, and procedural reasoning combined in early attacks on machine ciphers.",
+  "knownFor": [
+    "Enigma cryptanalysis",
+    "Government Code and Cypher School",
+    "Bletchley Park research"
+  ],
+  "sections": {
+    "overview": "<p>Alfred Dillwyn “Dilly” Knox was a British classicist and cryptanalyst. He worked for British codebreaking organizations in the First and Second World Wars and was among the early specialists examining Enigma at Bletchley Park.</p><h2>Early Enigma work</h2><p>Knox led research work that helped train and organize cryptanalysts during the opening phase of Bletchley Park. His team worked with insights from Polish cryptanalysis while pursuing additional methods against German traffic.</p><h2>In memoriam</h2><p>Knox died in 1943 while still connected to wartime cryptologic work. His influence survives in the people and methods he helped develop.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1884",
+      "event": "Born in Oxford, England."
+    },
+    {
+      "date": "1914",
+      "event": "Begins wartime cryptanalytic service in Room 40."
+    },
+    {
+      "date": "1939",
+      "event": "Works at Bletchley Park on Enigma problems."
+    },
+    {
+      "date": "1940",
+      "event": "His research section contributes to early Enigma work."
+    },
+    {
+      "date": "1943",
+      "event": "Dies in London, England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bletchley Park: Dilly Knox",
+      "url": "https://bletchleypark.org.uk/our-story/dilly-knox"
+    },
+    {
+      "title": "GCHQ: Dilly Knox",
+      "url": "https://www.gchq.gov.uk/information/dilly-knox"
+    },
+    {
+      "title": "Imperial War Museums: Bletchley Park",
+      "url": "https://www.iwm.org.uk/history/how-bletchley-park-cracked-the-enigma-code"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -7768,5 +7768,484 @@
     ],
     "summary": "Paul C. van Oorschot is a Canadian cryptographer and computer-security researcher known for academic work on authentication and usable security and for co-authoring the Handbook of Applied Cryptography.",
     "url": "people/paul-c-van-oorschot.html"
+  },
+  {
+    "id": "adi-shamir",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Adi Shamir",
+    "slug": "adi-shamir",
+    "era": "1970s-Present",
+    "tags": [
+      "cryptography",
+      "public-key-cryptography",
+      "cryptanalysis",
+      "academic-research"
+    ],
+    "summary": "Israeli cryptographer and co-inventor of RSA public-key cryptography, also known for foundational work in cryptanalysis and secret sharing.",
+    "url": "people/adi-shamir.html"
+  },
+  {
+    "id": "agnes-driscoll",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Agnes Meyer Driscoll",
+    "slug": "agnes-driscoll",
+    "era": "1910s-1971",
+    "tags": [
+      "cryptanalysis",
+      "naval-cryptology",
+      "machine-ciphers",
+      "codebreaking",
+      "women-in-cryptology"
+    ],
+    "summary": "American naval cryptanalyst and cryptographic-machine specialist whose long career included work against Japanese naval systems.",
+    "url": "people/agnes-driscoll.html"
+  },
+  {
+    "id": "bart-preneel",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Bart Preneel",
+    "slug": "bart-preneel",
+    "era": "1980s-Present",
+    "tags": [
+      "cryptography",
+      "hash-functions",
+      "privacy",
+      "academic-research"
+    ],
+    "summary": "Belgian cryptographer and professor known for research on symmetric cryptography, hash functions, privacy, and security engineering.",
+    "url": "people/bart-preneel.html"
+  },
+  {
+    "id": "carl-landwehr",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Carl E. Landwehr",
+    "slug": "carl-landwehr",
+    "era": "1970s-Present",
+    "tags": [
+      "computer-security",
+      "formal-methods",
+      "trustworthy-computing",
+      "research-policy"
+    ],
+    "summary": "Computer-security researcher and research-program leader whose work includes formal security models, trustworthy computing, and federal cybersecurity research.",
+    "url": "people/carl-landwehr.html"
+  },
+  {
+    "id": "david-wagner",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "David Wagner",
+    "slug": "david-wagner",
+    "era": "1970s-Present",
+    "tags": [
+      "cryptography",
+      "web-security",
+      "privacy",
+      "academic-research"
+    ],
+    "summary": "Computer-security and cryptography researcher whose work spans web security, privacy, voting technology, and the analysis of real-world systems.",
+    "url": "people/david-wagner.html"
+  },
+  {
+    "id": "dilly-knox",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Alfred Dillwyn Knox",
+    "slug": "dilly-knox",
+    "era": "1910s-1943",
+    "tags": [
+      "cryptanalysis",
+      "enigma",
+      "bletchley-park",
+      "classics",
+      "codebreaking"
+    ],
+    "summary": "British classicist and cryptanalyst whose pre-war and wartime work helped establish Bletchley Park’s attack on Enigma.",
+    "url": "people/dilly-knox.html"
+  },
+  {
+    "id": "fred-schneider",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Fred B. Schneider",
+    "slug": "fred-schneider",
+    "era": "1970s-Present",
+    "tags": [
+      "computer-security",
+      "formal-methods",
+      "distributed-systems",
+      "trustworthy-systems",
+      "cyber-resilience"
+    ],
+    "summary": "Cornell computer scientist whose research connects formal methods, distributed systems, fault tolerance, trustworthy computing, and cybersecurity policy.",
+    "url": "people/fred-schneider.html"
+  },
+  {
+    "id": "gordon-welchman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Gordon Welchman",
+    "slug": "gordon-welchman",
+    "era": "1930s-1985",
+    "tags": [
+      "cryptanalysis",
+      "enigma",
+      "bletchley-park",
+      "traffic-analysis",
+      "computer-history"
+    ],
+    "summary": "British mathematician and Bletchley Park leader who directed Hut 6’s Enigma work and advanced the operational organization of codebreaking.",
+    "url": "people/gordon-welchman.html"
+  },
+  {
+    "id": "henryk-zygalski",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Henryk Zygalski",
+    "slug": "henryk-zygalski",
+    "era": "1930s-1978",
+    "tags": [
+      "cryptanalysis",
+      "enigma",
+      "polish-cipher-bureau",
+      "mathematics",
+      "codebreaking"
+    ],
+    "summary": "Polish mathematician and cryptanalyst who devised perforated “Zygalski sheets” to help recover Enigma settings.",
+    "url": "people/henryk-zygalski.html"
+  },
+  {
+    "id": "jerzy-rozycki",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jerzy Różycki",
+    "slug": "jerzy-rozycki",
+    "era": "1930s-1942",
+    "tags": [
+      "cryptanalysis",
+      "enigma",
+      "polish-cipher-bureau",
+      "mathematics",
+      "codebreaking"
+    ],
+    "summary": "Polish mathematician and Cipher Bureau cryptanalyst who worked with Marian Rejewski and Henryk Zygalski against Enigma.",
+    "url": "people/jerzy-rozycki.html"
+  },
+  {
+    "id": "john-mchugh",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John McHugh",
+    "slug": "john-mchugh",
+    "era": "1980s-Present",
+    "tags": [
+      "intrusion-detection",
+      "security-evaluation",
+      "computer-security",
+      "academic-research"
+    ],
+    "summary": "Computer-security researcher associated with critical work on intrusion-detection evaluation and the assessment of security technologies.",
+    "url": "people/john-mchugh.html"
+  },
+  {
+    "id": "karl-levitt",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Karl N. Levitt",
+    "slug": "karl-levitt",
+    "era": "1980s-Present",
+    "tags": [
+      "computer-security",
+      "intrusion-detection",
+      "formal-methods",
+      "resilience"
+    ],
+    "summary": "UC Davis computer-security researcher whose work addresses malicious-code detection, misuse detection, verification, and resilience.",
+    "url": "people/karl-levitt.html"
+  },
+  {
+    "id": "l-jean-camp",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "L. Jean Camp",
+    "slug": "l-jean-camp",
+    "era": "1990s-Present",
+    "tags": [
+      "security-economics",
+      "usable-security",
+      "risk-communication",
+      "online-trust",
+      "privacy"
+    ],
+    "summary": "Information-security researcher known for work connecting security economics, human-centered design, risk communication, online trust, and public policy.",
+    "url": "people/l-jean-camp.html"
+  },
+  {
+    "id": "leonard-adleman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Leonard Adleman",
+    "slug": "leonard-adleman",
+    "era": "1970s-Present",
+    "tags": [
+      "cryptography",
+      "public-key-cryptography",
+      "algorithms",
+      "academic-research"
+    ],
+    "summary": "Computer scientist and co-inventor of RSA public-key cryptography whose research bridges cryptography, algorithms, and molecular computation.",
+    "url": "people/leonard-adleman.html"
+  },
+  {
+    "id": "marian-rejewski",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Marian Rejewski",
+    "slug": "marian-rejewski",
+    "era": "1930s-1980",
+    "tags": [
+      "cryptanalysis",
+      "enigma",
+      "mathematics",
+      "polish-cipher-bureau",
+      "codebreaking"
+    ],
+    "summary": "Polish mathematician and cryptanalyst who reconstructed the German Enigma machine’s wiring and developed methods for reading its traffic before the Second World War.",
+    "url": "people/marian-rejewski.html"
+  },
+  {
+    "id": "martin-hellman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Martin Hellman",
+    "slug": "martin-hellman",
+    "era": "1960s-Present",
+    "tags": [
+      "cryptography",
+      "public-key-cryptography",
+      "information-theory",
+      "academic-research"
+    ],
+    "summary": "Cryptographer and Stanford professor emeritus whose collaboration with Whitfield Diffie established a foundational approach to public-key cryptography.",
+    "url": "people/martin-hellman.html"
+  },
+  {
+    "id": "matt-bishop",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Matt Bishop",
+    "slug": "matt-bishop",
+    "era": "1980s-Present",
+    "tags": [
+      "computer-security",
+      "vulnerability-analysis",
+      "security-education",
+      "insider-threat",
+      "election-security"
+    ],
+    "summary": "Computer-security researcher and UC Davis professor emeritus known for vulnerability analysis, security education, and the book Computer Security: Art and Science.",
+    "url": "people/matt-bishop.html"
+  },
+  {
+    "id": "max-newman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Max Newman",
+    "slug": "max-newman",
+    "era": "1930s-1984",
+    "tags": [
+      "cryptanalysis",
+      "colossus",
+      "computing",
+      "mathematics",
+      "bletchley-park"
+    ],
+    "summary": "British mathematician who led Bletchley Park’s Newmanry and helped establish the operational context for Colossus-assisted cryptanalysis.",
+    "url": "people/max-newman.html"
+  },
+  {
+    "id": "ravi-sandhu",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ravi Sandhu",
+    "slug": "ravi-sandhu",
+    "era": "1980s-Present",
+    "tags": [
+      "access-control",
+      "rbac",
+      "authorization",
+      "computer-security",
+      "academic-research"
+    ],
+    "summary": "Computer-security researcher known for access-control models and for coauthoring the RBAC96 reference models for role-based access control.",
+    "url": "people/ravi-sandhu.html"
+  },
+  {
+    "id": "ron-rivest",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ron Rivest",
+    "slug": "ron-rivest",
+    "era": "1970s-Present",
+    "tags": [
+      "cryptography",
+      "public-key-cryptography",
+      "algorithms",
+      "academic-research"
+    ],
+    "summary": "MIT computer scientist and co-inventor of RSA public-key cryptography, with major contributions to cryptographic design and electronic voting research.",
+    "url": "people/ron-rivest.html"
+  },
+  {
+    "id": "simson-garfinkel",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Simson L. Garfinkel",
+    "slug": "simson-garfinkel",
+    "era": "1980s-Present",
+    "tags": [
+      "digital-forensics",
+      "privacy",
+      "security-writing",
+      "academic-research"
+    ],
+    "summary": "Computer scientist, journalist, and author whose work spans digital forensics, privacy, usable security, and the public understanding of computing.",
+    "url": "people/simson-garfinkel.html"
+  },
+  {
+    "id": "solomon-kullback",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Solomon Kullback",
+    "slug": "solomon-kullback",
+    "era": "1930s-1994",
+    "tags": [
+      "cryptanalysis",
+      "statistics",
+      "information-theory",
+      "academic-research",
+      "signals-intelligence"
+    ],
+    "summary": "American mathematician and cryptanalyst whose statistical work helped shape modern information theory and cryptologic analysis.",
+    "url": "people/solomon-kullback.html"
+  },
+  {
+    "id": "stefan-savage",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Stefan Savage",
+    "slug": "stefan-savage",
+    "era": "1990s-Present",
+    "tags": [
+      "systems-security",
+      "internet-measurement",
+      "malware",
+      "academic-research"
+    ],
+    "summary": "Computer-security researcher known for empirical studies of Internet abuse, malware ecosystems, and the security of networked systems.",
+    "url": "people/stefan-savage.html"
+  },
+  {
+    "id": "steven-bellovin",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Steven M. Bellovin",
+    "slug": "steven-bellovin",
+    "era": "1970s-Present",
+    "tags": [
+      "network-security",
+      "internet-security",
+      "privacy",
+      "academic-research"
+    ],
+    "summary": "Computer-security researcher and Columbia University professor known for foundational work on network security, Internet protocols, and privacy.",
+    "url": "people/steven-bellovin.html"
+  },
+  {
+    "id": "sushil-jajodia",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Sushil Jajodia",
+    "slug": "sushil-jajodia",
+    "era": "1980s-Present",
+    "tags": [
+      "cybersecurity",
+      "access-control",
+      "secure-databases",
+      "adaptive-defense",
+      "academic-research"
+    ],
+    "summary": "Computer-security and privacy researcher, founding director of George Mason University's Center for Secure Information Systems, known for work on access control, secure databases, and adaptive cyber defense.",
+    "url": "people/sushil-jajodia.html"
+  },
+  {
+    "id": "tadayoshi-kohno",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Tadayoshi Kohno",
+    "slug": "tadayoshi-kohno",
+    "era": "1990s-Present",
+    "tags": [
+      "security-usability",
+      "embedded-security",
+      "privacy",
+      "academic-research"
+    ],
+    "summary": "Computer-security researcher whose work examines the safety, privacy, and security of devices and systems used in everyday life.",
+    "url": "people/tadayoshi-kohno.html"
+  },
+  {
+    "id": "tommy-flowers",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Tommy Flowers",
+    "slug": "tommy-flowers",
+    "era": "1930s-1998",
+    "tags": [
+      "electronics",
+      "colossus",
+      "cryptanalysis",
+      "computing",
+      "bletchley-park"
+    ],
+    "summary": "British engineer who designed Colossus, the electronic machines used to assist Bletchley Park’s attack on Lorenz-encrypted traffic.",
+    "url": "people/tommy-flowers.html"
+  },
+  {
+    "id": "whitfield-diffie",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Whitfield Diffie",
+    "slug": "whitfield-diffie",
+    "era": "1960s-Present",
+    "tags": [
+      "cryptography",
+      "public-key-cryptography",
+      "privacy",
+      "computer-security"
+    ],
+    "summary": "Cryptographer whose work with Martin Hellman introduced the public-key distribution problem and the Diffie–Hellman key-exchange method.",
+    "url": "people/whitfield-diffie.html"
+  },
+  {
+    "id": "william-tutte",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "William Tutte",
+    "slug": "william-tutte",
+    "era": "1940s-2002",
+    "tags": [
+      "cryptanalysis",
+      "colossus",
+      "tunny",
+      "mathematics",
+      "bletchley-park"
+    ],
+    "summary": "British mathematician whose analysis of the German Lorenz cipher made high-level wartime cryptanalysis possible without seeing the machine.",
+    "url": "people/william-tutte.html"
   }
 ]

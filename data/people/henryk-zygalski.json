@@ -1,0 +1,79 @@
+{
+  "id": "henryk-zygalski",
+  "type": "person",
+  "title": "Henryk Zygalski",
+  "slug": "henryk-zygalski",
+  "name": "Henryk Zygalski",
+  "born": 1908,
+  "died": 1978,
+  "era": "1930s-1978",
+  "tags": [
+    "cryptanalysis",
+    "enigma",
+    "polish-cipher-bureau",
+    "mathematics",
+    "codebreaking"
+  ],
+  "summary": "Polish mathematician and cryptanalyst who devised perforated “Zygalski sheets” to help recover Enigma settings.",
+  "whyThisMatters": "Zygalski’s sheets are an early example of an analytical aid tailored to a cipher’s operational weaknesses. They show that security analysis often advances through tools that encode an attack method.",
+  "knownFor": [
+    "Zygalski sheets",
+    "Polish Cipher Bureau",
+    "Enigma cryptanalysis"
+  ],
+  "sections": {
+    "overview": "<p>Henryk Zygalski was a Polish mathematician and a member of the Cipher Bureau team that broke early German Enigma traffic. He is known for the perforated sheets used to identify Enigma settings from message indicators.</p><h2>Analytical tools</h2><p>The sheets translated a cryptanalytic deduction into a repeatable physical procedure. They were among the methods the Polish team developed before its knowledge of Enigma was shared with Allied partners in 1939.</p><h2>In memoriam</h2><p>Zygalski died in 1978 in England. His work remains a major contribution to the pre-war history of Enigma cryptanalysis.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1908",
+      "event": "Born in Poznań, Poland."
+    },
+    {
+      "date": "1932",
+      "event": "Joins the Polish Cipher Bureau’s Enigma work."
+    },
+    {
+      "date": "1938",
+      "event": "Develops perforated sheets for Enigma analysis."
+    },
+    {
+      "date": "1939",
+      "event": "Polish Enigma knowledge is shared with Britain and France."
+    },
+    {
+      "date": "1946",
+      "event": "Settles in the United Kingdom after the war."
+    },
+    {
+      "date": "1978",
+      "event": "Dies in Liss, England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bletchley Park: Polish Enigma cryptologists",
+      "url": "https://bletchleypark.org.uk/our-story/polish-enigma-cryptologists"
+    },
+    {
+      "title": "Polish History Museum: Enigma codebreakers",
+      "url": "https://muzhp.pl/en/c/1522/enigma-codebreakers"
+    },
+    {
+      "title": "GCHQ: The Polish contribution to Enigma",
+      "url": "https://www.gchq.gov.uk/information/polish-contribution-to-enigma"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

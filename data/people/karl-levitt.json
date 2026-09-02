@@ -1,0 +1,66 @@
+{
+  "id": "karl-levitt",
+  "type": "person",
+  "title": "Karl N. Levitt",
+  "slug": "karl-levitt",
+  "name": "Karl N. Levitt",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "computer-security",
+    "intrusion-detection",
+    "formal-methods",
+    "resilience"
+  ],
+  "summary": "UC Davis computer-security researcher whose work addresses malicious-code detection, misuse detection, verification, and resilience.",
+  "whyThisMatters": "Levitt helped build an enduring academic security program at UC Davis. His work links attack and misuse detection to verification and resilient-system design.",
+  "knownFor": [
+    "Computer-security research at UC Davis",
+    "Malicious-code and misuse detection",
+    "Resilient-system research"
+  ],
+  "sections": {
+    "overview": "<p>Karl N. Levitt is a computer-security researcher and professor emeritus at the University of California, Davis. His research has addressed malicious code, misuse and penetration attempts, automated verification, and software engineering.</p><h2>Research laboratory</h2><p>Levitt was part of the UC Davis Computer Security Laboratory, whose work combines research and teaching. The lab's materials document work on vulnerabilities, malicious code, logging, auditing, and other security problems.</p><h2>Resilience</h2><p>His later academic profile emphasizes resilience: building systems that can withstand attacks, respond, and recover while preserving expected service. This perspective connects classic detection questions to contemporary cyber-physical and infrastructure settings.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1986",
+      "event": "Joins the UC Davis faculty."
+    },
+    {
+      "date": "2018",
+      "event": "Retires from UC Davis and becomes professor emeritus."
+    },
+    {
+      "date": "2020s",
+      "event": "Continues research interests in cybersecurity, verification, and resilience."
+    }
+  ],
+  "sources": [
+    {
+      "title": "UC Davis: Karl Levitt faculty profile",
+      "url": "https://cs.ucdavis.edu/directory/karl-levitt"
+    },
+    {
+      "title": "UC Davis Computer Security Lab",
+      "url": "https://seclab.cs.ucdavis.edu/index.html"
+    },
+    {
+      "title": "UC Davis interview with Karl Levitt",
+      "url": "https://video.ucdavis.edu/media/0_sisakdly"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-academics-2026-09-02"
+  }
+}

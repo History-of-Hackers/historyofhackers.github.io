@@ -1,0 +1,70 @@
+{
+  "id": "leonard-adleman",
+  "type": "person",
+  "title": "Leonard Adleman",
+  "slug": "leonard-adleman",
+  "name": "Leonard Adleman",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "cryptography",
+    "public-key-cryptography",
+    "algorithms",
+    "academic-research"
+  ],
+  "summary": "Computer scientist and co-inventor of RSA public-key cryptography whose research bridges cryptography, algorithms, and molecular computation.",
+  "whyThisMatters": "Adleman co-created one of public-key cryptography’s defining systems, a milestone in the development of secure digital communication.",
+  "knownFor": [
+    "RSA public-key cryptosystem",
+    "Cryptography",
+    "DNA computing"
+  ],
+  "sections": {
+    "overview": "<p>Leonard Adleman is a computer scientist and co-inventor of RSA public-key cryptography. RSA became a canonical example of how mathematical hardness assumptions can support encryption and signatures in open communication systems.</p><h2>Security foundation</h2><p>Adleman’s contribution to RSA placed him at a key point in the history of modern computer security. The system’s publication encouraged open study, implementation, analysis, and debate about cryptographic design.</p><h2>Beyond cryptography</h2><p>His later work in molecular computation illustrates a broad interest in how computation can be realized and analyzed.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1977",
+      "event": "Co-invents RSA with Ron Rivest and Adi Shamir."
+    },
+    {
+      "date": "1978",
+      "event": "Publishes the RSA paper with Rivest and Shamir."
+    },
+    {
+      "date": "1994",
+      "event": "Publishes a landmark experiment in DNA computation."
+    },
+    {
+      "date": "2002",
+      "event": "Receives the ACM Turing Award with Rivest and Shamir."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "USC: Leonard Adleman",
+      "url": "https://www.cs.usc.edu/people/len-adleman/"
+    },
+    {
+      "title": "ACM Turing Award: Leonard Adleman",
+      "url": "https://amturing.acm.org/award_winners/adleman_7308544.cfm"
+    },
+    {
+      "title": "RSA paper (MIT CSAIL archive)",
+      "url": "https://people.csail.mit.edu/rivest/Rsapaper.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

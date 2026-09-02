@@ -1,0 +1,79 @@
+{
+  "id": "solomon-kullback",
+  "type": "person",
+  "title": "Solomon Kullback",
+  "slug": "solomon-kullback",
+  "name": "Solomon Kullback",
+  "born": 1907,
+  "died": 1994,
+  "era": "1930s-1994",
+  "tags": [
+    "cryptanalysis",
+    "statistics",
+    "information-theory",
+    "academic-research",
+    "signals-intelligence"
+  ],
+  "summary": "American mathematician and cryptanalyst whose statistical work helped shape modern information theory and cryptologic analysis.",
+  "whyThisMatters": "Kullback brought rigorous statistical methods to cryptanalysis and later co-developed the Kullback–Leibler divergence, an enduring tool for measuring differences between probability distributions.",
+  "knownFor": [
+    "Statistical Methods in Cryptanalysis",
+    "Kullback–Leibler divergence",
+    "U.S. Signal Intelligence Service"
+  ],
+  "sections": {
+    "overview": "<p>Solomon Kullback was an American mathematician, cryptanalyst, and educator. He joined the U.S. Army Signal Intelligence Service in 1930 and worked in cryptanalysis and communications security through the Second World War and the early National Security Agency period.</p><h2>Statistics and cryptology</h2><p>Kullback’s published work connected mathematical statistics to the practical evaluation and solution of cipher systems. With Richard Leibler, he developed the divergence that bears their names, now widely used in information theory, statistics, and machine learning.</p><h2>In memoriam</h2><p>Kullback died in 1994. His work remains a durable bridge between cryptologic practice and mathematical research.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1907",
+      "event": "Born in New York, United States."
+    },
+    {
+      "date": "1930",
+      "event": "Joins the U.S. Army Signal Intelligence Service as a junior cryptanalyst."
+    },
+    {
+      "date": "1938",
+      "event": "Publishes Statistical Methods in Cryptanalysis."
+    },
+    {
+      "date": "1952",
+      "event": "Moves into senior research and development work in the new NSA era."
+    },
+    {
+      "date": "1962",
+      "event": "Retires from NSA and expands his academic career."
+    },
+    {
+      "date": "1994",
+      "event": "Dies."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA: Dr. Solomon Kullback",
+      "url": "https://www.nsa.gov/Press-Room/Digital-Media-Center/Biographies/Biography-View-Page/Article/1623043/dr-solomon-kullback/"
+    },
+    {
+      "title": "NSA: Friedman Collection publications",
+      "url": "https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/Friedman-Documents/Publications/"
+    },
+    {
+      "title": "Encyclopaedia Britannica: information theory",
+      "url": "https://www.britannica.com/science/information-theory"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

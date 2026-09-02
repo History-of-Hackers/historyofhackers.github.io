@@ -1,0 +1,70 @@
+{
+  "id": "steven-bellovin",
+  "type": "person",
+  "title": "Steven M. Bellovin",
+  "slug": "steven-bellovin",
+  "name": "Steven M. Bellovin",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "network-security",
+    "internet-security",
+    "privacy",
+    "academic-research"
+  ],
+  "summary": "Computer-security researcher and Columbia University professor known for foundational work on network security, Internet protocols, and privacy.",
+  "whyThisMatters": "Bellovin’s work has documented and analyzed security flaws in networked systems across decades of Internet growth, helping define the discipline of network security.",
+  "knownFor": [
+    "Network security",
+    "Internet protocol security",
+    "Columbia University professor"
+  ],
+  "sections": {
+    "overview": "<p>Steven M. Bellovin is a computer-security researcher and professor at Columbia University. His work on network security, Internet protocols, and privacy has helped the field understand how design assumptions turn into operational vulnerabilities.</p><h2>Internet security</h2><p>Bellovin’s 1989 paper on security problems in the TCP/IP protocol suite remains a historical reference for the need to analyze protocol ecosystems, not just individual implementations.</p><h2>Public scholarship</h2><p>His research and writing have connected technical detail with the policy and operational questions raised by widely deployed networks.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1970s",
+      "event": "Begins work in computing and networked systems."
+    },
+    {
+      "date": "1989",
+      "event": "Publishes “Security Problems in the TCP/IP Protocol Suite.”"
+    },
+    {
+      "date": "2000s",
+      "event": "Contributes research and public discussion on network security and privacy."
+    },
+    {
+      "date": "Present",
+      "event": "Continues scholarship and teaching at Columbia University."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Columbia University: Steven Bellovin",
+      "url": "https://www.cs.columbia.edu/~smb/"
+    },
+    {
+      "title": "Columbia University faculty profile",
+      "url": "https://www.cs.columbia.edu/people/steven-m-bellovin"
+    },
+    {
+      "title": "Bellovin publications archive",
+      "url": "https://www.cs.columbia.edu/~smb/papers/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

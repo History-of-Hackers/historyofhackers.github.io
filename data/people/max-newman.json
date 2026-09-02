@@ -1,0 +1,80 @@
+{
+  "id": "max-newman",
+  "type": "person",
+  "title": "Max Newman",
+  "slug": "max-newman",
+  "name": "Max Newman",
+  "born": 1897,
+  "died": 1984,
+  "era": "1930s-1984",
+  "tags": [
+    "cryptanalysis",
+    "colossus",
+    "computing",
+    "mathematics",
+    "bletchley-park"
+  ],
+  "summary": "British mathematician who led Bletchley Park’s Newmanry and helped establish the operational context for Colossus-assisted cryptanalysis.",
+  "whyThisMatters": "Newman helped connect mathematical cryptanalysis to automated computation. The Newmanry’s work against Lorenz traffic is a key chapter in the co-evolution of security analysis and programmable electronic computing.",
+  "knownFor": [
+    "Newmanry",
+    "Colossus",
+    "Lorenz cryptanalysis",
+    "Computing research"
+  ],
+  "sections": {
+    "overview": "<p>Max Newman was a British mathematician and cryptanalyst. At Bletchley Park he led the section later called the Newmanry, which developed mechanised methods for attacking Lorenz-encrypted German messages.</p><h2>Computing in cryptanalysis</h2><p>Newman’s group defined a demanding cryptanalytic problem and worked with engineers including Tommy Flowers to automate parts of its solution. The resulting Colossus machines were used operationally during the war.</p><h2>In memoriam</h2><p>Newman died in 1984. His academic and wartime work helped shape the early history of computing.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1897",
+      "event": "Born in London, England."
+    },
+    {
+      "date": "1935",
+      "event": "Becomes a professor at the University of Manchester."
+    },
+    {
+      "date": "1942",
+      "event": "Leads a Bletchley Park section attacking Lorenz traffic."
+    },
+    {
+      "date": "1943",
+      "event": "Supports development of electronic methods that lead to Colossus."
+    },
+    {
+      "date": "1945",
+      "event": "Founds the Royal Society Computing Machine Laboratory at Manchester."
+    },
+    {
+      "date": "1984",
+      "event": "Dies in Cambridge, England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bletchley Park: Max Newman",
+      "url": "https://bletchleypark.org.uk/our-story/max-newman"
+    },
+    {
+      "title": "University of Manchester: Max Newman",
+      "url": "https://www.manchester.ac.uk/discover/history-heritage/history/alan-turing/"
+    },
+    {
+      "title": "The National Museum of Computing: Colossus",
+      "url": "https://www.tnmoc.org/colossus"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

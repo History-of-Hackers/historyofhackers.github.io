@@ -1,0 +1,67 @@
+{
+  "id": "fred-schneider",
+  "type": "person",
+  "title": "Fred B. Schneider",
+  "slug": "fred-schneider",
+  "name": "Fred B. Schneider",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "computer-security",
+    "formal-methods",
+    "distributed-systems",
+    "trustworthy-systems",
+    "cyber-resilience"
+  ],
+  "summary": "Cornell computer scientist whose research connects formal methods, distributed systems, fault tolerance, trustworthy computing, and cybersecurity policy.",
+  "whyThisMatters": "Schneider's work helped bring formal reasoning and systems ideas to security. His career also demonstrates the importance of cyber-resilience research and institutional guidance alongside individual technical defenses.",
+  "knownFor": [
+    "Trustworthy distributed systems",
+    "Formal methods for security",
+    "Cyber-resilience research"
+  ],
+  "sections": {
+    "overview": "<p>Fred B. Schneider is a Cornell computer scientist whose research addresses concurrent and distributed systems for high-integrity and mission-critical settings. His work connects fault tolerance, formal methods, and computer security.</p><h2>Systems and trustworthiness</h2><p>Schneider's research has examined how systems can enforce security policies and remain dependable in the presence of failures or hostile behavior. Cornell materials describe work on language-based security, mobile-code integrity, and trustworthy services.</p><h2>Cyber resilience</h2><p>His professional service includes leadership connected with the U.S. National Academies' Forum on Cyber Resilience. This places technical work on trustworthy systems alongside broader questions of how society prepares for and recovers from cyber incidents.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1978",
+      "event": "Completes a Ph.D. at SUNY Stony Brook and joins Cornell's faculty."
+    },
+    {
+      "date": "2001",
+      "event": "Cornell reports research on virus protection and security policy enforcement."
+    },
+    {
+      "date": "2014",
+      "event": "Begins serving as founding chair of the National Academies Forum on Cyber Resilience."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cornell University: Fred B. Schneider",
+      "url": "https://www.cs.cornell.edu/fbs/"
+    },
+    {
+      "title": "Cornell annual report: Fred B. Schneider",
+      "url": "https://www.cs.cornell.edu/annual_report/2004/CIS_AnnRpt04.pdf"
+    },
+    {
+      "title": "Cornell Chronicle: virus-protection research",
+      "url": "https://news.cornell.edu/stories/2001/10/microsoft-supports-cornell-virus-protection-research"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-academics-2026-09-02"
+  }
+}

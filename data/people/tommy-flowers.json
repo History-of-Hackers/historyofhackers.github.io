@@ -1,0 +1,80 @@
+{
+  "id": "tommy-flowers",
+  "type": "person",
+  "title": "Tommy Flowers",
+  "slug": "tommy-flowers",
+  "name": "Tommy Flowers",
+  "born": 1905,
+  "died": 1998,
+  "era": "1930s-1998",
+  "tags": [
+    "electronics",
+    "colossus",
+    "cryptanalysis",
+    "computing",
+    "bletchley-park"
+  ],
+  "summary": "British engineer who designed Colossus, the electronic machines used to assist Bletchley Park’s attack on Lorenz-encrypted traffic.",
+  "whyThisMatters": "Flowers demonstrated that electronic engineering could be made reliable enough for sustained cryptanalytic operations. Colossus is an essential case study in using specialized computing to analyze a protected communications system.",
+  "knownFor": [
+    "Colossus",
+    "Electronic computing",
+    "Lorenz cryptanalysis",
+    "Post Office Research Station"
+  ],
+  "sections": {
+    "overview": "<p>Thomas Harold Flowers was a British engineer at the Post Office Research Station who designed Colossus for Bletchley Park. The machines were built to accelerate statistical analysis of German Lorenz traffic.</p><h2>Engineering for cryptanalysis</h2><p>Flowers’s design used large numbers of electronic valves in a purpose-built system that could process punched-tape data at speed. Colossus was used operationally in the final years of the war and became a landmark of electronic computing history.</p><h2>In memoriam</h2><p>Flowers died in 1998. His engineering work remains central to the history of applied computing and cryptanalysis.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1905",
+      "event": "Born in London, England."
+    },
+    {
+      "date": "1926",
+      "event": "Joins the Post Office engineering organization."
+    },
+    {
+      "date": "1943",
+      "event": "Begins building the first Colossus for Bletchley Park."
+    },
+    {
+      "date": "1944",
+      "event": "Colossus Mark I becomes operational."
+    },
+    {
+      "date": "1945",
+      "event": "Additional Colossus machines support wartime Lorenz analysis."
+    },
+    {
+      "date": "1998",
+      "event": "Dies in London, England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bletchley Park: Tommy Flowers",
+      "url": "https://bletchleypark.org.uk/our-story/tommy-flowers"
+    },
+    {
+      "title": "The National Museum of Computing: Colossus",
+      "url": "https://www.tnmoc.org/colossus"
+    },
+    {
+      "title": "GCHQ: Colossus",
+      "url": "https://www.gchq.gov.uk/information/colossus"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

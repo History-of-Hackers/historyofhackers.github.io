@@ -1,0 +1,67 @@
+{
+  "id": "l-jean-camp",
+  "type": "person",
+  "title": "L. Jean Camp",
+  "slug": "l-jean-camp",
+  "name": "L. Jean Camp",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "security-economics",
+    "usable-security",
+    "risk-communication",
+    "online-trust",
+    "privacy"
+  ],
+  "summary": "Information-security researcher known for work connecting security economics, human-centered design, risk communication, online trust, and public policy.",
+  "whyThisMatters": "Camp's work treats security as a socio-technical problem: people, incentives, interfaces, and institutions affect whether a technical defense can succeed. That perspective is essential to the history of usable security and security economics.",
+  "knownFor": [
+    "Security economics",
+    "Human-centered security",
+    "Risk communication and online trust"
+  ],
+  "sections": {
+    "overview": "<p>L. Jean Camp is an information-security researcher whose work addresses security economics, user-centered security, risk communication, online trust, privacy, and public policy. Her research joins technical security questions with the human and institutional settings in which systems operate.</p><h2>Security as a human problem</h2><p>Camp's academic work emphasizes that security depends on more than mechanisms: users need understandable choices, and organizations operate under incentives and constraints. Her work has applied these ideas to authentication, networking, Internet-of-Things systems, and online trust.</p><h2>Research and teaching</h2><p>Indiana University profiles describe her work across the intersection of human and technical trust, economic models, and human-centered design. This interdisciplinary approach makes her a significant figure in the development of usable-security research.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2000s",
+      "event": "Develops research in security economics, online trust, and risk communication."
+    },
+    {
+      "date": "2010s",
+      "event": "Leads and contributes to research in human-centered security and privacy at Indiana University."
+    },
+    {
+      "date": "2020s",
+      "event": "Continues work connecting security, policy, and human-centered system design."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Indiana University: Jean Camp faculty profile",
+      "url": "https://cyberrisk.iu.edu/profiles/faculty/camp-jean.html"
+    },
+    {
+      "title": "Indiana University RedLab: L. Jean Camp",
+      "url": "https://redlab.iu.edu/profiles/ljcamp.html"
+    },
+    {
+      "title": "Indiana University Luddy School: L. Jean Camp profile",
+      "url": "https://luddy.indiana.edu/contact/profile/?Jean_Camp"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-academics-2026-09-02"
+  }
+}
