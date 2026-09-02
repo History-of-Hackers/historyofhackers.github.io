@@ -1,0 +1,79 @@
+{
+  "id": "abraham-sinkov",
+  "type": "person",
+  "title": "Abraham Sinkov",
+  "slug": "abraham-sinkov",
+  "name": "Abraham Sinkov",
+  "born": 1907,
+  "died": 1998,
+  "era": "1930s-1998",
+  "tags": [
+    "cryptanalysis",
+    "signals-intelligence",
+    "mathematics",
+    "communications-security",
+    "wwii"
+  ],
+  "summary": "American mathematician and cryptanalyst who served in the Signal Intelligence Service and held senior communications-security roles in the early NSA era.",
+  "whyThisMatters": "Sinkov combined mathematics, operational signals intelligence, and communications-security leadership across the formative decades of U.S. cryptology.",
+  "knownFor": [
+    "Signal Intelligence Service",
+    "Central Bureau leadership",
+    "NSA communications security"
+  ],
+  "sections": {
+    "overview": "<p>Abraham Sinkov was a mathematician who joined the U.S. Army Signal Intelligence Service in 1930. His later assignments included establishing an Army intercept site in the Panama Canal Zone and leading the American detachment at the Central Bureau in the Southwest Pacific.</p><h2>Operational and defensive cryptology</h2><p>After the war, Sinkov became chief of the Communications Security program as U.S. cryptologic organizations transitioned into the NSA era. He subsequently served as Deputy Director for Production and later taught mathematics at Arizona State University.</p><h2>In memoriam</h2><p>Sinkov died in 1998. His career shows how mathematical training, intelligence operations, and communications protection developed together.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1907",
+      "event": "Born in Philadelphia, Pennsylvania, United States."
+    },
+    {
+      "date": "1930",
+      "event": "Joins the U.S. Army Signal Intelligence Service."
+    },
+    {
+      "date": "1936",
+      "event": "Establishes the Army’s first permanent intercept site outside the continental United States."
+    },
+    {
+      "date": "1942",
+      "event": "Arrives in Melbourne to lead the American detachment at Central Bureau."
+    },
+    {
+      "date": "1949",
+      "event": "Becomes chief of Communications Security at the Armed Forces Security Agency."
+    },
+    {
+      "date": "1998",
+      "event": "Dies in Arizona."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA: Dr. Abraham Sinkov biography",
+      "url": "https://www.nsa.gov/Press-Room/Digital-Media-Center/Biographies/Biography-View-Page/Article/1623039/dr-abraham-sinkov/"
+    },
+    {
+      "title": "NSA: Dr. Solomon Kullback biography",
+      "url": "https://www.nsa.gov/Press-Room/Digital-Media-Center/Biographies/Biography-View-Page/Article/1623043/dr-solomon-kullback/"
+    },
+    {
+      "title": "NSA: Cryptologic history resources",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

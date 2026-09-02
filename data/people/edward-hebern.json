@@ -1,0 +1,75 @@
+{
+  "id": "edward-hebern",
+  "type": "person",
+  "title": "Edward Hugh Hebern",
+  "slug": "edward-hebern",
+  "name": "Edward Hugh Hebern",
+  "born": 1869,
+  "died": 1952,
+  "era": "1910s-1952",
+  "tags": [
+    "cryptography",
+    "rotor-machines",
+    "cipher-machines",
+    "invention",
+    "mechanical-cryptography"
+  ],
+  "summary": "American inventor whose early rotor cipher machine was an important precursor to later electromechanical encryption systems.",
+  "whyThisMatters": "Hebern’s rotor-machine work helped establish the technological lineage that later included Enigma and other electromechanical cipher systems. It illustrates how a security design can be historically important even when its deployment is limited.",
+  "knownFor": [
+    "Hebern rotor machine",
+    "Electromechanical cipher machines",
+    "Rotor cryptography"
+  ],
+  "sections": {
+    "overview": "<p>Edward Hugh Hebern was an American inventor who developed early rotor-based cipher machinery in the 1910s and 1920s. His electrical coding machines used rotors to implement changing substitutions for encrypted text.</p><h2>Technical legacy</h2><p>Smithsonian collection material identifies Hebern as the designer of a rotor for a cipher machine. Later rotor systems became a major class of twentieth-century cryptographic equipment, making his work an important part of the prehistory of machine cryptography.</p><h2>In memoriam</h2><p>Hebern died in 1952. His early experiments remain part of the record of how electromechanical cryptography developed.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1869",
+      "event": "Born in Streator, Illinois, United States."
+    },
+    {
+      "date": "1917",
+      "event": "Files patent work for an electric coding machine."
+    },
+    {
+      "date": "1920s",
+      "event": "Builds and markets rotor-based cipher machines."
+    },
+    {
+      "date": "1920s",
+      "event": "His machine designs are evaluated by U.S. naval cryptologic personnel."
+    },
+    {
+      "date": "1952",
+      "event": "Dies in Oakland, California."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Smithsonian Institution: Hebern Electric cipher-machine rotor",
+      "url": "https://www.si.edu/object/hebern-electric-cipher-machine-rotor%3Anmah_763314"
+    },
+    {
+      "title": "U.S. Patent and Trademark Office: Electric coding machine patent record",
+      "url": "https://patents.google.com/patent/US1510238A/en"
+    },
+    {
+      "title": "JPROC: Hebern Electric Code Machine",
+      "url": "https://www.jproc.ca/crypto/hebern_1.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

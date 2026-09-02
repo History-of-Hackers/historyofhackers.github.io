@@ -1,0 +1,75 @@
+{
+  "id": "horst-feistel",
+  "type": "person",
+  "title": "Horst Feistel",
+  "slug": "horst-feistel",
+  "name": "Horst Feistel",
+  "born": 1915,
+  "died": 1990,
+  "era": "1940s-1990",
+  "tags": [
+    "cryptography",
+    "block-ciphers",
+    "ibm",
+    "symmetric-cryptography",
+    "academic-research"
+  ],
+  "summary": "German-American cryptographer whose iterative cipher construction became the Feistel network used by DES and many later block ciphers.",
+  "whyThisMatters": "Feistel’s work made a practical, reversible construction from repeated round functions. That design pattern remains central to the history of symmetric cryptography and to the engineering of modern encryption systems.",
+  "knownFor": [
+    "Feistel network",
+    "Lucifer cipher research",
+    "IBM cryptography"
+  ],
+  "sections": {
+    "overview": "<p>Horst Feistel was a cryptographer who worked on communications-security problems before joining IBM, where he led research that produced the Lucifer family of ciphers. His name is attached to the Feistel network: a structure that splits a block into two halves and applies a round function repeatedly while preserving invertibility.</p><h2>Technical legacy</h2><p>The Feistel construction became the architecture of the Data Encryption Standard (DES) and influenced many later block ciphers. It is significant because decryption can use the same round structure as encryption with the round keys reversed, a property that simplified practical implementations.</p><h2>In memoriam</h2><p>Feistel died in 1990. His name remains attached to one of the most enduring design patterns in applied cryptography.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1915",
+      "event": "Born in Berlin, Germany."
+    },
+    {
+      "date": "1940s",
+      "event": "Works on communications-security research in the United States."
+    },
+    {
+      "date": "1960s",
+      "event": "Leads IBM research on cryptographic systems, including the Lucifer line."
+    },
+    {
+      "date": "1970s",
+      "event": "The Feistel construction becomes a key antecedent of DES."
+    },
+    {
+      "date": "1990",
+      "event": "Dies; the Feistel network remains a standard term in cryptography."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA: American Cryptology during the Cold War, Book III",
+      "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-histories/cold_war_iii.pdf"
+    },
+    {
+      "title": "NIST: FIPS 46-3, Data Encryption Standard",
+      "url": "https://csrc.nist.gov/pubs/fips/46-3/final"
+    },
+    {
+      "title": "IBM Systems Journal: Cryptographic methods of data protection",
+      "url": "https://www.bitsavers.org/pdf/ibm/IBM_Systems_Journal/192/ibmsj1902G.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

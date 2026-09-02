@@ -8739,5 +8739,475 @@
     ],
     "summary": "German computer-security researcher known as Halvar Flake, whose work has focused on reverse engineering, binary analysis, and vulnerability research.",
     "url": "people/thomas-dullien.html"
+  },
+  {
+    "id": "abraham-sinkov",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Abraham Sinkov",
+    "slug": "abraham-sinkov",
+    "era": "1930s-1998",
+    "tags": [
+      "cryptanalysis",
+      "signals-intelligence",
+      "mathematics",
+      "communications-security",
+      "wwii"
+    ],
+    "summary": "American mathematician and cryptanalyst who served in the Signal Intelligence Service and held senior communications-security roles in the early NSA era.",
+    "url": "people/abraham-sinkov.html"
+  },
+  {
+    "id": "adam-shostack",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Adam Shostack",
+    "slug": "adam-shostack",
+    "era": "1990s-Present",
+    "tags": [
+      "threat-modeling",
+      "application-security",
+      "microsoft-sdl",
+      "owasp",
+      "author"
+    ],
+    "summary": "Threat-modeling practitioner and author whose frameworks, tools, and teaching helped make adversarial design review accessible to software teams.",
+    "url": "people/adam-shostack.html"
+  },
+  {
+    "id": "avi-rubin",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Avi Rubin",
+    "slug": "avi-rubin",
+    "era": "1990s-Present",
+    "tags": [
+      "computer-security",
+      "applied-cryptography",
+      "electronic-voting",
+      "academia",
+      "privacy"
+    ],
+    "summary": "Computer-security researcher and Johns Hopkins professor known for applied-security research, including influential public analysis of electronic voting systems.",
+    "url": "people/avi-rubin.html"
+  },
+  {
+    "id": "avi-wigderson",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Avi Wigderson",
+    "slug": "avi-wigderson",
+    "era": "1980s-Present",
+    "tags": [
+      "complexity-theory",
+      "cryptography",
+      "randomness",
+      "distributed-computing",
+      "academic-research"
+    ],
+    "summary": "Theoretical computer scientist whose research on randomness, complexity, cryptography, and distributed computation shaped the foundations used to analyze secure computation.",
+    "url": "people/avi-wigderson.html"
+  },
+  {
+    "id": "boris-hagelin",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Boris Hagelin",
+    "slug": "boris-hagelin",
+    "era": "1920s-1983",
+    "tags": [
+      "cryptography",
+      "cipher-machines",
+      "mechanical-cryptography",
+      "hagelin",
+      "communications-security"
+    ],
+    "summary": "Swedish industrialist and inventor whose mechanical cipher machines were widely used by governments and militaries in the twentieth century.",
+    "url": "people/boris-hagelin.html"
+  },
+  {
+    "id": "charles-h-bennett",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Charles H. Bennett",
+    "slug": "charles-h-bennett",
+    "era": "1970s-Present",
+    "tags": [
+      "quantum-cryptography",
+      "quantum-information",
+      "reversible-computing",
+      "academic-research"
+    ],
+    "summary": "IBM Fellow and information theorist whose research helped establish quantum cryptography, quantum teleportation, and reversible computation.",
+    "url": "people/charles-h-bennett.html"
+  },
+  {
+    "id": "edward-hebern",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Edward Hugh Hebern",
+    "slug": "edward-hebern",
+    "era": "1910s-1952",
+    "tags": [
+      "cryptography",
+      "rotor-machines",
+      "cipher-machines",
+      "invention",
+      "mechanical-cryptography"
+    ],
+    "summary": "American inventor whose early rotor cipher machine was an important precursor to later electromechanical encryption systems.",
+    "url": "people/edward-hebern.html"
+  },
+  {
+    "id": "elias-levy-aleph-one",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Elias Levy (Aleph One)",
+    "slug": "elias-levy-aleph-one",
+    "era": "1990s-Present",
+    "tags": [
+      "phrack",
+      "bugtraq",
+      "full-disclosure",
+      "buffer-overflow",
+      "securityfocus"
+    ],
+    "summary": "Security researcher and editor known as Aleph One, whose Phrack article and Bugtraq community work became reference points in vulnerability disclosure culture.",
+    "url": "people/elias-levy-aleph-one.html"
+  },
+  {
+    "id": "gary-mcgraw",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Gary McGraw",
+    "slug": "gary-mcgraw",
+    "era": "1990s-Present",
+    "tags": [
+      "software-security",
+      "application-security",
+      "secure-development",
+      "author",
+      "bsimm"
+    ],
+    "summary": "Computer scientist, author, and software-security advocate whose books and measurement work helped popularize building security into software development.",
+    "url": "people/gary-mcgraw.html"
+  },
+  {
+    "id": "gene-spafford",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Gene Spafford",
+    "slug": "gene-spafford",
+    "era": "1980s-Present",
+    "tags": [
+      "computer-security",
+      "intrusion-detection",
+      "cerias",
+      "academic-security",
+      "forensics"
+    ],
+    "summary": "Purdue computer-security researcher and educator whose work on intrusion detection, policy, forensics, and security education helped establish an academic security community.",
+    "url": "people/gene-spafford.html"
+  },
+  {
+    "id": "gerald-combs",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Gerald Combs",
+    "slug": "gerald-combs",
+    "era": "1990s-Present",
+    "tags": [
+      "wireshark",
+      "ethereal",
+      "packet-analysis",
+      "open-source",
+      "sharkfest"
+    ],
+    "summary": "Creator of Ethereal, later Wireshark, whose open-source packet analyzer became a central tool and community for network troubleshooting and security analysis.",
+    "url": "people/gerald-combs.html"
+  },
+  {
+    "id": "gilles-brassard",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Gilles Brassard",
+    "slug": "gilles-brassard",
+    "era": "1970s-Present",
+    "tags": [
+      "quantum-cryptography",
+      "quantum-information",
+      "cryptography",
+      "academic-research"
+    ],
+    "summary": "Canadian computer scientist whose work with Charles H. Bennett helped establish quantum cryptography and quantum-information science.",
+    "url": "people/gilles-brassard.html"
+  },
+  {
+    "id": "horst-feistel",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Horst Feistel",
+    "slug": "horst-feistel",
+    "era": "1940s-1990",
+    "tags": [
+      "cryptography",
+      "block-ciphers",
+      "ibm",
+      "symmetric-cryptography",
+      "academic-research"
+    ],
+    "summary": "German-American cryptographer whose iterative cipher construction became the Feistel network used by DES and many later block ciphers.",
+    "url": "people/horst-feistel.html"
+  },
+  {
+    "id": "i-j-good",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Irving John Good",
+    "slug": "i-j-good",
+    "era": "1940s-2009",
+    "tags": [
+      "cryptanalysis",
+      "statistics",
+      "bletchley-park",
+      "computing-history",
+      "bayesian-inference"
+    ],
+    "summary": "British mathematician, statistician, and Bletchley Park cryptanalyst who later contributed to computing and Bayesian statistics.",
+    "url": "people/i-j-good.html"
+  },
+  {
+    "id": "john-c-mitchell",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John C. Mitchell",
+    "slug": "john-c-mitchell",
+    "era": "1980s-Present",
+    "tags": [
+      "formal-methods",
+      "computer-security",
+      "privacy",
+      "programming-languages",
+      "academic-research"
+    ],
+    "summary": "Stanford computer scientist whose work spans programming-language theory, formal analysis of security protocols, privacy, and computer security.",
+    "url": "people/john-c-mitchell.html"
+  },
+  {
+    "id": "john-tiltman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John H. Tiltman",
+    "slug": "john-tiltman",
+    "era": "1920s-1982",
+    "tags": [
+      "cryptanalysis",
+      "signals-intelligence",
+      "gchq",
+      "nsa",
+      "communications-security"
+    ],
+    "summary": "British Army officer and cryptanalyst who held senior roles at GC&CS and GCHQ and later consulted for the NSA.",
+    "url": "people/john-tiltman.html"
+  },
+  {
+    "id": "john-viega",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John Viega",
+    "slug": "john-viega",
+    "era": "1990s-Present",
+    "tags": [
+      "software-security",
+      "secure-development",
+      "static-analysis",
+      "cryptography",
+      "author"
+    ],
+    "summary": "Software-security author and practitioner known for early secure-development guidance, security-analysis tools, and work on cryptographic and application-security engineering.",
+    "url": "people/john-viega.html"
+  },
+  {
+    "id": "joseph-desch",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Joseph Desch",
+    "slug": "joseph-desch",
+    "era": "1940s-1987",
+    "tags": [
+      "cryptanalysis",
+      "bombe",
+      "enigma",
+      "engineering",
+      "naval-cryptology"
+    ],
+    "summary": "American electrical engineer who led the design of high-speed U.S. Navy Bombes used against four-rotor German Enigma traffic.",
+    "url": "people/joseph-desch.html"
+  },
+  {
+    "id": "lance-spitzner",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Lance Spitzner",
+    "slug": "lance-spitzner",
+    "era": "1990s-Present",
+    "tags": [
+      "honeypots",
+      "honeynets",
+      "threat-intelligence",
+      "security-awareness",
+      "sans"
+    ],
+    "summary": "Security practitioner, educator, and founder of the Honeynet Project, known for advancing study of attacker behavior through high-interaction honeynets.",
+    "url": "people/lance-spitzner.html"
+  },
+  {
+    "id": "leo-marks",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Leo Marks",
+    "slug": "leo-marks",
+    "era": "1940s-2001",
+    "tags": [
+      "cryptography",
+      "soe",
+      "wwii",
+      "one-time-pads",
+      "communications-security"
+    ],
+    "summary": "British cryptographer and writer who headed the Special Operations Executive’s codes office during the Second World War.",
+    "url": "people/leo-marks.html"
+  },
+  {
+    "id": "manuel-blum",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Manuel Blum",
+    "slug": "manuel-blum",
+    "era": "1960s-Present",
+    "tags": [
+      "theoretical-computer-science",
+      "cryptography",
+      "pseudorandomness",
+      "academic-research"
+    ],
+    "summary": "Computer scientist whose work connected complexity theory to cryptographic protocols, pseudorandomness, and program checking.",
+    "url": "people/manuel-blum.html"
+  },
+  {
+    "id": "michael-ben-or",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Michael Ben-Or",
+    "slug": "michael-ben-or",
+    "era": "1980s-Present",
+    "tags": [
+      "distributed-computing",
+      "fault-tolerance",
+      "cryptography",
+      "quantum-computing",
+      "academic-research"
+    ],
+    "summary": "Theoretical computer scientist whose work spans fault-tolerant distributed computation, secure multiparty computation, cryptography, and quantum computing.",
+    "url": "people/michael-ben-or.html"
+  },
+  {
+    "id": "nadia-heninger",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Nadia Heninger",
+    "slug": "nadia-heninger",
+    "era": "2010s-Present",
+    "tags": [
+      "cryptography",
+      "cryptanalysis",
+      "internet-measurement",
+      "academic-research",
+      "public-key-cryptography"
+    ],
+    "summary": "Cryptographer and UC San Diego professor whose research analyzes deployed public-key cryptography and consequences of weak keys and protocol failures.",
+    "url": "people/nadia-heninger.html"
+  },
+  {
+    "id": "ran-canetti",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ran Canetti",
+    "slug": "ran-canetti",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "protocol-security",
+      "network-security",
+      "academic-research"
+    ],
+    "summary": "Cryptographer whose research on cryptographic protocol design and analysis includes the universally composable security framework.",
+    "url": "people/ran-canetti.html"
+  },
+  {
+    "id": "roxana-geambasu",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Roxana Geambasu",
+    "slug": "roxana-geambasu",
+    "era": "2000s-Present",
+    "tags": [
+      "privacy",
+      "systems-security",
+      "web-security",
+      "academia",
+      "cloud-security"
+    ],
+    "summary": "Computer-systems and privacy researcher at Columbia University whose work examines accountable, privacy-preserving systems for the Web, cloud services, and mobile devices.",
+    "url": "people/roxana-geambasu.html"
+  },
+  {
+    "id": "ueli-maurer",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ueli Maurer",
+    "slug": "ueli-maurer",
+    "era": "1980s-Present",
+    "tags": [
+      "cryptography",
+      "information-theory",
+      "security-proofs",
+      "academic-research"
+    ],
+    "summary": "ETH Zürich computer scientist known for research in cryptography, information-theoretic security, and constructive approaches to security definitions.",
+    "url": "people/ueli-maurer.html"
+  },
+  {
+    "id": "victor-shoup",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Victor Shoup",
+    "slug": "victor-shoup",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "number-theory",
+      "algorithms",
+      "open-source-security-tools",
+      "academic-research"
+    ],
+    "summary": "Cryptographer and NYU professor known for research on cryptographic protocols and number-theoretic algorithms, and for the NTL software library.",
+    "url": "people/victor-shoup.html"
+  },
+  {
+    "id": "yehuda-lindell",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Yehuda Lindell",
+    "slug": "yehuda-lindell",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "secure-multiparty-computation",
+      "applied-cryptography",
+      "academic-research"
+    ],
+    "summary": "Cryptographer and educator whose research focuses on secure multiparty computation, rigorous cryptographic protocols, and practical key-protection systems.",
+    "url": "people/yehuda-lindell.html"
   }
 ]

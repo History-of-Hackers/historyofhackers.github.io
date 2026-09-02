@@ -1,0 +1,70 @@
+{
+  "id": "ran-canetti",
+  "type": "person",
+  "title": "Ran Canetti",
+  "slug": "ran-canetti",
+  "name": "Ran Canetti",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "protocol-security",
+    "network-security",
+    "academic-research"
+  ],
+  "summary": "Cryptographer whose research on cryptographic protocol design and analysis includes the universally composable security framework.",
+  "whyThisMatters": "Ran Canetti is included for documented contributions to the technical and formal foundations of computer security and cryptography.",
+  "knownFor": [
+    "Universally composable security",
+    "Cryptographic protocols",
+    "Network and system security"
+  ],
+  "sections": {
+    "overview": "<p>Ran Canetti is a Boston University computer-science professor and director of RISCS. His work examines how to design and analyze cryptographic protocols that remain secure when used alongside other protocols.</p><h2>Security relevance</h2><p>Canetti’s universally composable framework gave protocol designers a rigorous language for composition: a protocol should be assessed not merely in isolation, but in the environment in which it will actually run.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1995",
+      "event": "Completes a Ph.D. at the Weizmann Institute."
+    },
+    {
+      "date": "1996",
+      "event": "Joins IBM T. J. Watson Research Center as a research staff member."
+    },
+    {
+      "date": "2001",
+      "event": "Publishes the universally composable security framework."
+    },
+    {
+      "date": "2011",
+      "event": "Becomes a professor at Boston University and RISCS research director."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Boston University: Ran Canetti",
+      "url": "https://www.bu.edu/riscs/profile/ran-canetti/"
+    },
+    {
+      "title": "Boston University: Ran Canetti CV",
+      "url": "https://www.bu.edu/cs/files/2017/03/cv.pdf"
+    },
+    {
+      "title": "Boston University: cryptography innovation award",
+      "url": "https://www.bu.edu/articles/2018/ran-canetti-honored-for-cryptography-innovation"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

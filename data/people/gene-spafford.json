@@ -1,0 +1,71 @@
+{
+  "id": "gene-spafford",
+  "type": "person",
+  "title": "Gene Spafford",
+  "slug": "gene-spafford",
+  "name": "Gene Spafford",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "computer-security",
+    "intrusion-detection",
+    "cerias",
+    "academic-security",
+    "forensics"
+  ],
+  "summary": "Purdue computer-security researcher and educator whose work on intrusion detection, policy, forensics, and security education helped establish an academic security community.",
+  "whyThisMatters": "Spafford combined incident analysis, defensive tools, education, and institutional leadership to help make computer security a sustained interdisciplinary academic field.",
+  "knownFor": [
+    "Founder, CERIAS",
+    "Intrusion-detection research",
+    "Practical UNIX and Internet Security"
+  ],
+  "sections": {
+    "overview": "<p>Eugene H. “Gene” Spafford is a Purdue computer-security researcher, distinguished professor, and executive director emeritus of the Center for Education and Research in Information Assurance and Security (CERIAS).</p><h2>Research and defensive foundations</h2><p>Spafford researches intrusion detection and response, security policy, architecture, forensics, vulnerability analysis, and education. Purdue credits his research group with early work on security scanners, intrusion-detection tools, integrity controls, and firewall models.</p><h2>Institution building and writing</h2><p>He founded and led a major academic security center and has authored or contributed to books including <em>Practical UNIX and Internet Security</em>. His career shows how security advances through research, operations, education, and public engagement together.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1987",
+      "event": "Joins Purdue University faculty."
+    },
+    {
+      "date": "1991",
+      "event": "COAST, a predecessor to CERIAS, is established at Purdue."
+    },
+    {
+      "date": "1999",
+      "event": "CERIAS is established, with Spafford as founding executive director."
+    },
+    {
+      "date": "2000",
+      "event": "Receives the NIST/NCSC National Computer Systems Security Award."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Purdue CERIAS: Gene Spafford",
+      "url": "https://www.cerias.purdue.edu/site/people/faculty/view/1"
+    },
+    {
+      "title": "Spafford: selected publications",
+      "url": "https://spaf.cerias.purdue.edu/professional.html"
+    },
+    {
+      "title": "Purdue: Spafford curriculum vitae",
+      "url": "https://spaf.cerias.purdue.edu/pers/vita.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

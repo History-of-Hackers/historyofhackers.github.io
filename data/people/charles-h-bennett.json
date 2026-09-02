@@ -1,0 +1,70 @@
+{
+  "id": "charles-h-bennett",
+  "type": "person",
+  "title": "Charles H. Bennett",
+  "slug": "charles-h-bennett",
+  "name": "Charles H. Bennett",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "quantum-cryptography",
+    "quantum-information",
+    "reversible-computing",
+    "academic-research"
+  ],
+  "summary": "IBM Fellow and information theorist whose research helped establish quantum cryptography, quantum teleportation, and reversible computation.",
+  "whyThisMatters": "Charles H. Bennett is included for documented contributions to the technical and formal foundations of computer security and cryptography.",
+  "knownFor": [
+    "BB84 quantum key distribution",
+    "Quantum teleportation",
+    "Reversible computation"
+  ],
+  "sections": {
+    "overview": "<p>Charles H. Bennett is an IBM Fellow whose research spans the physics of information, reversible computation, and quantum information theory. His work connects the limits of computation with the design of secure communication systems.</p><h2>Security relevance</h2><p>Bennett and Gilles Brassard developed the BB84 protocol, a foundational quantum-key-distribution scheme. The work reframed key establishment as a problem whose security can depend on quantum measurement rather than only on computational hardness assumptions.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1973",
+      "event": "Joins IBM Research."
+    },
+    {
+      "date": "1984",
+      "event": "Co-authors the BB84 quantum cryptography protocol."
+    },
+    {
+      "date": "1993",
+      "event": "Co-authors the paper introducing quantum teleportation."
+    },
+    {
+      "date": "2025",
+      "event": "Named co-recipient of the ACM A.M. Turing Award with Gilles Brassard."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "IBM Research: Charles Bennett",
+      "url": "https://research.ibm.com/people/charles-bennett"
+    },
+    {
+      "title": "IBM Newsroom: Bennett and the Turing Award",
+      "url": "https://newsroom.ibm.com/2026-03-18-ibm-fellow-and-quantum-pioneer-charles-h-bennett-receives-a-m-turing-award-computings-highest-honor"
+    },
+    {
+      "title": "University of Copenhagen: Charles H. Bennett",
+      "url": "https://www.math.ku.dk/english/news/bennett-to-be-awarded-honorary-doctorate/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "michael-ben-or",
+  "type": "person",
+  "title": "Michael Ben-Or",
+  "slug": "michael-ben-or",
+  "name": "Michael Ben-Or",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "distributed-computing",
+    "fault-tolerance",
+    "cryptography",
+    "quantum-computing",
+    "academic-research"
+  ],
+  "summary": "Theoretical computer scientist whose work spans fault-tolerant distributed computation, secure multiparty computation, cryptography, and quantum computing.",
+  "whyThisMatters": "Michael Ben-Or is included for documented contributions to the technical and formal foundations of computer security and cryptography.",
+  "knownFor": [
+    "Asynchronous agreement",
+    "Secure multiparty computation",
+    "Fault-tolerant quantum computation"
+  ],
+  "sections": {
+    "overview": "<p>Michael Ben-Or is a computer scientist associated with the Hebrew University of Jerusalem. His research addresses how computation can remain correct and private despite failures or adversarial behavior.</p><h2>Security relevance</h2><p>Ben-Or’s work on distributed agreement and secure multiparty computation provided rigorous constructions for collaboration among parties that may be faulty or malicious. It is a key bridge between distributed-systems reliability and cryptographic privacy.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1982",
+      "event": "Receives a Ph.D. in mathematics from the Hebrew University."
+    },
+    {
+      "date": "1983",
+      "event": "Publishes work on completely asynchronous agreement."
+    },
+    {
+      "date": "1988",
+      "event": "Co-authors a foundational paper on fault-tolerant distributed computation."
+    },
+    {
+      "date": "1997",
+      "event": "Co-authors work on fault-tolerant quantum computation with constant error rate."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Hebrew University: Michael Ben-Or",
+      "url": "https://cris.huji.ac.il/en/persons/michael-ben-or/"
+    },
+    {
+      "title": "Simons Institute: Michael Ben-Or",
+      "url": "https://simons.berkeley.edu/people/michael-ben-or"
+    },
+    {
+      "title": "Ben-Or et al.: Secure multiparty quantum computation",
+      "url": "https://arxiv.org/abs/0801.1544"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

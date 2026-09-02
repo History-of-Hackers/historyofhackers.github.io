@@ -1,0 +1,71 @@
+{
+  "id": "lance-spitzner",
+  "type": "person",
+  "title": "Lance Spitzner",
+  "slug": "lance-spitzner",
+  "name": "Lance Spitzner",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "honeypots",
+    "honeynets",
+    "threat-intelligence",
+    "security-awareness",
+    "sans"
+  ],
+  "summary": "Security practitioner, educator, and founder of the Honeynet Project, known for advancing study of attacker behavior through high-interaction honeynets.",
+  "whyThisMatters": "The Honeynet Project helped establish deliberately instrumented systems as a shared research method for observing attacks. Spitzner also became an influential educator on security awareness and human risk.",
+  "knownFor": [
+    "Founder, Honeynet Project",
+    "Honeynet research",
+    "SANS security education"
+  ],
+  "sections": {
+    "overview": "<p>Lance Spitzner is a security practitioner and educator who founded the Honeynet Project. His early work used high-interaction honeynets to study attacker activity and improve defensive understanding.</p><h2>Honeynets as a research method</h2><p>A honeynet is a controlled network designed to be observed when it is probed or compromised. The project brought together volunteers, research, and practical operational lessons around collecting and interpreting this evidence responsibly.</p><h2>Teaching and human risk</h2><p>Spitzner later focused on security culture, awareness, and human risk at SANS. Technical defenses and the decisions people make around them are both part of an effective security program.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1999",
+      "event": "Founds the Honeynet Project."
+    },
+    {
+      "date": "2000s",
+      "event": "Project publishes research and practical material on honeypots and attacker activity."
+    },
+    {
+      "date": "2014",
+      "event": "Project credits its founder in a leadership announcement."
+    },
+    {
+      "date": "Present",
+      "event": "Teaches and works on human-risk and security-culture programs at SANS."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "SANS Institute: Lance Spitzner profile",
+      "url": "https://www.sans.org/profiles/lance-spitzner"
+    },
+    {
+      "title": "The Honeynet Project: Meet the CEO",
+      "url": "https://www.honeynet.org/2014/11/25/meet-the-ceo/"
+    },
+    {
+      "title": "arXiv: NoSEBrEaK — Attacking Honeynets",
+      "url": "https://arxiv.org/abs/cs/0406052"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

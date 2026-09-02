@@ -1,0 +1,70 @@
+{
+  "id": "gilles-brassard",
+  "type": "person",
+  "title": "Gilles Brassard",
+  "slug": "gilles-brassard",
+  "name": "Gilles Brassard",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "quantum-cryptography",
+    "quantum-information",
+    "cryptography",
+    "academic-research"
+  ],
+  "summary": "Canadian computer scientist whose work with Charles H. Bennett helped establish quantum cryptography and quantum-information science.",
+  "whyThisMatters": "Gilles Brassard is included for documented contributions to the technical and formal foundations of computer security and cryptography.",
+  "knownFor": [
+    "BB84 quantum key distribution",
+    "Quantum information science",
+    "Quantum teleportation research"
+  ],
+  "sections": {
+    "overview": "<p>Gilles Brassard is a computer scientist at the Université de Montréal and an early pioneer of quantum information. His research helped show how properties of quantum mechanics could be used to distribute cryptographic keys and study information processing.</p><h2>Security relevance</h2><p>With Charles H. Bennett, Brassard developed the protocol widely known as BB84. It remains a foundational reference for quantum key distribution and for thinking about security guarantees rooted in physical principles.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1979",
+      "event": "Completes a Ph.D. in cryptography at Cornell University and joins Université de Montréal."
+    },
+    {
+      "date": "1984",
+      "event": "Co-authors the BB84 quantum-key-distribution protocol with Charles H. Bennett."
+    },
+    {
+      "date": "1993",
+      "event": "Co-authors the paper introducing quantum teleportation."
+    },
+    {
+      "date": "2018",
+      "event": "Shares the Wolf Prize in Physics for quantum-information work."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Université de Montréal: Gilles Brassard",
+      "url": "https://diro.umontreal.ca/fr/repertoire-departement/professeurs/professeur/in/in13606/sg/Gilles%20Brassard/"
+    },
+    {
+      "title": "NSERC: Gilles Brassard profile",
+      "url": "https://nserc-crsng.canada.ca/en/profile/gilles-brassard"
+    },
+    {
+      "title": "Institut Courtois: Gilles Brassard",
+      "url": "https://institut-courtois.umontreal.ca/en/team/gilles-brassard/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

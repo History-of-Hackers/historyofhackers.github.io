@@ -1,0 +1,70 @@
+{
+  "id": "manuel-blum",
+  "type": "person",
+  "title": "Manuel Blum",
+  "slug": "manuel-blum",
+  "name": "Manuel Blum",
+  "born": null,
+  "died": null,
+  "era": "1960s-Present",
+  "tags": [
+    "theoretical-computer-science",
+    "cryptography",
+    "pseudorandomness",
+    "academic-research"
+  ],
+  "summary": "Computer scientist whose work connected complexity theory to cryptographic protocols, pseudorandomness, and program checking.",
+  "whyThisMatters": "Manuel Blum is included for documented contributions to the technical and formal foundations of computer security and cryptography.",
+  "knownFor": [
+    "Foundations of complexity theory",
+    "Cryptographic pseudorandomness",
+    "Coin flipping by telephone"
+  ],
+  "sections": {
+    "overview": "<p>Manuel Blum is a theoretical computer scientist whose work made foundational connections between computational complexity and cryptography. His research includes cryptographic pseudorandomness, protocols for key exchange and coin flipping, and program checking.</p><h2>Security relevance</h2><p>Blum’s work supplied rigorous ways to reason about computational limits and adversarial uncertainty. His collaborations on pseudorandom generation and zero-knowledge protocols influenced the theoretical toolkit used in modern cryptography.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1964",
+      "event": "Receives a Ph.D. in mathematics from MIT."
+    },
+    {
+      "date": "1983",
+      "event": "Publishes “Coin Flipping by Telephone.”"
+    },
+    {
+      "date": "1984",
+      "event": "Co-authors work on cryptographically strong pseudorandom sequences."
+    },
+    {
+      "date": "1995",
+      "event": "Receives the ACM A.M. Turing Award."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "UC Berkeley: Manuel Blum",
+      "url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/blum.html"
+    },
+    {
+      "title": "Carnegie Mellon: Manuel Blum",
+      "url": "https://www.csd.cs.cmu.edu/people/faculty/manuel-blum"
+    },
+    {
+      "title": "USENIX: Manuel Blum speaker biography",
+      "url": "https://www.usenix.org/conference/enigma2017/speaker-or-organizer/manuel-blum-bruce-nelson-university-professor-computer"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

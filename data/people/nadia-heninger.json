@@ -1,0 +1,71 @@
+{
+  "id": "nadia-heninger",
+  "type": "person",
+  "title": "Nadia Heninger",
+  "slug": "nadia-heninger",
+  "name": "Nadia Heninger",
+  "born": null,
+  "died": null,
+  "era": "2010s-Present",
+  "tags": [
+    "cryptography",
+    "cryptanalysis",
+    "internet-measurement",
+    "academic-research",
+    "public-key-cryptography"
+  ],
+  "summary": "Cryptographer and UC San Diego professor whose research analyzes deployed public-key cryptography and consequences of weak keys and protocol failures.",
+  "whyThisMatters": "Heninger joins mathematical cryptanalysis to internet-scale measurement, showing how subtle implementation choices can weaken cryptography in systems people actually use.",
+  "knownFor": [
+    "Applied cryptanalysis",
+    "Deployed public-key cryptography",
+    "Internet-scale cryptographic measurement"
+  ],
+  "sections": {
+    "overview": "<p>Nadia Heninger is a professor in the University of California, San Diego Department of Computer Science and Engineering. Her research centers on cryptography and security, especially mathematical cryptanalysis applied to real systems.</p><h2>From theory to deployed systems</h2><p>Her work uses computational number theory, coding theory, lattice methods, and network measurement to examine public-key cryptography as deployed. A secure primitive can still fail when keys, parameters, or implementations are weak.</p><h2>Academic contribution</h2><p>After doctoral work at Princeton and positions at Microsoft Research, UC San Diego, and the University of Pennsylvania, Heninger returned to UC San Diego. Her research helped make empirical assessment of deployed cryptography central to modern security research.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2011",
+      "event": "Completes PhD in computer science at Princeton."
+    },
+    {
+      "date": "2011–2012",
+      "event": "Serves as an NSF postdoctoral fellow at UC San Diego."
+    },
+    {
+      "date": "2013–2018",
+      "event": "Teaches at the University of Pennsylvania."
+    },
+    {
+      "date": "2019",
+      "event": "Joins UC San Diego computer science faculty."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "UC San Diego: Nadia Heninger",
+      "url": "https://cseweb.ucsd.edu/~nadiah/"
+    },
+    {
+      "title": "UC San Diego Security and Cryptography group",
+      "url": "https://cryptosec.ucsd.edu/"
+    },
+    {
+      "title": "UC San Diego: Nadia Heninger named IACR Fellow",
+      "url": "https://cns.ucsd.edu/nadia-heninger-named-iacr-fellow/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "avi-rubin",
+  "type": "person",
+  "title": "Avi Rubin",
+  "slug": "avi-rubin",
+  "name": "Avi Rubin",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "computer-security",
+    "applied-cryptography",
+    "electronic-voting",
+    "academia",
+    "privacy"
+  ],
+  "summary": "Computer-security researcher and Johns Hopkins professor known for applied-security research, including influential public analysis of electronic voting systems.",
+  "whyThisMatters": "Rubin brought independent security evaluation of election technology into public view while pursuing academic work in applied cryptography, systems security, privacy, and health information security.",
+  "knownFor": [
+    "Johns Hopkins Information Security Institute",
+    "Electronic-voting security analysis",
+    "Applied cryptography"
+  ],
+  "sections": {
+    "overview": "<p>Aviel D. “Avi” Rubin is a professor emeritus of computer science at Johns Hopkins University and former technical director of its Information Security Institute. His research includes computer security, applied cryptography, network security, Web security, and secure Internet services.</p><h2>Independent analysis of election systems</h2><p>In 2003, Rubin and colleagues analyzed software believed to be used in Diebold electronic voting systems and publicly described serious security concerns. The work became a prominent example of independent scrutiny of technology used in civic infrastructure.</p><h2>Research and public engagement</h2><p>Rubin also worked in Bell-system research labs and has testified on security issues. His career illustrates how security research can inform engineering practice and public-policy debates.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1994",
+      "event": "Completes a computer-science doctorate at the University of Michigan."
+    },
+    {
+      "date": "1990s",
+      "event": "Works in applied security research at Bellcore and AT&amp;T Labs."
+    },
+    {
+      "date": "2003",
+      "event": "Co-authors public analysis of an electronic voting system."
+    },
+    {
+      "date": "Present",
+      "event": "Serves as professor emeritus at Johns Hopkins."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Johns Hopkins Information Security Institute: Aviel Rubin",
+      "url": "https://isi.jhu.edu/team/aviel-rubin/"
+    },
+    {
+      "title": "Johns Hopkins Gazette: Electronic Voting System May Be Vulnerable",
+      "url": "https://pages.jh.edu/gazette/2003/04aug03/04voting.html"
+    },
+    {
+      "title": "U.S. Election Assistance Commission: Rubin testimony",
+      "url": "https://www.eac.gov/sites/default/files/event_document/files/testimony%20avi%20rubin%20johns%20hopkins%20university%20public%20meeting%20may%205%202004.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

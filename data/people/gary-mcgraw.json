@@ -1,0 +1,71 @@
+{
+  "id": "gary-mcgraw",
+  "type": "person",
+  "title": "Gary McGraw",
+  "slug": "gary-mcgraw",
+  "name": "Gary McGraw",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "software-security",
+    "application-security",
+    "secure-development",
+    "author",
+    "bsimm"
+  ],
+  "summary": "Computer scientist, author, and software-security advocate whose books and measurement work helped popularize building security into software development.",
+  "whyThisMatters": "McGraw made software security a concrete engineering discipline: design, testing, architecture, and governance are part of the product, not an afterthought.",
+  "knownFor": [
+    "Software Security: Building Security In",
+    "Building Secure Software",
+    "BSIMM"
+  ],
+  "sections": {
+    "overview": "<p>Gary McGraw is a computer scientist, author, and software-security practitioner. He co-founded Cigital and later co-founded the Berryville Institute of Machine Learning; his work combines writing, research, and practical software-security programs.</p><h2>Building security in</h2><p>His books, including <em>Building Secure Software</em>, <em>Exploiting Software</em>, and <em>Software Security</em>, explain why secure software requires attention throughout development rather than a final testing pass.</p><h2>Security practice at scale</h2><p>His work on the Building Security In Maturity Model treats organizational security practices as something that can be observed and compared, moving application-security discussions toward repeatable engineering evidence.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1995",
+      "event": "Begins work at Reliable Software Technologies, later Cigital."
+    },
+    {
+      "date": "2001",
+      "event": "Co-authors <em>Building Secure Software</em>."
+    },
+    {
+      "date": "2004",
+      "event": "Co-authors <em>Exploiting Software</em>."
+    },
+    {
+      "date": "2006",
+      "event": "Publishes <em>Software Security: Building Security In</em>."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Gary McGraw: biography",
+      "url": "https://www.garymcgraw.com/talks/biography/"
+    },
+    {
+      "title": "Pearson: Software Security: Building Security In",
+      "url": "https://www.pearson.com/en-us/subject-catalog/p/software-security-building-security-in/P200000009049"
+    },
+    {
+      "title": "RSA Conference: Gary McGraw",
+      "url": "https://www.rsaconference.com/experts/gary-mcgraw"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

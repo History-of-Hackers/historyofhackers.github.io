@@ -1,0 +1,71 @@
+{
+  "id": "john-c-mitchell",
+  "type": "person",
+  "title": "John C. Mitchell",
+  "slug": "john-c-mitchell",
+  "name": "John C. Mitchell",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "formal-methods",
+    "computer-security",
+    "privacy",
+    "programming-languages",
+    "academic-research"
+  ],
+  "summary": "Stanford computer scientist whose work spans programming-language theory, formal analysis of security protocols, privacy, and computer security.",
+  "whyThisMatters": "John C. Mitchell is included for documented contributions to the technical and formal foundations of computer security and cryptography.",
+  "knownFor": [
+    "Formal security-protocol analysis",
+    "Stanford Computer Security Lab",
+    "Programming-language theory"
+  ],
+  "sections": {
+    "overview": "<p>John C. Mitchell is a Stanford computer scientist whose research includes programming languages, computer security, privacy, and formal methods. His work has helped connect rigorous language-based reasoning with the analysis of security protocols and systems.</p><h2>Security relevance</h2><p>Security protocols and software benefit from explicit models of behavior, adversaries, and composition. Mitchell’s research and leadership in security laboratories helped advance formal approaches to web security, protocol analysis, and trustworthy systems.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1984",
+      "event": "Receives a Ph.D. in computer science from MIT."
+    },
+    {
+      "date": "1990s",
+      "event": "Co-leads work in Stanford’s Computer Security Lab."
+    },
+    {
+      "date": "2005",
+      "event": "Stanford becomes a lead institution in the TRUST NSF Science and Technology Center."
+    },
+    {
+      "date": "2019",
+      "event": "Begins service as chair of Stanford’s computer-science department."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Stanford Profiles: John Mitchell",
+      "url": "https://profiles.stanford.edu/john-mitchell"
+    },
+    {
+      "title": "Stanford: John C. Mitchell homepage",
+      "url": "https://www-cs.stanford.edu/people/jcm/"
+    },
+    {
+      "title": "Stanford Computer Security Lab",
+      "url": "https://cs.stanford.edu/research/security"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

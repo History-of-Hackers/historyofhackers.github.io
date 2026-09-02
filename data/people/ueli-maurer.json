@@ -1,0 +1,70 @@
+{
+  "id": "ueli-maurer",
+  "type": "person",
+  "title": "Ueli Maurer",
+  "slug": "ueli-maurer",
+  "name": "Ueli Maurer",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "cryptography",
+    "information-theory",
+    "security-proofs",
+    "academic-research"
+  ],
+  "summary": "ETH Zürich computer scientist known for research in cryptography, information-theoretic security, and constructive approaches to security definitions.",
+  "whyThisMatters": "Ueli Maurer is included for documented contributions to the technical and formal foundations of computer security and cryptography.",
+  "knownFor": [
+    "Information security and cryptography research",
+    "Constructive cryptography",
+    "Security proofs"
+  ],
+  "sections": {
+    "overview": "<p>Ueli Maurer is a computer scientist at ETH Zürich who leads research in information security and cryptography. His work spans cryptographic foundations, protocol analysis, and information-theoretic questions.</p><h2>Security relevance</h2><p>Maurer’s research emphasizes precise models and composable reasoning about what cryptographic systems achieve. Such formal treatment is essential when security guarantees must remain meaningful as protocols are combined into larger systems.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1992",
+      "event": "Joins ETH Zürich as an assistant professor in theoretical computer science."
+    },
+    {
+      "date": "1998",
+      "event": "Becomes professor at ETH Zürich."
+    },
+    {
+      "date": "2010",
+      "event": "Publishes “Constructive Cryptography – A Primer.”"
+    },
+    {
+      "date": "2020",
+      "event": "ETH hosts an industry course on information security and cryptography led by Maurer."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "ETH Zürich: Ueli Maurer",
+      "url": "https://crypto.ethz.ch/~maurer/index.html"
+    },
+    {
+      "title": "ETH Zürich: Ueli Maurer short CV",
+      "url": "https://crypto.ethz.ch/~maurer/cv.html"
+    },
+    {
+      "title": "Maurer: Constructive Cryptography – A Primer",
+      "url": "https://crypto.ethz.ch/publications/files/Maurer10a.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

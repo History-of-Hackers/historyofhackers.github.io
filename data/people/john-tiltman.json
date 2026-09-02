@@ -1,0 +1,79 @@
+{
+  "id": "john-tiltman",
+  "type": "person",
+  "title": "John H. Tiltman",
+  "slug": "john-tiltman",
+  "name": "John H. Tiltman",
+  "born": 1894,
+  "died": 1982,
+  "era": "1920s-1982",
+  "tags": [
+    "cryptanalysis",
+    "signals-intelligence",
+    "gchq",
+    "nsa",
+    "communications-security"
+  ],
+  "summary": "British Army officer and cryptanalyst who held senior roles at GC&CS and GCHQ and later consulted for the NSA.",
+  "whyThisMatters": "Tiltman’s six-decade career covered manual codes, machine systems, intelligence cooperation, and communications security—the long arc that shaped modern national cryptologic institutions.",
+  "knownFor": [
+    "GC&CS chief cryptographer",
+    "Tunny analysis",
+    "UK–US cryptologic cooperation"
+  ],
+  "sections": {
+    "overview": "<p>John Hessell Tiltman was a British Army officer and cryptanalyst whose career ran from early twentieth-century manual ciphers through the machine systems of the Second World War and Cold War. At Bletchley Park he was a deputy director of GC&amp;CS and contributed to work on the German Tunny system.</p><h2>Institutional legacy</h2><p>Tiltman was an advocate for United Kingdom–United States cooperation in cryptology. He later served as a GCHQ liaison officer and, after British retirement, as an NSA consultant and researcher.</p><h2>In memoriam</h2><p>Tiltman died in 1982. His career remains a record of service across intelligence analysis and communications security.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1894",
+      "event": "Born in London, United Kingdom."
+    },
+    {
+      "date": "1920",
+      "event": "Begins cryptanalytic work at the Government Code and Cypher School."
+    },
+    {
+      "date": "1930",
+      "event": "Forms the military section of GC&CS."
+    },
+    {
+      "date": "1942",
+      "event": "Serves as a deputy director of GC&CS and honorary Chief Cryptographer."
+    },
+    {
+      "date": "1949",
+      "event": "Becomes senior GCHQ liaison officer in the United States."
+    },
+    {
+      "date": "1982",
+      "event": "Dies after retiring from NSA consulting."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA: Brigadier John Tiltman biography",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/Historical-Figures-View/Article/1622415/brigadier-john-tiltman/"
+    },
+    {
+      "title": "NSA: Brigadier John Tiltman historical monograph",
+      "url": "https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/historical-figures-publications/publications/misc/tiltman.pdf"
+    },
+    {
+      "title": "NSA: John H. Tiltman biographical sketch",
+      "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-quarterly/johnhtiltman.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

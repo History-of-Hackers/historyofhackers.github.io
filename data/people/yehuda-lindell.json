@@ -1,0 +1,70 @@
+{
+  "id": "yehuda-lindell",
+  "type": "person",
+  "title": "Yehuda Lindell",
+  "slug": "yehuda-lindell",
+  "name": "Yehuda Lindell",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "secure-multiparty-computation",
+    "applied-cryptography",
+    "academic-research"
+  ],
+  "summary": "Cryptographer and educator whose research focuses on secure multiparty computation, rigorous cryptographic protocols, and practical key-protection systems.",
+  "whyThisMatters": "Yehuda Lindell is included for documented contributions to the technical and formal foundations of computer security and cryptography.",
+  "knownFor": [
+    "Secure multiparty computation",
+    "Introduction to Modern Cryptography",
+    "AES-GCM-SIV co-invention"
+  ],
+  "sections": {
+    "overview": "<p>Yehuda Lindell is a cryptographer and Bar-Ilan University professor whose research focuses on secure multiparty computation and practical cryptographic protocols. He has also contributed to academic education through widely used cryptography texts.</p><h2>Security relevance</h2><p>Lindell’s work connects provable-security techniques with implementations that protect keys and distributed computations. It illustrates how formal cryptographic research can inform deployed systems.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2002",
+      "event": "Receives a Ph.D. from the Weizmann Institute."
+    },
+    {
+      "date": "2007",
+      "event": "Co-authors Introduction to Modern Cryptography with Jonathan Katz."
+    },
+    {
+      "date": "2015",
+      "event": "Co-founds Unbound Security."
+    },
+    {
+      "date": "2022",
+      "event": "Becomes Head of Cryptography at Coinbase."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bar-Ilan University: Yehuda Lindell",
+      "url": "https://cris.biu.ac.il/en/persons/yehuda-lindell/"
+    },
+    {
+      "title": "Yehuda Lindell academic homepage",
+      "url": "https://yehudalindell.com/"
+    },
+    {
+      "title": "Bar-Ilan University: Unbound Security acquisition",
+      "url": "https://www.biu.ac.il/en/article/9760"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

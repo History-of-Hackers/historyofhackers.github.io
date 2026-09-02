@@ -1,0 +1,71 @@
+{
+  "id": "avi-wigderson",
+  "type": "person",
+  "title": "Avi Wigderson",
+  "slug": "avi-wigderson",
+  "name": "Avi Wigderson",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "complexity-theory",
+    "cryptography",
+    "randomness",
+    "distributed-computing",
+    "academic-research"
+  ],
+  "summary": "Theoretical computer scientist whose research on randomness, complexity, cryptography, and distributed computation shaped the foundations used to analyze secure computation.",
+  "whyThisMatters": "Avi Wigderson is included for documented contributions to the technical and formal foundations of computer security and cryptography.",
+  "knownFor": [
+    "Computational complexity",
+    "Randomness and computation",
+    "Cryptography and distributed computation"
+  ],
+  "sections": {
+    "overview": "<p>Avi Wigderson is a professor at the Institute for Advanced Study whose research spans computational complexity, randomness, cryptography, and distributed computation. His work studies what can be computed efficiently and under what assumptions.</p><h2>Security relevance</h2><p>Modern cryptography depends on complexity assumptions, randomness, and adversarial models. Wigderson’s foundational research helps formalize these concepts and clarify the limits and possibilities of secure computation.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1980",
+      "event": "Receives a Ph.D. from Princeton University."
+    },
+    {
+      "date": "1988",
+      "event": "Co-authors foundational work on fault-tolerant distributed computation."
+    },
+    {
+      "date": "1999",
+      "event": "Joins the Institute for Advanced Study."
+    },
+    {
+      "date": "2023",
+      "event": "Receives the ACM A.M. Turing Award for contributions to the theory of computation."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Institute for Advanced Study: Avi Wigderson",
+      "url": "https://www.ias.edu/scholars/wigderson"
+    },
+    {
+      "title": "Avi Wigderson academic homepage",
+      "url": "https://www.math.ias.edu/avi/home"
+    },
+    {
+      "title": "ACM: 2023 A.M. Turing Award announcement",
+      "url": "https://www.acm.org/media-center/2024/april/turing-award-2023"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

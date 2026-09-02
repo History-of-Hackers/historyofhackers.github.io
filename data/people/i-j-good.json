@@ -1,0 +1,75 @@
+{
+  "id": "i-j-good",
+  "type": "person",
+  "title": "Irving John Good",
+  "slug": "i-j-good",
+  "name": "Irving John Good",
+  "born": 1916,
+  "died": 2009,
+  "era": "1940s-2009",
+  "tags": [
+    "cryptanalysis",
+    "statistics",
+    "bletchley-park",
+    "computing-history",
+    "bayesian-inference"
+  ],
+  "summary": "British mathematician, statistician, and Bletchley Park cryptanalyst who later contributed to computing and Bayesian statistics.",
+  "whyThisMatters": "Good’s wartime cryptanalytic work and later statistical research connect codebreaking, early computing, and probabilistic reasoning—fields that continue to inform security analysis.",
+  "knownFor": [
+    "Bletchley Park cryptanalysis",
+    "Bayesian statistics",
+    "Good–Turing frequency estimation"
+  ],
+  "sections": {
+    "overview": "<p>Irving John “Jack” Good was a British mathematician and statistician who worked at Bletchley Park during the Second World War. He worked with Alan Turing and later with the Newmanry, where cryptanalysis and electronic computation became closely linked.</p><h2>Statistics, computation, and security</h2><p>After the war, Good worked in Manchester’s computing environment and built a long academic career in statistics. His work on frequency estimation and Bayesian reasoning became influential far beyond cryptanalysis.</p><h2>In memoriam</h2><p>Good died in 2009. His career is remembered for bringing mathematical depth to both wartime cryptanalysis and postwar computation.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1916",
+      "event": "Born in London, United Kingdom."
+    },
+    {
+      "date": "1938",
+      "event": "Completes mathematical studies at Cambridge."
+    },
+    {
+      "date": "1941",
+      "event": "Joins Bletchley Park and works in wartime cryptanalysis."
+    },
+    {
+      "date": "1940s",
+      "event": "Works in the postwar Manchester computing environment."
+    },
+    {
+      "date": "2009",
+      "event": "Dies in Virginia, United States."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bletchley Park: I. J. Good collection and history",
+      "url": "https://bletchleypark.org.uk/"
+    },
+    {
+      "title": "Virginia Tech: I. J. Good papers",
+      "url": "https://spec.lib.vt.edu/archives/"
+    },
+    {
+      "title": "IEEE Milestones: Statistics at Bletchley Park",
+      "url": "https://ieeemilestones.ethw.org/w/images/c/cf/GeneralReport.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

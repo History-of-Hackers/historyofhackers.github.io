@@ -1,0 +1,71 @@
+{
+  "id": "roxana-geambasu",
+  "type": "person",
+  "title": "Roxana Geambasu",
+  "slug": "roxana-geambasu",
+  "name": "Roxana Geambasu",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "privacy",
+    "systems-security",
+    "web-security",
+    "academia",
+    "cloud-security"
+  ],
+  "summary": "Computer-systems and privacy researcher at Columbia University whose work examines accountable, privacy-preserving systems for the Web, cloud services, and mobile devices.",
+  "whyThisMatters": "Geambasu connects systems construction with privacy outcomes, emphasizing tools and abstractions that let people and institutions understand and constrain data use.",
+  "knownFor": [
+    "Privacy-preserving systems research",
+    "Columbia security and privacy research",
+    "Cloud and mobile data privacy"
+  ],
+  "sections": {
+    "overview": "<p>Roxana Geambasu is an associate professor of computer science at Columbia University. Her research spans systems, security, privacy, operating systems, distributed systems, and the Web.</p><h2>Privacy in data-driven systems</h2><p>Her work studies how systems can offer more transparency and accountability when services, applications, and third-party trackers collect personal data. The aim is to design mechanisms that make privacy-preserving behavior more practical.</p><h2>Research community</h2><p>Geambasu joined Columbia after doctoral work at the University of Washington. Her work on cloud and mobile privacy connects theory, systems research, and deployed technology.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2009",
+      "event": "Receives a Google PhD Fellowship in Cloud Computing."
+    },
+    {
+      "date": "2011",
+      "event": "Completes PhD at the University of Washington and joins Columbia."
+    },
+    {
+      "date": "2014",
+      "event": "Receives NSF CAREER and Microsoft Faculty Fellowship recognition."
+    },
+    {
+      "date": "2016",
+      "event": "Becomes associate professor at Columbia."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Columbia Engineering: Roxana Geambasu",
+      "url": "https://www.engineering.columbia.edu/faculty-staff/directory/roxana-geambasu"
+    },
+    {
+      "title": "Columbia Data Science Institute: Roxana Geambasu",
+      "url": "https://datascience.columbia.edu/people/roxana-geambasu/"
+    },
+    {
+      "title": "Columbia CS: Security and Privacy",
+      "url": "https://www.cs.columbia.edu/areas/security/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

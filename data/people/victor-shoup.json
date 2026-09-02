@@ -1,0 +1,71 @@
+{
+  "id": "victor-shoup",
+  "type": "person",
+  "title": "Victor Shoup",
+  "slug": "victor-shoup",
+  "name": "Victor Shoup",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "number-theory",
+    "algorithms",
+    "open-source-security-tools",
+    "academic-research"
+  ],
+  "summary": "Cryptographer and NYU professor known for research on cryptographic protocols and number-theoretic algorithms, and for the NTL software library.",
+  "whyThisMatters": "Victor Shoup is included for documented contributions to the technical and formal foundations of computer security and cryptography.",
+  "knownFor": [
+    "Number Theory Library (NTL)",
+    "Cryptographic protocols",
+    "Applied cryptography education"
+  ],
+  "sections": {
+    "overview": "<p>Victor Shoup is a professor at NYU Courant whose research covers cryptography, computational number theory, and algorithms. He also created NTL, a widely used open-source C++ library for number-theory computations.</p><h2>Security relevance</h2><p>Public-key cryptography depends heavily on reliable arithmetic over large integers and finite fields. Shoup’s research and software made these mathematical foundations more accessible to researchers and implementers.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1989",
+      "event": "Receives a Ph.D. in computer science from the University of Wisconsin–Madison."
+    },
+    {
+      "date": "1990s",
+      "event": "Develops NTL, a number-theory library used in cryptographic research and implementation."
+    },
+    {
+      "date": "2001",
+      "event": "Publishes a graduate course text on applied cryptography."
+    },
+    {
+      "date": "2004",
+      "event": "Serves as editor for ISO 18033-2 on public-key encryption."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NYU Courant: Victor Shoup",
+      "url": "https://cims.nyu.edu/people/profiles/SHOUP_Victor.html"
+    },
+    {
+      "title": "Victor Shoup homepage and NTL",
+      "url": "https://www.shoup.net/"
+    },
+    {
+      "title": "Victor Shoup curriculum vitae",
+      "url": "https://www.shoup.net/resume.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

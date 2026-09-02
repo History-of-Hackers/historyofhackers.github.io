@@ -1,0 +1,75 @@
+{
+  "id": "joseph-desch",
+  "type": "person",
+  "title": "Joseph Desch",
+  "slug": "joseph-desch",
+  "name": "Joseph Desch",
+  "born": 1907,
+  "died": 1987,
+  "era": "1940s-1987",
+  "tags": [
+    "cryptanalysis",
+    "bombe",
+    "enigma",
+    "engineering",
+    "naval-cryptology"
+  ],
+  "summary": "American electrical engineer who led the design of high-speed U.S. Navy Bombes used against four-rotor German Enigma traffic.",
+  "whyThisMatters": "Desch translated cryptanalytic requirements into a rapidly manufactured electromechanical system. His work demonstrates that security history is also a history of systems engineering under urgent operational constraints.",
+  "knownFor": [
+    "U.S. Navy Bombe",
+    "Four-rotor Enigma analysis",
+    "National Cash Register engineering"
+  ],
+  "sections": {
+    "overview": "<p>Joseph Desch was an electrical engineer at the National Cash Register Company who became the principal engineer for the U.S. Navy’s four-rotor Bombe project during the Second World War. The machines were built to support analysis of German naval Enigma traffic.</p><h2>Engineering for cryptanalysis</h2><p>Desch’s team converted complex cryptanalytic requirements into practical, high-speed machines under a compressed schedule. The resulting Bombes helped process the settings needed to read protected communications in the U-boat campaign.</p><h2>In memoriam</h2><p>Desch died in 1987. His work is preserved as a major example of the engineering effort behind Allied cryptanalysis.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1907",
+      "event": "Born in Dayton, Ohio, United States."
+    },
+    {
+      "date": "1929",
+      "event": "Graduates from the University of Dayton in electrical engineering."
+    },
+    {
+      "date": "1942",
+      "event": "Selected at NCR as principal engineer for the U.S. Navy Bombe project."
+    },
+    {
+      "date": "1943",
+      "event": "Completes prototype four-rotor Bombes."
+    },
+    {
+      "date": "1987",
+      "event": "Dies; later inducted into the NSA/CSS Hall of Honor."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA: Joseph Desch biography",
+      "url": "https://www.nsa.gov/Press-Room/Digital-Media-Center/Biographies/Biography-View-Page/Article/1621573/joseph-desch/"
+    },
+    {
+      "title": "NSA: Solving the Enigma",
+      "url": "https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/historical-figures-publications/publications/wwii/solving_enigma.pdf"
+    },
+    {
+      "title": "NSA/CSS: Hall of Honor induction release",
+      "url": "https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/1630539/nsacss-inducts-four-pioneers-into-the-national-cryptologic-museums-hall-of-honor/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

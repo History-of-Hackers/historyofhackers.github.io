@@ -1,0 +1,79 @@
+{
+  "id": "boris-hagelin",
+  "type": "person",
+  "title": "Boris Hagelin",
+  "slug": "boris-hagelin",
+  "name": "Boris Hagelin",
+  "born": 1892,
+  "died": 1983,
+  "era": "1920s-1983",
+  "tags": [
+    "cryptography",
+    "cipher-machines",
+    "mechanical-cryptography",
+    "hagelin",
+    "communications-security"
+  ],
+  "summary": "Swedish industrialist and inventor whose mechanical cipher machines were widely used by governments and militaries in the twentieth century.",
+  "whyThisMatters": "Hagelin’s machines made cryptography deployable at organizational scale. Their history is central to understanding the practical tradeoffs among portability, key management, and mechanical security.",
+  "knownFor": [
+    "Hagelin cipher machines",
+    "C-38 / M-209 family",
+    "Crypto AG"
+  ],
+  "sections": {
+    "overview": "<p>Boris Hagelin was a Swedish inventor and industrialist associated with a family of mechanical cipher machines used internationally. His company’s compact pin-and-lug devices included machines in the C-series and the U.S. M-209.</p><h2>Machine cryptography at scale</h2><p>Hagelin’s designs show how encryption moved from specialist rooms to transportable field equipment. Their use and later cryptanalytic study remain important to the history of mechanical communications security.</p><h2>In memoriam</h2><p>Hagelin died in 1983. His name remains closely associated with twentieth-century cipher-machine engineering.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1892",
+      "event": "Born in Adshikent, Russian Empire."
+    },
+    {
+      "date": "1920s",
+      "event": "Takes a leading role in the Swedish cipher-machine business."
+    },
+    {
+      "date": "1930s",
+      "event": "Develops compact mechanical cipher machines."
+    },
+    {
+      "date": "1940s",
+      "event": "The M-209 becomes widely used by U.S. forces."
+    },
+    {
+      "date": "1952",
+      "event": "Establishes Crypto AG in Switzerland."
+    },
+    {
+      "date": "1983",
+      "event": "Dies in Zug, Switzerland."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Crypto Museum: Hagelin cipher machines",
+      "url": "https://www.cryptomuseum.com/crypto/hagelin/"
+    },
+    {
+      "title": "CIA: Cryptology history and Crypto AG material",
+      "url": "https://www.cia.gov/readingroom/"
+    },
+    {
+      "title": "National Cryptologic Museum: mechanical cipher-machine collections",
+      "url": "https://www.nsa.gov/History/National-Cryptologic-Museum/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

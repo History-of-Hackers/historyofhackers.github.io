@@ -1,0 +1,75 @@
+{
+  "id": "leo-marks",
+  "type": "person",
+  "title": "Leo Marks",
+  "slug": "leo-marks",
+  "name": "Leo Marks",
+  "born": 1920,
+  "died": 2001,
+  "era": "1940s-2001",
+  "tags": [
+    "cryptography",
+    "soe",
+    "wwii",
+    "one-time-pads",
+    "communications-security"
+  ],
+  "summary": "British cryptographer and writer who headed the Special Operations Executive’s codes office during the Second World War.",
+  "whyThisMatters": "Marks improved field-cipher procedures for agents operating under extreme risk. His story makes the usability of security systems—not merely their mathematical strength—visible in the history of cryptography.",
+  "knownFor": [
+    "SOE codes office",
+    "Agent communications security",
+    "Between Silk and Cyanide"
+  ],
+  "sections": {
+    "overview": "<p>Leo Marks was the wartime head of the Special Operations Executive’s codes office. He trained and briefed agents and worked on communications procedures for clandestine operations in occupied Europe.</p><h2>Human factors in cryptography</h2><p>Marks is closely associated with replacing vulnerable poem-based keys with more secure procedures, including one-time-pad methods. His later memoir documented the practical constraints that shape whether a cryptographic system can be safely used in the field.</p><h2>In memoriam</h2><p>Marks died in 2001. He is remembered for emphasizing the operational realities behind secure communications.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1920",
+      "event": "Born in London, United Kingdom."
+    },
+    {
+      "date": "1942",
+      "event": "Joins the Special Operations Executive."
+    },
+    {
+      "date": "1943",
+      "event": "Becomes head of SOE’s codes office."
+    },
+    {
+      "date": "1998",
+      "event": "Publishes Between Silk and Cyanide."
+    },
+    {
+      "date": "2001",
+      "event": "Dies in London."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "AJEX: Leo Marks is remembered",
+      "url": "https://www.ajex.org.uk/leo-marks-remembered"
+    },
+    {
+      "title": "Imperial War Museums: SOE history",
+      "url": "https://www.iwm.org.uk/history/the-special-operations-executive"
+    },
+    {
+      "title": "The National Archives: Special Operations Executive records",
+      "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/special-operations-executive/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

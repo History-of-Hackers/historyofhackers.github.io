@@ -1,0 +1,71 @@
+{
+  "id": "adam-shostack",
+  "type": "person",
+  "title": "Adam Shostack",
+  "slug": "adam-shostack",
+  "name": "Adam Shostack",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "threat-modeling",
+    "application-security",
+    "microsoft-sdl",
+    "owasp",
+    "author"
+  ],
+  "summary": "Threat-modeling practitioner and author whose frameworks, tools, and teaching helped make adversarial design review accessible to software teams.",
+  "whyThisMatters": "Shostack turns threat modeling into a design habit: identify what is valuable, who may act against it, and how design choices can reduce risk before software ships.",
+  "knownFor": [
+    "Threat Modeling: Designing for Security",
+    "Microsoft SDL threat-modeling tool",
+    "OWASP Threat Modeling project"
+  ],
+  "sections": {
+    "overview": "<p>Adam Shostack is a security practitioner, author, and educator focused on threat modeling. His work includes product security, consulting, and efforts to make adversarial thinking usable during normal engineering design.</p><h2>Threat modeling for builders</h2><p>His book <em>Threat Modeling: Designing for Security</em> explains a structured way to consider assets, attackers, mitigations, and validation. The aim is to find design risk early, where changes are generally more effective.</p><h2>Tools and community work</h2><p>Shostack helped create CVE, worked on Microsoft SDL threat-modeling tools, and has served in Black Hat and OWASP roles. His work bridges formal security concepts with decisions made by product teams.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1999",
+      "event": "Helps create CVE and later serves on its advisory board."
+    },
+    {
+      "date": "2000s",
+      "event": "Works on Microsoft security and SDL threat-modeling tools."
+    },
+    {
+      "date": "2014",
+      "event": "Publishes <em>Threat Modeling: Designing for Security</em>."
+    },
+    {
+      "date": "2016",
+      "event": "Establishes Shostack + Associates."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Adam Shostack: biography",
+      "url": "https://shostack.org/about/adam"
+    },
+    {
+      "title": "Shostack + Associates: about",
+      "url": "https://adam.shostack.org/about"
+    },
+    {
+      "title": "arXiv: Power Centers in Threat Modeling",
+      "url": "https://arxiv.org/abs/2501.10427"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

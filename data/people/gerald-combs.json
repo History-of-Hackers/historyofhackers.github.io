@@ -1,0 +1,71 @@
+{
+  "id": "gerald-combs",
+  "type": "person",
+  "title": "Gerald Combs",
+  "slug": "gerald-combs",
+  "name": "Gerald Combs",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "wireshark",
+    "ethereal",
+    "packet-analysis",
+    "open-source",
+    "sharkfest"
+  ],
+  "summary": "Creator of Ethereal, later Wireshark, whose open-source packet analyzer became a central tool and community for network troubleshooting and security analysis.",
+  "whyThisMatters": "Wireshark made detailed packet inspection broadly accessible. Its growth from Ethereal into a large open-source project shows how tools, contributors, documentation, and conferences form a durable technical community.",
+  "knownFor": [
+    "Creator of Ethereal/Wireshark",
+    "Open-source packet analysis",
+    "SharkFest community"
+  ],
+  "sections": {
+    "overview": "<p>Gerald Combs created Ethereal, the open-source packet analyzer later renamed Wireshark. He began the tool in 1997 while working to understand network problems and learn more about networking.</p><h2>From Ethereal to Wireshark</h2><p>Ethereal attracted patches, dissectors, bug reports, and contributors. In 2006 the project adopted the Wireshark name, preserving the codebase community while moving beyond the Ethereal trademark.</p><h2>A tool and a community</h2><p>Wireshark is used for troubleshooting, protocol development, and security investigation. SharkFest, launched in 2008, is a place for the developer and user community to exchange packet-analysis practice.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1997",
+      "event": "Begins writing Ethereal."
+    },
+    {
+      "date": "1998",
+      "event": "Releases Ethereal 0.2.0."
+    },
+    {
+      "date": "2006",
+      "event": "Project is renamed Wireshark."
+    },
+    {
+      "date": "2008",
+      "event": "SharkFest begins as a packet-analysis educational conference series."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Wireshark User Guide: history",
+      "url": "https://www.wireshark.org/docs/wsug_html_chunked/ChIntroHistory"
+    },
+    {
+      "title": "Wireshark: 25-year history",
+      "url": "https://www.wireshark.org/blog/2023-07-14-wireshark-is-25"
+    },
+    {
+      "title": "Wireshark: SharkFest and founder statement",
+      "url": "https://www.wireshark.org/about-sharkfest.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "elias-levy-aleph-one",
+  "type": "person",
+  "title": "Elias Levy (Aleph One)",
+  "slug": "elias-levy-aleph-one",
+  "name": "Elias Levy (Aleph One)",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "phrack",
+    "bugtraq",
+    "full-disclosure",
+    "buffer-overflow",
+    "securityfocus"
+  ],
+  "summary": "Security researcher and editor known as Aleph One, whose Phrack article and Bugtraq community work became reference points in vulnerability disclosure culture.",
+  "whyThisMatters": "Levy wrote a historic public explanation of stack-buffer-overflow exploitation, while his Bugtraq and SecurityFocus work shaped how vulnerability information circulated in the late 1990s.",
+  "knownFor": [
+    "Smashing The Stack For Fun And Profit",
+    "Bugtraq moderation",
+    "SecurityFocus"
+  ],
+  "sections": {
+    "overview": "<p>Elias Levy, known online as Aleph One, is a security researcher associated with Phrack, Bugtraq, and SecurityFocus. He is recognized for a 1996 Phrack article, <em>Smashing The Stack For Fun And Profit</em>.</p><h2>Exploit technique as public knowledge</h2><p>The article explained stack-buffer-overflow mechanics and became a landmark educational document in exploit-development history. It is historical technical material that defenders use to understand vulnerable memory-safety assumptions and improve mitigations.</p><h2>Disclosure culture</h2><p>Levy also moderated Bugtraq for much of its formative period and co-founded SecurityFocus. These roles placed him near debates over public advisories, vendor response, and technical vulnerability-information sharing.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1996",
+      "event": "Publishes <em>Smashing The Stack For Fun And Profit</em> in Phrack 49."
+    },
+    {
+      "date": "1996",
+      "event": "Begins moderating Bugtraq during its formative period."
+    },
+    {
+      "date": "2001",
+      "event": "Leaves Bugtraq moderation."
+    },
+    {
+      "date": "2002",
+      "event": "SecurityFocus is acquired by Symantec."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Phrack 49: Smashing The Stack For Fun And Profit",
+      "url": "https://phrack.org/issues/49/14#article"
+    },
+    {
+      "title": "Kurt Seifried: interview with Elias Levy",
+      "url": "https://seifried.org/security/articles/20011015-elias-levy-interview.html"
+    },
+    {
+      "title": "Internet Archive: NetCafe interview with Aleph One",
+      "url": "https://archive.org/details/nc101_hackers"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}
