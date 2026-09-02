@@ -1,0 +1,54 @@
+{
+  "id": "ghost-glibc",
+  "type": "vulnerability",
+  "title": "GHOST (CVE-2015-0235)",
+  "slug": "ghost-glibc",
+  "era": "2015",
+  "tags": [
+    "ghost",
+    "glibc",
+    "cve-2015-0235",
+    "linux",
+    "buffer-overflow",
+    "dns"
+  ],
+  "summary": "GHOST is CVE-2015-0235, a heap-based buffer overflow in glibc name-resolution functions that affected older versions of the GNU C Library.",
+  "whyThisMatters": "Because glibc is a foundational Linux component, GHOST required broad package review even where applications did not directly expose the affected functions. The case illustrates the operational reach of flaws in shared system libraries.",
+  "overview": "<p>GHOST is the name given to CVE-2015-0235, a heap-based buffer overflow in the GNU C Library. NVD describes the flaw in the internal __nss_hostname_digits_dots function used in connection with gethostbyname and gethostbyname2.</p><h2>Scope</h2><p>The vulnerability affected glibc 2.2 and other 2.x releases before 2.18. Whether it was exploitable in a particular service depended on how that service used the library hostname-resolution functions.</p><p>Qualys disclosed the issue in January 2015 and published technical analysis. Linux distributors issued package advisories and updates for affected releases.</p><h2>Remediation</h2><p>The principal response was to update glibc packages supplied by the relevant operating-system vendor. The incident highlighted why inventory and patching processes must include transitive shared-library dependencies.</p>",
+  "timeline": [
+    {
+      "date": "2015-01-27",
+      "event": "GHOST is publicly disclosed as CVE-2015-0235."
+    },
+    {
+      "date": "2015-01",
+      "event": "Linux distributors publish updates and advisories for affected glibc packages."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NVD: CVE-2015-0235",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-0235"
+    },
+    {
+      "title": "Qualys: GHOST vulnerability advisory",
+      "url": "https://www.qualys.com/2015/01/27/cve-2015-0235/GHOST-CVE-2015-0235.txt"
+    },
+    {
+      "title": "Red Hat: CVE-2015-0235",
+      "url": "https://access.redhat.com/security/cve/CVE-2015-0235"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "efail",
+  "type": "vulnerability",
+  "title": "EFAIL",
+  "slug": "efail",
+  "era": "2018",
+  "tags": [
+    "efail",
+    "openpgp",
+    "smime",
+    "email-encryption",
+    "cryptography",
+    "2018"
+  ],
+  "summary": "EFAIL is a class of attacks disclosed in 2018 that used weaknesses in some OpenPGP and S/MIME email-client handling to exfiltrate decrypted message content.",
+  "whyThisMatters": "EFAIL prompted renewed scrutiny of email-encryption clients, MIME rendering, and authenticated encryption. It also illustrated how security guarantees can fail at the boundary between a cryptographic format and its consuming application.",
+  "overview": "<p>EFAIL is the name given to attacks on some OpenPGP and S/MIME email-encryption implementations disclosed in 2018. The research examined ways in which modified ciphertext and email-client processing could expose plaintext.</p><h2>Research</h2><p>The authors described direct exfiltration channels and vulnerabilities connected to the handling of encrypted email content. Their paper was published at the 27th USENIX Security Symposium.</p><p>The findings concerned particular implementation and configuration choices rather than a single universal break of the OpenPGP or S/MIME standards. The scope of impact therefore varied among email clients and deployment settings.</p><h2>Response</h2><p>Security guidance focused on updating affected software, disabling vulnerable plugin behavior where necessary, and improving authenticated-encryption and message-rendering defenses. The disclosure also sparked debate about communication of risk to encrypted-email users.</p>",
+  "timeline": [
+    {
+      "date": "2018-05-13",
+      "event": "EFAIL is publicly announced."
+    },
+    {
+      "date": "2018",
+      "event": "The EFAIL research is published at USENIX Security 2018."
+    }
+  ],
+  "sources": [
+    {
+      "title": "EFAIL project site",
+      "url": "https://efail.de/"
+    },
+    {
+      "title": "USENIX: Efail paper",
+      "url": "https://www.usenix.org/conference/usenixsecurity18/presentation/poddebniak"
+    },
+    {
+      "title": "Electronic Frontier Foundation: EFAIL announcement",
+      "url": "https://www.eff.org/deeplinks/2018/05/attention-pgp-users-new-vulnerabilities-require-you-take-action-now"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

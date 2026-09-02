@@ -5446,5 +5446,150 @@
     ],
     "summary": "Zerologon (CVE-2020-1472) is a critical cryptographic flaw in the Netlogon Remote Protocol used by Windows domain controllers, disclosed by Tom Tervoort of Secura in 2020, that let an unauthenticated attacker on the network take full control of an Active Directory domain.",
     "url": "vulnerabilities/zerologon.html"
+  },
+  {
+    "id": "poodle-vulnerability",
+    "type": "vulnerability",
+    "title": "POODLE (CVE-2014-3566)",
+    "slug": "poodle-vulnerability",
+    "era": "2014",
+    "tags": [
+      "poodle",
+      "ssl-3.0",
+      "tls",
+      "cve-2014-3566",
+      "padding-oracle",
+      "protocol-downgrade"
+    ],
+    "summary": "POODLE is a 2014 design vulnerability in SSL 3.0 that can allow a network attacker to recover plaintext from a connection forced to use the obsolete protocol.",
+    "typeLabel": "Vulnerability",
+    "url": "vulnerabilities/poodle-vulnerability.html"
+  },
+  {
+    "id": "freak-vulnerability",
+    "type": "vulnerability",
+    "title": "FREAK (CVE-2015-0204)",
+    "slug": "freak-vulnerability",
+    "era": "2015",
+    "tags": [
+      "freak",
+      "tls",
+      "ssl",
+      "cve-2015-0204",
+      "rsa",
+      "export-cryptography"
+    ],
+    "summary": "FREAK is a TLS weakness that could allow a network attacker to downgrade some connections to export-grade RSA encryption and factor the resulting weak key.",
+    "typeLabel": "Vulnerability",
+    "url": "vulnerabilities/freak-vulnerability.html"
+  },
+  {
+    "id": "badlock",
+    "type": "vulnerability",
+    "title": "Badlock (CVE-2016-2118)",
+    "slug": "badlock",
+    "era": "2016",
+    "tags": [
+      "badlock",
+      "samba",
+      "windows",
+      "cve-2016-2118",
+      "smb",
+      "dcerpc"
+    ],
+    "summary": "Badlock is the public name for CVE-2016-2118, a Samba and Windows remote-protocol vulnerability disclosed in April 2016.",
+    "typeLabel": "Vulnerability",
+    "url": "vulnerabilities/badlock.html"
+  },
+  {
+    "id": "blueborne",
+    "type": "vulnerability",
+    "title": "BlueBorne",
+    "slug": "blueborne",
+    "era": "2017",
+    "tags": [
+      "blueborne",
+      "bluetooth",
+      "android",
+      "windows",
+      "linux",
+      "ios",
+      "armis"
+    ],
+    "summary": "BlueBorne is a set of Bluetooth vulnerabilities disclosed by Armis in 2017 that affected implementations across Android, Windows, Linux, and older Apple platforms.",
+    "typeLabel": "Vulnerability",
+    "url": "vulnerabilities/blueborne.html"
+  },
+  {
+    "id": "ghost-glibc",
+    "type": "vulnerability",
+    "title": "GHOST (CVE-2015-0235)",
+    "slug": "ghost-glibc",
+    "era": "2015",
+    "tags": [
+      "ghost",
+      "glibc",
+      "cve-2015-0235",
+      "linux",
+      "buffer-overflow",
+      "dns"
+    ],
+    "summary": "GHOST is CVE-2015-0235, a heap-based buffer overflow in glibc name-resolution functions that affected older versions of the GNU C Library.",
+    "typeLabel": "Vulnerability",
+    "url": "vulnerabilities/ghost-glibc.html"
+  },
+  {
+    "id": "drown-attack",
+    "type": "vulnerability",
+    "title": "DROWN (CVE-2016-0800)",
+    "slug": "drown-attack",
+    "era": "2016",
+    "tags": [
+      "drown",
+      "tls",
+      "sslv2",
+      "cve-2016-0800",
+      "rsa",
+      "cross-protocol"
+    ],
+    "summary": "DROWN is a 2016 cross-protocol attack that can use SSLv2 support to decrypt some TLS connections protected with the same RSA key.",
+    "typeLabel": "Vulnerability",
+    "url": "vulnerabilities/drown-attack.html"
+  },
+  {
+    "id": "efail",
+    "type": "vulnerability",
+    "title": "EFAIL",
+    "slug": "efail",
+    "era": "2018",
+    "tags": [
+      "efail",
+      "openpgp",
+      "smime",
+      "email-encryption",
+      "cryptography",
+      "2018"
+    ],
+    "summary": "EFAIL is a class of attacks disclosed in 2018 that used weaknesses in some OpenPGP and S/MIME email-client handling to exfiltrate decrypted message content.",
+    "typeLabel": "Vulnerability",
+    "url": "vulnerabilities/efail.html"
+  },
+  {
+    "id": "spring4shell",
+    "type": "vulnerability",
+    "title": "Spring4Shell (CVE-2022-22965)",
+    "slug": "spring4shell",
+    "era": "2022",
+    "tags": [
+      "spring4shell",
+      "spring-framework",
+      "java",
+      "cve-2022-22965",
+      "remote-code-execution",
+      "tomcat"
+    ],
+    "summary": "Spring4Shell is CVE-2022-22965, a Spring Framework data-binding vulnerability that could enable remote code execution in certain JDK 9+ and Tomcat WAR deployments.",
+    "typeLabel": "Vulnerability",
+    "url": "vulnerabilities/spring4shell.html"
   }
 ]

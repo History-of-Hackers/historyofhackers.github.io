@@ -1,0 +1,59 @@
+{
+  "id": "blueborne",
+  "type": "vulnerability",
+  "title": "BlueBorne",
+  "slug": "blueborne",
+  "era": "2017",
+  "tags": [
+    "blueborne",
+    "bluetooth",
+    "android",
+    "windows",
+    "linux",
+    "ios",
+    "armis"
+  ],
+  "summary": "BlueBorne is a set of Bluetooth vulnerabilities disclosed by Armis in 2017 that affected implementations across Android, Windows, Linux, and older Apple platforms.",
+  "whyThisMatters": "BlueBorne focused attention on the security of nearby-device protocols and on uneven patch delivery across connected-device ecosystems. Its cross-platform scope made Bluetooth attack-surface management a practical concern for many organizations.",
+  "overview": "<p>BlueBorne is the name Armis gave to a set of Bluetooth vulnerabilities disclosed in September 2017. The affected implementations spanned Android, Windows, Linux, and older Apple operating systems.</p><h2>Research and disclosure</h2><p>Armis researchers described Bluetooth attack paths that could allow information disclosure, man-in-the-middle attacks, or remote code execution depending on the platform and vulnerability. The initial disclosure covered eight issues; later work added another Linux information-disclosure issue.</p><p>Vendor patches were coordinated across several ecosystems. Android fixes appeared in the September 2017 security update, while Microsoft had released a relevant Windows update in July.</p><h2>Impact</h2><p>The research emphasized that Bluetooth can be reachable without pairing in some circumstances, expanding the importance of prompt platform and device updates. It also documented the special patching challenges for devices whose operating-system updates depend on carriers or manufacturers.</p>",
+  "timeline": [
+    {
+      "date": "2017-07-11",
+      "event": "Microsoft releases a patch for the Windows Bluetooth issue later included in BlueBorne coverage."
+    },
+    {
+      "date": "2017-09-12",
+      "event": "Armis publicly discloses BlueBorne vulnerabilities with coordinated vendor information."
+    },
+    {
+      "date": "2017-11-14",
+      "event": "Armis discloses additional BlueBorne-related issues affecting smart-home devices."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Armis: BlueBorne on Android",
+      "url": "https://www.armis.com/blog/blueborne-on-android-exploiting-an-rce-over-the-air/"
+    },
+    {
+      "title": "JPCERT/CC: BlueBorne alert",
+      "url": "https://www.jpcert.or.jp/english/at/2017/at170037.html"
+    },
+    {
+      "title": "Armis: BlueBorne one year later",
+      "url": "https://www.armis.com/blog/blueborne-one-year-later/"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

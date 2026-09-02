@@ -1,0 +1,58 @@
+{
+  "id": "spring4shell",
+  "type": "vulnerability",
+  "title": "Spring4Shell (CVE-2022-22965)",
+  "slug": "spring4shell",
+  "era": "2022",
+  "tags": [
+    "spring4shell",
+    "spring-framework",
+    "java",
+    "cve-2022-22965",
+    "remote-code-execution",
+    "tomcat"
+  ],
+  "summary": "Spring4Shell is CVE-2022-22965, a Spring Framework data-binding vulnerability that could enable remote code execution in certain JDK 9+ and Tomcat WAR deployments.",
+  "whyThisMatters": "The incident drew urgent attention because Spring is widely deployed, but the vendor advisory also made clear that exploitation required specific deployment conditions. It is a useful example of distinguishing a library vulnerability from the actual exposure of individual applications.",
+  "overview": "<p>Spring4Shell is the common name for CVE-2022-22965, a remote-code-execution vulnerability in Spring Framework data binding. Spring published an advisory on March 31, 2022.</p><h2>Affected deployments</h2><p>According to the Spring advisory, the documented exploit path required JDK 9 or later, Apache Tomcat as the servlet container, a traditional WAR deployment, and Spring Web MVC or WebFlux. Default Spring Boot executable-jar deployments were not vulnerable to that path.</p><p>The affected Spring Framework ranges included 5.3.0 through 5.3.17 and 5.2.19.RELEASE and earlier. Spring released fixes in 5.3.18 and 5.2.20.RELEASE.</p><h2>Response</h2><p>Guidance emphasized updating Spring Framework as the primary remediation, with Tomcat upgrades and other mitigations available for particular environments. The event was widely nicknamed Spring4Shell, although the CVE and vendor advisory define the scope more precisely.</p>",
+  "timeline": [
+    {
+      "date": "2022-03-31",
+      "event": "Spring publishes its advisory for CVE-2022-22965."
+    },
+    {
+      "date": "2022-03-31",
+      "event": "Spring Framework 5.3.18 and 5.2.20.RELEASE are identified as fixed versions."
+    },
+    {
+      "date": "2022-04-01",
+      "event": "Spring publishes additional mitigation guidance."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Spring: CVE-2022-22965 advisory",
+      "url": "https://spring.io/security/cve-2022-22965/"
+    },
+    {
+      "title": "Spring: RCE mitigation alternative",
+      "url": "https://spring.io/blog/2022/04/01/spring-framework-rce-mitigation-alternative/"
+    },
+    {
+      "title": "NVD: CVE-2022-22965",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-22965"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

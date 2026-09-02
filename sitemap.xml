@@ -234,18 +234,26 @@
   <url><loc>https://historyofhackers.org/tools/wireshark-network-analyzer.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/yara.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/badlock.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/blueborne.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/bluekeep.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/citrix-bleed.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/dirty-cow.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/drown-attack.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/efail.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/eternalblue.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/follina.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/freak-vulnerability.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/ghost-glibc.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/heartbleed.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/krack.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/log4shell.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/poodle-vulnerability.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/proxylogon.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/rowhammer.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/shellshock.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/spectre-meltdown.html</loc></url>
+  <url><loc>https://historyofhackers.org/vulnerabilities/spring4shell.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/stagefright.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/zerologon.html</loc></url>
   <url><loc>https://historyofhackers.org/attacks/</loc></url>

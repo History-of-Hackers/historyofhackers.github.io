@@ -1,0 +1,54 @@
+{
+  "id": "badlock",
+  "type": "vulnerability",
+  "title": "Badlock (CVE-2016-2118)",
+  "slug": "badlock",
+  "era": "2016",
+  "tags": [
+    "badlock",
+    "samba",
+    "windows",
+    "cve-2016-2118",
+    "smb",
+    "dcerpc"
+  ],
+  "summary": "Badlock is the public name for CVE-2016-2118, a Samba and Windows remote-protocol vulnerability disclosed in April 2016.",
+  "whyThisMatters": "The disclosure drew attention both for the affected authentication protocols and for its unusually prominent advance publicity. It illustrates how vulnerability communication can affect operational response as well as technical remediation.",
+  "overview": "<p>Badlock is the name used for CVE-2016-2118, a vulnerability affecting the Security Account Manager and Local Security Authority remote protocols implemented by Samba and Windows systems.</p><h2>Disclosure</h2><p>The issue was disclosed on April 12, 2016, after advance notices had prompted substantial public attention. Samba issued security updates alongside the coordinated disclosure.</p><p>Advisories described the flaw as enabling a man-in-the-middle attacker to impersonate a user or alter communications in certain configurations. The precise exposure depended on deployment and protocol use.</p><h2>Response</h2><p>Administrators were advised to apply Samba and Microsoft updates and to review the relevant remote-protocol protections. The event is also remembered for discussion around the use of branding and pre-disclosure publicity.</p>",
+  "timeline": [
+    {
+      "date": "2016-04-12",
+      "event": "Badlock and CVE-2016-2118 are publicly disclosed."
+    },
+    {
+      "date": "2016-04",
+      "event": "Samba and Microsoft publish related security updates."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CERT-EU: Badlock Bug in Windows and Samba",
+      "url": "https://cert.europa.eu/publications/security-advisories/2016-123/"
+    },
+    {
+      "title": "NVD: CVE-2016-2118",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-2118"
+    },
+    {
+      "title": "SambaXP 2016: Badlock",
+      "url": "https://www.samba.org/~metze/presentations/2016/SambaXP/metze_sambaxp2016_badlock-handout.pdf"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

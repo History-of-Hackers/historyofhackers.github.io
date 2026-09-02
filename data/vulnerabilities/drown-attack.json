@@ -1,0 +1,54 @@
+{
+  "id": "drown-attack",
+  "type": "vulnerability",
+  "title": "DROWN (CVE-2016-0800)",
+  "slug": "drown-attack",
+  "era": "2016",
+  "tags": [
+    "drown",
+    "tls",
+    "sslv2",
+    "cve-2016-0800",
+    "rsa",
+    "cross-protocol"
+  ],
+  "summary": "DROWN is a 2016 cross-protocol attack that can use SSLv2 support to decrypt some TLS connections protected with the same RSA key.",
+  "whyThisMatters": "DROWN showed that obsolete SSLv2 support on a server could endanger modern TLS traffic, including traffic handled by another service sharing the same key. It reinforced the need to remove legacy protocols across an entire key-management estate.",
+  "overview": "<p>DROWN, short for Decrypting RSA with Obsolete and Weakened eNcryption, is CVE-2016-0800. It is a cross-protocol attack involving servers that support the obsolete SSLv2 protocol.</p><h2>Research</h2><p>The research team showed that SSLv2 could act as a Bleichenbacher RSA padding oracle. Under the documented conditions, the oracle could be used to decrypt passively collected TLS sessions using a shared RSA key.</p><p>The victim client did not need to use SSLv2. This made server-side legacy protocol support and key reuse the important exposure conditions.</p><h2>Response</h2><p>Operators were advised to disable SSLv2 and avoid using the same RSA certificate key on services with differing protocol configurations. The work was published at the 2016 USENIX Security Symposium.</p>",
+  "timeline": [
+    {
+      "date": "2016-03-01",
+      "event": "The DROWN research team publicly discloses the attack."
+    },
+    {
+      "date": "2016",
+      "event": "The DROWN paper is presented at the 25th USENIX Security Symposium."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DROWN: Breaking TLS using SSLv2",
+      "url": "https://drownattack.com/"
+    },
+    {
+      "title": "USENIX: DROWN paper",
+      "url": "https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/adurian"
+    },
+    {
+      "title": "NVD: CVE-2016-0800",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-0800"
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

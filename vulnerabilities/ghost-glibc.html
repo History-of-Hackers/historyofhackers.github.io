@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>GHOST (CVE-2015-0235) - History of Hackers</title>
+<meta name="description" content="GHOST is CVE-2015-0235, a heap-based buffer overflow in glibc name-resolution functions that affected older versions of the GNU C Library." />
+<link rel="canonical" href="https://historyofhackers.org/vulnerabilities/ghost-glibc.html" />
+<meta name="theme-color" content="#f8f9fa" />
+<meta property="og:title" content="GHOST (CVE-2015-0235) - History of Hackers" />
+<meta property="og:description" content="GHOST is CVE-2015-0235, a heap-based buffer overflow in glibc name-resolution functions that affected older versions of the GNU C Library." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://historyofhackers.org/vulnerabilities/ghost-glibc.html" />
+<link rel="stylesheet" href="../assets/css/main.css" />
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Article", "name": "GHOST (CVE-2015-0235)", "description": "GHOST is CVE-2015-0235, a heap-based buffer overflow in glibc name-resolution functions that affected older versions of the GNU C Library."}
+</script>
+</head>
+<body data-root=".." class="">
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="top-strip">
+  <a href="../about.html">About</a>
+  <a href="../CONTRIBUTING.html">Contribute</a>
+  <a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub</a>
+</div>
+<header class="site-header">
+  <a class="brand" href="../">
+    <span class="brand-logo">H</span>
+    <span>History of Hackers<small>The free hacker-culture encyclopedia</small></span>
+  </a>
+  <form class="site-search" id="siteSearchForm" role="search" action="../search/">
+    <label class="visually-hidden" for="siteSearchInput">Search</label>
+    <input id="siteSearchInput" name="q" type="search" placeholder="Search the archive (Press /)" aria-label="Search the archive" />
+    <button type="submit" aria-label="Search">Search</button>
+  </form>
+  <div class="header-actions">
+    <button class="btn" id="toggleTheme" type="button" title="Toggle light/dark theme"><span class="btn-label">Theme</span></button>
+  </div>
+</header>
+<nav class="tab-strip" aria-label="Sections">
+<a href="../people/">People</a><a href="../groups/">Groups</a><a href="../tools/">Tools</a><a href="../vulnerabilities/" aria-current="page">Vulnerabilities</a><a href="../attacks/">Attacks</a><a href="../events/">Events</a><a href="../publications/">Publications</a><a href="../fields/">Fields</a><a href="../timeline/">Timeline</a><a href="../fiction/">Fiction</a>
+</nav>
+<details class="mobile-nav-toggle">
+  <summary>Menu</summary>
+  <aside class="sidebar"><div class="sidebar-box">
+<h2>Navigate</h2>
+<ul>
+<li><a href="../">Home</a></li>
+<li><a href="../timeline/">Timeline</a></li>
+<li><a href="../search/">Search</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>Categories</h2>
+<ul>
+<li><a href="../people/">People</a></li><li><a href="../groups/">Groups</a></li><li><a href="../tools/">Tools</a></li><li><a href="../vulnerabilities/" aria-current="page">Vulnerabilities & Discoveries</a></li><li><a href="../attacks/">Attacks & Breaches</a></li><li><a href="../events/">Events</a></li><li><a href="../publications/">Publications</a></li><li><a href="../fields/">Fields</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>Fiction (non-historical)</h2>
+<ul>
+<li><a href="../fiction/">Fictional Hackers</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>Contribute</h2>
+<ul>
+<li><a href="../CONTRIBUTING.html">How to contribute</a></li>
+<li><a href="../STYLE_GUIDE.html">Style guide</a></li>
+<li><a href="../SOURCES.html">Sources policy</a></li>
+<li><a href="../RESEARCH_BACKLOG.html">Research backlog</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>About</h2>
+<ul>
+<li><a href="../about.html">About this project</a></li>
+<li><a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub repository</a></li>
+</ul>
+</div></aside>
+</details>
+<div class="shell">
+<aside class="sidebar desktop-only"><div class="sidebar-box">
+<h2>Navigate</h2>
+<ul>
+<li><a href="../">Home</a></li>
+<li><a href="../timeline/">Timeline</a></li>
+<li><a href="../search/">Search</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>Categories</h2>
+<ul>
+<li><a href="../people/">People</a></li><li><a href="../groups/">Groups</a></li><li><a href="../tools/">Tools</a></li><li><a href="../vulnerabilities/" aria-current="page">Vulnerabilities & Discoveries</a></li><li><a href="../attacks/">Attacks & Breaches</a></li><li><a href="../events/">Events</a></li><li><a href="../publications/">Publications</a></li><li><a href="../fields/">Fields</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>Fiction (non-historical)</h2>
+<ul>
+<li><a href="../fiction/">Fictional Hackers</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>Contribute</h2>
+<ul>
+<li><a href="../CONTRIBUTING.html">How to contribute</a></li>
+<li><a href="../STYLE_GUIDE.html">Style guide</a></li>
+<li><a href="../SOURCES.html">Sources policy</a></li>
+<li><a href="../RESEARCH_BACKLOG.html">Research backlog</a></li>
+</ul>
+</div>
+<div class="sidebar-box">
+<h2>About</h2>
+<ul>
+<li><a href="../about.html">About this project</a></li>
+<li><a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub repository</a></li>
+</ul>
+</div></aside>
+<main class="content" id="main">
+
+<div class="breadcrumbs"><a href="../">Home</a> &raquo; <a href="./">Vulnerabilities & Discoveries</a> &raquo; GHOST (CVE-2015-0235)</div>
+<article class="entity">
+<div class="entity-layout">
+<div>
+<h1>GHOST (CVE-2015-0235)</h1>
+<div class="why-matters">Because glibc is a foundational Linux component, GHOST required broad package review even where applications did not directly expose the affected functions. The case illustrates the operational reach of flaws in shared system libraries.</div>
+<div id="tocSlot"></div>
+<div class="entity-content">
+<p>GHOST is the name given to CVE-2015-0235, a heap-based buffer overflow in the GNU C Library. NVD describes the flaw in the internal __nss_hostname_digits_dots function used in connection with gethostbyname and gethostbyname2.</p><h2>Scope</h2><p>The vulnerability affected glibc 2.2 and other 2.x releases before 2.18. Whether it was exploitable in a particular service depended on how that service used the library hostname-resolution functions.</p><p>Qualys disclosed the issue in January 2015 and published technical analysis. Linux distributors issued package advisories and updates for affected releases.</p><h2>Remediation</h2><p>The principal response was to update glibc packages supplied by the relevant operating-system vendor. The incident highlighted why inventory and patching processes must include transitive shared-library dependencies.</p><h2>Timeline</h2><ul class="timeline-list"><li><span class="t-date">2015-01-27</span><span>GHOST is publicly disclosed as CVE-2015-0235.</span></li><li><span class="t-date">2015-01</span><span>Linux distributors publish updates and advisories for affected glibc packages.</span></li></ul>
+</div>
+<div class="sources"><h2>Sources</h2><ol><li><a href="https://nvd.nist.gov/vuln/detail/CVE-2015-0235" target="_blank" rel="noopener noreferrer">NVD: CVE-2015-0235</a></li><li><a href="https://www.qualys.com/2015/01/27/cve-2015-0235/GHOST-CVE-2015-0235.txt" target="_blank" rel="noopener noreferrer">Qualys: GHOST vulnerability advisory</a></li><li><a href="https://access.redhat.com/security/cve/CVE-2015-0235" target="_blank" rel="noopener noreferrer">Red Hat: CVE-2015-0235</a></li></ol></div>
+</div>
+<div><div class="infobox"><div class="infobox-title">GHOST (CVE-2015-0235)</div><dl><dt>Type</dt><dd>Vulnerability / Discovery</dd><dt>Era</dt><dd>2015</dd><dt>Key date</dt><dd>2015-01-27</dd><dt>Tags</dt><dd>ghost, glibc, cve-2015-0235, linux, buffer-overflow, dns</dd></dl></div></div>
+</div>
+</article>
+
+</main>
+<footer class="site-footer">
+  <p>History of Hackers is a community-maintained historical archive. Corrections and new entries go through
+  <a href="https://github.com/History-of-Hackers/history-of-hackers.github.io">GitHub Pull Requests</a>.
+  See <a href="../CONTRIBUTING.html">Contributing</a>, <a href="../STYLE_GUIDE.html">Style Guide</a>
+  and <a href="../SOURCES.html">Sources</a>.</p>
+</footer>
+</div>
+<script src="../assets/js/main.js"></script>
+</body>
+</html>
