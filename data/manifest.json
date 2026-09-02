@@ -493,7 +493,7 @@
       "open source",
       "port scanning"
     ],
-    "summary": "Gordon Lyon, known by the handle 'Fyodor,' wrote and released the Nmap Security Scanner in 1997 and has remained its lead developer for nearly three decades, while also founding Insecure.Org, SecLists.Org, and SecTools.Org — long-running pieces of infrastructure that the security research community still relies on.",
+    "summary": "Gordon Lyon, known by the handle 'Fyodor,' wrote and released the Nmap Security Scanner in 1997 and has remained its lead developer for nearly three decades, while also founding Insecure.Org, SecLists.Org, and SecTools.Org \u2014 long-running pieces of infrastructure that the security research community still relies on.",
     "url": "people/gordon-lyon.html"
   },
   {
@@ -585,7 +585,7 @@
       "iris recognition",
       "Germany"
     ],
-    "summary": "Jan Krissler, known by the handle 'Starbug', is a German security researcher and long-time Chaos Computer Club member whose public demonstrations against fingerprint and iris authentication systems — including defeating Apple's Touch ID days after its 2013 launch and reconstructing a German cabinet minister's fingerprint from photographs in 2014 — became landmark illustrations of the fragility of biometric security.",
+    "summary": "Jan Krissler, known by the handle 'Starbug', is a German security researcher and long-time Chaos Computer Club member whose public demonstrations against fingerprint and iris authentication systems \u2014 including defeating Apple's Touch ID days after its 2013 launch and reconstructing a German cabinet minister's fingerprint from photographs in 2014 \u2014 became landmark illustrations of the fragility of biometric security.",
     "url": "people/jan-krissler.html"
   },
   {
@@ -921,7 +921,7 @@
     "id": "mikko-hypponen",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Mikko Hyppönen",
+    "title": "Mikko Hypp\u00f6nen",
     "slug": "mikko-hypponen",
     "era": "1990s-Present",
     "tags": [
@@ -932,7 +932,7 @@
       "antivirus",
       "TED speaker"
     ],
-    "summary": "Mikko Hyppönen is a Finnish computer security researcher who spent over three decades at F-Secure and its successor WithSecure, becoming one of the most publicly recognized voices in malware research and cybersecurity communication, known for tracking down early virus authors and for widely viewed talks on cybercrime.",
+    "summary": "Mikko Hypp\u00f6nen is a Finnish computer security researcher who spent over three decades at F-Secure and its successor WithSecure, becoming one of the most publicly recognized voices in malware research and cybersecurity communication, known for tracking down early virus authors and for widely viewed talks on cybercrime.",
     "url": "people/mikko-hypponen.html"
   },
   {
@@ -1025,7 +1025,7 @@
       "Black Hat",
       "GitHub Security Lab"
     ],
-    "summary": "Nicolas \"Nico\" Waisman is an Argentine security researcher who spent over a decade at Immunity, Inc. — rising to Vice President of Latin America — where he built a reputation as a globally recognized heap-exploitation expert, later contributing to GitHub's Security Lab research team.",
+    "summary": "Nicolas \"Nico\" Waisman is an Argentine security researcher who spent over a decade at Immunity, Inc. \u2014 rising to Vice President of Latin America \u2014 where he built a reputation as a globally recognized heap-exploitation expert, later contributing to GitHub's Security Lab research team.",
     "url": "people/nicolas-waisman.html"
   },
   {
@@ -1124,7 +1124,7 @@
       "patents",
       "chief-technology-officer"
     ],
-    "summary": "Renaud Deraison is a French-born security researcher who created the Nessus vulnerability scanner as a lycée student in 1998 and went on to co-found Tenable Network Security in 2002, serving as the company's chief technology officer through its 2018 Nasdaq IPO before moving into advisory and board roles across the cybersecurity industry.",
+    "summary": "Renaud Deraison is a French-born security researcher who created the Nessus vulnerability scanner as a lyc\u00e9e student in 1998 and went on to co-found Tenable Network Security in 2002, serving as the company's chief technology officer through its 2018 Nasdaq IPO before moving into advisory and board roles across the cybersecurity industry.",
     "url": "people/renaud-deraison.html"
   },
   {
@@ -1469,7 +1469,7 @@
       "vulnerability-research",
       "white-hat"
     ],
-    "summary": "DEVCORE (戴夫寇爾) is a Taipei-based offensive-security firm founded in 2012 as Taiwan's first company to offer red-team exercises, whose research bench — not just Orange Tsai — has produced hundreds of CVEs, the ProxyLogon/ProxyShell Exchange Server disclosures, and repeated Pwn2Own titles.",
+    "summary": "DEVCORE (\u6234\u592b\u5bc7\u723e) is a Taipei-based offensive-security firm founded in 2012 as Taiwan's first company to offer red-team exercises, whose research bench \u2014 not just Orange Tsai \u2014 has produced hundreds of CVEs, the ProxyLogon/ProxyShell Exchange Server disclosures, and repeated Pwn2Own titles.",
     "url": "groups/devcore.html"
   },
   {
@@ -1752,7 +1752,7 @@
       "mobile security",
       "open source"
     ],
-    "summary": "Frida is an open-source, JavaScript-scriptable dynamic instrumentation toolkit created by Norwegian developer Ole André Vadla Ravnås, which lets researchers inject code into running processes on the fly to hook functions and inspect behavior without source code, becoming a foundational tool in mobile app reverse engineering and bug bounty hunting.",
+    "summary": "Frida is an open-source, JavaScript-scriptable dynamic instrumentation toolkit created by Norwegian developer Ole Andr\u00e9 Vadla Ravn\u00e5s, which lets researchers inject code into running processes on the fly to hook functions and inspect behavior without source code, becoming a foundational tool in mobile app reverse engineering and bug bounty hunting.",
     "url": "tools/frida.html"
   },
   {
@@ -2526,7 +2526,7 @@
       "media",
       "documentary"
     ],
-    "summary": "How movies and documentaries like WarGames, Hackers, and The Social Network have shaped the public's perception of hacker culture — for better and for worse.",
+    "summary": "How movies and documentaries like WarGames, Hackers, and The Social Network have shaped the public's perception of hacker culture \u2014 for better and for worse.",
     "url": "fields/hackers-in-film.html"
   },
   {
@@ -2640,7 +2640,7 @@
     "id": "loic-duflot",
     "type": "person",
     "typeLabel": "Person",
-    "title": "Loïc Duflot",
+    "title": "Lo\u00efc Duflot",
     "slug": "loic-duflot",
     "era": "2006-2011 (documented research period)",
     "tags": [
@@ -5288,7 +5288,7 @@
       "penetration testing",
       "ntlm"
     ],
-    "summary": "Responder is an open-source LLMNR, NBT-NS, and mDNS poisoning tool created by Laurent Gaffié that stands up rogue authentication servers to capture NetNTLM hashes and cleartext credentials on local networks.",
+    "summary": "Responder is an open-source LLMNR, NBT-NS, and mDNS poisoning tool created by Laurent Gaffi\u00e9 that stands up rogue authentication servers to capture NetNTLM hashes and cleartext credentials on local networks.",
     "url": "tools/responder-tool.html"
   },
   {
@@ -5307,7 +5307,7 @@
       "diagnostics",
       "reverse-engineering"
     ],
-    "summary": "Sysinternals is a suite of advanced Windows system-internals, diagnostic, and troubleshooting utilities — including Process Explorer, Autoruns, and Process Monitor — originally created by Mark Russinovich and Bryce Cogswell and acquired by Microsoft in 2006.",
+    "summary": "Sysinternals is a suite of advanced Windows system-internals, diagnostic, and troubleshooting utilities \u2014 including Process Explorer, Autoruns, and Process Monitor \u2014 originally created by Mark Russinovich and Bryce Cogswell and acquired by Microsoft in 2006.",
     "url": "tools/sysinternals-suite.html"
   },
   {
@@ -5591,5 +5591,140 @@
     "summary": "Spring4Shell is CVE-2022-22965, a Spring Framework data-binding vulnerability that could enable remote code execution in certain JDK 9+ and Tomcat WAR deployments.",
     "typeLabel": "Vulnerability",
     "url": "vulnerabilities/spring4shell.html"
+  },
+  {
+    "id": "hydra-thc",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "THC-Hydra",
+    "slug": "hydra-thc",
+    "era": "2000s-Present",
+    "tags": [
+      "password-auditing",
+      "network-authentication",
+      "thc",
+      "security-testing"
+    ],
+    "summary": "Fast network login/password-cracking tool maintained by The Hackers Choice.",
+    "url": "tools/hydra-thc.html"
+  },
+  {
+    "id": "veracrypt",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "VeraCrypt",
+    "slug": "veracrypt",
+    "era": "2010s-Present",
+    "tags": [
+      "disk-encryption",
+      "truecrypt",
+      "open-source",
+      "privacy",
+      "cryptography"
+    ],
+    "summary": "Open-source disk-encryption software based on TrueCrypt.",
+    "url": "tools/veracrypt.html"
+  },
+  {
+    "id": "truecrypt",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "TrueCrypt",
+    "slug": "truecrypt",
+    "era": "2004-2014",
+    "tags": [
+      "disk-encryption",
+      "truecrypt",
+      "open-source",
+      "privacy",
+      "cryptography"
+    ],
+    "summary": "Influential disk-encryption software whose development ended abruptly in May 2014.",
+    "url": "tools/truecrypt.html"
+  },
+  {
+    "id": "wpscan",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "WPScan",
+    "slug": "wpscan",
+    "era": "2011-Present",
+    "tags": [
+      "wordpress",
+      "vulnerability-scanner",
+      "web-security",
+      "plugins",
+      "themes"
+    ],
+    "summary": "WordPress vulnerability scanner and vulnerability-database service.",
+    "url": "tools/wpscan.html"
+  },
+  {
+    "id": "bettercap",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "bettercap",
+    "slug": "bettercap",
+    "era": "2010s-Present",
+    "tags": [
+      "network-security",
+      "reconnaissance",
+      "mitm",
+      "wireless",
+      "go"
+    ],
+    "summary": "Open-source network reconnaissance and man-in-the-middle testing framework.",
+    "url": "tools/bettercap.html"
+  },
+  {
+    "id": "gophish",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Gophish",
+    "slug": "gophish",
+    "era": "2010s-Present",
+    "tags": [
+      "phishing-simulation",
+      "security-awareness",
+      "open-source",
+      "training",
+      "go"
+    ],
+    "summary": "Open-source framework for authorized phishing-simulation campaigns.",
+    "url": "tools/gophish.html"
+  },
+  {
+    "id": "social-engineer-toolkit",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "Social-Engineer Toolkit (SET)",
+    "slug": "social-engineer-toolkit",
+    "era": "2000s-Present",
+    "tags": [
+      "social-engineering",
+      "penetration-testing",
+      "trustedsec",
+      "security-awareness",
+      "open-source"
+    ],
+    "summary": "Open-source social-engineering assessment framework maintained by TrustedSec.",
+    "url": "tools/social-engineer-toolkit.html"
+  },
+  {
+    "id": "drozer",
+    "type": "tool",
+    "typeLabel": "Tool",
+    "title": "drozer",
+    "slug": "drozer",
+    "era": "2010s-Present",
+    "tags": [
+      "android-security",
+      "mobile-security",
+      "application-security",
+      "ipc",
+      "open-source"
+    ],
+    "summary": "Open-source Android security assessment framework.",
+    "url": "tools/drozer.html"
   }
 ]

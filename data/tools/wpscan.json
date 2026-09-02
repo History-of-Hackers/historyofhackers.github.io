@@ -1,0 +1,47 @@
+{
+  "id": "wpscan",
+  "type": "tool",
+  "title": "WPScan",
+  "slug": "wpscan",
+  "era": "2011-Present",
+  "tags": [
+    "wordpress",
+    "vulnerability-scanner",
+    "web-security",
+    "plugins",
+    "themes"
+  ],
+  "summary": "WordPress vulnerability scanner and vulnerability-database service.",
+  "whyThisMatters": "The project helped make WordPress-specific vulnerability information and testing workflows more accessible. It illustrates the value of ecosystem-focused security tooling.",
+  "sections": {
+    "overview": "<p>WPScan is a security scanner focused on WordPress installations.</p><h2>Vulnerability data</h2><p>The WPScan API provides vulnerability data for WordPress versions, plugins, and themes.</p><p>The scanner is documented as a black-box tool for security professionals and site maintainers.</p><h2>Role</h2><p>Its WordPress focus reflects the importance of component inventory and timely updates in widely deployed web platforms.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2011",
+      "event": "WPScan is documented as a security tool."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "WPScan API documentation",
+      "url": "https://wpscan.com/docs/api/v3/"
+    },
+    {
+      "title": "WPScan user documentation",
+      "url": "https://github.com/wpscanteam/wpscan/wiki/WPScan-User-Documentation"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

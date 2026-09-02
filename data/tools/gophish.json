@@ -1,0 +1,47 @@
+{
+  "id": "gophish",
+  "type": "tool",
+  "title": "Gophish",
+  "slug": "gophish",
+  "era": "2010s-Present",
+  "tags": [
+    "phishing-simulation",
+    "security-awareness",
+    "open-source",
+    "training",
+    "go"
+  ],
+  "summary": "Open-source framework for authorized phishing-simulation campaigns.",
+  "whyThisMatters": "Gophish gave organizations a self-hosted option for measuring and improving phishing awareness. Its function requires careful authorization, transparent policy, and protection of collected data.",
+  "sections": {
+    "overview": "<p>Gophish is open-source software for authorized phishing simulations.</p><h2>Security awareness</h2><p>Organizations use simulations to measure how staff respond to security-awareness exercises and to improve training.</p><p>The project documentation describes administrative and campaign-server configuration.</p><h2>Responsible use</h2><p>Phishing simulations should have organizational authorization and safeguards for participants and collected information.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2010s",
+      "event": "Gophish is documented as a security tool."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Gophish source repository",
+      "url": "https://github.com/gophish/gophish"
+    },
+    {
+      "title": "Gophish user guide",
+      "url": "https://docs.getgophish.com/user-guide/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

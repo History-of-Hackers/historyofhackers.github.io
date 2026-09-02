@@ -196,6 +196,7 @@
   <url><loc>https://historyofhackers.org/tools/</loc></url>
   <url><loc>https://historyofhackers.org/tools/aircrack-ng.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/angr-binary-analysis.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/bettercap.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/binary-ninja.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/bloodhound.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/burp-suite.html</loc></url>
@@ -203,9 +204,12 @@
   <url><loc>https://historyofhackers.org/tools/cobalt-strike.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/core-impact.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/cuckoo-sandbox.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/drozer.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/frida.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/ghidra.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/gophish.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/hashcat.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/hydra-thc.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/ida-pro.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/impacket.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/john-the-ripper.html</loc></url>
@@ -224,14 +228,18 @@
   <url><loc>https://historyofhackers.org/tools/responder-tool.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/shodan-search-engine.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/snort.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/social-engineer-toolkit.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/sqlmap.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/suricata-ids.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/sysinternals-suite.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/tcpdump.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/theharvester.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/truecrypt.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/veracrypt.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/volatility.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/w3af.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/wireshark-network-analyzer.html</loc></url>
+  <url><loc>https://historyofhackers.org/tools/wpscan.html</loc></url>
   <url><loc>https://historyofhackers.org/tools/yara.html</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/</loc></url>
   <url><loc>https://historyofhackers.org/vulnerabilities/badlock.html</loc></url>

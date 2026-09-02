@@ -1,0 +1,47 @@
+{
+  "id": "bettercap",
+  "type": "tool",
+  "title": "bettercap",
+  "slug": "bettercap",
+  "era": "2010s-Present",
+  "tags": [
+    "network-security",
+    "reconnaissance",
+    "mitm",
+    "wireless",
+    "go"
+  ],
+  "summary": "Open-source network reconnaissance and man-in-the-middle testing framework.",
+  "whyThisMatters": "bettercap consolidated several network-security testing functions in one extensible framework. Because it includes active testing capabilities, it is intended for authorized research and assessment.",
+  "sections": {
+    "overview": "<p>bettercap is an open-source network reconnaissance and security-testing framework.</p><h2>Capabilities</h2><p>The project documents modules for network discovery, wireless environments, Bluetooth Low Energy, and other protocols.</p><p>It also documents man-in-the-middle testing components, which require explicit authorization to use responsibly.</p><h2>Use</h2><p>The framework is maintained as portable Go software and is available for multiple operating systems.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2010s",
+      "event": "bettercap is documented as a security tool."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "bettercap source repository",
+      "url": "https://github.com/bettercap/bettercap"
+    },
+    {
+      "title": "bettercap installation documentation",
+      "url": "https://www.bettercap.org/project/installation/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

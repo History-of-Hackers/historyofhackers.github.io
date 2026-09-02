@@ -1,0 +1,46 @@
+{
+  "id": "hydra-thc",
+  "type": "tool",
+  "title": "THC-Hydra",
+  "slug": "hydra-thc",
+  "era": "2000s-Present",
+  "tags": [
+    "password-auditing",
+    "network-authentication",
+    "thc",
+    "security-testing"
+  ],
+  "summary": "Fast network login/password-cracking tool maintained by The Hackers Choice.",
+  "whyThisMatters": "Hydra represents a longstanding class of tools used to assess the resistance of network authentication services. Its dual-use nature makes authorization and rate controls essential.",
+  "sections": {
+    "overview": "<p>THC-Hydra is an open-source network logon testing tool from The Hackers Choice.</p><h2>Purpose</h2><p>It supports testing authentication against a range of network protocols and services.</p><p>Security teams use such tools to identify weak credentials only in systems they are authorized to assess.</p><h2>Legacy</h2><p>Hydra is widely documented in security-testing distributions and illustrates the defensive value and misuse potential of authentication-auditing software.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2000s",
+      "event": "THC-Hydra is documented as a security tool."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "THC-Hydra source repository",
+      "url": "https://github.com/vanhauser-thc/thc-hydra"
+    },
+    {
+      "title": "Kali Tools: THC Hydra",
+      "url": "https://www.kali.org/tools/hydra/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "social-engineer-toolkit",
+  "type": "tool",
+  "title": "Social-Engineer Toolkit (SET)",
+  "slug": "social-engineer-toolkit",
+  "era": "2000s-Present",
+  "tags": [
+    "social-engineering",
+    "penetration-testing",
+    "trustedsec",
+    "security-awareness",
+    "open-source"
+  ],
+  "summary": "Open-source social-engineering assessment framework maintained by TrustedSec.",
+  "whyThisMatters": "SET helped standardize social-engineering testing workflows in penetration-testing environments. Its capabilities should be used only with explicit scope and consent.",
+  "sections": {
+    "overview": "<p>The Social-Engineer Toolkit is an open-source framework for social-engineering assessments.</p><h2>Project</h2><p>It is maintained by TrustedSec and its user manual identifies David Kennedy as the author.</p><p>The software is used in training and authorized penetration-testing exercises.</p><h2>Ethics</h2><p>Because social engineering involves people as well as systems, engagement rules and informed organizational authorization are essential.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2000s",
+      "event": "Social-Engineer Toolkit (SET) is documented as a security tool."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "SET source repository",
+      "url": "https://github.com/trustedsec/social-engineer-toolkit"
+    },
+    {
+      "title": "SET user manual",
+      "url": "https://raw.githubusercontent.com/trustedsec/social-engineer-toolkit/master/readme/User_Manual.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

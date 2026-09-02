@@ -1,0 +1,47 @@
+{
+  "id": "drozer",
+  "type": "tool",
+  "title": "drozer",
+  "slug": "drozer",
+  "era": "2010s-Present",
+  "tags": [
+    "android-security",
+    "mobile-security",
+    "application-security",
+    "ipc",
+    "open-source"
+  ],
+  "summary": "Open-source Android security assessment framework.",
+  "whyThisMatters": "drozer provided a reusable framework for examining Android application attack surfaces instead of creating one-off test applications. Its revival and Python 3 support show the continuing need for mobile assessment tooling.",
+  "sections": {
+    "overview": "<p>drozer is an open-source Android security assessment framework.</p><h2>Approach</h2><p>The project describes testing applications and devices by assuming the role of an Android application and interacting with IPC endpoints and the operating system.</p><p>This approach supports repeatable assessment of application exposure and platform behavior.</p><h2>Project status</h2><p>Reversec maintains a rewritten Python 3-compatible release and publishes its source and guide.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2010s",
+      "event": "drozer is documented as a security tool."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "drozer source repository",
+      "url": "https://github.com/ReversecLabs/drozer"
+    },
+    {
+      "title": "drozer guide",
+      "url": "https://github.com/ReversecLabs/drozer/blob/develop/documentation/drozer-guide.md"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

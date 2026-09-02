@@ -1,0 +1,47 @@
+{
+  "id": "veracrypt",
+  "type": "tool",
+  "title": "VeraCrypt",
+  "slug": "veracrypt",
+  "era": "2010s-Present",
+  "tags": [
+    "disk-encryption",
+    "truecrypt",
+    "open-source",
+    "privacy",
+    "cryptography"
+  ],
+  "summary": "Open-source disk-encryption software based on TrueCrypt.",
+  "whyThisMatters": "VeraCrypt became a prominent continuation option after TrueCrypt development ended. It has kept disk-encryption implementation and audit questions visible to a broad user community.",
+  "sections": {
+    "overview": "<p>VeraCrypt is disk-encryption software based on TrueCrypt.</p><h2>Design</h2><p>Its documentation describes encrypted volumes, system encryption, keyfiles, and hidden-volume features.</p><p>The project documents support and migration considerations for particular TrueCrypt formats and versions.</p><h2>Role</h2><p>VeraCrypt is one of the best-known community-maintained tools in the post-TrueCrypt disk-encryption landscape.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2010s",
+      "event": "VeraCrypt is documented as a security tool."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "VeraCrypt documentation",
+      "url": "https://veracrypt.io/en/Documentation.html"
+    },
+    {
+      "title": "VeraCrypt source repository",
+      "url": "https://github.com/veracrypt/VeraCrypt"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

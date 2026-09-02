@@ -1,0 +1,47 @@
+{
+  "id": "truecrypt",
+  "type": "tool",
+  "title": "TrueCrypt",
+  "slug": "truecrypt",
+  "era": "2004-2014",
+  "tags": [
+    "disk-encryption",
+    "truecrypt",
+    "open-source",
+    "privacy",
+    "cryptography"
+  ],
+  "summary": "Influential disk-encryption software whose development ended abruptly in May 2014.",
+  "whyThisMatters": "TrueCrypt made full-disk and container encryption accessible to a large cross-platform audience. Its sudden end prompted public audits, archival work, and successor projects including VeraCrypt.",
+  "sections": {
+    "overview": "<p>TrueCrypt was software for creating and maintaining encrypted storage volumes.</p><h2>Operation</h2><p>Its documentation describes on-the-fly encryption, in which data is encrypted before storage and decrypted in memory when read.</p><p>The project ended development in May 2014 and published a warning about potential unfixed security issues.</p><h2>Aftermath</h2><p>The discontinuation led users toward maintained alternatives and prompted further examination of the software and its successors.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2004",
+      "event": "TrueCrypt is documented as a security tool."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "TrueCrypt documentation archive",
+      "url": "https://www.truecrypt.org/docs/"
+    },
+    {
+      "title": "Open Crypto Audit Project: TrueCrypt audit",
+      "url": "https://opencryptoaudit.org/reports/TrueCrypt_Phase_II_NCC_OCAP_final.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}
