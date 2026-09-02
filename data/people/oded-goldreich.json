@@ -1,0 +1,71 @@
+{
+  "id": "oded-goldreich",
+  "type": "person",
+  "title": "Oded Goldreich",
+  "slug": "oded-goldreich",
+  "name": "Oded Goldreich",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "cryptography",
+    "complexity-theory",
+    "zero-knowledge",
+    "academic-research"
+  ],
+  "summary": "Theoretical computer scientist whose research on cryptography, pseudorandomness, proof systems, and complexity has helped establish foundations used in modern security theory.",
+  "whyThisMatters": "Goldreich's work makes explicit the reductions, assumptions, and proof-system concepts behind many modern cryptographic claims.",
+  "knownFor": [
+    "Foundations of Cryptography",
+    "Zero-knowledge proof systems",
+    "Pseudorandomness",
+    "Complexity theory"
+  ],
+  "sections": {
+    "overview": "<p>Oded Goldreich is a theoretical computer scientist at the Weizmann Institute of Science. His research spans foundations of cryptography, randomized computation, proof systems, and computational complexity.</p><h2>Formal foundations</h2><p>Goldreich's writing and research have made foundational cryptographic ideas accessible and precise, including treatments of pseudorandomness and zero knowledge. These concepts are central to protocols that reveal only what a verifier needs to learn.</p><h2>Place in security history</h2><p>His contributions help explain why a scheme should be trusted under stated assumptions rather than merely because it appears difficult to attack.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1980s",
+      "event": "Contributes to foundational work on zero knowledge and pseudorandomness."
+    },
+    {
+      "date": "1994",
+      "event": "Joins the Weizmann Institute faculty."
+    },
+    {
+      "date": "1998",
+      "event": "Publishes the first volume of Foundations of Cryptography."
+    },
+    {
+      "date": "2008",
+      "event": "Publishes Foundations of Cryptography: Basic Applications."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Oded Goldreich curriculum vitae",
+      "url": "https://www.wisdom.weizmann.ac.il/~/oded/cv.html"
+    },
+    {
+      "title": "Weizmann faculty research profile",
+      "url": "https://www.weizmann.ac.il/pages/research-activities-current-research-activities/faculty-mathematics-and-computer-science/computer"
+    },
+    {
+      "title": "Foundations of Cryptography fragments, ECCC",
+      "url": "https://eccc.weizmann.ac.il/static/books/Foundations_of_Cryptography_Fragments_of_a_Book/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

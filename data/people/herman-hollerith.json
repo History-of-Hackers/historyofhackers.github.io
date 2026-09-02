@@ -1,0 +1,75 @@
+{
+  "id": "herman-hollerith",
+  "type": "person",
+  "title": "Herman Hollerith",
+  "slug": "herman-hollerith",
+  "name": "Herman Hollerith",
+  "born": 1860,
+  "died": 1929,
+  "era": "1880s-1929",
+  "tags": [
+    "data-processing",
+    "computing",
+    "punch-cards",
+    "historical-pioneer"
+  ],
+  "summary": "American inventor whose punched-card tabulating systems transformed large-scale data processing and helped establish the business lineage that became IBM.",
+  "whyThisMatters": "Hollerith’s systems made structured data processing operational at institutional scale. They are an early predecessor to the information systems whose access controls, privacy, and integrity are central security concerns today.",
+  "knownFor": [
+    "data-processing",
+    "computing",
+    "punch-cards",
+    "historical-pioneer"
+  ],
+  "sections": {
+    "overview": "<p>Herman Hollerith developed electromechanical tabulating equipment that used punched cards to process U.S. census data. His company later became part of the organization renamed International Business Machines.</p><h2>Data at scale</h2><p>The tabulating system accelerated large administrative calculations and established an enduring relationship between information processing, institutions, and technology.</p><h2>In memoriam</h2><p>Hollerith died in 1929. His inventions remain a key chapter in the pre-electronic history of information processing.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1860-02-29",
+      "event": "Born in Buffalo, New York, United States."
+    },
+    {
+      "date": "1884",
+      "event": "Begins work on punched-card tabulating methods."
+    },
+    {
+      "date": "1890",
+      "event": "Tabulating equipment is used for the U.S. Census."
+    },
+    {
+      "date": "1924",
+      "event": "The Computing-Tabulating-Recording Company is renamed IBM."
+    },
+    {
+      "date": "1929-11-17",
+      "event": "Dies in Washington, D.C., United States."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "IBM: Herman Hollerith",
+      "url": "https://www.ibm.com/history/herman-hollerith"
+    },
+    {
+      "title": "Computer History Museum: Hollerith",
+      "url": "https://www.computerhistory.org/babbage/hollerith/"
+    },
+    {
+      "title": "Encyclopaedia Britannica: Herman Hollerith",
+      "url": "https://www.britannica.com/biography/Herman-Hollerith"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

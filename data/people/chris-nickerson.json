@@ -1,0 +1,67 @@
+{
+  "id": "chris-nickerson",
+  "type": "person",
+  "title": "Chris Nickerson",
+  "slug": "chris-nickerson",
+  "name": "Chris Nickerson",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "red-teaming",
+    "social-engineering",
+    "penetration-testing",
+    "adversary-simulation",
+    "lares"
+  ],
+  "summary": "Security practitioner associated with red-team testing, adversary simulation, and social-engineering assessments.",
+  "whyThisMatters": "Chris Nickerson is included for documented contributions to security research and practice. The cited record situates that work within the development of modern security testing and public technical exchange.",
+  "knownFor": [
+    "red-team testing",
+    "social-engineering assessments",
+    "Lares"
+  ],
+  "sections": {
+    "overview": "<p>Security practitioner associated with red-team testing, adversary simulation, and social-engineering assessments.</p><h2>Research and practice</h2><p>Chris Nickerson has worked in areas including red-teaming, social-engineering, penetration-testing. Public conference material and professional records document this work without treating conference appearances as proof of every claimed result.</p><h2>Contribution</h2><p>The record associated with Chris Nickerson is relevant to the history of red-team testing, social-engineering assessments. It reflects the role of public research, testing, and technical education in security practice.</p><h2>Sources and scope</h2><p>This entry limits its account to the activities documented in the cited primary, conference, and professional sources. Dates in the timeline identify recorded publications, presentations, or career milestones.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2000s",
+      "event": "Leads security consulting work at Lares, as described in his author biography."
+    },
+    {
+      "date": "2009",
+      "event": "Discusses social-engineering assessment methods with Network World."
+    },
+    {
+      "date": "2016",
+      "event": "Presents at Hackfest on adversarial simulation, as recorded by InfoConDB."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "InformIT author profile",
+      "url": "https://www.informit.com/authors/bio/14a93d13-2fc6-4d05-b6a5-8eee0e074802"
+    },
+    {
+      "title": "Network World: social engineering assessment",
+      "url": "https://www.networkworld.com/article/782516/compliance-social-engineering-the-fine-art-of-bs-face-to-face.html"
+    },
+    {
+      "title": "InfoConDB presenter record",
+      "url": "https://infocondb.org/presenter/chris-nickerson"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-e-2026-09-02"
+  }
+}

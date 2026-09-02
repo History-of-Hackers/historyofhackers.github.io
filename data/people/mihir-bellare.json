@@ -1,0 +1,71 @@
+{
+  "id": "mihir-bellare",
+  "type": "person",
+  "title": "Mihir Bellare",
+  "slug": "mihir-bellare",
+  "name": "Mihir Bellare",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "provable-security",
+    "authentication",
+    "academic-research"
+  ],
+  "summary": "Cryptographer known for influential work on provable security, authentication, encryption, and practical cryptographic standards.",
+  "whyThisMatters": "Bellare's work demonstrates how formal security models can guide deployable primitives, including message authentication and encryption schemes used in Internet-facing systems.",
+  "knownFor": [
+    "Provable security",
+    "HMAC",
+    "OAEP",
+    "Random-oracle methodology"
+  ],
+  "sections": {
+    "overview": "<p>Mihir Bellare is a cryptographer and computer-science professor associated with the University of California San Diego. His research focuses on cryptographic definitions, constructions, and proofs with practical relevance.</p><h2>From models to deployed primitives</h2><p>Bellare co-developed HMAC and contributed to OAEP, connecting theoretical analysis with widely used authentication and public-key-encryption building blocks. His work on security models has also shaped the way protocol designers state and evaluate guarantees.</p><h2>Historical significance</h2><p>His career is a useful bridge between academic cryptography and systems that protect network traffic and electronic transactions.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1991",
+      "event": "Completes a Ph.D. in computer science at MIT."
+    },
+    {
+      "date": "1995",
+      "event": "Joins UC San Diego's computer-science faculty."
+    },
+    {
+      "date": "1997",
+      "event": "Co-authors RFC 2104, HMAC: Keyed-Hashing for Message Authentication."
+    },
+    {
+      "date": "2013",
+      "event": "Named an ACM Fellow for contributions to provable security methods."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "UC San Diego faculty profile",
+      "url": "https://jacobs.ucsd.edu/node/3258"
+    },
+    {
+      "title": "Mihir Bellare homepage",
+      "url": "https://cseweb.ucsd.edu/~mihir/"
+    },
+    {
+      "title": "RFC 2104: HMAC",
+      "url": "https://www.rfc-editor.org/rfc/rfc2104"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

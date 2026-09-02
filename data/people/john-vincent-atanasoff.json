@@ -1,0 +1,75 @@
+{
+  "id": "john-vincent-atanasoff",
+  "type": "person",
+  "title": "John Vincent Atanasoff",
+  "slug": "john-vincent-atanasoff",
+  "name": "John Vincent Atanasoff",
+  "born": 1903,
+  "died": 1995,
+  "era": "1930s-1995",
+  "tags": [
+    "computing",
+    "electronics",
+    "mathematics",
+    "historical-pioneer"
+  ],
+  "summary": "American physicist and inventor who, with Clifford Berry, developed the Atanasoff–Berry Computer, an early electronic digital computing system.",
+  "whyThisMatters": "The Atanasoff–Berry Computer is an important example of early electronic digital computation. Its use of binary arithmetic and electronic components helps show the multiple paths that led to modern computing.",
+  "knownFor": [
+    "computing",
+    "electronics",
+    "mathematics",
+    "historical-pioneer"
+  ],
+  "sections": {
+    "overview": "<p>John Vincent Atanasoff worked with graduate student Clifford Berry on an electronic digital machine at Iowa State. The Atanasoff–Berry Computer used electronic logic and binary arithmetic for systems of linear equations.</p><h2>Historical context</h2><p>The ABC was a special-purpose machine rather than a modern general-purpose computer. Its documented design and later historical study nevertheless make it a significant landmark in computing history.</p><h2>In memoriam</h2><p>Atanasoff died in 1995. His work is preserved and interpreted by Iowa State University and computing-history institutions.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1903-10-04",
+      "event": "Born in Hamilton, New York, United States."
+    },
+    {
+      "date": "1939",
+      "event": "Begins designing an electronic digital calculating machine at Iowa State."
+    },
+    {
+      "date": "1942",
+      "event": "ABC work is completed with Clifford Berry."
+    },
+    {
+      "date": "1990",
+      "event": "Receives the U.S. National Medal of Technology."
+    },
+    {
+      "date": "1995-06-15",
+      "event": "Dies in Frederick, Maryland, United States."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Iowa State University: John Atanasoff",
+      "url": "https://www.lib.iastate.edu/abc/atanasoff"
+    },
+    {
+      "title": "Computer History Museum: Atanasoff-Berry Computer",
+      "url": "https://www.computerhistory.org/revolution/birth-of-the-computer/4/76"
+    },
+    {
+      "title": "National Inventors Hall of Fame: John Atanasoff",
+      "url": "https://www.invent.org/inductees/john-vincent-atanasoff"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

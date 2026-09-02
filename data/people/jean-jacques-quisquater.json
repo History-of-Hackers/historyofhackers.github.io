@@ -1,0 +1,71 @@
+{
+  "id": "jean-jacques-quisquater",
+  "type": "person",
+  "title": "Jean-Jacques Quisquater",
+  "slug": "jean-jacques-quisquater",
+  "name": "Jean-Jacques Quisquater",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "cryptography",
+    "smart-cards",
+    "cryptanalysis",
+    "academic-research"
+  ],
+  "summary": "Belgian cryptographer whose research helped advance smart-card security, public-key cryptography, and practical cryptanalysis.",
+  "whyThisMatters": "Quisquater brought cryptographic theory into constrained devices and practical analysis, helping establish smart cards as a major security-engineering domain.",
+  "knownFor": [
+    "Smart-card security",
+    "Public-key cryptography",
+    "DES cryptanalysis",
+    "Side-channel security"
+  ],
+  "sections": {
+    "overview": "<p>Jean-Jacques Quisquater is a Belgian cryptographer associated with the Université catholique de Louvain. His work spans cryptography, smart cards, and practical cryptanalysis.</p><h2>Constrained-device security</h2><p>Smart cards made key storage and cryptographic computation available in devices with limited resources. Quisquater's research helped frame the design and evaluation challenges that follow when cryptography meets physical hardware.</p><h2>Historical importance</h2><p>His research belongs at the intersection of cryptographic design and real-world implementation—where attacks on algorithms, protocols, and devices can meet.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1980s",
+      "event": "Conducts early research in cryptography and computer security."
+    },
+    {
+      "date": "1990",
+      "event": "Co-authors work on cryptanalytic properties of DES."
+    },
+    {
+      "date": "1990s",
+      "event": "Develops research and teaching in smart-card and cryptographic security at UCLouvain."
+    },
+    {
+      "date": "2000",
+      "event": "Co-authors research on practical timing attacks against RSA implementations."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "UCLouvain cryptography and security research",
+      "url": "https://www.uclouvain.be/en/research-institutes/ingi/"
+    },
+    {
+      "title": "Quisquater publications, DBLP",
+      "url": "https://dblp.org/pid/q/JeanJacquesQuisquater.html"
+    },
+    {
+      "title": "Kocher, Jaffe and Jun, Differential Power Analysis",
+      "url": "https://www.cryptography.com/public/pdf/DPA.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

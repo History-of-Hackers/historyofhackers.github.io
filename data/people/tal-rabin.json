@@ -1,0 +1,71 @@
+{
+  "id": "tal-rabin",
+  "type": "person",
+  "title": "Tal Rabin",
+  "slug": "tal-rabin",
+  "name": "Tal Rabin",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "secure-computation",
+    "threshold-cryptography",
+    "academic-research"
+  ],
+  "summary": "Cryptographer known for research on secure distributed computation, threshold techniques, and foundations of modern cryptographic protocols.",
+  "whyThisMatters": "Rabin's work helps make cryptographic systems resilient when trust is distributed: a core concern for key management, secure services, and multi-party protocols.",
+  "knownFor": [
+    "Secure multiparty computation",
+    "Threshold cryptography",
+    "Distributed protocols",
+    "Cryptographic foundations"
+  ],
+  "sections": {
+    "overview": "<p>Tal Rabin is a computer scientist whose research focuses on cryptography, distributed systems, and secure computation. Her work examines how security properties can survive when computation and key material are shared among multiple parties.</p><h2>Distributed trust</h2><p>Threshold and multiparty techniques reduce dependence on a single key holder or service. Rabin's research has contributed to the theory and practice of building such systems with clearly defined adversaries and guarantees.</p><h2>Security history</h2><p>Her work belongs in the history of security engineering because modern infrastructure increasingly relies on distributed custody, fault tolerance, and collaboration without universal trust.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1994",
+      "event": "Co-authors work on randomized Byzantine agreement."
+    },
+    {
+      "date": "1998",
+      "event": "Receives a Ph.D. in computer science from Hebrew University."
+    },
+    {
+      "date": "2000s",
+      "event": "Conducts research on secure distributed computation and threshold cryptography."
+    },
+    {
+      "date": "2018",
+      "event": "Joins the University of Pennsylvania faculty."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Tal Rabin homepage",
+      "url": "https://www.cis.upenn.edu/~talr/"
+    },
+    {
+      "title": "University of Pennsylvania CIS profile",
+      "url": "https://www.cis.upenn.edu/people/tal-rabin/"
+    },
+    {
+      "title": "Tal Rabin publications, DBLP",
+      "url": "https://dblp.org/pid/r/TalRabin.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

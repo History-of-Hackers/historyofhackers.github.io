@@ -1,0 +1,71 @@
+{
+  "id": "stefan-esser",
+  "type": "person",
+  "title": "Stefan Esser",
+  "slug": "stefan-esser",
+  "name": "Stefan Esser",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "php-security",
+    "suhosin",
+    "web-security",
+    "vulnerability-research",
+    "hardened-php"
+  ],
+  "summary": "German security researcher known for PHP security research and for the Hardened-PHP and Suhosin projects.",
+  "whyThisMatters": "Stefan Esser is included for documented contributions to security research and practice. The cited record situates that work within the development of modern security testing and public technical exchange.",
+  "knownFor": [
+    "Hardened-PHP",
+    "Suhosin",
+    "PHP vulnerability research"
+  ],
+  "sections": {
+    "overview": "<p>German security researcher known for PHP security research and for the Hardened-PHP and Suhosin projects.</p><h2>Research and practice</h2><p>Stefan Esser has worked in areas including php-security, suhosin, web-security. Public conference material and professional records document this work without treating conference appearances as proof of every claimed result.</p><h2>Contribution</h2><p>The record associated with Stefan Esser is relevant to the history of hardened-php, suhosin. It reflects the role of public research, testing, and technical education in security practice.</p><h2>Sources and scope</h2><p>This entry limits its account to the activities documented in the cited primary, conference, and professional sources. Dates in the timeline identify recorded publications, presentations, or career milestones.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2002",
+      "event": "Becomes a PHP core developer, according to his Black Hat biography."
+    },
+    {
+      "date": "2004",
+      "event": "Founds the Hardened-PHP Project."
+    },
+    {
+      "date": "2006",
+      "event": "Hardened-PHP work evolves into the Suhosin PHP Security System."
+    },
+    {
+      "date": "2012",
+      "event": "Speaks at Black Hat USA on iOS kernel-heap research."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Black Hat USA 2012 speaker biography",
+      "url": "https://blackhat.com/html/bh-us-12/speakers/Stefan-Esser.html"
+    },
+    {
+      "title": "The Register: PHP security from the inside",
+      "url": "https://www.theregister.com/2007/02/07/stefan_esser_interview/"
+    },
+    {
+      "title": "Suhosin source repository",
+      "url": "https://github.com/sektioneins/suhosin"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-e-2026-09-02"
+  }
+}

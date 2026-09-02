@@ -1,0 +1,71 @@
+{
+  "id": "konrad-zuse",
+  "type": "person",
+  "title": "Konrad Zuse",
+  "slug": "konrad-zuse",
+  "name": "Konrad Zuse",
+  "born": 1910,
+  "died": 1995,
+  "era": "1930s-1995",
+  "tags": [
+    "computing",
+    "engineering",
+    "programming-languages",
+    "historical-pioneer"
+  ],
+  "summary": "German civil engineer and computer pioneer who built programmable calculating machines including the Z3 and created the Plankalkül programming-language design.",
+  "whyThisMatters": "Zuse’s work is part of the independent, wartime-era development of programmable computing. His machines and programming concepts illuminate that computer history has several technical lineages.",
+  "knownFor": [
+    "computing",
+    "engineering",
+    "programming-languages",
+    "historical-pioneer"
+  ],
+  "sections": {
+    "overview": "<p>Konrad Zuse built a sequence of electromechanical and electronic calculating machines in Germany. The Z3 used binary floating-point arithmetic and program control via punched film.</p><h2>Programming ideas</h2><p>His Plankalkül design anticipated features of higher-level programming languages, though it was not implemented at the time. His work is assessed within the constraints and disruptions of wartime Germany.</p><h2>In memoriam</h2><p>Zuse died in 1995. His work remains an important part of the international history of computing.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1910-06-22",
+      "event": "Born in Berlin, Germany."
+    },
+    {
+      "date": "1941",
+      "event": "Completes the Z3 computer."
+    },
+    {
+      "date": "1940s",
+      "event": "Develops the Plankalkül programming-language design."
+    },
+    {
+      "date": "1995-12-18",
+      "event": "Dies in Hünfeld, Germany."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Deutsches Museum: Konrad Zuse",
+      "url": "https://www.deutsches-museum.de/en/research/library/our-digital-offerings/konrad-zuse"
+    },
+    {
+      "title": "Computer History Museum: Konrad Zuse",
+      "url": "https://www.computerhistory.org/revolution/birth-of-the-computer/4/85"
+    },
+    {
+      "title": "Encyclopaedia Britannica: Konrad Zuse",
+      "url": "https://www.britannica.com/biography/Konrad-Zuse"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

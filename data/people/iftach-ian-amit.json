@@ -1,0 +1,67 @@
+{
+  "id": "iftach-ian-amit",
+  "type": "person",
+  "title": "Iftach Ian Amit",
+  "slug": "iftach-ian-amit",
+  "name": "Iftach Ian Amit",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "penetration-testing",
+    "security-research",
+    "dc9723",
+    "ptes",
+    "conference-speaker"
+  ],
+  "summary": "Security researcher and practitioner associated with penetration-testing methodology, community organizing, and conference presentations.",
+  "whyThisMatters": "Iftach Ian Amit is included for documented contributions to security research and practice. The cited record situates that work within the development of modern security testing and public technical exchange.",
+  "knownFor": [
+    "Penetration Testing Execution Standard",
+    "DC9723",
+    "security research"
+  ],
+  "sections": {
+    "overview": "<p>Security researcher and practitioner associated with penetration-testing methodology, community organizing, and conference presentations.</p><h2>Research and practice</h2><p>Iftach Ian Amit has worked in areas including penetration-testing, security-research, dc9723. Public conference material and professional records document this work without treating conference appearances as proof of every claimed result.</p><h2>Contribution</h2><p>The record associated with Iftach Ian Amit is relevant to the history of penetration testing execution standard, dc9723. It reflects the role of public research, testing, and technical education in security practice.</p><h2>Sources and scope</h2><p>This entry limits its account to the activities documented in the cited primary, conference, and professional sources. Dates in the timeline identify recorded publications, presentations, or career milestones.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2000s",
+      "event": "Begins presenting security research at major practitioner conferences."
+    },
+    {
+      "date": "2010",
+      "event": "Contributes to the Penetration Testing Execution Standard community resource."
+    },
+    {
+      "date": "2011",
+      "event": "Appears in Black Hat USA speaker programming."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Black Hat speaker search",
+      "url": "https://www.blackhat.com/html/bh-us-11/bh-us-11-speakers.html"
+    },
+    {
+      "title": "Penetration Testing Execution Standard",
+      "url": "http://www.pentest-standard.org/index.php/Main_Page"
+    },
+    {
+      "title": "RSA Conference expert profile",
+      "url": "https://www.rsaconference.com/experts/iftach%20ian%20amit"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-e-2026-09-02"
+  }
+}

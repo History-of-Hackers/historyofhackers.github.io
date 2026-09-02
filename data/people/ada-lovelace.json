@@ -1,0 +1,67 @@
+{
+  "id": "ada-lovelace",
+  "type": "person",
+  "title": "Ada Lovelace",
+  "slug": "ada-lovelace",
+  "name": "Ada Lovelace",
+  "born": 1815,
+  "died": 1852,
+  "era": "1830s-1852",
+  "tags": [
+    "computing",
+    "programming",
+    "mathematics",
+    "historical-pioneer"
+  ],
+  "summary": "English mathematician whose notes on Charles Babbage’s Analytical Engine include a detailed algorithm and an account of a general-purpose calculating machine.",
+  "whyThisMatters": "Lovelace’s notes framed a machine as something that could manipulate symbols under instructions, a foundational idea for programming. Her work belongs in computing history without overstating what the unfinished Analytical Engine could do.",
+  "knownFor": [
+    "computing",
+    "programming",
+    "mathematics",
+    "historical-pioneer"
+  ],
+  "sections": {
+    "overview": "<p>Augusta Ada King, Countess of Lovelace, worked with Charles Babbage on the Analytical Engine. Her 1843 translation and extensive notes on an Italian account of the engine included a procedure for calculating Bernoulli numbers.</p><h2>Programming as an idea</h2><p>Her notes also considered a distinction between a machine’s operations and the ideas represented by those operations. That conceptual move remains important to the history of software and computing.</p><h2>In memoriam</h2><p>Lovelace died in 1852, aged 36. Her work continues to be studied as part of the early history of programming.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1815-12-10",
+      "event": "Born in London, England."
+    },
+    {
+      "date": "1843",
+      "event": "Publishes notes on the Analytical Engine, including the Bernoulli-number algorithm."
+    },
+    {
+      "date": "1852-11-27",
+      "event": "Dies in London, England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Science Museum: Ada Lovelace",
+      "url": "https://www.sciencemuseum.org.uk/objects-and-stories/ada-lovelace"
+    },
+    {
+      "title": "The Bodleian Libraries: Ada Lovelace",
+      "url": "https://www.bodleian.ox.ac.uk/libraries/weston/whats-on/online-exhibitions/ada-lovelace"
+    },
+    {
+      "title": "Encyclopaedia Britannica: Ada Lovelace",
+      "url": "https://www.britannica.com/biography/Ada-Lovelace"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "edsger-w-dijkstra",
+  "type": "person",
+  "title": "Edsger W. Dijkstra",
+  "slug": "edsger-w-dijkstra",
+  "name": "Edsger W. Dijkstra",
+  "born": 1930,
+  "died": 2002,
+  "era": "1950s-2002",
+  "tags": [
+    "programming",
+    "formal-methods",
+    "algorithms",
+    "computer-science"
+  ],
+  "summary": "Dutch computer scientist whose work on algorithms, structured programming, and disciplined reasoning shaped dependable software engineering.",
+  "whyThisMatters": "Dijkstra treated programming as an intellectual discipline in which clarity and proof matter. That insistence remains directly relevant to building software whose security properties can be understood and maintained.",
+  "knownFor": [
+    "programming",
+    "formal-methods",
+    "algorithms",
+    "computer-science"
+  ],
+  "sections": {
+    "overview": "<p>Edsger W. Dijkstra made foundational contributions to algorithms and programming methodology, including the shortest-path algorithm that bears his name. He also argued forcefully for structured programming and formal reasoning about programs.</p><h2>Reliable systems</h2><p>His essays and lectures connected program construction to correctness. Security engineering inherits this concern: a system cannot reliably enforce a property that its builders cannot state or reason about.</p><h2>In memoriam</h2><p>Dijkstra died in 2002. His papers and lectures continue to influence computer-science education.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1930-05-11",
+      "event": "Born in Rotterdam, Netherlands."
+    },
+    {
+      "date": "1956",
+      "event": "Develops the shortest-path algorithm later named for him."
+    },
+    {
+      "date": "1968",
+      "event": "Publishes “Go To Statement Considered Harmful.”"
+    },
+    {
+      "date": "1972",
+      "event": "Receives the ACM A.M. Turing Award."
+    },
+    {
+      "date": "2002-08-06",
+      "event": "Dies in Nuenen, Netherlands."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "ACM: Edsger W. Dijkstra, 1972 Turing Award",
+      "url": "https://awards.acm.org/turing/award-winners/dijkstra_1053701"
+    },
+    {
+      "title": "University of Texas at Austin: EWD archive",
+      "url": "https://www.cs.utexas.edu/users/EWD/"
+    },
+    {
+      "title": "CWI: Edsger W. Dijkstra",
+      "url": "https://www.cwi.nl/en/people/edsger-w-dijkstra/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

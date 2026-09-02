@@ -1,0 +1,67 @@
+{
+  "id": "david-maynor",
+  "type": "person",
+  "title": "David Maynor",
+  "slug": "david-maynor",
+  "name": "David Maynor",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "wireless-security",
+    "device-drivers",
+    "vulnerability-research",
+    "black-hat",
+    "responsible-disclosure"
+  ],
+  "summary": "Security researcher known for co-presenting research on wireless device-driver vulnerabilities at Black Hat USA in 2006.",
+  "whyThisMatters": "David Maynor is included for documented contributions to security research and practice. The cited record situates that work within the development of modern security testing and public technical exchange.",
+  "knownFor": [
+    "wireless-driver research",
+    "Mac Wi-Fi vulnerability research",
+    "security disclosure"
+  ],
+  "sections": {
+    "overview": "<p>Security researcher known for co-presenting research on wireless device-driver vulnerabilities at Black Hat USA in 2006.</p><h2>Research and practice</h2><p>David Maynor has worked in areas including wireless-security, device-drivers, vulnerability-research. Public conference material and professional records document this work without treating conference appearances as proof of every claimed result.</p><h2>Contribution</h2><p>The record associated with David Maynor is relevant to the history of wireless-driver research, mac wi-fi vulnerability research. It reflects the role of public research, testing, and technical education in security practice.</p><h2>Sources and scope</h2><p>This entry limits its account to the activities documented in the cited primary, conference, and professional sources. Dates in the timeline identify recorded publications, presentations, or career milestones.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2006-08",
+      "event": "Co-presents a Black Hat demonstration concerning wireless device-driver vulnerabilities."
+    },
+    {
+      "date": "2006-09",
+      "event": "Apple publishes fixes for wireless issues amid public discussion of the research."
+    },
+    {
+      "date": "2007-09",
+      "event": "Publishes technical details of the wireless attack in Uninformed, as reported by Macworld and eWeek."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Macworld: Apple Wi-Fi attack details",
+      "url": "https://www.macworld.com/article/187388/wifidetails.html"
+    },
+    {
+      "title": "eWeek: researcher publishes Apple Wi-Fi exploit details",
+      "url": "https://www.eweek.com/security/researcher-publishes-apple-wi-fi-exploit-details/"
+    },
+    {
+      "title": "Black Hat USA 2006 presentation",
+      "url": "https://www.blackhat.com/presentations/bh-usa-06/BH-US-06-Cache.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-e-2026-09-02"
+  }
+}

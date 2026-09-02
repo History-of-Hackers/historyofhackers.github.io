@@ -1,0 +1,71 @@
+{
+  "id": "thomas-dullien",
+  "type": "person",
+  "title": "Thomas Dullien (Halvar Flake)",
+  "slug": "thomas-dullien",
+  "name": "Thomas Dullien (Halvar Flake)",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "reverse-engineering",
+    "binary-analysis",
+    "zynamics",
+    "project-zero",
+    "vulnerability-research"
+  ],
+  "summary": "German computer-security researcher known as Halvar Flake, whose work has focused on reverse engineering, binary analysis, and vulnerability research.",
+  "whyThisMatters": "Thomas Dullien (Halvar Flake) is included for documented contributions to security research and practice. The cited record situates that work within the development of modern security testing and public technical exchange.",
+  "knownFor": [
+    "zynamics",
+    "BinDiff",
+    "binary analysis"
+  ],
+  "sections": {
+    "overview": "<p>German computer-security researcher known as Halvar Flake, whose work has focused on reverse engineering, binary analysis, and vulnerability research.</p><h2>Research and practice</h2><p>Thomas Dullien (Halvar Flake) has worked in areas including reverse-engineering, binary-analysis, zynamics. Public conference material and professional records document this work without treating conference appearances as proof of every claimed result.</p><h2>Contribution</h2><p>The record associated with Thomas Dullien (Halvar Flake) is relevant to the history of zynamics, bindiff. It reflects the role of public research, testing, and technical education in security practice.</p><h2>Sources and scope</h2><p>This entry limits its account to the activities documented in the cited primary, conference, and professional sources. Dates in the timeline identify recorded publications, presentations, or career milestones.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2000",
+      "event": "Presents on auditing binaries for security vulnerabilities at Black Hat Europe."
+    },
+    {
+      "date": "2004",
+      "event": "Founds zynamics, according to his biography."
+    },
+    {
+      "date": "2011",
+      "event": "Google acquires zynamics."
+    },
+    {
+      "date": "2016",
+      "event": "Begins work as a Google Project Zero researcher."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Thomas Dullien: About",
+      "url": "https://thomasdullien.github.io/about/"
+    },
+    {
+      "title": "CNSS biography",
+      "url": "https://cnss.org/en/thomas-dullien/"
+    },
+    {
+      "title": "Black Hat Europe 2000 presentation",
+      "url": "http://www.blackhat.com/presentations/bh-europe-00/HalvarFlake/HalvarFlake.ppt"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-e-2026-09-02"
+  }
+}

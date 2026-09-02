@@ -1,0 +1,71 @@
+{
+  "id": "john-backus",
+  "type": "person",
+  "title": "John Backus",
+  "slug": "john-backus",
+  "name": "John Backus",
+  "born": 1924,
+  "died": 2007,
+  "era": "1950s-2007",
+  "tags": [
+    "programming-languages",
+    "compilers",
+    "computing",
+    "formal-methods"
+  ],
+  "summary": "American computer scientist who led the IBM team that developed FORTRAN and later advanced functional-programming notation.",
+  "whyThisMatters": "Backus helped make high-level languages practical at scale. Compilers and language design remain security-relevant because they shape how developers express, analyze, and constrain program behavior.",
+  "knownFor": [
+    "programming-languages",
+    "compilers",
+    "computing",
+    "formal-methods"
+  ],
+  "sections": {
+    "overview": "<p>John Backus led the IBM project that produced FORTRAN, one of the first widely used high-level programming languages. He later proposed a functional programming approach intended to reduce some complexity of conventional programming.</p><h2>Language as infrastructure</h2><p>FORTRAN’s success established the compiler as a central component of computing. Subsequent language and compiler work has been essential to dependable systems and software assurance.</p><h2>In memoriam</h2><p>Backus died in 2007. His work remains a landmark in the history of programming languages.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1924-12-03",
+      "event": "Born in Philadelphia, Pennsylvania, United States."
+    },
+    {
+      "date": "1954",
+      "event": "Leads IBM work that develops FORTRAN."
+    },
+    {
+      "date": "1977",
+      "event": "Receives the ACM A.M. Turing Award."
+    },
+    {
+      "date": "2007-03-17",
+      "event": "Dies in Ashland, Oregon, United States."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "ACM: John Backus, 1977 Turing Award",
+      "url": "https://awards.acm.org/turing/award-winners/backus_0703524"
+    },
+    {
+      "title": "IBM: FORTRAN history",
+      "url": "https://www.ibm.com/history/fortran"
+    },
+    {
+      "title": "Computer History Museum: John Backus",
+      "url": "https://www.computerhistory.org/collections/catalog/102738027"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

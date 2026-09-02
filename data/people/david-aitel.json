@@ -1,0 +1,67 @@
+{
+  "id": "david-aitel",
+  "type": "person",
+  "title": "Dave Aitel",
+  "slug": "david-aitel",
+  "name": "Dave Aitel",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "offensive-security",
+    "fuzzing",
+    "exploit-development",
+    "immunity",
+    "conference-organizer"
+  ],
+  "summary": "American offensive-security researcher associated with the SPIKE fuzzing framework and the security firm Immunity.",
+  "whyThisMatters": "Dave Aitel is included for documented contributions to security research and practice. The cited record situates that work within the development of modern security testing and public technical exchange.",
+  "knownFor": [
+    "SPIKE fuzzing framework",
+    "Immunity",
+    "offensive-security research"
+  ],
+  "sections": {
+    "overview": "<p>American offensive-security researcher associated with the SPIKE fuzzing framework and the security firm Immunity.</p><h2>Research and practice</h2><p>Dave Aitel has worked in areas including offensive-security, fuzzing, exploit-development. Public conference material and professional records document this work without treating conference appearances as proof of every claimed result.</p><h2>Contribution</h2><p>The record associated with Dave Aitel is relevant to the history of spike fuzzing framework, immunity. It reflects the role of public research, testing, and technical education in security practice.</p><h2>Sources and scope</h2><p>This entry limits its account to the activities documented in the cited primary, conference, and professional sources. Dates in the timeline identify recorded publications, presentations, or career milestones.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2002",
+      "event": "Presents SPIKE, described by Black Hat as a fuzzer-creation kit."
+    },
+    {
+      "date": "2002",
+      "event": "Founds Immunity, according to conference and professional biographies."
+    },
+    {
+      "date": "2015",
+      "event": "Appears in DEF CON 23 programming on regulation of security research."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "RSA Conference: Dave Aitel",
+      "url": "https://www.rsaconference.com/experts/dave-aitel"
+    },
+    {
+      "title": "Black Hat USA 2002 speaker and session record",
+      "url": "https://blackhat.com/html/bh-usa-02/bh-usa-02-speakers.html"
+    },
+    {
+      "title": "CSO Online profile",
+      "url": "https://www.csoonline.com/profile/dave-aitel/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-e-2026-09-02"
+  }
+}

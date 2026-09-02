@@ -1,0 +1,71 @@
+{
+  "id": "howard-h-aiken",
+  "type": "person",
+  "title": "Howard H. Aiken",
+  "slug": "howard-h-aiken",
+  "name": "Howard H. Aiken",
+  "born": 1900,
+  "died": 1973,
+  "era": "1930s-1973",
+  "tags": [
+    "computing",
+    "engineering",
+    "harvard-mark-i",
+    "historical-pioneer"
+  ],
+  "summary": "American computer pioneer who initiated the Harvard Mark I project, an influential large-scale electromechanical automatic calculator.",
+  "whyThisMatters": "Aiken’s Mark I project brought together academic, military, and industrial resources around automatic computation. It supplied an important working environment for early programmers including Grace Hopper.",
+  "knownFor": [
+    "computing",
+    "engineering",
+    "harvard-mark-i",
+    "historical-pioneer"
+  ],
+  "sections": {
+    "overview": "<p>Howard H. Aiken proposed an automatic sequence-controlled calculator while at Harvard. IBM built the resulting Harvard Mark I, which was placed in operation during the Second World War.</p><h2>A working computing project</h2><p>The Mark I was electromechanical and not a stored-program computer, but it demonstrated the organizational and engineering scale of automatic calculation. Its history also includes the work of many operators and programmers.</p><h2>In memoriam</h2><p>Aiken died in 1973. The Mark I remains a prominent landmark in the history of large-scale computing.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1900-03-08",
+      "event": "Born in Hoboken, New Jersey, United States."
+    },
+    {
+      "date": "1937",
+      "event": "Proposes an automatic calculating machine at Harvard."
+    },
+    {
+      "date": "1944",
+      "event": "Harvard Mark I is dedicated."
+    },
+    {
+      "date": "1973-03-14",
+      "event": "Dies in St. Louis, Missouri, United States."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Harvard University: Mark I",
+      "url": "https://www.harvard.edu/about/history/historical-facts/"
+    },
+    {
+      "title": "Computer History Museum: Harvard Mark I",
+      "url": "https://www.computerhistory.org/revolution/birth-of-the-computer/4/78"
+    },
+    {
+      "title": "Encyclopaedia Britannica: Howard Aiken",
+      "url": "https://www.britannica.com/biography/Howard-H-Aiken"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

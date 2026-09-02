@@ -1,0 +1,71 @@
+{
+  "id": "georgi-guninski",
+  "type": "person",
+  "title": "Georgi Guninski",
+  "slug": "georgi-guninski",
+  "name": "Georgi Guninski",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "vulnerability-research",
+    "browser-security",
+    "cryptography",
+    "cve",
+    "full-disclosure"
+  ],
+  "summary": "Bulgarian security researcher and consultant whose public work has documented vulnerabilities in widely deployed software.",
+  "whyThisMatters": "Georgi Guninski is included for documented contributions to security research and practice. The cited record situates that work within the development of modern security testing and public technical exchange.",
+  "knownFor": [
+    "vulnerability advisories",
+    "browser security",
+    "cryptographic software research"
+  ],
+  "sections": {
+    "overview": "<p>Bulgarian security researcher and consultant whose public work has documented vulnerabilities in widely deployed software.</p><h2>Research and practice</h2><p>Georgi Guninski has worked in areas including vulnerability-research, browser-security, cryptography. Public conference material and professional records document this work without treating conference appearances as proof of every claimed result.</p><h2>Contribution</h2><p>The record associated with Georgi Guninski is relevant to the history of vulnerability advisories, browser security. It reflects the role of public research, testing, and technical education in security practice.</p><h2>Sources and scope</h2><p>This entry limits its account to the activities documented in the cited primary, conference, and professional sources. Dates in the timeline identify recorded publications, presentations, or career milestones.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2000",
+      "event": "Publicly documents DLL-hijacking research, as described in his research biography."
+    },
+    {
+      "date": "2006",
+      "event": "Vulnerability databases record disclosures affecting Mozilla Thunderbird."
+    },
+    {
+      "date": "2010",
+      "event": "A CVE record credits research on an OpenSSL issue."
+    },
+    {
+      "date": "2023",
+      "event": "His biography describes continuing work in AI security."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Georgi Guninski: research biography",
+      "url": "https://j.ludost.net/blog/articles/about/index.html"
+    },
+    {
+      "title": "NVD vulnerability search",
+      "url": "https://nvd.nist.gov/vuln/search/results?query=Georgi%20Guninski&search_type=all"
+    },
+    {
+      "title": "PT Security researcher record",
+      "url": "https://dbugs.ptsecurity.com/researchers/Georgi%20Guninski"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-e-2026-09-02"
+  }
+}

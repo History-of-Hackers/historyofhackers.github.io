@@ -1,0 +1,71 @@
+{
+  "id": "moti-yung",
+  "type": "person",
+  "title": "Moti Yung",
+  "slug": "moti-yung",
+  "name": "Moti Yung",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "cryptography",
+    "cryptovirology",
+    "malware-research",
+    "academic-research"
+  ],
+  "summary": "Computer scientist and cryptographer known for work in cryptography, security, distributed systems, and early research on cryptovirology.",
+  "whyThisMatters": "Yung's work helped articulate how cryptographic techniques can be used offensively as well as defensively, a perspective important to malware and ransomware history.",
+  "knownFor": [
+    "Cryptovirology",
+    "Malicious Cryptography",
+    "Distributed cryptography",
+    "Security protocols"
+  ],
+  "sections": {
+    "overview": "<p>Moti Yung is a computer scientist and cryptographer whose work spans cryptography, security, privacy, and distributed systems. He has held academic and industrial research roles, including affiliations with Columbia University and Google.</p><h2>Cryptovirology</h2><p>With Adam Young, Yung developed research describing how public-key cryptography can support malicious goals such as extortion while limiting the victim's ability to recover secrets. Their work is historically relevant to later ransomware discussions.</p><h2>Defensive value</h2><p>Studying such misuse is defensive research: it helps engineers recognize design choices and operational controls needed to resist cryptographically enabled attacks.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1988",
+      "event": "Completes a Ph.D. in computer science at Columbia University."
+    },
+    {
+      "date": "1996",
+      "event": "Co-authors an early cryptovirology paper with Adam Young."
+    },
+    {
+      "date": "2004",
+      "event": "Co-authors the book Malicious Cryptography."
+    },
+    {
+      "date": "2022",
+      "event": "Elected to the American Academy of Arts and Sciences."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Moti Yung homepage",
+      "url": "https://www.cs.columbia.edu/~moti/"
+    },
+    {
+      "title": "Columbia Engineering: Moti Yung elected AAAS Fellow",
+      "url": "https://www.engineering.columbia.edu/about/news/moti-yung-phd-88-named-fellow-academy-arts-and-sciences"
+    },
+    {
+      "title": "Wiley: Malicious Cryptography",
+      "url": "https://www.wiley.com/en-us/Malicious+Cryptography%3A+Exposing+Cryptovirology-p-9780764568461"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

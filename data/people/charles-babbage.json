@@ -1,0 +1,71 @@
+{
+  "id": "charles-babbage",
+  "type": "person",
+  "title": "Charles Babbage",
+  "slug": "charles-babbage",
+  "name": "Charles Babbage",
+  "born": 1791,
+  "died": 1871,
+  "era": "1820s-1871",
+  "tags": [
+    "computing",
+    "engineering",
+    "mathematics",
+    "historical-pioneer"
+  ],
+  "summary": "English mathematician and engineer who designed the Difference Engine and Analytical Engine, influential precursors to programmable computing.",
+  "whyThisMatters": "Babbage’s designs separated calculation mechanisms from instructions and data in ways that informed later accounts of programmable machines. The designs are historical precursors, not working ancestors of every modern computer.",
+  "knownFor": [
+    "computing",
+    "engineering",
+    "mathematics",
+    "historical-pioneer"
+  ],
+  "sections": {
+    "overview": "<p>Charles Babbage proposed mechanical calculating engines to reduce errors in mathematical tables. His later Analytical Engine design included a store, a mill, and instructions expressed through punched cards.</p><h2>From machinery to programs</h2><p>Although the Analytical Engine was not completed in his lifetime, its design helped later historians and engineers explain key concepts of general-purpose computation.</p><h2>In memoriam</h2><p>Babbage died in 1871. Reconstructed portions of his Difference Engine demonstrate the precision of parts of his design.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1791-12-26",
+      "event": "Born in London, England."
+    },
+    {
+      "date": "1822",
+      "event": "Proposes the Difference Engine."
+    },
+    {
+      "date": "1837",
+      "event": "Describes the Analytical Engine."
+    },
+    {
+      "date": "1871-10-18",
+      "event": "Dies in London, England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Science Museum: Charles Babbage",
+      "url": "https://www.sciencemuseum.org.uk/people/charles-babbage"
+    },
+    {
+      "title": "Computer History Museum: Babbage Engine",
+      "url": "https://www.computerhistory.org/babbage/"
+    },
+    {
+      "title": "Encyclopaedia Britannica: Charles Babbage",
+      "url": "https://www.britannica.com/biography/Charles-Babbage"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

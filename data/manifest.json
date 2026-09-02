@@ -8247,5 +8247,497 @@
     ],
     "summary": "British mathematician whose analysis of the German Lorenz cipher made high-level wartime cryptanalysis possible without seeing the machine.",
     "url": "people/william-tutte.html"
+  },
+  {
+    "id": "ada-lovelace",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ada Lovelace",
+    "slug": "ada-lovelace",
+    "era": "1830s-1852",
+    "tags": [
+      "computing",
+      "programming",
+      "mathematics",
+      "historical-pioneer"
+    ],
+    "summary": "English mathematician whose notes on Charles Babbage’s Analytical Engine include a detailed algorithm and an account of a general-purpose calculating machine.",
+    "url": "people/ada-lovelace.html"
+  },
+  {
+    "id": "charles-babbage",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Charles Babbage",
+    "slug": "charles-babbage",
+    "era": "1820s-1871",
+    "tags": [
+      "computing",
+      "engineering",
+      "mathematics",
+      "historical-pioneer"
+    ],
+    "summary": "English mathematician and engineer who designed the Difference Engine and Analytical Engine, influential precursors to programmable computing.",
+    "url": "people/charles-babbage.html"
+  },
+  {
+    "id": "chris-nickerson",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Chris Nickerson",
+    "slug": "chris-nickerson",
+    "era": "2000s-Present",
+    "tags": [
+      "red-teaming",
+      "social-engineering",
+      "penetration-testing",
+      "adversary-simulation",
+      "lares"
+    ],
+    "summary": "Security practitioner associated with red-team testing, adversary simulation, and social-engineering assessments.",
+    "url": "people/chris-nickerson.html"
+  },
+  {
+    "id": "david-aitel",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Dave Aitel",
+    "slug": "david-aitel",
+    "era": "2000s-Present",
+    "tags": [
+      "offensive-security",
+      "fuzzing",
+      "exploit-development",
+      "immunity",
+      "conference-organizer"
+    ],
+    "summary": "American offensive-security researcher associated with the SPIKE fuzzing framework and the security firm Immunity.",
+    "url": "people/david-aitel.html"
+  },
+  {
+    "id": "david-maynor",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "David Maynor",
+    "slug": "david-maynor",
+    "era": "2000s-Present",
+    "tags": [
+      "wireless-security",
+      "device-drivers",
+      "vulnerability-research",
+      "black-hat",
+      "responsible-disclosure"
+    ],
+    "summary": "Security researcher known for co-presenting research on wireless device-driver vulnerabilities at Black Hat USA in 2006.",
+    "url": "people/david-maynor.html"
+  },
+  {
+    "id": "edsger-w-dijkstra",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Edsger W. Dijkstra",
+    "slug": "edsger-w-dijkstra",
+    "era": "1950s-2002",
+    "tags": [
+      "programming",
+      "formal-methods",
+      "algorithms",
+      "computer-science"
+    ],
+    "summary": "Dutch computer scientist whose work on algorithms, structured programming, and disciplined reasoning shaped dependable software engineering.",
+    "url": "people/edsger-w-dijkstra.html"
+  },
+  {
+    "id": "george-boole",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "George Boole",
+    "slug": "george-boole",
+    "era": "1840s-1864",
+    "tags": [
+      "mathematics",
+      "logic",
+      "computing",
+      "foundations"
+    ],
+    "summary": "English mathematician whose algebra of logic became a central mathematical foundation for digital circuits and computation.",
+    "url": "people/george-boole.html"
+  },
+  {
+    "id": "georgi-guninski",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Georgi Guninski",
+    "slug": "georgi-guninski",
+    "era": "1990s-Present",
+    "tags": [
+      "vulnerability-research",
+      "browser-security",
+      "cryptography",
+      "cve",
+      "full-disclosure"
+    ],
+    "summary": "Bulgarian security researcher and consultant whose public work has documented vulnerabilities in widely deployed software.",
+    "url": "people/georgi-guninski.html"
+  },
+  {
+    "id": "grace-murray-hopper",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Grace Murray Hopper",
+    "slug": "grace-murray-hopper",
+    "era": "1940s-1992",
+    "tags": [
+      "programming",
+      "compilers",
+      "computing",
+      "navy",
+      "historical-pioneer"
+    ],
+    "summary": "American mathematician, U.S. Navy rear admiral, and computer scientist known for pioneering compiler work and helping lead COBOL standardization.",
+    "url": "people/grace-murray-hopper.html"
+  },
+  {
+    "id": "herman-hollerith",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Herman Hollerith",
+    "slug": "herman-hollerith",
+    "era": "1880s-1929",
+    "tags": [
+      "data-processing",
+      "computing",
+      "punch-cards",
+      "historical-pioneer"
+    ],
+    "summary": "American inventor whose punched-card tabulating systems transformed large-scale data processing and helped establish the business lineage that became IBM.",
+    "url": "people/herman-hollerith.html"
+  },
+  {
+    "id": "howard-h-aiken",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Howard H. Aiken",
+    "slug": "howard-h-aiken",
+    "era": "1930s-1973",
+    "tags": [
+      "computing",
+      "engineering",
+      "harvard-mark-i",
+      "historical-pioneer"
+    ],
+    "summary": "American computer pioneer who initiated the Harvard Mark I project, an influential large-scale electromechanical automatic calculator.",
+    "url": "people/howard-h-aiken.html"
+  },
+  {
+    "id": "hugo-krawczyk",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Hugo Krawczyk",
+    "slug": "hugo-krawczyk",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "key-derivation",
+      "network-security",
+      "academic-research"
+    ],
+    "summary": "Cryptographer whose work on key derivation, authentication, and secure key exchange has influenced practical Internet security protocols.",
+    "url": "people/hugo-krawczyk.html"
+  },
+  {
+    "id": "iftach-ian-amit",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Iftach Ian Amit",
+    "slug": "iftach-ian-amit",
+    "era": "2000s-Present",
+    "tags": [
+      "penetration-testing",
+      "security-research",
+      "dc9723",
+      "ptes",
+      "conference-speaker"
+    ],
+    "summary": "Security researcher and practitioner associated with penetration-testing methodology, community organizing, and conference presentations.",
+    "url": "people/iftach-ian-amit.html"
+  },
+  {
+    "id": "ilja-van-sprundel",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ilja van Sprundel",
+    "slug": "ilja-van-sprundel",
+    "era": "2000s-Present",
+    "tags": [
+      "penetration-testing",
+      "kernel-security",
+      "fuzzing",
+      "exploit-development",
+      "windows-security"
+    ],
+    "summary": "Security researcher and penetration tester whose work has included low-level kernel assessment, fuzzing, and exploit development.",
+    "url": "people/ilja-van-sprundel.html"
+  },
+  {
+    "id": "jean-jacques-quisquater",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jean-Jacques Quisquater",
+    "slug": "jean-jacques-quisquater",
+    "era": "1980s-Present",
+    "tags": [
+      "cryptography",
+      "smart-cards",
+      "cryptanalysis",
+      "academic-research"
+    ],
+    "summary": "Belgian cryptographer whose research helped advance smart-card security, public-key cryptography, and practical cryptanalysis.",
+    "url": "people/jean-jacques-quisquater.html"
+  },
+  {
+    "id": "john-backus",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John Backus",
+    "slug": "john-backus",
+    "era": "1950s-2007",
+    "tags": [
+      "programming-languages",
+      "compilers",
+      "computing",
+      "formal-methods"
+    ],
+    "summary": "American computer scientist who led the IBM team that developed FORTRAN and later advanced functional-programming notation.",
+    "url": "people/john-backus.html"
+  },
+  {
+    "id": "john-heasman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John Heasman",
+    "slug": "john-heasman",
+    "era": "2000s-Present",
+    "tags": [
+      "firmware-security",
+      "rootkits",
+      "bios",
+      "acpi",
+      "hardware-security"
+    ],
+    "summary": "Security researcher whose conference work examined firmware-resident and ACPI BIOS rootkits.",
+    "url": "people/john-heasman.html"
+  },
+  {
+    "id": "john-vincent-atanasoff",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John Vincent Atanasoff",
+    "slug": "john-vincent-atanasoff",
+    "era": "1930s-1995",
+    "tags": [
+      "computing",
+      "electronics",
+      "mathematics",
+      "historical-pioneer"
+    ],
+    "summary": "American physicist and inventor who, with Clifford Berry, developed the Atanasoff–Berry Computer, an early electronic digital computing system.",
+    "url": "people/john-vincent-atanasoff.html"
+  },
+  {
+    "id": "konrad-zuse",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Konrad Zuse",
+    "slug": "konrad-zuse",
+    "era": "1930s-1995",
+    "tags": [
+      "computing",
+      "engineering",
+      "programming-languages",
+      "historical-pioneer"
+    ],
+    "summary": "German civil engineer and computer pioneer who built programmable calculating machines including the Z3 and created the Plankalkül programming-language design.",
+    "url": "people/konrad-zuse.html"
+  },
+  {
+    "id": "michael-o-rabin",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Michael O. Rabin",
+    "slug": "michael-o-rabin",
+    "era": "1950s-Present",
+    "tags": [
+      "cryptography",
+      "computability",
+      "randomized-algorithms",
+      "academic-research"
+    ],
+    "summary": "Computer scientist and Turing Award recipient whose work in automata theory, randomized algorithms, and cryptography has had long-term influence on security research.",
+    "url": "people/michael-o-rabin.html"
+  },
+  {
+    "id": "mihir-bellare",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Mihir Bellare",
+    "slug": "mihir-bellare",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "provable-security",
+      "authentication",
+      "academic-research"
+    ],
+    "summary": "Cryptographer known for influential work on provable security, authentication, encryption, and practical cryptographic standards.",
+    "url": "people/mihir-bellare.html"
+  },
+  {
+    "id": "moni-naor",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Moni Naor",
+    "slug": "moni-naor",
+    "era": "1980s-Present",
+    "tags": [
+      "cryptography",
+      "complexity-theory",
+      "academic-research",
+      "privacy"
+    ],
+    "summary": "Israeli computer scientist whose work helped define modern cryptography, including visual cryptography, non-malleability, and foundations for abuse-resistant systems.",
+    "url": "people/moni-naor.html"
+  },
+  {
+    "id": "moti-yung",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Moti Yung",
+    "slug": "moti-yung",
+    "era": "1980s-Present",
+    "tags": [
+      "cryptography",
+      "cryptovirology",
+      "malware-research",
+      "academic-research"
+    ],
+    "summary": "Computer scientist and cryptographer known for work in cryptography, security, distributed systems, and early research on cryptovirology.",
+    "url": "people/moti-yung.html"
+  },
+  {
+    "id": "oded-goldreich",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Oded Goldreich",
+    "slug": "oded-goldreich",
+    "era": "1980s-Present",
+    "tags": [
+      "cryptography",
+      "complexity-theory",
+      "zero-knowledge",
+      "academic-research"
+    ],
+    "summary": "Theoretical computer scientist whose research on cryptography, pseudorandomness, proof systems, and complexity has helped establish foundations used in modern security theory.",
+    "url": "people/oded-goldreich.html"
+  },
+  {
+    "id": "phillip-rogaway",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Phillip Rogaway",
+    "slug": "phillip-rogaway",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "applied-cryptography",
+      "privacy",
+      "academic-research",
+      "technology-ethics"
+    ],
+    "summary": "Cryptographer and former UC Davis professor whose work on authenticated encryption and cryptographic practice has influenced both standards and security-engineering debates.",
+    "url": "people/phillip-rogaway.html"
+  },
+  {
+    "id": "rich-mogull",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Rich Mogull",
+    "slug": "rich-mogull",
+    "era": "2000s-Present",
+    "tags": [
+      "cloud-security",
+      "incident-response",
+      "securosis",
+      "black-hat",
+      "security-education"
+    ],
+    "summary": "Cloud-security researcher and educator associated with Securosis, Cloud Security Alliance work, and hands-on cloud-security training.",
+    "url": "people/rich-mogull.html"
+  },
+  {
+    "id": "ronald-cramer",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ronald Cramer",
+    "slug": "ronald-cramer",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "public-key-cryptography",
+      "secure-computation",
+      "academic-research"
+    ],
+    "summary": "Dutch cryptographer whose research covers public-key encryption, secret sharing, secure computation, and mathematical cryptology.",
+    "url": "people/ronald-cramer.html"
+  },
+  {
+    "id": "stefan-esser",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Stefan Esser",
+    "slug": "stefan-esser",
+    "era": "2000s-Present",
+    "tags": [
+      "php-security",
+      "suhosin",
+      "web-security",
+      "vulnerability-research",
+      "hardened-php"
+    ],
+    "summary": "German security researcher known for PHP security research and for the Hardened-PHP and Suhosin projects.",
+    "url": "people/stefan-esser.html"
+  },
+  {
+    "id": "tal-rabin",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Tal Rabin",
+    "slug": "tal-rabin",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "secure-computation",
+      "threshold-cryptography",
+      "academic-research"
+    ],
+    "summary": "Cryptographer known for research on secure distributed computation, threshold techniques, and foundations of modern cryptographic protocols.",
+    "url": "people/tal-rabin.html"
+  },
+  {
+    "id": "thomas-dullien",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Thomas Dullien (Halvar Flake)",
+    "slug": "thomas-dullien",
+    "era": "1990s-Present",
+    "tags": [
+      "reverse-engineering",
+      "binary-analysis",
+      "zynamics",
+      "project-zero",
+      "vulnerability-research"
+    ],
+    "summary": "German computer-security researcher known as Halvar Flake, whose work has focused on reverse engineering, binary analysis, and vulnerability research.",
+    "url": "people/thomas-dullien.html"
   }
 ]

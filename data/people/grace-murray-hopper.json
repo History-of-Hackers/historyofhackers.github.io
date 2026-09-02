@@ -1,0 +1,76 @@
+{
+  "id": "grace-murray-hopper",
+  "type": "person",
+  "title": "Grace Murray Hopper",
+  "slug": "grace-murray-hopper",
+  "name": "Grace Murray Hopper",
+  "born": 1906,
+  "died": 1992,
+  "era": "1940s-1992",
+  "tags": [
+    "programming",
+    "compilers",
+    "computing",
+    "navy",
+    "historical-pioneer"
+  ],
+  "summary": "American mathematician, U.S. Navy rear admiral, and computer scientist known for pioneering compiler work and helping lead COBOL standardization.",
+  "whyThisMatters": "Hopper made programming languages more practical and more accessible to organizations. Her compiler work is foundational to software development, whose quality and maintainability remain prerequisites for secure systems.",
+  "knownFor": [
+    "programming",
+    "compilers",
+    "computing",
+    "navy"
+  ],
+  "sections": {
+    "overview": "<p>Grace Murray Hopper worked on the Harvard Mark I during the Second World War and later helped create early compiler systems. She was a major contributor to the development and promotion of COBOL.</p><h2>From instructions to languages</h2><p>Hopper advocated languages that let people state business and technical operations more directly. Her work helped define how organizations would build and operate software for decades.</p><h2>In memoriam</h2><p>Hopper died in 1992. Her public service and technical work are commemorated across computing and the U.S. Navy.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1906-12-09",
+      "event": "Born in New York City, United States."
+    },
+    {
+      "date": "1944",
+      "event": "Works on the Harvard Mark I computer."
+    },
+    {
+      "date": "1952",
+      "event": "A-0, an early compiler-related system, is completed."
+    },
+    {
+      "date": "1959",
+      "event": "Participates in the CODASYL work that led to COBOL."
+    },
+    {
+      "date": "1992-01-01",
+      "event": "Dies in Arlington, Virginia, United States."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "U.S. Navy: Grace Hopper",
+      "url": "https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/people-by-name/h/grace-murray-hopper.html"
+    },
+    {
+      "title": "Smithsonian: Grace Hopper",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_334630"
+    },
+    {
+      "title": "Computer History Museum: Grace Hopper",
+      "url": "https://www.computerhistory.org/babbage/grace-hopper/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

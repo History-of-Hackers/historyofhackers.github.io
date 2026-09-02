@@ -1,0 +1,72 @@
+{
+  "id": "phillip-rogaway",
+  "type": "person",
+  "title": "Phillip Rogaway",
+  "slug": "phillip-rogaway",
+  "name": "Phillip Rogaway",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "applied-cryptography",
+    "privacy",
+    "academic-research",
+    "technology-ethics"
+  ],
+  "summary": "Cryptographer and former UC Davis professor whose work on authenticated encryption and cryptographic practice has influenced both standards and security-engineering debates.",
+  "whyThisMatters": "Rogaway's research treats cryptography as both a mathematical discipline and a public-interest technology, linking protocol design to the social effects of surveillance and security decisions.",
+  "knownFor": [
+    "Authenticated encryption",
+    "OCB mode",
+    "OAEP",
+    "Cryptography and technology ethics"
+  ],
+  "sections": {
+    "overview": "<p>Phillip Rogaway is a cryptographer who taught at the University of California, Davis from 1994 until his retirement in 2024. His research has focused on rigorous, practical solutions for confidentiality, authentication, and privacy.</p><h2>Applied cryptography</h2><p>Rogaway co-developed important schemes and analyses for authenticated encryption and public-key encryption. His work illustrates why encryption alone is not enough: protocols also need integrity and carefully stated adversary models.</p><h2>Ethics and security</h2><p>He has also written and spoken about the ethical responsibility of cryptographers, especially where technical choices enable mass surveillance or concentrate power.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1991",
+      "event": "Completes a Ph.D. at MIT under Silvio Micali."
+    },
+    {
+      "date": "1994",
+      "event": "Joins UC Davis."
+    },
+    {
+      "date": "2009",
+      "event": "Receives the ACM Paris Kanellakis Award."
+    },
+    {
+      "date": "2024",
+      "event": "Retires from UC Davis as professor emeritus."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "UC Davis faculty directory",
+      "url": "https://cs.ucdavis.edu/directory/phillip-rogaway"
+    },
+    {
+      "title": "Phillip Rogaway homepage",
+      "url": "https://www.cs.ucdavis.edu/~rogaway/"
+    },
+    {
+      "title": "Rogaway CV",
+      "url": "https://www.cs.ucdavis.edu/~rogaway/vita/vita-full.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

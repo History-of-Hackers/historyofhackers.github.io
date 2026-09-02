@@ -1,0 +1,71 @@
+{
+  "id": "moni-naor",
+  "type": "person",
+  "title": "Moni Naor",
+  "slug": "moni-naor",
+  "name": "Moni Naor",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "cryptography",
+    "complexity-theory",
+    "academic-research",
+    "privacy"
+  ],
+  "summary": "Israeli computer scientist whose work helped define modern cryptography, including visual cryptography, non-malleability, and foundations for abuse-resistant systems.",
+  "whyThisMatters": "Naor's research connects formal cryptographic definitions to mechanisms with visible security consequences: confidentiality, integrity, human-verification challenges, and distributed trust.",
+  "knownFor": [
+    "Visual cryptography",
+    "Non-malleable cryptography",
+    "Foundations of cryptography",
+    "CAPTCHA-related early work"
+  ],
+  "sections": {
+    "overview": "<p>Moni Naor is a computer scientist at the Weizmann Institute of Science whose research centers on cryptography and theoretical computer science. His work has examined the assumptions and constructions used to make security claims precise.</p><h2>Cryptographic contributions</h2><p>With Adi Shamir, Naor introduced visual cryptography, a method for sharing an image across transparencies so that the secret becomes visible only when shares are combined. His work with collaborators also helped develop non-malleable cryptography and secure public-key notions.</p><h2>Security history</h2><p>Naor's work matters to security history because it turns informal aims—such as preventing meaningful tampering—into definitions that can be tested and constructions that can be analyzed.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1989",
+      "event": "Completes a Ph.D. at the University of California, Berkeley."
+    },
+    {
+      "date": "1994",
+      "event": "Co-authors the visual-cryptography paper with Adi Shamir."
+    },
+    {
+      "date": "2008",
+      "event": "Named an IACR Fellow."
+    },
+    {
+      "date": "2016",
+      "event": "Receives the ACM Paris Kanellakis Award with collaborators for work on aggregation algorithms."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Moni Naor homepage, Weizmann Institute",
+      "url": "https://www.wisdom.weizmann.ac.il/~naor/"
+    },
+    {
+      "title": "Weizmann profile: Moni Naor",
+      "url": "https://www.wisdom.weizmann.ac.il/profile04/scientists/naor-prof04.html"
+    },
+    {
+      "title": "Naor and Shamir, Visual Cryptography",
+      "url": "https://link.springer.com/chapter/10.1007/3-540-48285-7_43"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

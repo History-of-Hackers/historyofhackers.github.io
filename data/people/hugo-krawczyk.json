@@ -1,0 +1,71 @@
+{
+  "id": "hugo-krawczyk",
+  "type": "person",
+  "title": "Hugo Krawczyk",
+  "slug": "hugo-krawczyk",
+  "name": "Hugo Krawczyk",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "key-derivation",
+    "network-security",
+    "academic-research"
+  ],
+  "summary": "Cryptographer whose work on key derivation, authentication, and secure key exchange has influenced practical Internet security protocols.",
+  "whyThisMatters": "Krawczyk's research addresses a key systems-security question: how cryptographic keys are derived, authenticated, and exchanged without invalidating the guarantees of the algorithms around them.",
+  "knownFor": [
+    "HKDF",
+    "HMAC-based constructions",
+    "Key exchange",
+    "Applied cryptography"
+  ],
+  "sections": {
+    "overview": "<p>Hugo Krawczyk is a cryptographer associated with IBM Research. His work includes key-derivation functions, authentication, secure key exchange, and formal analysis of practical protocols.</p><h2>Protocol building blocks</h2><p>Krawczyk authored the HKDF specification, a widely cited extract-and-expand approach to deriving cryptographic keys. Key derivation is often a quiet but crucial layer between raw shared secrets and protocol keys.</p><h2>Security significance</h2><p>His work helps connect security proofs to protocol components used in deployed network systems, including TLS-related key-exchange research.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1997",
+      "event": "Co-authors work on HMAC and related constructions."
+    },
+    {
+      "date": "2010",
+      "event": "Publishes RFC 5869, HMAC-based Extract-and-Expand Key Derivation Function (HKDF)."
+    },
+    {
+      "date": "2015",
+      "event": "Receives RSA Conference's Award for Excellence in Mathematics."
+    },
+    {
+      "date": "2017",
+      "event": "Named an IBM Fellow."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "IBM Research publications for Hugo Krawczyk",
+      "url": "https://research.ibm.com/publications?source-instance=2640"
+    },
+    {
+      "title": "RFC 5869: HKDF",
+      "url": "https://www.rfc-editor.org/rfc/rfc5869"
+    },
+    {
+      "title": "IBM Research cryptography overview",
+      "url": "https://research.ibm.com/topics/cryptography"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

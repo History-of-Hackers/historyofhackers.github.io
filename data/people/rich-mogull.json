@@ -1,0 +1,71 @@
+{
+  "id": "rich-mogull",
+  "type": "person",
+  "title": "Rich Mogull",
+  "slug": "rich-mogull",
+  "name": "Rich Mogull",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "cloud-security",
+    "incident-response",
+    "securosis",
+    "black-hat",
+    "security-education"
+  ],
+  "summary": "Cloud-security researcher and educator associated with Securosis, Cloud Security Alliance work, and hands-on cloud-security training.",
+  "whyThisMatters": "Rich Mogull is included for documented contributions to security research and practice. The cited record situates that work within the development of modern security testing and public technical exchange.",
+  "knownFor": [
+    "cloud security",
+    "Securosis",
+    "CloudSLAW"
+  ],
+  "sections": {
+    "overview": "<p>Cloud-security researcher and educator associated with Securosis, Cloud Security Alliance work, and hands-on cloud-security training.</p><h2>Research and practice</h2><p>Rich Mogull has worked in areas including cloud-security, incident-response, securosis. Public conference material and professional records document this work without treating conference appearances as proof of every claimed result.</p><h2>Contribution</h2><p>The record associated with Rich Mogull is relevant to the history of cloud security, securosis. It reflects the role of public research, testing, and technical education in security practice.</p><h2>Sources and scope</h2><p>This entry limits its account to the activities documented in the cited primary, conference, and professional sources. Dates in the timeline identify recorded publications, presentations, or career milestones.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2009",
+      "event": "Co-founds Securosis, according to professional biographies."
+    },
+    {
+      "date": "2010s",
+      "event": "Teaches cloud security and incident response at Black Hat for more than a decade."
+    },
+    {
+      "date": "2022",
+      "event": "Joins FireMon following the acquisition of DisruptOps."
+    },
+    {
+      "date": "2020s",
+      "event": "Serves as chief analyst at the Cloud Security Alliance."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "SANS Institute profile",
+      "url": "https://www.sans.org/profiles/rich-mogull"
+    },
+    {
+      "title": "FireMon: Rich Mogull joins the team",
+      "url": "https://www.firemon.com/blog/cloud-security-pioneer-rich-mogull-joins-firemon-team/"
+    },
+    {
+      "title": "Securosis",
+      "url": "https://securosis.com/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-e-2026-09-02"
+  }
+}

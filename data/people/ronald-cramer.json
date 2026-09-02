@@ -1,0 +1,71 @@
+{
+  "id": "ronald-cramer",
+  "type": "person",
+  "title": "Ronald Cramer",
+  "slug": "ronald-cramer",
+  "name": "Ronald Cramer",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "public-key-cryptography",
+    "secure-computation",
+    "academic-research"
+  ],
+  "summary": "Dutch cryptographer whose research covers public-key encryption, secret sharing, secure computation, and mathematical cryptology.",
+  "whyThisMatters": "Cramer's work on public-key encryption and secure computation shows how algebraic theory can yield schemes with stronger, explicitly stated protections against chosen-ciphertext attacks.",
+  "knownFor": [
+    "Cramer-Shoup cryptosystem",
+    "Secret sharing",
+    "Secure multiparty computation",
+    "Cryptology"
+  ],
+  "sections": {
+    "overview": "<p>Ronald Cramer is head of the Cryptology Group at Centrum Wiskunde &amp; Informatica (CWI) and a professor at Leiden University. His research ranges from foundational cryptology to applications of secure computation.</p><h2>Public-key security</h2><p>The Cramer-Shoup encryption system is a landmark construction because it provided an efficient public-key scheme with a formal chosen-ciphertext security proof under standard assumptions.</p><h2>Academic leadership</h2><p>His work and institutional roles have supported research into encryption, digital signatures, secure computation, and post-quantum security questions.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1997",
+      "event": "Completes a Ph.D. at the University of Amsterdam."
+    },
+    {
+      "date": "1998",
+      "event": "Introduces the Cramer-Shoup encryption scheme with Victor Shoup."
+    },
+    {
+      "date": "2004",
+      "event": "Becomes head of CWI's Cryptology Group and professor at Leiden University."
+    },
+    {
+      "date": "2013",
+      "event": "Named an IACR Fellow."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Ronald Cramer homepage",
+      "url": "https://homepages.cwi.nl/~cramer/"
+    },
+    {
+      "title": "CWI Cryptology group",
+      "url": "https://www.cwi.nl/en/research/cryptology/"
+    },
+    {
+      "title": "Cramer and Shoup, A Practical Public Key Cryptosystem Provably Secure against Adaptive Chosen Ciphertext Attack",
+      "url": "https://link.springer.com/chapter/10.1007/3-540-48405-1_4"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

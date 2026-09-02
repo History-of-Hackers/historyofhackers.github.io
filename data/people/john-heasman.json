@@ -1,0 +1,67 @@
+{
+  "id": "john-heasman",
+  "type": "person",
+  "title": "John Heasman",
+  "slug": "john-heasman",
+  "name": "John Heasman",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "firmware-security",
+    "rootkits",
+    "bios",
+    "acpi",
+    "hardware-security"
+  ],
+  "summary": "Security researcher whose conference work examined firmware-resident and ACPI BIOS rootkits.",
+  "whyThisMatters": "John Heasman is included for documented contributions to security research and practice. The cited record situates that work within the development of modern security testing and public technical exchange.",
+  "knownFor": [
+    "ACPI BIOS rootkits",
+    "firmware rootkits",
+    "hardware security research"
+  ],
+  "sections": {
+    "overview": "<p>Security researcher whose conference work examined firmware-resident and ACPI BIOS rootkits.</p><h2>Research and practice</h2><p>John Heasman has worked in areas including firmware-security, rootkits, bios. Public conference material and professional records document this work without treating conference appearances as proof of every claimed result.</p><h2>Contribution</h2><p>The record associated with John Heasman is relevant to the history of acpi bios rootkits, firmware rootkits. It reflects the role of public research, testing, and technical education in security practice.</p><h2>Sources and scope</h2><p>This entry limits its account to the activities documented in the cited primary, conference, and professional sources. Dates in the timeline identify recorded publications, presentations, or career milestones.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2006",
+      "event": "Presents Implementing and Detecting an ACPI BIOS Rootkit at Black Hat Europe."
+    },
+    {
+      "date": "2007",
+      "event": "Black Hat DC program lists research on firmware rootkits and enterprise risk."
+    },
+    {
+      "date": "2011",
+      "event": "Co-teaches a Black Hat training course on real-world security testing."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Black Hat Europe 2006: ACPI BIOS rootkit",
+      "url": "https://www.blackhat.com/presentations/bh-europe-06/bh-eu-06-Heasman.pdf"
+    },
+    {
+      "title": "Black Hat DC 2007 program",
+      "url": "https://www.blackhat.com/html/bh-dc-07/info/bh-dc-07-preview.pdf"
+    },
+    {
+      "title": "Black Hat USA 2011 training listing",
+      "url": "https://www.blackhat.com/docs/bh-us-11/registration/bh-us-11-groupreg.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-e-2026-09-02"
+  }
+}

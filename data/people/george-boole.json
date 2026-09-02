@@ -1,0 +1,71 @@
+{
+  "id": "george-boole",
+  "type": "person",
+  "title": "George Boole",
+  "slug": "george-boole",
+  "name": "George Boole",
+  "born": 1815,
+  "died": 1864,
+  "era": "1840s-1864",
+  "tags": [
+    "mathematics",
+    "logic",
+    "computing",
+    "foundations"
+  ],
+  "summary": "English mathematician whose algebra of logic became a central mathematical foundation for digital circuits and computation.",
+  "whyThisMatters": "Boolean algebra supplied a practical language for reasoning about binary states. It later became indispensable for switching theory, programming, and the design of systems that enforce and evaluate security decisions.",
+  "knownFor": [
+    "mathematics",
+    "logic",
+    "computing",
+    "foundations"
+  ],
+  "sections": {
+    "overview": "<p>George Boole developed an algebraic treatment of logical propositions. His 1854 book <em>An Investigation of the Laws of Thought</em> presented the work now known as Boolean algebra.</p><h2>Lasting technical influence</h2><p>The later connection between Boolean logic and electrical switching made the work central to digital computing. Modern software, hardware, and security-policy logic all depend on related binary operations.</p><h2>In memoriam</h2><p>Boole died in 1864. His ideas outlived the technology of his era and became part of computing’s basic vocabulary.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1815-11-02",
+      "event": "Born in Lincoln, England."
+    },
+    {
+      "date": "1847",
+      "event": "Publishes The Mathematical Analysis of Logic."
+    },
+    {
+      "date": "1854",
+      "event": "Publishes An Investigation of the Laws of Thought."
+    },
+    {
+      "date": "1864-12-08",
+      "event": "Dies in Ballintemple, Ireland."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "MacTutor: George Boole",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boole/"
+    },
+    {
+      "title": "University College Cork: George Boole",
+      "url": "https://www.ucc.ie/en/boole/"
+    },
+    {
+      "title": "Encyclopaedia Britannica: George Boole",
+      "url": "https://www.britannica.com/biography/George-Boole"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "michael-o-rabin",
+  "type": "person",
+  "title": "Michael O. Rabin",
+  "slug": "michael-o-rabin",
+  "name": "Michael O. Rabin",
+  "born": null,
+  "died": null,
+  "era": "1950s-Present",
+  "tags": [
+    "cryptography",
+    "computability",
+    "randomized-algorithms",
+    "academic-research"
+  ],
+  "summary": "Computer scientist and Turing Award recipient whose work in automata theory, randomized algorithms, and cryptography has had long-term influence on security research.",
+  "whyThisMatters": "Rabin helped establish theoretical tools—probabilistic computation, computational models, and public-key cryptographic ideas—that later security research depends on.",
+  "knownFor": [
+    "Turing Award",
+    "Randomized algorithms",
+    "Rabin cryptosystem",
+    "Automata theory"
+  ],
+  "sections": {
+    "overview": "<p>Michael O. Rabin is a theoretical computer scientist whose work spans automata theory, computability, randomized algorithms, and cryptography. He shared the 1976 ACM Turing Award with Dana Scott for foundational work in automata theory.</p><h2>Cryptographic influence</h2><p>Rabin proposed early public-key and probabilistic cryptographic constructions. His work helped show how computational hardness and randomness could be treated as central design resources for security systems.</p><h2>Enduring legacy</h2><p>Rabin's contributions illustrate how foundational computer science often becomes security infrastructure decades later.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1958",
+      "event": "Completes a Ph.D. at Princeton University."
+    },
+    {
+      "date": "1976",
+      "event": "Shares the ACM Turing Award with Dana Scott."
+    },
+    {
+      "date": "1979",
+      "event": "Publishes early work on digitalized signatures and public-key functions."
+    },
+    {
+      "date": "1980",
+      "event": "Publishes a probabilistic encryption construction based on factoring."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "ACM Turing Award: Michael O. Rabin",
+      "url": "https://amturing.acm.org/award_winners/rabin_9681074.cfm"
+    },
+    {
+      "title": "Harvard SEAS profile",
+      "url": "https://www.seas.harvard.edu/person/michael-rabin"
+    },
+    {
+      "title": "Rabin, Digitalized Signatures and Public-Key Functions",
+      "url": "https://people.csail.mit.edu/rivest/pubs/RAB78.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -7,6 +7,7 @@
   <url><loc>https://historyofhackers.org/people/</loc></url>
   <url><loc>https://historyofhackers.org/people/aaron-portnoy.html</loc></url>
   <url><loc>https://historyofhackers.org/people/aaron-swartz.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/ada-lovelace.html</loc></url>
   <url><loc>https://historyofhackers.org/people/adam-laurie.html</loc></url>
   <url><loc>https://historyofhackers.org/people/adi-shamir.html</loc></url>
   <url><loc>https://historyofhackers.org/people/adrian-lamo.html</loc></url>
@@ -42,6 +43,7 @@
   <url><loc>https://historyofhackers.org/people/carl-landwehr.html</loc></url>
   <url><loc>https://historyofhackers.org/people/casey-ellis.html</loc></url>
   <url><loc>https://historyofhackers.org/people/cesar-cerrudo.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/charles-babbage.html</loc></url>
   <url><loc>https://historyofhackers.org/people/charlie-miller.html</loc></url>
   <url><loc>https://historyofhackers.org/people/chelsea-manning.html</loc></url>
   <url><loc>https://historyofhackers.org/people/chenxi-wang.html</loc></url>
@@ -49,6 +51,7 @@
   <url><loc>https://historyofhackers.org/people/chris-evans-project-zero.html</loc></url>
   <url><loc>https://historyofhackers.org/people/chris-goggans-erik-bloodaxe.html</loc></url>
   <url><loc>https://historyofhackers.org/people/chris-hadnagy.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/chris-nickerson.html</loc></url>
   <url><loc>https://historyofhackers.org/people/chris-valasek.html</loc></url>
   <url><loc>https://historyofhackers.org/people/chris-wysopal.html</loc></url>
   <url><loc>https://historyofhackers.org/people/cindy-cohn.html</loc></url>
@@ -68,11 +71,13 @@
   <url><loc>https://historyofhackers.org/people/dan-kaminsky.html</loc></url>
   <url><loc>https://historyofhackers.org/people/daniel-j-bernstein.html</loc></url>
   <url><loc>https://historyofhackers.org/people/dave-aitel.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/david-aitel.html</loc></url>
   <url><loc>https://historyofhackers.org/people/david-chaum.html</loc></url>
   <url><loc>https://historyofhackers.org/people/david-kahn.html</loc></url>
   <url><loc>https://historyofhackers.org/people/david-kernell.html</loc></url>
   <url><loc>https://historyofhackers.org/people/david-l-smith-melissa.html</loc></url>
   <url><loc>https://historyofhackers.org/people/david-litchfield.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/david-maynor.html</loc></url>
   <url><loc>https://historyofhackers.org/people/david-wagner.html</loc></url>
   <url><loc>https://historyofhackers.org/people/dawn-song.html</loc></url>
   <url><loc>https://historyofhackers.org/people/dennis-ritchie.html</loc></url>
@@ -84,6 +89,7 @@
   <url><loc>https://historyofhackers.org/people/dmitry-sklyarov.html</loc></url>
   <url><loc>https://historyofhackers.org/people/donald-davies.html</loc></url>
   <url><loc>https://historyofhackers.org/people/dorothy-denning.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/edsger-w-dijkstra.html</loc></url>
   <url><loc>https://historyofhackers.org/people/edward-snowden.html</loc></url>
   <url><loc>https://historyofhackers.org/people/eli-ladopoulos-acid-phreak.html</loc></url>
   <url><loc>https://historyofhackers.org/people/elias-levy.html</loc></url>
@@ -100,12 +106,15 @@
   <url><loc>https://historyofhackers.org/people/fred-schneider.html</loc></url>
   <url><loc>https://historyofhackers.org/people/gabriella-coleman.html</loc></url>
   <url><loc>https://historyofhackers.org/people/gary-mckinnon.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/george-boole.html</loc></url>
   <url><loc>https://historyofhackers.org/people/george-geohot-hotz.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/georgi-guninski.html</loc></url>
   <url><loc>https://historyofhackers.org/people/gerardo-richarte.html</loc></url>
   <url><loc>https://historyofhackers.org/people/gil-shwed.html</loc></url>
   <url><loc>https://historyofhackers.org/people/giorgio-maone.html</loc></url>
   <url><loc>https://historyofhackers.org/people/gordon-lyon.html</loc></url>
   <url><loc>https://historyofhackers.org/people/gordon-welchman.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/grace-murray-hopper.html</loc></url>
   <url><loc>https://historyofhackers.org/people/graham-cluley.html</loc></url>
   <url><loc>https://historyofhackers.org/people/greg-hoglund.html</loc></url>
   <url><loc>https://historyofhackers.org/people/guang-gong.html</loc></url>
@@ -114,7 +123,12 @@
   <url><loc>https://historyofhackers.org/people/hd-moore.html</loc></url>
   <url><loc>https://historyofhackers.org/people/hector-monsegur.html</loc></url>
   <url><loc>https://historyofhackers.org/people/henryk-zygalski.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/herman-hollerith.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/howard-h-aiken.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/hugo-krawczyk.html</loc></url>
   <url><loc>https://historyofhackers.org/people/ian-beer.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/iftach-ian-amit.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/ilja-van-sprundel.html</loc></url>
   <url><loc>https://historyofhackers.org/people/ivan-arce.html</loc></url>
   <url><loc>https://historyofhackers.org/people/jake-davis-topiary.html</loc></url>
   <url><loc>https://historyofhackers.org/people/jake-williams.html</loc></url>
@@ -127,6 +141,7 @@
   <url><loc>https://historyofhackers.org/people/jane-fawcett.html</loc></url>
   <url><loc>https://historyofhackers.org/people/jayson-e-street.html</loc></url>
   <url><loc>https://historyofhackers.org/people/jcr-licklider.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/jean-jacques-quisquater.html</loc></url>
   <url><loc>https://historyofhackers.org/people/jeff-moss.html</loc></url>
   <url><loc>https://historyofhackers.org/people/jeff-williams-owasp.html</loc></url>
   <url><loc>https://historyofhackers.org/people/jennifer-granick.html</loc></url>
@@ -138,12 +153,15 @@
   <url><loc>https://historyofhackers.org/people/joanna-rutkowska.html</loc></url>
   <url><loc>https://historyofhackers.org/people/joe-engressia.html</loc></url>
   <url><loc>https://historyofhackers.org/people/joe-grand-kingpin.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/john-backus.html</loc></url>
   <url><loc>https://historyofhackers.org/people/john-draper.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/john-heasman.html</loc></url>
   <url><loc>https://historyofhackers.org/people/john-hultquist.html</loc></url>
   <url><loc>https://historyofhackers.org/people/john-markoff.html</loc></url>
   <url><loc>https://historyofhackers.org/people/john-mcafee.html</loc></url>
   <url><loc>https://historyofhackers.org/people/john-mccarthy.html</loc></url>
   <url><loc>https://historyofhackers.org/people/john-mchugh.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/john-vincent-atanasoff.html</loc></url>
   <url><loc>https://historyofhackers.org/people/johnny-long.html</loc></url>
   <url><loc>https://historyofhackers.org/people/jon-lech-johansen-dvd-jon.html</loc></url>
   <url><loc>https://historyofhackers.org/people/joseph-menn.html</loc></url>
@@ -162,6 +180,7 @@
   <url><loc>https://historyofhackers.org/people/kevin-mitnick-complete-history.html</loc></url>
   <url><loc>https://historyofhackers.org/people/kevin-poulsen.html</loc></url>
   <url><loc>https://historyofhackers.org/people/kim-zetter.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/konrad-zuse.html</loc></url>
   <url><loc>https://historyofhackers.org/people/kymberlee-price.html</loc></url>
   <url><loc>https://historyofhackers.org/people/l-jean-camp.html</loc></url>
   <url><loc>https://historyofhackers.org/people/latanya-sweeney.html</loc></url>
@@ -203,8 +222,12 @@
   <url><loc>https://historyofhackers.org/people/max-vision-iceman.html</loc></url>
   <url><loc>https://historyofhackers.org/people/micah-scott-scanlime.html</loc></url>
   <url><loc>https://historyofhackers.org/people/michael-calce-mafiaboy.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/michael-o-rabin.html</loc></url>
   <url><loc>https://historyofhackers.org/people/michal-zalewski.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/mihir-bellare.html</loc></url>
   <url><loc>https://historyofhackers.org/people/mikko-hypponen.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/moni-naor.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/moti-yung.html</loc></url>
   <url><loc>https://historyofhackers.org/people/moxie-marlinspike.html</loc></url>
   <url><loc>https://historyofhackers.org/people/mudge-peiter-zatko.html</loc></url>
   <url><loc>https://historyofhackers.org/people/mustafa-al-bassam.html</loc></url>
@@ -215,6 +238,7 @@
   <url><loc>https://historyofhackers.org/people/nicolas-waisman.html</loc></url>
   <url><loc>https://historyofhackers.org/people/nicole-perlroth.html</loc></url>
   <url><loc>https://historyofhackers.org/people/nir-zuk.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/oded-goldreich.html</loc></url>
   <url><loc>https://historyofhackers.org/people/onel-de-guzman.html</loc></url>
   <url><loc>https://historyofhackers.org/people/orange-tsai.html</loc></url>
   <url><loc>https://historyofhackers.org/people/orin-kerr.html</loc></url>
@@ -236,6 +260,7 @@
   <url><loc>https://historyofhackers.org/people/peter-van-eeckhoutte.html</loc></url>
   <url><loc>https://historyofhackers.org/people/phil-lapsley.html</loc></url>
   <url><loc>https://historyofhackers.org/people/philip-zimmermann.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/phillip-rogaway.html</loc></url>
   <url><loc>https://historyofhackers.org/people/phineas-fisher.html</loc></url>
   <url><loc>https://historyofhackers.org/people/radia-perlman.html</loc></url>
   <url><loc>https://historyofhackers.org/people/rafal-wojtczuk.html</loc></url>
@@ -246,6 +271,7 @@
   <url><loc>https://historyofhackers.org/people/ravi-sandhu.html</loc></url>
   <url><loc>https://historyofhackers.org/people/renaud-deraison.html</loc></url>
   <url><loc>https://historyofhackers.org/people/renee-diresta.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/rich-mogull.html</loc></url>
   <url><loc>https://historyofhackers.org/people/richard-stallman-gnu.html</loc></url>
   <url><loc>https://historyofhackers.org/people/robert-hansen.html</loc></url>
   <url><loc>https://historyofhackers.org/people/robert-morris-sr.html</loc></url>
@@ -254,6 +280,7 @@
   <url><loc>https://historyofhackers.org/people/rodrigo-rubira-branco-bsdaemon.html</loc></url>
   <url><loc>https://historyofhackers.org/people/roger-needham.html</loc></url>
   <url><loc>https://historyofhackers.org/people/ron-rivest.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/ronald-cramer.html</loc></url>
   <url><loc>https://historyofhackers.org/people/rop-gonggrijp.html</loc></url>
   <url><loc>https://historyofhackers.org/people/ross-anderson.html</loc></url>
   <url><loc>https://historyofhackers.org/people/ross-ulbricht.html</loc></url>
@@ -273,6 +300,7 @@
   <url><loc>https://historyofhackers.org/people/skape-matt-miller.html</loc></url>
   <url><loc>https://historyofhackers.org/people/solar-designer.html</loc></url>
   <url><loc>https://historyofhackers.org/people/solomon-kullback.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/stefan-esser.html</loc></url>
   <url><loc>https://historyofhackers.org/people/stefan-savage.html</loc></url>
   <url><loc>https://historyofhackers.org/people/steve-wozniak.html</loc></url>
   <url><loc>https://historyofhackers.org/people/steven-bellovin.html</loc></url>
@@ -284,11 +312,13 @@
   <url><loc>https://historyofhackers.org/people/sven-jaschan.html</loc></url>
   <url><loc>https://historyofhackers.org/people/tadayoshi-kohno.html</loc></url>
   <url><loc>https://historyofhackers.org/people/taher-elgamal.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/tal-rabin.html</loc></url>
   <url><loc>https://historyofhackers.org/people/tavis-ormandy.html</loc></url>
   <url><loc>https://historyofhackers.org/people/taylor-monahan.html</loc></url>
   <url><loc>https://historyofhackers.org/people/the-grugq.html</loc></url>
   <url><loc>https://historyofhackers.org/people/theo-de-raadt.html</loc></url>
   <url><loc>https://historyofhackers.org/people/thomas-drake.html</loc></url>
+  <url><loc>https://historyofhackers.org/people/thomas-dullien.html</loc></url>
   <url><loc>https://historyofhackers.org/people/thomas-rid.html</loc></url>
   <url><loc>https://historyofhackers.org/people/tom-jennings.html</loc></url>
   <url><loc>https://historyofhackers.org/people/tommy-flowers.html</loc></url>

@@ -1,0 +1,67 @@
+{
+  "id": "ilja-van-sprundel",
+  "type": "person",
+  "title": "Ilja van Sprundel",
+  "slug": "ilja-van-sprundel",
+  "name": "Ilja van Sprundel",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "penetration-testing",
+    "kernel-security",
+    "fuzzing",
+    "exploit-development",
+    "windows-security"
+  ],
+  "summary": "Security researcher and penetration tester whose work has included low-level kernel assessment, fuzzing, and exploit development.",
+  "whyThisMatters": "Ilja van Sprundel is included for documented contributions to security research and practice. The cited record situates that work within the development of modern security testing and public technical exchange.",
+  "knownFor": [
+    "kernel security",
+    "penetration testing",
+    "fuzzing"
+  ],
+  "sections": {
+    "overview": "<p>Security researcher and penetration tester whose work has included low-level kernel assessment, fuzzing, and exploit development.</p><h2>Research and practice</h2><p>Ilja van Sprundel has worked in areas including penetration-testing, kernel-security, fuzzing. Public conference material and professional records document this work without treating conference appearances as proof of every claimed result.</p><h2>Contribution</h2><p>The record associated with Ilja van Sprundel is relevant to the history of kernel security, penetration testing. It reflects the role of public research, testing, and technical education in security practice.</p><h2>Sources and scope</h2><p>This entry limits its account to the activities documented in the cited primary, conference, and professional sources. Dates in the timeline identify recorded publications, presentations, or career milestones.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2014",
+      "event": "Speaks at Black Hat USA on the Windows kernel graphics-driver attack surface."
+    },
+    {
+      "date": "2014",
+      "event": "Black Hat biography describes work in customized fuzzing and source-code review."
+    },
+    {
+      "date": "2019",
+      "event": "Continues publishing technical material through IOActive."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Black Hat USA 2014 speaker biography",
+      "url": "https://blackhat.com/us-14/speakers/Ilja-van-Sprundel.html"
+    },
+    {
+      "title": "IOActive: Ilja van Sprundel",
+      "url": "https://ioactive.com/author/ilja-van-sprundel/"
+    },
+    {
+      "title": "Black Hat USA 2014 session listing",
+      "url": "https://blackhat.com/us-14/briefings.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-e-2026-09-02"
+  }
+}
