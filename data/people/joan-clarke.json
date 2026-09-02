@@ -1,0 +1,78 @@
+{
+  "id": "joan-clarke",
+  "type": "person",
+  "title": "Joan Clarke",
+  "slug": "joan-clarke",
+  "name": "Joan Clarke",
+  "born": 1917,
+  "died": 1996,
+  "era": "1930s-1996",
+  "tags": [
+    "cryptanalysis",
+    "Bletchley Park",
+    "Enigma",
+    "women-in-security"
+  ],
+  "summary": "English cryptanalyst who worked in Hut 8 at Bletchley Park during the Second World War and later at GCHQ.",
+  "whyThisMatters": "Clarke’s work demonstrates the mathematical and operational expertise required for wartime cryptanalysis, while her later career shows how much of that history remained obscured by secrecy.",
+  "knownFor": [
+    "Hut 8 cryptanalysis",
+    "Enigma intelligence",
+    "GCHQ service"
+  ],
+  "sections": {
+    "overview": "<p>Joan Clarke was an English mathematician and cryptanalyst recruited to Bletchley Park through Gordon Welchman. She worked in Hut 8, the section associated with German naval Enigma traffic, alongside a wider team of analysts and operators.</p><h2>Cryptanalysis and public record</h2><p>Clarke became one of the comparatively few women assigned cryptanalytic responsibilities at Bletchley Park. After the war, she returned to work for GCHQ. The classified nature of the work limits what can responsibly be attributed to any one participant; institutional histories document her service and significance.</p><h2>In memoriam</h2><p>Clarke died in 1996. Her later recognition has helped correct an historical record that long minimized women’s technical work in British cryptology.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1917-06-24",
+      "event": "Born in London, England."
+    },
+    {
+      "date": "1940",
+      "event": "Recruited to Bletchley Park after completing mathematics studies at Cambridge."
+    },
+    {
+      "date": "1940s",
+      "event": "Works in Hut 8 on German naval Enigma traffic."
+    },
+    {
+      "date": "1962",
+      "event": "Returns to GCHQ."
+    },
+    {
+      "date": "1977",
+      "event": "Formally retires from GCHQ."
+    },
+    {
+      "date": "1996-09-04",
+      "event": "Dies in Oxfordshire, England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "GCHQ: Joan Clarke",
+      "url": "https://www.gchq.gov.uk/information/joan-clarke"
+    },
+    {
+      "title": "English Heritage: Joan Clarke",
+      "url": "https://www.english-heritage.org.uk/visit/blue-plaques/joan-clarke/"
+    },
+    {
+      "title": "MacTutor: Joan Clarke biography",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clarke_Joan/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

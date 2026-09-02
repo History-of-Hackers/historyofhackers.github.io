@@ -1,0 +1,74 @@
+{
+  "id": "radia-perlman",
+  "type": "person",
+  "title": "Radia Perlman",
+  "slug": "radia-perlman",
+  "name": "Radia Perlman",
+  "born": 1951,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "networking",
+    "network-security",
+    "protocol-design",
+    "cryptography"
+  ],
+  "summary": "American computer scientist and network engineer known for spanning-tree protocol work and contributions to network-security education and protocol design.",
+  "whyThisMatters": "Perlman’s work made large bridged networks practical and resilient. Her writing and protocol research also helped make network-security concepts accessible to engineers.",
+  "knownFor": [
+    "Spanning Tree Protocol",
+    "network protocol design",
+    "Network Security textbook"
+  ],
+  "sections": {
+    "overview": "<p>Radia Perlman is a computer scientist and network engineer whose work on the spanning-tree algorithm and protocol design had lasting influence on Ethernet bridging. She has also written widely used material on networking and network security.</p><h2>Networks and security</h2><p>Reliable connectivity is a security concern as well as an operational one: protocols must retain useful behavior under failure and avoid creating dangerous loops or fragile assumptions. Perlman’s work belongs to that foundational systems layer, alongside her contributions to security education and protocol design.</p><h2>Documented influence</h2><p>Historical and professional organizations have recognized Perlman’s role in networking; credit for deployed standards and their evolution belongs to the broader engineering community as well.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1951-12-18",
+      "event": "Born in Portsmouth, Virginia."
+    },
+    {
+      "date": "1970s",
+      "event": "Studies mathematics and computer science at MIT."
+    },
+    {
+      "date": "1980s",
+      "event": "Develops the spanning-tree algorithm for bridged networks."
+    },
+    {
+      "date": "1990s",
+      "event": "Co-authors Network Security: Private Communication in a Public World."
+    },
+    {
+      "date": "2014",
+      "event": "Inducted into the Internet Hall of Fame."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Internet Hall of Fame: Radia Perlman",
+      "url": "https://www.internethalloffame.org/inductee/radia-perlman/"
+    },
+    {
+      "title": "IEEE Computer Society: Radia Perlman",
+      "url": "https://www.computer.org/profiles/radia-perlman"
+    },
+    {
+      "title": "ACM: Radia Perlman",
+      "url": "https://awards.acm.org/award-recipients/perlman_1489272"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "keren-elazari",
+  "type": "person",
+  "title": "Keren Elazari",
+  "slug": "keren-elazari",
+  "name": "Keren Elazari",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "cybersecurity",
+    "vulnerability-research",
+    "hacker-culture",
+    "cyber-policy"
+  ],
+  "summary": "Israeli cybersecurity researcher, analyst and educator whose work and public speaking examine hackers, vulnerability research and the social consequences of security practice.",
+  "whyThisMatters": "Elazari has helped bring a research-informed hacker perspective to public audiences, connecting disclosure, technical curiosity and policy without treating “hacker” as a single or uniformly benign category.",
+  "knownFor": [
+    "cybersecurity research",
+    "hacker culture analysis",
+    "vulnerability disclosure"
+  ],
+  "sections": {
+    "overview": "<p>Keren Elazari is an Israeli cybersecurity researcher and speaker associated with research on cyber conflict, hacker culture and vulnerability research. Her public work argues that independent researchers can expose weaknesses that organizations must address.</p><h2>Research and communication</h2><p>Elazari’s work is significant as translation between technical security communities and wider policy audiences. It should not be read as a blanket endorsement of unauthorized access: responsible research depends on scope, disclosure practices and harm reduction.</p><h2>Academic affiliation</h2><p>Her public profiles identify her with Tel Aviv University’s interdisciplinary cyber-research community and with work as an analyst and educator.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2000s",
+      "event": "Begins public work in cybersecurity research and analysis."
+    },
+    {
+      "date": "2014",
+      "event": "Delivers TED talk “Hackers: the Internet’s immune system.”"
+    },
+    {
+      "date": "2010s",
+      "event": "Works with Tel Aviv University’s cyber-research community."
+    },
+    {
+      "date": "2020s",
+      "event": "Continues cybersecurity research, teaching and public communication."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "TED: Keren Elazari",
+      "url": "https://www.ted.com/speakers/keren_elazari"
+    },
+    {
+      "title": "Tel Aviv University: Keren Elazari",
+      "url": "https://en-cyber.tau.ac.il/profile/kerenelazari"
+    },
+    {
+      "title": "World Economic Forum: Keren Elazari",
+      "url": "https://www.weforum.org/people/keren-elazari/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

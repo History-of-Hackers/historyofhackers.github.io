@@ -1,0 +1,75 @@
+{
+  "id": "latanya-sweeney",
+  "type": "person",
+  "title": "Latanya Sweeney",
+  "slug": "latanya-sweeney",
+  "name": "Latanya Sweeney",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "privacy",
+    "k-anonymity",
+    "algorithmic-fairness",
+    "public-interest-technology"
+  ],
+  "summary": "American computer scientist whose research on re-identification risk, k-anonymity and algorithmic fairness has shaped data-privacy practice and policy.",
+  "whyThisMatters": "Sweeney made privacy failures measurable and intelligible. Her research on re-identification and de-identification remains essential for evaluating whether data releases protect people in practice.",
+  "knownFor": [
+    "k-anonymity",
+    "Data Privacy Lab",
+    "algorithmic fairness",
+    "public-interest technology"
+  ],
+  "sections": {
+    "overview": "<p>Latanya Sweeney is a computer scientist and Harvard scholar who founded the Data Privacy Lab and has researched the risks created when supposedly anonymous records can be linked back to people.</p><h2>Privacy research</h2><p>Her work on k-anonymity and re-identification made clear that removing direct identifiers does not automatically make data safe to publish. She has also studied discriminatory effects in online systems and helped establish public-interest approaches to technology research.</p><h2>Policy relevance</h2><p>Sweeney’s research has informed public discussion of privacy, health data and algorithmic accountability. It is most useful when treated as evidence for context-specific risk assessment rather than as a one-size-fits-all guarantee.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1997",
+      "event": "Publishes early research on data re-identification risk."
+    },
+    {
+      "date": "2001",
+      "event": "Receives a PhD in computer science from MIT."
+    },
+    {
+      "date": "2000s",
+      "event": "Leads Data Privacy Lab research."
+    },
+    {
+      "date": "2014",
+      "event": "Publishes research on discrimination in online ad delivery."
+    },
+    {
+      "date": "2021",
+      "event": "Helps launch Harvard’s Public Interest Tech Lab."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Harvard Kennedy School: Latanya Sweeney",
+      "url": "https://www.hks.harvard.edu/faculty/latanya-sweeney"
+    },
+    {
+      "title": "Harvard Privacy Tools Project: Latanya Sweeney",
+      "url": "https://privacytools.seas.harvard.edu/people/latanya-sweeney"
+    },
+    {
+      "title": "Harvard SEAS: Not so anonymous",
+      "url": "https://seas.harvard.edu/news/not-so-anonymous"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "haya-shulman",
+  "type": "person",
+  "title": "Haya Shulman",
+  "slug": "haya-shulman",
+  "name": "Haya Shulman",
+  "born": null,
+  "died": null,
+  "era": "2010s-Present",
+  "tags": [
+    "DNS-security",
+    "network-security",
+    "internet-measurement",
+    "academic-research"
+  ],
+  "summary": "Computer-security researcher whose work examines DNS, Internet routing and network-security weaknesses from a measurement and systems perspective.",
+  "whyThisMatters": "Shulman’s research addresses security properties of core Internet infrastructure. It helps show why protocol assumptions, resolver behavior and deployment choices can create systemic risk.",
+  "knownFor": [
+    "DNS security",
+    "Internet infrastructure measurement",
+    "network security research"
+  ],
+  "sections": {
+    "overview": "<p>Haya Shulman is a computer-security researcher whose work examines DNS, routing and the security of Internet infrastructure. Her research has addressed vulnerabilities and operational assumptions in systems that users often take for granted.</p><h2>Infrastructure security</h2><p>DNS and routing security are ecosystem problems: improvements depend on software, operators, standards and deployment. Shulman’s research uses technical analysis and measurement to make those dependencies visible and to motivate mitigations.</p><h2>Research context</h2><p>Her academic and institutional profiles document work across network security and Internet measurement, including leadership roles in security research groups.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2010s",
+      "event": "Publishes research on DNS and network-security problems."
+    },
+    {
+      "date": "2019",
+      "event": "Receives public recognition for work on Internet-security research."
+    },
+    {
+      "date": "2020s",
+      "event": "Leads and contributes to research on DNS, routing and infrastructure security."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Fraunhofer SIT: Haya Shulman",
+      "url": "https://www.sit.fraunhofer.de/en/our-institute/team/haya-shulman/"
+    },
+    {
+      "title": "Goethe University: Haya Shulman",
+      "url": "https://www.cs.uni-frankfurt.de/76163457/Haya-Shulman"
+    },
+    {
+      "title": "ACM Digital Library: Haya Shulman author page",
+      "url": "https://dl.acm.org/profile/81100412794"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

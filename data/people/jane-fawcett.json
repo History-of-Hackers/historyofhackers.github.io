@@ -1,0 +1,74 @@
+{
+  "id": "jane-fawcett",
+  "type": "person",
+  "title": "Jane Fawcett",
+  "slug": "jane-fawcett",
+  "name": "Jane Fawcett",
+  "born": 1921,
+  "died": 2016,
+  "era": "1940s-2016",
+  "tags": [
+    "cryptanalysis",
+    "Bletchley Park",
+    "naval intelligence",
+    "women-in-security"
+  ],
+  "summary": "English Bletchley Park codebreaker and later architectural conservationist, known for work handling decrypted naval messages during the Second World War.",
+  "whyThisMatters": "Fawcett’s story connects wartime communications intelligence with the large, often uncredited workforce that made cryptanalytic output usable to decision-makers.",
+  "knownFor": [
+    "Bletchley Park codebreaking",
+    "Naval intelligence reporting",
+    "Architectural conservation"
+  ],
+  "sections": {
+    "overview": "<p>Jane Fawcett joined Bletchley Park as a teenager during the Second World War. In Hut 6 she worked with decrypted German messages, an operational role within the larger Allied intelligence process.</p><h2>Historical significance</h2><p>Published accounts connect Fawcett with the handling of a message that helped identify the location of the battleship Bismarck. The broader intelligence outcome relied on many stages of interception, decryption, analysis and naval action; this page therefore credits the collective system as well as her documented service.</p><h2>In memoriam</h2><p>Fawcett died in 2016. Her legacy also includes decades of work in architectural conservation.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1921-05-04",
+      "event": "Born in England."
+    },
+    {
+      "date": "1940",
+      "event": "Joins Bletchley Park."
+    },
+    {
+      "date": "1941",
+      "event": "Works in the process that handled decrypted reporting concerning Bismarck."
+    },
+    {
+      "date": "1945",
+      "event": "Leaves Bletchley Park after the war."
+    },
+    {
+      "date": "2016-05-21",
+      "event": "Dies in England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bletchley Park oral-history record: Jane Fawcett",
+      "url": "https://bletchleypark.org.uk/wp-content/uploads/record_attachments/2223.pdf"
+    },
+    {
+      "title": "The Guardian: Jane Fawcett obituary",
+      "url": "https://www.theguardian.com/world/2016/may/30/jane-fawcett-obituary"
+    },
+    {
+      "title": "TIME: Jane Fawcett and the Codebreakers",
+      "url": "https://time.com/5793498/jane-fawcett-codebreakers-100-women-of-the-year/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

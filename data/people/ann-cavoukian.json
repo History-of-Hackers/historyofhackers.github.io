@@ -1,0 +1,74 @@
+{
+  "id": "ann-cavoukian",
+  "type": "person",
+  "title": "Ann Cavoukian",
+  "slug": "ann-cavoukian",
+  "name": "Ann Cavoukian",
+  "born": 1952,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "privacy",
+    "privacy-by-design",
+    "policy",
+    "information-security"
+  ],
+  "summary": "Canadian privacy scholar and former Information and Privacy Commissioner of Ontario known for developing and promoting Privacy by Design.",
+  "whyThisMatters": "Cavoukian’s work made privacy an engineering and governance concern to be considered early in system design, not only after a breach or regulatory dispute.",
+  "knownFor": [
+    "Privacy by Design",
+    "privacy regulation",
+    "information policy"
+  ],
+  "sections": {
+    "overview": "<p>Ann Cavoukian is a Canadian privacy scholar who served as Information and Privacy Commissioner of Ontario and developed the Privacy by Design framework. The framework argues that privacy should be built into systems and organizational practices from the outset.</p><h2>Privacy by Design</h2><p>Privacy by Design has influenced policy and engineering conversations internationally. It is a set of principles, not a technical guarantee: implementation still requires threat modeling, data minimization, security controls and meaningful accountability.</p><h2>Public service and scholarship</h2><p>Cavoukian’s commissioner work and subsequent academic roles made her a prominent voice on privacy engineering, governance and the relationship between technology and civil liberties.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1952-03-29",
+      "event": "Born in Cairo, Egypt."
+    },
+    {
+      "date": "1997",
+      "event": "Begins service as Information and Privacy Commissioner of Ontario."
+    },
+    {
+      "date": "2009",
+      "event": "Privacy by Design is recognized in an international privacy-resolution context."
+    },
+    {
+      "date": "2014",
+      "event": "Completes her term as Ontario commissioner."
+    },
+    {
+      "date": "2010s",
+      "event": "Continues research and advocacy on privacy engineering and policy."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Ryerson University: Ann Cavoukian",
+      "url": "https://www.torontomu.ca/tedrogersschool/privacy/ann-cavoukian/"
+    },
+    {
+      "title": "Information and Privacy Commissioner of Ontario: Privacy by Design",
+      "url": "https://www.ipc.on.ca/en/privacy-by-design"
+    },
+    {
+      "title": "International Association of Privacy Professionals: Ann Cavoukian",
+      "url": "https://iapp.org/about/person/ann-cavoukian/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

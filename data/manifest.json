@@ -7277,5 +7277,165 @@
     ],
     "summary": "American computer engineer and RAND researcher who chaired the 1970 study on security controls for computer systems commonly called the Ware Report.",
     "url": "people/willis-ware.html"
+  },
+  {
+    "id": "joan-clarke",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Joan Clarke",
+    "slug": "joan-clarke",
+    "era": "1930s-1996",
+    "tags": [
+      "cryptanalysis",
+      "Bletchley Park",
+      "Enigma",
+      "women-in-security"
+    ],
+    "summary": "English cryptanalyst who worked in Hut 8 at Bletchley Park during the Second World War and later at GCHQ.",
+    "url": "people/joan-clarke.html"
+  },
+  {
+    "id": "mavis-batey",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Mavis Batey",
+    "slug": "mavis-batey",
+    "era": "1940s-2013",
+    "tags": [
+      "cryptanalysis",
+      "Bletchley Park",
+      "Enigma",
+      "women-in-security"
+    ],
+    "summary": "English codebreaker who worked on Italian and German Enigma systems at Bletchley Park during the Second World War.",
+    "url": "people/mavis-batey.html"
+  },
+  {
+    "id": "jane-fawcett",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jane Fawcett",
+    "slug": "jane-fawcett",
+    "era": "1940s-2016",
+    "tags": [
+      "cryptanalysis",
+      "Bletchley Park",
+      "naval intelligence",
+      "women-in-security"
+    ],
+    "summary": "English Bletchley Park codebreaker and later architectural conservationist, known for work handling decrypted naval messages during the Second World War.",
+    "url": "people/jane-fawcett.html"
+  },
+  {
+    "id": "barbara-liskov",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Barbara Liskov",
+    "slug": "barbara-liskov",
+    "era": "1960s-Present",
+    "tags": [
+      "distributed-systems",
+      "fault-tolerance",
+      "programming-languages",
+      "security-engineering"
+    ],
+    "summary": "American computer scientist whose work on data abstraction, distributed systems and Byzantine fault tolerance has shaped dependable and security-relevant system design.",
+    "url": "people/barbara-liskov.html"
+  },
+  {
+    "id": "radia-perlman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Radia Perlman",
+    "slug": "radia-perlman",
+    "era": "1970s-Present",
+    "tags": [
+      "networking",
+      "network-security",
+      "protocol-design",
+      "cryptography"
+    ],
+    "summary": "American computer scientist and network engineer known for spanning-tree protocol work and contributions to network-security education and protocol design.",
+    "url": "people/radia-perlman.html"
+  },
+  {
+    "id": "latanya-sweeney",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Latanya Sweeney",
+    "slug": "latanya-sweeney",
+    "era": "1990s-Present",
+    "tags": [
+      "privacy",
+      "k-anonymity",
+      "algorithmic-fairness",
+      "public-interest-technology"
+    ],
+    "summary": "American computer scientist whose research on re-identification risk, k-anonymity and algorithmic fairness has shaped data-privacy practice and policy.",
+    "url": "people/latanya-sweeney.html"
+  },
+  {
+    "id": "keren-elazari",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Keren Elazari",
+    "slug": "keren-elazari",
+    "era": "2000s-Present",
+    "tags": [
+      "cybersecurity",
+      "vulnerability-research",
+      "hacker-culture",
+      "cyber-policy"
+    ],
+    "summary": "Israeli cybersecurity researcher, analyst and educator whose work and public speaking examine hackers, vulnerability research and the social consequences of security practice.",
+    "url": "people/keren-elazari.html"
+  },
+  {
+    "id": "maddie-stone",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Maddie Stone",
+    "slug": "maddie-stone",
+    "era": "2010s-Present",
+    "tags": [
+      "vulnerability-research",
+      "mobile-security",
+      "browser-security",
+      "Project Zero"
+    ],
+    "summary": "Security researcher known for public vulnerability research and for work on Google’s Project Zero, including mobile and browser security.",
+    "url": "people/maddie-stone.html"
+  },
+  {
+    "id": "haya-shulman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Haya Shulman",
+    "slug": "haya-shulman",
+    "era": "2010s-Present",
+    "tags": [
+      "DNS-security",
+      "network-security",
+      "internet-measurement",
+      "academic-research"
+    ],
+    "summary": "Computer-security researcher whose work examines DNS, Internet routing and network-security weaknesses from a measurement and systems perspective.",
+    "url": "people/haya-shulman.html"
+  },
+  {
+    "id": "ann-cavoukian",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ann Cavoukian",
+    "slug": "ann-cavoukian",
+    "era": "1980s-Present",
+    "tags": [
+      "privacy",
+      "privacy-by-design",
+      "policy",
+      "information-security"
+    ],
+    "summary": "Canadian privacy scholar and former Information and Privacy Commissioner of Ontario known for developing and promoting Privacy by Design.",
+    "url": "people/ann-cavoukian.html"
   }
 ]

@@ -1,0 +1,74 @@
+{
+  "id": "mavis-batey",
+  "type": "person",
+  "title": "Mavis Batey",
+  "slug": "mavis-batey",
+  "name": "Mavis Batey",
+  "born": 1921,
+  "died": 2013,
+  "era": "1940s-2013",
+  "tags": [
+    "cryptanalysis",
+    "Bletchley Park",
+    "Enigma",
+    "women-in-security"
+  ],
+  "summary": "English codebreaker who worked on Italian and German Enigma systems at Bletchley Park during the Second World War.",
+  "whyThisMatters": "Batey’s documented work illustrates the linguistic, analytical and collaborative dimensions of cryptanalysis, and her later work preserved historical landscapes and the memory of wartime service.",
+  "knownFor": [
+    "Bletchley Park codebreaking",
+    "Italian and German Enigma work",
+    "Garden-history scholarship"
+  ],
+  "sections": {
+    "overview": "<p>Mavis Batey, born Mavis Lever, was recruited to the Government Code and Cypher School while studying German at University College London. At Bletchley Park she worked in Dilly Knox’s team on Italian and German Enigma systems.</p><h2>Wartime analysis</h2><p>Accounts by UCL and other historical sources describe her contributions to breaking Italian Enigma traffic and Abwehr Enigma work connected with Allied deception before D-Day. Such achievements were team efforts, and the surviving record should be read in that collaborative context.</p><h2>In memoriam</h2><p>Batey died in 2013. She is remembered both for cryptologic service and for later scholarship and advocacy in garden history and conservation.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1921-05-05",
+      "event": "Born in London, England."
+    },
+    {
+      "date": "1940",
+      "event": "Recruited to the Government Code and Cypher School."
+    },
+    {
+      "date": "1941",
+      "event": "Works at Bletchley Park on Italian Enigma traffic."
+    },
+    {
+      "date": "1944",
+      "event": "Contributes to work on German Abwehr Enigma."
+    },
+    {
+      "date": "2013-11-12",
+      "event": "Dies in England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "UCL: Mavis Batey",
+      "url": "https://www.ucl.ac.uk/about/search-faces-ucl/breaking-bletchley-mavis-batey-student-codebreaker"
+    },
+    {
+      "title": "Oxford Dictionary of National Biography: Mavis Batey",
+      "url": "https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-108264"
+    },
+    {
+      "title": "Hampshire Gardens Trust: Mavis Batey",
+      "url": "https://www.hgt.org.uk/about/hutton-library/mavis-batey/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

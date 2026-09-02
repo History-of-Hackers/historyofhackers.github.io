@@ -1,0 +1,79 @@
+{
+  "id": "barbara-liskov",
+  "type": "person",
+  "title": "Barbara Liskov",
+  "slug": "barbara-liskov",
+  "name": "Barbara Liskov",
+  "born": 1939,
+  "died": null,
+  "era": "1960s-Present",
+  "tags": [
+    "distributed-systems",
+    "fault-tolerance",
+    "programming-languages",
+    "security-engineering"
+  ],
+  "summary": "American computer scientist whose work on data abstraction, distributed systems and Byzantine fault tolerance has shaped dependable and security-relevant system design.",
+  "whyThisMatters": "Liskov’s work provides foundations for making complex software more reliable: abstraction, distributed programming and fault-tolerant replication are central ideas in modern secure systems engineering.",
+  "knownFor": [
+    "CLU",
+    "Argus",
+    "Practical Byzantine fault tolerance",
+    "Liskov substitution principle"
+  ],
+  "sections": {
+    "overview": "<p>Barbara Liskov is an MIT computer scientist whose research spans programming methodology, languages and distributed systems. Her projects include CLU, Argus and later work on Byzantine-fault-tolerant storage.</p><h2>Dependable systems</h2><p>Her research helped establish ways to reason about data abstraction and behavior in programs, and it advanced mechanisms for distributed systems that continue functioning despite faults or malicious participants. These ideas have enduring relevance to security engineering, though they are not a substitute for complete security design.</p><h2>Recognition</h2><p>Liskov received the ACM A.M. Turing Award for practical and theoretical contributions to programming-language and system design.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1939-11-07",
+      "event": "Born in Los Angeles, California."
+    },
+    {
+      "date": "1968",
+      "event": "Completes a Stanford computer-science doctorate."
+    },
+    {
+      "date": "1972",
+      "event": "Joins MIT."
+    },
+    {
+      "date": "1970s",
+      "event": "Leads development of CLU and later Argus."
+    },
+    {
+      "date": "1999",
+      "event": "Co-authors Practical Byzantine Fault Tolerance research."
+    },
+    {
+      "date": "2008",
+      "event": "Receives the ACM A.M. Turing Award."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "MIT CSAIL: Barbara Liskov",
+      "url": "https://www.csail.mit.edu/person/barbara-liskov"
+    },
+    {
+      "title": "Computer History Museum: Barbara Liskov",
+      "url": "https://computerhistory.org/profile/barbara-liskov/"
+    },
+    {
+      "title": "National Inventors Hall of Fame: Barbara Liskov",
+      "url": "https://www.invent.org/inductees/barbara-liskov"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "maddie-stone",
+  "type": "person",
+  "title": "Maddie Stone",
+  "slug": "maddie-stone",
+  "name": "Maddie Stone",
+  "born": null,
+  "died": null,
+  "era": "2010s-Present",
+  "tags": [
+    "vulnerability-research",
+    "mobile-security",
+    "browser-security",
+    "Project Zero"
+  ],
+  "summary": "Security researcher known for public vulnerability research and for work on Google’s Project Zero, including mobile and browser security.",
+  "whyThisMatters": "Stone’s published work illustrates how carefully documented vulnerability research can move from technical analysis to patches and public understanding of real-world exploitation.",
+  "knownFor": [
+    "Google Project Zero",
+    "mobile security",
+    "browser security",
+    "zero-day analysis"
+  ],
+  "sections": {
+    "overview": "<p>Maddie Stone is a security researcher whose public work has covered mobile and browser vulnerabilities, exploit chains and the defense implications of in-the-wild exploitation. She has been associated with Google’s Project Zero research team.</p><h2>Evidence-led disclosure</h2><p>Project Zero publications document technical findings, affected software and mitigations. This kind of work is valuable because it gives defenders concrete evidence about attacker tradecraft while emphasizing repair and hardening rather than merely reproducing an exploit.</p><h2>Public communication</h2><p>Stone has also presented security research to professional audiences, helping make complex vulnerability classes legible to engineers and defenders.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2010s",
+      "event": "Begins public vulnerability-research work."
+    },
+    {
+      "date": "2020",
+      "event": "Publishes Project Zero research on in-the-wild exploitation and mobile security."
+    },
+    {
+      "date": "2021",
+      "event": "Presents and writes about exploit chains and mitigations."
+    },
+    {
+      "date": "2020s",
+      "event": "Continues work on vulnerability research and public technical communication."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Google Project Zero: Maddie Stone author archive",
+      "url": "https://projectzero.google/author/maddie-stone/"
+    },
+    {
+      "title": "Black Hat: Maddie Stone speaker profile",
+      "url": "https://www.blackhat.com/us-22/speakers/Maddie-Stone.html"
+    },
+    {
+      "title": "Google Security Blog: Project Zero research",
+      "url": "https://security.googleblog.com/search/label/Project%20Zero"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}
