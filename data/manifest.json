@@ -6827,5 +6827,71 @@
     ],
     "summary": "British mathematician, cryptanalyst, and computing pioneer whose work on computability and Enigma cryptanalysis became foundational to modern computing and security history.",
     "url": "people/alan-turing.html"
+  },
+  {
+    "id": "steven-levy",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Steven Levy",
+    "slug": "steven-levy",
+    "era": "1984-Present",
+    "tags": [
+      "author",
+      "hacker-culture",
+      "computing-history",
+      "books"
+    ],
+    "summary": "Technology writer whose 1984 book Hackers: Heroes of the Computer Revolution documented formative hacker communities and popularized the phrase Hacker Ethic.",
+    "url": "people/steven-levy.html"
+  },
+  {
+    "id": "clifford-stoll",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Clifford Stoll",
+    "slug": "clifford-stoll",
+    "era": "1986-Present",
+    "tags": [
+      "author",
+      "computer-espionage",
+      "incident-response",
+      "books"
+    ],
+    "summary": "Astronomer and author whose investigation of a small accounting anomaly at Lawrence Berkeley Laboratory became a landmark computer-espionage case and the book The Cuckoo's Egg.",
+    "url": "people/clifford-stoll.html"
+  },
+  {
+    "id": "gabriella-coleman",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Gabriella Coleman",
+    "slug": "gabriella-coleman",
+    "era": "2000s-Present",
+    "tags": [
+      "academic-research",
+      "anthropology",
+      "hacker-culture",
+      "anonymous",
+      "books"
+    ],
+    "summary": "Anthropologist and Harvard professor whose research and books examine hacker culture, free software, Anonymous, and digital activism.",
+    "url": "people/gabriella-coleman.html"
+  },
+  {
+    "id": "katie-hafner",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Katie Hafner",
+    "slug": "katie-hafner",
+    "era": "1991-Present",
+    "tags": [
+      "author",
+      "journalism",
+      "hacker-culture",
+      "internet-history",
+      "books"
+    ],
+    "summary": "Technology journalist and co-author of Cyberpunk: Outlaws and Hackers on the Computer Frontier, an early book-length account of 1980s hacker culture.",
+    "url": "people/katie-hafner.html"
   }
 ]
