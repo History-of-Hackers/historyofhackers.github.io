@@ -3,7 +3,7 @@
   "type": "tool",
   "title": "Social-Engineer Toolkit (SET)",
   "slug": "social-engineer-toolkit",
-  "era": "2000s-Present",
+  "era": "2009-Present",
   "tags": [
     "social-engineering",
     "penetration-testing",
@@ -11,15 +11,19 @@
     "security-awareness",
     "open-source"
   ],
-  "summary": "Open-source social-engineering assessment framework maintained by TrustedSec.",
-  "whyThisMatters": "SET helped standardize social-engineering testing workflows in penetration-testing environments. Its capabilities should be used only with explicit scope and consent.",
+  "summary": "Open-source social-engineering assessment framework created by David Kennedy in 2009 and maintained by TrustedSec.",
+  "whyThisMatters": "SET helped standardize social-engineering testing workflows in penetration-testing environments. Its capabilities should be used only with explicit scope, consent, and organizational authorization.",
   "sections": {
-    "overview": "<p>The Social-Engineer Toolkit is an open-source framework for social-engineering assessments.</p><h2>Project</h2><p>It is maintained by TrustedSec and its user manual identifies David Kennedy as the author.</p><p>The software is used in training and authorized penetration-testing exercises.</p><h2>Ethics</h2><p>Because social engineering involves people as well as systems, engagement rules and informed organizational authorization are essential.</p>"
+    "overview": "<p>The Social-Engineer Toolkit (SET) is an open-source framework for authorized social-engineering assessments. David Kennedy created the project in 2009.</p><h2>Public release history</h2><p>TrustedSec's November 3, 2010 announcement describes the forthcoming SET 1.0 release and its new automation and web interfaces. This distinguishes the project's 2009 creation from that later public release announcement.</p><h2>Project and ethics</h2><p>TrustedSec maintains SET, and the user manual identifies David Kennedy as its author. The software is used in training and authorized penetration-testing exercises; because social engineering involves people as well as systems, engagement rules and explicit organizational authorization are essential.</p>"
   },
   "timeline": [
     {
-      "date": "2000s",
-      "event": "Social-Engineer Toolkit (SET) is documented as a security tool."
+      "date": "2009",
+      "event": "David Kennedy creates the Social-Engineer Toolkit (SET)."
+    },
+    {
+      "date": "2010-11-03",
+      "event": "TrustedSec announces the SET 1.0 release date and describes the release's new interfaces."
     }
   ],
   "relatedPeople": [],
@@ -35,12 +39,16 @@
     {
       "title": "SET user manual",
       "url": "https://raw.githubusercontent.com/trustedsec/social-engineer-toolkit/master/readme/User_Manual.pdf"
+    },
+    {
+      "title": "TrustedSec: SET 1.0 release-date announcement (November 3, 2010)",
+      "url": "https://trustedsec.com/blog/the-social-engineer-toolkit-set-v1-0-release-date-announced"
     }
   ],
   "editorial": {
     "verified": true,
-    "sourcesCount": 2,
-    "lastReviewed": "2026-09-01",
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
     "reviewStatus": "PUBLISHED",
     "reviewer": "codex-2026-09-01"
   }
