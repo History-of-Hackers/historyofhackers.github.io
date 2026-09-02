@@ -1,0 +1,55 @@
+{
+  "id": "david-kernell",
+  "type": "person",
+  "title": "David Kernell",
+  "slug": "david-kernell",
+  "name": "David Kernell",
+  "born": null,
+  "died": null,
+  "era": "2008-2010",
+  "tags": [
+    "unauthorized-access",
+    "yahoo",
+    "sarah-palin",
+    "computer-crime",
+    "doj"
+  ],
+  "summary": "University student convicted for unauthorized access to Sarah Palin\u2019s Yahoo email account in 2008.",
+  "whyThisMatters": "A federal jury convicted Kernell in 2010 of misdemeanor unauthorized access and obstruction of justice. The DOJ recorded a sentence of one year and one day.",
+  "knownFor": [
+    "unauthorized-access",
+    "yahoo",
+    "sarah-palin"
+  ],
+  "sections": {
+    "overview": "<p>David Kernell was a University of Tennessee student involved in the 2008 access to Sarah Palin\u2019s Yahoo email account.</p><h2>Prosecution</h2><p>A federal jury convicted Kernell in April 2010 of misdemeanor unauthorized access and obstruction of justice.</p><p>The DOJ said evidence showed he learned of a possible FBI investigation after the access.</p><h2>Legacy</h2><p>The case received national attention during the 2008 presidential campaign and later federal proceedings.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2008",
+      "event": "David Kernell is documented in security history sources."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "DOJ: David C. Kernell sentenced",
+      "url": "https://www.justice.gov/archive/usao/tne/news/2010/November/111210%20Kernell%20Sentencing%20E-mail%20Hacking.html"
+    },
+    {
+      "title": "Sixth Circuit opinion",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca6/10-6247/10-6247-2012-01-17.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

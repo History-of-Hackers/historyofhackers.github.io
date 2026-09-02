@@ -1,0 +1,55 @@
+{
+  "id": "jeff-williams-owasp",
+  "type": "person",
+  "title": "Jeff Williams",
+  "slug": "jeff-williams-owasp",
+  "name": "Jeff Williams",
+  "born": null,
+  "died": null,
+  "era": "2001-Present",
+  "tags": [
+    "application-security",
+    "owasp",
+    "contrast-security",
+    "owasp-top-10",
+    "devsecops"
+  ],
+  "summary": "Application-security leader who helped found OWASP and co-founded Contrast Security.",
+  "whyThisMatters": "Jeff Williams helped create OWASP in 2001 and is a founder and CTO of Contrast Security. Conference and company biographies credit him with major OWASP projects, including the Top 10.",
+  "knownFor": [
+    "application-security",
+    "owasp",
+    "contrast-security"
+  ],
+  "sections": {
+    "overview": "<p>Jeff Williams is an application-security leader and co-founder of Contrast Security.</p><h2>OWASP</h2><p>Company and conference biographies state that he helped create OWASP in 2001 and served as its Global Chairman.</p><p>They also credit him with contributions including the OWASP Top 10 and related application-security materials.</p><h2>Contrast Security</h2><p>Williams later co-founded Contrast Security, where he has served as CTO.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2001",
+      "event": "Jeff Williams is documented in security history sources."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Contrast Security: Jeff Williams",
+      "url": "https://www.contrastsecurity.com/about-us"
+    },
+    {
+      "title": "RSA Conference: Jeff Williams",
+      "url": "https://www.rsaconference.com/experts/jeff-williams"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

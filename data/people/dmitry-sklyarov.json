@@ -1,0 +1,55 @@
+{
+  "id": "dmitry-sklyarov",
+  "type": "person",
+  "title": "Dmitry Sklyarov",
+  "slug": "dmitry-sklyarov",
+  "name": "Dmitry Sklyarov",
+  "born": null,
+  "died": null,
+  "era": "2001-Present",
+  "tags": [
+    "dmca",
+    "digital-rights",
+    "elcomsoft",
+    "ebook-security",
+    "def-con"
+  ],
+  "summary": "Russian programmer whose 2001 arrest under the DMCA became a major digital-rights case.",
+  "whyThisMatters": "Sklyarov was arrested in Las Vegas on July 16, 2001, over software associated with ElcomSoft that could circumvent Adobe eBook protections. The EFF documented his later release and return to Russia.",
+  "knownFor": [
+    "dmca",
+    "digital-rights",
+    "elcomsoft"
+  ],
+  "sections": {
+    "overview": "<p>Dmitry Sklyarov is a Russian programmer associated with ElcomSoft and research on Adobe eBook protections.</p><h2>2001 case</h2><p>He was arrested in Las Vegas on July 16, 2001 under the DMCA after attending DEF CON.</p><p>The prosecution drew protests and sustained attention from digital-rights organizations.</p><h2>Significance</h2><p>The case became an important early test of the DMCA anti-circumvention provisions.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2001",
+      "event": "Dmitry Sklyarov is documented in security history sources."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "EFF: United States v. Sklyarov FAQ",
+      "url": "https://w2.eff.org/IP/DMCA/US_v_Elcomsoft/us_v_sklyarov_faq.html"
+    },
+    {
+      "title": "Wired: Adobe E-Book Hacker Released",
+      "url": "https://www.wired.com/2001/08/adobe-e-book-hacker-released/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

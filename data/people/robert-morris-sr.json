@@ -1,0 +1,55 @@
+{
+  "id": "robert-morris-sr",
+  "type": "person",
+  "title": "Robert Morris Sr.",
+  "slug": "robert-morris-sr",
+  "name": "Robert Morris Sr.",
+  "born": null,
+  "died": null,
+  "era": "1960-2011",
+  "tags": [
+    "cryptography",
+    "unix",
+    "bell-labs",
+    "password-hashing",
+    "multics"
+  ],
+  "summary": "American cryptographer and Bell Labs researcher who contributed to early Unix security.",
+  "whyThisMatters": "Robert Morris worked at Bell Labs on Multics and Unix and contributed the Unix crypt program and password-encryption scheme. He died in 2011.",
+  "knownFor": [
+    "cryptography",
+    "unix",
+    "bell-labs"
+  ],
+  "sections": {
+    "overview": "<p>Robert Morris Sr. was an American cryptographer and computer scientist who worked at Bell Labs.</p><h2>Unix work</h2><p>His early Unix contributions included the math library, the crypt program, and a password-encryption scheme.</p><p>He also worked on Multics and was associated with the National Security Agency.</p><h2>Legacy</h2><p>His work helped establish password hashing as a fundamental operating-system security practice.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1960",
+      "event": "Robert Morris Sr. is documented in security history sources."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "IT History Society: Robert Morris",
+      "url": "https://ithistory.org/honoree/robert-morris"
+    },
+    {
+      "title": "Dennis Ritchie: Dabbling in the Cryptographic World",
+      "url": "https://www.bell-labs.com/usr/dmr/www/crypt.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 2,
+    "lastReviewed": "2026-09-01",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-01"
+  }
+}

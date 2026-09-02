@@ -6708,5 +6708,73 @@
     ],
     "summary": "Yan Shoshitaishvili, known online as Zardus, is a computer security researcher and associate professor at Arizona State University who co-created the open-source binary analysis framework angr. He is a long-time member and captain emeritus of the Shellphish CTF team, helped build the autonomous hacking system Shellphish entered in the DARPA Cyber Grand Challenge, and founded the pwn.college security education platform.",
     "url": "people/yan-shoshitaishvili.html"
+  },
+  {
+    "id": "dmitry-sklyarov",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Dmitry Sklyarov",
+    "slug": "dmitry-sklyarov",
+    "era": "2001-Present",
+    "tags": [
+      "dmca",
+      "digital-rights",
+      "elcomsoft",
+      "ebook-security",
+      "def-con"
+    ],
+    "summary": "Russian programmer whose 2001 arrest under the DMCA became a major digital-rights case.",
+    "url": "people/dmitry-sklyarov.html"
+  },
+  {
+    "id": "david-kernell",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "David Kernell",
+    "slug": "david-kernell",
+    "era": "2008-2010",
+    "tags": [
+      "unauthorized-access",
+      "yahoo",
+      "sarah-palin",
+      "computer-crime",
+      "doj"
+    ],
+    "summary": "University student convicted for unauthorized access to Sarah Palin\u2019s Yahoo email account in 2008.",
+    "url": "people/david-kernell.html"
+  },
+  {
+    "id": "robert-morris-sr",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Robert Morris Sr.",
+    "slug": "robert-morris-sr",
+    "era": "1960-2011",
+    "tags": [
+      "cryptography",
+      "unix",
+      "bell-labs",
+      "password-hashing",
+      "multics"
+    ],
+    "summary": "American cryptographer and Bell Labs researcher who contributed to early Unix security.",
+    "url": "people/robert-morris-sr.html"
+  },
+  {
+    "id": "jeff-williams-owasp",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jeff Williams",
+    "slug": "jeff-williams-owasp",
+    "era": "2001-Present",
+    "tags": [
+      "application-security",
+      "owasp",
+      "contrast-security",
+      "owasp-top-10",
+      "devsecops"
+    ],
+    "summary": "Application-security leader who helped found OWASP and co-founded Contrast Security.",
+    "url": "people/jeff-williams-owasp.html"
   }
 ]
