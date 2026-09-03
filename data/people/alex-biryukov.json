@@ -1,0 +1,68 @@
+{
+  "id": "alex-biryukov",
+  "type": "person",
+  "title": "Alex Biryukov",
+  "slug": "alex-biryukov",
+  "name": "Alex Biryukov",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "symmetric-cryptography",
+    "cryptanalysis",
+    "password-security",
+    "academic-research"
+  ],
+  "summary": "Cryptographer and professor at the University of Luxembourg whose research includes symmetric cryptography, cryptanalysis, and password-hashing research.",
+  "whyThisMatters": "Biryukov’s work matters because symmetric primitives and password storage are core defensive building blocks. Cryptanalysis of such systems makes security claims testable and improves the designs that practitioners rely on.",
+  "knownFor": [
+    "Symmetric cryptography",
+    "Cryptanalysis",
+    "Password hashing",
+    "Cryptography research at the University of Luxembourg"
+  ],
+  "sections": {
+    "overview": "<p>Alex Biryukov is a cryptographer and professor at the University of Luxembourg. His research interests include cryptanalysis and symmetric cryptography, areas concerned with both constructing and testing the primitives behind everyday security systems.</p><p>His work on password hashing is especially relevant to defensive engineering: password databases should use intentionally expensive, well-reviewed constructions rather than fast general-purpose hashes.</p><p>The IACR ePrint archive records research coauthored by Biryukov on memory-hard password hashing. Such work provides a research basis for comparing the costs imposed on legitimate systems and on offline password-cracking attempts.</p><p>Biryukov is included for contributions to the constructive and adversarial sides of modern cryptographic research.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1990s",
+      "event": "Begins publishing research in cryptography and cryptanalysis."
+    },
+    {
+      "date": "2000s",
+      "event": "Develops research program in symmetric cryptography and cryptanalysis."
+    },
+    {
+      "date": "2009",
+      "event": "Coauthors work on memory-hard password hashing in the IACR ePrint Archive."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Luxembourg: Alex Biryukov",
+      "url": "https://www.uni.lu/fstm-en/people/alex-biryukov/"
+    },
+    {
+      "title": "IACR ePrint: memory-hard password hashing research",
+      "url": "https://eprint.iacr.org/2009/317"
+    },
+    {
+      "title": "Cryptolux: Alex Biryukov",
+      "url": "https://www.cryptolux.org/index.php/Alex_Biryukov"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

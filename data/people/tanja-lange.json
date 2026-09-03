@@ -1,0 +1,68 @@
+{
+  "id": "tanja-lange",
+  "type": "person",
+  "title": "Tanja Lange",
+  "slug": "tanja-lange",
+  "name": "Tanja Lange",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "cryptography",
+    "number-theory",
+    "elliptic-curves",
+    "post-quantum-cryptography",
+    "academic-research"
+  ],
+  "summary": "German cryptographer and number theorist whose research spans curve-based cryptography, implementation security, and post-quantum cryptography.",
+  "whyThisMatters": "Lange connects mathematical cryptography with deployable software and long-term security research. Her work is useful to this history because it shows how modern security is built through careful algorithm design, implementation study, and open research collaboration.",
+  "knownFor": [
+    "Curve-based cryptography",
+    "Post-quantum cryptography",
+    "SUPERCOP benchmarking",
+    "Coding Theory and Cryptology"
+  ],
+  "sections": {
+    "overview": "<p>Tanja Lange is a professor at Eindhoven University of Technology whose research combines cryptography and number theory. TU/e identifies her as chair of its Coding Theory and Cryptology group and as scientific director of the Eindhoven Institute for the Protection of Systems and Information.</p><p>Her work includes curve-based cryptography and post-quantum cryptography. These areas matter for security engineering because they connect mathematical assumptions to the performance, implementation, and migration questions faced by real systems.</p><p>Lange has also contributed to open cryptographic benchmarking through SUPERCOP. That kind of reproducible measurement is an important part of security practice: claims about a primitive need to be compared on actual platforms, not only stated abstractly.</p><p>Her career illustrates the continuing role of academic cryptography in evaluating and preparing the technical foundations of secure communication.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2006",
+      "event": "Joins Eindhoven University of Technology as a full professor."
+    },
+    {
+      "date": "2010s",
+      "event": "Works on curve-based cryptography, implementation security, and the PQCRYPTO research community."
+    },
+    {
+      "date": "2020s",
+      "event": "Continues research and teaching on cryptology and post-quantum security at TU/e."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Eindhoven University of Technology: Tanja Lange",
+      "url": "https://research.tue.nl/en/persons/tanja-lange/"
+    },
+    {
+      "title": "Tanja Lange: homepage and research information",
+      "url": "https://hyperelliptic.org/tanja/de/"
+    },
+    {
+      "title": "Simons Institute: Tanja Lange",
+      "url": "https://live-simons-institute.pantheon.berkeley.edu/people/tanja-lange"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

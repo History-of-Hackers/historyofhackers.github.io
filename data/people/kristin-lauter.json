@@ -1,0 +1,68 @@
+{
+  "id": "kristin-lauter",
+  "type": "person",
+  "title": "Kristin Lauter",
+  "slug": "kristin-lauter",
+  "name": "Kristin Lauter",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "elliptic-curves",
+    "homomorphic-encryption",
+    "privacy",
+    "academic-research"
+  ],
+  "summary": "American mathematician and cryptographer known for research on elliptic-curve cryptography, homomorphic encryption, and privacy-preserving computation.",
+  "whyThisMatters": "Lauter’s work makes the link between number theory and usable privacy technology concrete. Her record also documents how industry research groups translate cryptographic research into systems and standards work.",
+  "knownFor": [
+    "Elliptic-curve cryptography",
+    "Homomorphic encryption",
+    "Private AI",
+    "Women in Numbers Network"
+  ],
+  "sections": {
+    "overview": "<p>Kristin Lauter is a mathematician whose research applies algebraic geometry and number theory to cryptography. The University of Washington lists her areas of interest as algebraic geometry, cryptography, and number theory.</p><p>At Microsoft Research, Lauter led cryptography research and worked on practical security and privacy problems, including elliptic-curve cryptography and encrypted computation. Microsoft’s research archive describes her work on making cryptographic techniques relevant to cloud-security and privacy needs.</p><p>She later joined Meta’s FAIR organization, where her profile describes work on cryptography, private AI, and AI4Crypto. The profile also records her support for the Women in Numbers Network.</p><p>Lauter belongs in this archive as a researcher whose work bridges mathematical methods, deployed privacy technology, and research-community leadership.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1996",
+      "event": "Receives a PhD in mathematics from the University of Chicago."
+    },
+    {
+      "date": "1999",
+      "event": "Joins Microsoft Research to work in cryptography."
+    },
+    {
+      "date": "2021",
+      "event": "Joins FAIR after more than two decades at Microsoft Research."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Washington: Kristin Lauter",
+      "url": "https://math.washington.edu/people/kristin-lauter"
+    },
+    {
+      "title": "Microsoft Research: Tales from the Crypt(ography) Lab",
+      "url": "https://www.microsoft.com/en-us/research/podcast/tales-from-the-cryptography-lab-with-dr-kristin-lauter/"
+    },
+    {
+      "title": "Meta AI: Kristin E. Lauter",
+      "url": "https://ai.meta.com/people/786716476205590/kristin-e-lauter/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

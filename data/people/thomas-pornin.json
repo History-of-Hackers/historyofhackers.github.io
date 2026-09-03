@@ -1,0 +1,68 @@
+{
+  "id": "thomas-pornin",
+  "type": "person",
+  "title": "Thomas Pornin",
+  "slug": "thomas-pornin",
+  "name": "Thomas Pornin",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "cryptography",
+    "cryptographic-engineering",
+    "implementation-security",
+    "public-key-cryptography",
+    "security-research"
+  ],
+  "summary": "French cryptographer and software engineer known for work on cryptographic implementations and the BearSSL TLS library.",
+  "whyThisMatters": "Pornin’s work highlights an essential security lesson: cryptographic safety depends on implementations, protocol integration, and side-channel-aware engineering, not solely on primitive selection.",
+  "knownFor": [
+    "BearSSL",
+    "Cryptographic implementations",
+    "TLS",
+    "Side-channel-aware engineering"
+  ],
+  "sections": {
+    "overview": "<p>Thomas Pornin is a cryptographer and software engineer whose public work includes BearSSL, a TLS and cryptography implementation. BearSSL’s documentation explains its emphasis on small code, portability, and implementation choices relevant to side-channel resistance.</p><p>Implementation is a security boundary. Even a well-studied algorithm can fail in practice when key handling, timing behavior, protocol composition, or error processing is wrong.</p><p>Pornin has also published technical material on cryptographic engineering and practical implementations. His work is an example of the careful systems work required to carry cryptographic designs into real software.</p><p>He is included for contributions to implementation-focused cryptographic security.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2000s",
+      "event": "Publishes technical work on cryptographic engineering and implementations."
+    },
+    {
+      "date": "2016",
+      "event": "Releases BearSSL as a documented TLS and cryptography implementation."
+    },
+    {
+      "date": "2020s",
+      "event": "Continues public technical writing and software work on cryptographic engineering."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "BearSSL: project documentation",
+      "url": "https://www.bearssl.org/"
+    },
+    {
+      "title": "Thomas Pornin: technical writing",
+      "url": "https://www.bolet.org/~pornin/"
+    },
+    {
+      "title": "IACR ePrint Archive",
+      "url": "https://eprint.iacr.org/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

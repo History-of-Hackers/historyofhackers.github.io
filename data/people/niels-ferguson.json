@@ -1,0 +1,68 @@
+{
+  "id": "niels-ferguson",
+  "type": "person",
+  "title": "Niels Ferguson",
+  "slug": "niels-ferguson",
+  "name": "Niels Ferguson",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "protocol-design",
+    "random-number-generation",
+    "cryptographic-engineering",
+    "security-research"
+  ],
+  "summary": "Dutch cryptographer and security consultant known for co-designing cryptographic primitives and for coauthoring Cryptography Engineering.",
+  "whyThisMatters": "Ferguson’s work is a reminder that cryptography must be evaluated as engineering as well as mathematics. His designs and writing emphasize the gap between choosing an algorithm and building a secure system around it.",
+  "knownFor": [
+    "Yarrow and Fortuna PRNGs",
+    "Twofish",
+    "Skein",
+    "Cryptography Engineering"
+  ],
+  "sections": {
+    "overview": "<p>Niels Ferguson is a cryptographer whose work has included cryptographic algorithms, protocol design, and security consulting. His public declaration in the Felten litigation described prior work at the Dutch Centre for Mathematics and Computer Science and cryptography consulting through MacFergus.</p><p>With Bruce Schneier and John Kelsey, Ferguson coauthored the Yarrow pseudorandom-number-generator design. Secure random generation is foundational because key generation and protocol nonces rely on unpredictable values.</p><p>Ferguson also coauthored the book <em>Cryptography Engineering</em>, which frames cryptography as a systems problem involving protocols, key handling, implementation, and operational choices rather than a collection of isolated algorithms.</p><p>His record belongs here for the practical, skeptical strand of modern cryptographic engineering.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1999",
+      "event": "Coauthors the Yarrow pseudorandom-number-generator design."
+    },
+    {
+      "date": "2001",
+      "event": "Files a declaration describing cryptography work and concerns around publishing HDCP research."
+    },
+    {
+      "date": "2010",
+      "event": "Coauthors Cryptography Engineering with Bruce Schneier and Tadayoshi Kohno."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Ferguson declaration in Felten v. RIAA",
+      "url": "https://w2.eff.org/IP/DMCA/Felten_v_RIAA/20010813_ferguson_decl.html"
+    },
+    {
+      "title": "Schneier: Yarrow PRNG design",
+      "url": "https://www.schneier.com/academic/archives/1999/10/prngs_in_java.html"
+    },
+    {
+      "title": "Wiley: Cryptography Engineering",
+      "url": "https://www.wiley.com/en-us/Cryptography+Engineering%3A+Design+Principles+and+Practical+Applications-p-9780470474242"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

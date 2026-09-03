@@ -1,0 +1,68 @@
+{
+  "id": "daniele-micciancio",
+  "type": "person",
+  "title": "Daniele Micciancio",
+  "slug": "daniele-micciancio",
+  "name": "Daniele Micciancio",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "lattice-cryptography",
+    "post-quantum-cryptography",
+    "complexity-theory",
+    "academic-research"
+  ],
+  "summary": "Italian-American computer scientist and cryptographer known for research on lattice problems, cryptographic complexity, and lattice-based cryptography.",
+  "whyThisMatters": "Micciancio’s work has helped establish rigorous foundations for lattice-based cryptography, an important candidate family for post-quantum security. It connects hard computational problems with concrete cryptographic constructions.",
+  "knownFor": [
+    "Lattice-based cryptography",
+    "Complexity of lattice problems",
+    "Post-quantum cryptography",
+    "Cryptography and Security Lab at UC San Diego"
+  ],
+  "sections": {
+    "overview": "<p>Daniele Micciancio is a professor in the Computer Science and Engineering department at the University of California, San Diego. His research covers algorithms, computational complexity, and cryptographic applications of lattice and coding problems.</p><p>Lattice-based cryptography is important in current security planning because it offers constructions built on mathematical problems that are studied as potential alternatives to factoring- and discrete-logarithm-based systems in a post-quantum setting.</p><p>UC San Diego describes Micciancio as a leading authority on lattice-based primitives and records his work on cryptographic protocols, zero knowledge, and formal methods. His own research page documents projects in lattice cryptography and symbolic security analysis.</p><p>He is included for foundational work linking theoretical computer science to cryptographic security.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1998",
+      "event": "Receives a PhD in computer science from MIT."
+    },
+    {
+      "date": "1999",
+      "event": "Joins the UC San Diego faculty."
+    },
+    {
+      "date": "2002",
+      "event": "Publishes Complexity of Lattice Problems: A Cryptographic Perspective."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "UC San Diego: Daniele Micciancio",
+      "url": "https://cseweb.ucsd.edu/~daniele/"
+    },
+    {
+      "title": "UC San Diego Jacobs School: Daniele Micciancio",
+      "url": "https://jacobsschool.ucsd.edu/people/profile/daniele-micciancio"
+    },
+    {
+      "title": "Simons Institute: Daniele Micciancio",
+      "url": "https://simons.berkeley.edu/people/daniele-micciancio"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

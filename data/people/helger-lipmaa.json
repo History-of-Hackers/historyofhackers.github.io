@@ -1,0 +1,68 @@
+{
+  "id": "helger-lipmaa",
+  "type": "person",
+  "title": "Helger Lipmaa",
+  "slug": "helger-lipmaa",
+  "name": "Helger Lipmaa",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "zero-knowledge",
+    "cryptographic-protocols",
+    "privacy",
+    "academic-research"
+  ],
+  "summary": "Estonian cryptographer whose research includes zero-knowledge protocols, privacy-preserving systems, e-voting, and blockchain-related cryptography.",
+  "whyThisMatters": "Lipmaa’s research demonstrates how cryptographic protocols can make claims verifiable without exposing underlying data. This is central to secure voting, privacy-preserving computation, and modern zero-knowledge systems.",
+  "knownFor": [
+    "Zero-knowledge protocols",
+    "E-voting",
+    "Privacy-preserving computation",
+    "University of Tartu cryptography research"
+  ],
+  "sections": {
+    "overview": "<p>Helger Lipmaa is a professor at the University of Tartu, where he leads cryptography research in security and theoretical computer science. The university’s cryptography group lists zero knowledge, secure multiparty computation, post-quantum cryptography, and efficient cryptographic computation among its research areas.</p><p>His work includes cryptographic protocols for privacy and verifiability, including research relevant to e-voting and zero-knowledge systems. These systems aim to show that a statement is true without disclosing more than necessary.</p><p>Lipmaa’s research-group history records the development of cryptography teaching and research at Tartu from the late 1990s onward. His curriculum vitae documents longstanding professional service in the cryptography community.</p><p>He is included as a researcher whose work connects formal protocol research with security and privacy applications.</p>"
+  },
+  "timeline": [
+    {
+      "date": "Late 1990s",
+      "event": "Helps establish cryptography teaching and research activity associated with the University of Tartu."
+    },
+    {
+      "date": "2010-2012",
+      "event": "Serves on the IACR Board of Directors."
+    },
+    {
+      "date": "2019",
+      "event": "Moves to Simula UiB while continuing involvement with the Tartu cryptography group."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Tartu: Helger Lipmaa",
+      "url": "https://kodu.ut.ee/~lipmaa/"
+    },
+    {
+      "title": "University of Tartu: Cryptography Research Group",
+      "url": "https://crypto.cs.ut.ee/"
+    },
+    {
+      "title": "Helger Lipmaa: curriculum vitae",
+      "url": "https://kodu.ut.ee/~lipmaa/cv/cv.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "david-pointcheval",
+  "type": "person",
+  "title": "David Pointcheval",
+  "slug": "david-pointcheval",
+  "name": "David Pointcheval",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "provable-security",
+    "public-key-cryptography",
+    "privacy",
+    "academic-research"
+  ],
+  "summary": "French cryptographer and CNRS research director whose work has helped advance formal security analysis and practical public-key cryptography.",
+  "whyThisMatters": "Pointcheval has been a significant figure in the development of provable-security methods: a disciplined way to state security goals, assumptions, and reductions. That rigor helps distinguish evidence-backed security claims from informal intuition.",
+  "knownFor": [
+    "Provable security",
+    "Public-key cryptography",
+    "Encryption and signatures",
+    "Cryptography research at ENS/CNRS"
+  ],
+  "sections": {
+    "overview": "<p>David Pointcheval is a CNRS research director specializing in cryptography. CNRS describes his work as combining mathematical rigor, fundamental computer science, and practical solutions for security and privacy.</p><p>His research has covered public-key cryptography, security proofs, and privacy-preserving computation. The formal-security approach associated with this work asks not only whether a construction appears plausible, but what concrete property it provides under which stated assumptions.</p><p>Pointcheval’s publication record spans foundational and applied cryptography, including current work on functional encryption and privacy-preserving data queries. His own academic page documents this continuing research program.</p><p>He is included as an academic whose work has shaped how cryptographic protocols are specified and evaluated.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1996",
+      "event": "Completes doctoral work in computer science."
+    },
+    {
+      "date": "1998",
+      "event": "Publishes work on asymmetric cryptography and practical security in the emerging public-key-cryptography conference series."
+    },
+    {
+      "date": "2021",
+      "event": "Receives the CNRS Silver Medal."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "CNRS: David Pointcheval",
+      "url": "https://www.ins2i.cnrs.fr/fr/personne/david-pointcheval"
+    },
+    {
+      "title": "David Pointcheval: academic homepage and publications",
+      "url": "https://www.di.ens.fr/david.pointcheval/index.php"
+    },
+    {
+      "title": "ENS: recognition of cryptography research",
+      "url": "https://www.ens.psl.eu/actualites/de-la-cryptographie-la-physique-de-la-lumiere-4-chercheurs-de-l-ens-recompenses-par-l"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

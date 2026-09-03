@@ -1,0 +1,68 @@
+{
+  "id": "samuel-neves",
+  "type": "person",
+  "title": "Samuel Neves",
+  "slug": "samuel-neves",
+  "name": "Samuel Neves",
+  "born": null,
+  "died": null,
+  "era": "2010s-Present",
+  "tags": [
+    "cryptography",
+    "elliptic-curves",
+    "implementation-security",
+    "post-quantum-cryptography",
+    "academic-research"
+  ],
+  "summary": "Portuguese cryptographer whose research includes elliptic-curve cryptography, efficient implementations, and post-quantum cryptography.",
+  "whyThisMatters": "Neves’s research reflects the practical side of modern cryptography: security properties must coexist with fast, audited implementations and careful parameter choices.",
+  "knownFor": [
+    "Elliptic-curve cryptography",
+    "Cryptographic implementations",
+    "Post-quantum cryptography",
+    "Academic cryptography"
+  ],
+  "sections": {
+    "overview": "<p>Samuel Neves is a cryptographer whose research includes elliptic-curve cryptography, cryptographic implementations, and post-quantum cryptography. His academic profile documents work across algorithm design and software-oriented cryptographic research.</p><p>Efficient implementation is not merely an optimization problem in cryptography. It affects which secure designs can be deployed and whether operations can be carried out without introducing timing or other side-channel risks.</p><p>Neves’s publications are available through the IACR ePrint Archive, a public venue that supports scrutiny and reuse of cryptographic research.</p><p>He is included for research connecting modern cryptographic constructions with the engineering conditions needed to use them safely.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2010s",
+      "event": "Publishes research on efficient cryptographic constructions and implementations."
+    },
+    {
+      "date": "2020s",
+      "event": "Contributes to research on elliptic-curve and post-quantum cryptography."
+    },
+    {
+      "date": "2026",
+      "event": "Continues academic cryptography research and publication."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Samuel Neves: academic homepage",
+      "url": "https://www.di.fc.ul.pt/~sneves/"
+    },
+    {
+      "title": "IACR ePrint Archive",
+      "url": "https://eprint.iacr.org/"
+    },
+    {
+      "title": "International Association for Cryptologic Research",
+      "url": "https://www.iacr.org/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

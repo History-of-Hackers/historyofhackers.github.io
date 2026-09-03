@@ -1,0 +1,68 @@
+{
+  "id": "jean-philippe-aumasson",
+  "type": "person",
+  "title": "Jean-Philippe Aumasson",
+  "slug": "jean-philippe-aumasson",
+  "name": "Jean-Philippe Aumasson",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "cryptography",
+    "hash-functions",
+    "cryptographic-engineering",
+    "security-research",
+    "technical-writing"
+  ],
+  "summary": "Swiss cryptographer and security researcher known for work on hash functions, including BLAKE2, and for technical writing on modern cryptography.",
+  "whyThisMatters": "Aumasson’s work joins design, cryptanalysis, and explanation. Hash functions and their implementations are widely deployed security components, so public analysis and clear technical documentation are valuable defenses against cargo-cult security.",
+  "knownFor": [
+    "BLAKE2",
+    "Hash-function design",
+    "Serious Cryptography",
+    "Cryptographic engineering"
+  ],
+  "sections": {
+    "overview": "<p>Jean-Philippe Aumasson is a cryptographer and security researcher whose work includes hash functions and applied cryptography. He is a coauthor of BLAKE2, a hash-function design documented in the IACR ePrint Archive.</p><p>Hash functions are used in many security systems, from integrity checks to password-protection constructions and digital-signature protocols. Their use demands careful attention to the security property required, the surrounding protocol, and the implementation.</p><p>Aumasson also wrote <em>Serious Cryptography</em>, a technical book intended to explain contemporary cryptographic concepts and practice. His professional profile at Kudelski Security documents his security-research career.</p><p>He is included for both research contributions and public-facing technical education in applied cryptography.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2012",
+      "event": "Coauthors the BLAKE2 hash-function specification."
+    },
+    {
+      "date": "2017",
+      "event": "Publishes Serious Cryptography."
+    },
+    {
+      "date": "2020s",
+      "event": "Continues security research and technical writing."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "IACR ePrint: BLAKE2",
+      "url": "https://eprint.iacr.org/2012/004"
+    },
+    {
+      "title": "No Starch Press: Serious Cryptography",
+      "url": "https://nostarch.com/seriouscrypto"
+    },
+    {
+      "title": "Kudelski Security: Jean-Philippe Aumasson",
+      "url": "https://www.kudelskisecurity.com/about-us/jean-philippe-aumasson"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}
