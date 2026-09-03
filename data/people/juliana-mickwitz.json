@@ -1,0 +1,70 @@
+{
+  "id": "juliana-mickwitz",
+  "type": "person",
+  "title": "Juliana Mickwitz",
+  "slug": "juliana-mickwitz",
+  "name": "Juliana Mickwitz",
+  "born": 1889,
+  "died": 1976,
+  "era": "1940s-1976",
+  "tags": [
+    "linguistics",
+    "signals-intelligence",
+    "russian",
+    "cryptanalysis"
+  ],
+  "summary": "Russian-language specialist and cryptologic educator who advanced language-based intelligence work at U.S. security agencies.",
+  "whyThisMatters": "Mickwitz’s career shows why language expertise is a security capability: it can determine whether intercepted material becomes interpretable intelligence.",
+  "knownFor": [
+    "Russian-language exploitation",
+    "cryptologic education",
+    "signals intelligence"
+  ],
+  "sections": {
+    "overview": "<p>Juliana Ernestine von Mickwitz was a multilingual linguist who escaped Soviet Russia and later Nazi-occupied Poland before reaching the United States. She worked for the War Department and, after the war, for the Army Security Agency and its successors.</p><h2>Russian-language intelligence</h2><p>NSA’s historical biography credits Mickwitz with advocating new ways to exploit language materials and with teaching students practical transcription and translation skills when Russian-language expertise was scarce.</p><h2>In memoriam</h2><p>Mickwitz died in 1976. Her work honors the linguistic specialists who transformed raw communications into meaningful analysis.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1941",
+      "event": "Arrives in the United States after work with U.S. diplomats."
+    },
+    {
+      "date": "1946",
+      "event": "Joins Army Security Agency work after the war."
+    },
+    {
+      "date": "Postwar",
+      "event": "Develops and teaches Russian-language exploitation methods."
+    },
+    {
+      "date": "1976",
+      "event": "Dies."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA biography of Juliana Mickwitz",
+      "url": "https://www.nsa.gov/Press-Room/Digital-Media-Center/Biographies/Biography-View-Page/Article/1621569/juliana-mickwitz/"
+    },
+    {
+      "title": "NSA: Historical Figures and Women in Cryptologic History",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/1000/"
+    },
+    {
+      "title": "NSA: Cryptologic Hall of Honor and historical records",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

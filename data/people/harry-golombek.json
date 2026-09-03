@@ -1,0 +1,76 @@
+{
+  "id": "harry-golombek",
+  "type": "person",
+  "title": "Harry Golombek",
+  "slug": "harry-golombek",
+  "name": "Harry Golombek",
+  "born": 1911,
+  "died": 1995,
+  "era": "1940s-1995",
+  "tags": [
+    "cryptanalysis",
+    "bletchley-park",
+    "enigma",
+    "chess",
+    "writing"
+  ],
+  "summary": "British chess master, writer, and wartime codebreaker who worked at Bletchley Park.",
+  "whyThisMatters": "Golombek belongs in this archive for his documented wartime codebreaking service. His life also makes visible the overlap between the problem-solving communities of chess and cryptanalysis at Bletchley Park.",
+  "knownFor": [
+    "Bletchley Park codebreaking",
+    "British chess championship",
+    "Chess writing",
+    "Hut 8 service"
+  ],
+  "sections": {
+    "overview": "<p>Harold “Harry” Golombek was a British chess player, author, and wartime codebreaker. His chess career was interrupted by the Second World War, when he was recruited to Bletchley Park.</p><h2>Codebreaking service</h2><p>Contemporary obituaries record that Golombek worked among the mathematical and chess-playing codebreakers at Bletchley Park, including service connected with Hut 8’s naval Enigma effort. The precise division of work was constrained for decades by official secrecy.</p><h2>Chess and public writing</h2><p>After the war, Golombek became a leading chess writer and held the chess correspondence at <em>The Times</em> for decades. He won the British championship three times and received international chess honors.</p><h2>In memoriam</h2><p>Golombek died in 1995. He is remembered for both public chess scholarship and wartime service.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1911-03-01",
+      "event": "Born in London, England."
+    },
+    {
+      "date": "1940s",
+      "event": "Serves as a codebreaker at Bletchley Park."
+    },
+    {
+      "date": "1947",
+      "event": "Wins the British Chess Championship."
+    },
+    {
+      "date": "1950",
+      "event": "Receives the International Master title."
+    },
+    {
+      "date": "1995-01-07",
+      "event": "Dies in London, England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "The Independent: obituary",
+      "url": "https://www.independent.co.uk/news/people/obituary-harry-golombek-1567343.html"
+    },
+    {
+      "title": "British Chess News: biography",
+      "url": "https://www.britishchessnews.com/2020/01/07/harry-golombek-1-iii-1911-7-i-1995/"
+    },
+    {
+      "title": "Jewish Virtual Library: Jewish personnel at Bletchley Park",
+      "url": "https://www.jewishvirtuallibrary.org/jewish-personnel-at-bletchley-park-in-world-war-ii"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

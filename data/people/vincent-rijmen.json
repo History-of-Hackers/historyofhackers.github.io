@@ -1,0 +1,70 @@
+{
+  "id": "vincent-rijmen",
+  "type": "person",
+  "title": "Vincent Rijmen",
+  "slug": "vincent-rijmen",
+  "name": "Vincent Rijmen",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "symmetric-cryptography",
+    "aes",
+    "academic-research"
+  ],
+  "summary": "Belgian cryptographer and co-designer of Rijndael, the cipher NIST standardized as the Advanced Encryption Standard.",
+  "whyThisMatters": "Rijmen's AES work supplied a widely deployed, openly reviewed encryption primitive. Its standardization shows how public cryptanalysis and interoperability requirements shape security infrastructure.",
+  "knownFor": [
+    "Rijndael / AES",
+    "Block-cipher design",
+    "WHIRLPOOL hash function"
+  ],
+  "sections": {
+    "overview": "<h2>Rijndael and the AES process</h2><p>Vincent Rijmen is a cryptographer associated with KU Leuven and co-designer, with Joan Daemen, of the Rijndael block cipher. Rijndael was submitted to NIST's open AES process and selected for standardization; FIPS 197 specifies AES using the Rijndael algorithm.</p><h2>Academic work</h2><p>Rijmen completed a dissertation on cryptanalysis and the design of iterated block ciphers at KU Leuven. His research has included symmetric cryptography, block-cipher design and hash functions. The IEEE Milestone site for Rijndael records the cipher's selection as AES and identifies Rijmen as a KU Leuven professor of symmetric cryptography.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1993",
+      "event": "Completes an engineering degree at KU Leuven."
+    },
+    {
+      "date": "1997",
+      "event": "Completes doctoral research on iterated block ciphers."
+    },
+    {
+      "date": "1998",
+      "event": "Submits Rijndael with Joan Daemen to the AES process."
+    },
+    {
+      "date": "2001",
+      "event": "Rijndael becomes the AES specified by FIPS 197."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "KU Leuven profile: Vincent Rijmen",
+      "url": "https://www.kuleuven.be/wieiswie/en/person/00005695"
+    },
+    {
+      "title": "NIST FIPS 197: Advanced Encryption Standard",
+      "url": "https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf"
+    },
+    {
+      "title": "IEEE Milestone: Rijndael",
+      "url": "https://rijndael-ieeemilestone.cs.ru.nl/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

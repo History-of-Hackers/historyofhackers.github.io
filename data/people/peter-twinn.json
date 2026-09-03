@@ -1,0 +1,76 @@
+{
+  "id": "peter-twinn",
+  "type": "person",
+  "title": "Peter Twinn",
+  "slug": "peter-twinn",
+  "name": "Peter Twinn",
+  "born": 1916,
+  "died": 2004,
+  "era": "1930s-2004",
+  "tags": [
+    "cryptanalysis",
+    "bletchley-park",
+    "enigma",
+    "bombe",
+    "mathematics"
+  ],
+  "summary": "British mathematician and cryptanalyst who made the first British break into a German Enigma message and later led the ISK section at Bletchley Park.",
+  "whyThisMatters": "Twinn’s record connects mathematical analysis, machine-assisted cryptanalysis, and operational intelligence. His work is a documented example of early systematic security analysis against a complex machine cipher.",
+  "knownFor": [
+    "First British Enigma break",
+    "Bletchley Park ISK section",
+    "Bombe development",
+    "Abwehr Enigma cryptanalysis"
+  ],
+  "sections": {
+    "overview": "<p>Peter Frank George Twinn was a British mathematician recruited by the Government Code and Cypher School before the Second World War. At Bletchley Park he worked first with Dilly Knox and then alongside Alan Turing.</p><h2>Enigma work</h2><p>Bletchley Park records credit Twinn with the first British break into a German Enigma intercept in July 1939. He contributed to Bombe development, worked in Hut 8, and later led the ISK section’s work against Abwehr Enigma traffic.</p><h2>Public service and legacy</h2><p>After the war he held senior roles in the British scientific civil service. His career illustrates how cryptanalytic progress moved between theory, machinery, and organized intelligence work.</p><h2>In memoriam</h2><p>Twinn died in 2004, aged 88. His carefully documented contribution to Enigma cryptanalysis remains part of Bletchley Park’s history.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1916-01-09",
+      "event": "Born in London, England."
+    },
+    {
+      "date": "1939",
+      "event": "Recruited to the Government Code and Cypher School."
+    },
+    {
+      "date": "1939-07",
+      "event": "Makes the first British break into a German Enigma intercept."
+    },
+    {
+      "date": "1942",
+      "event": "Takes over the ISK section after Dilly Knox’s illness and death."
+    },
+    {
+      "date": "2004-10-29",
+      "event": "Dies in England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Bletchley Park: Peter Twinn biography",
+      "url": "https://bletchleypark.org.uk/wp-content/uploads/record_attachments/1837.pdf"
+    },
+    {
+      "title": "The Guardian: obituary",
+      "url": "https://www.theguardian.com/news/2004/nov/20/guardianobituaries"
+    },
+    {
+      "title": "Churchill Archives Centre: Peter Twinn papers",
+      "url": "https://archivesearch.lib.cam.ac.uk/repositories/9/resources/1723"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

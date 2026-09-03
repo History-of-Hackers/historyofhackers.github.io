@@ -1,0 +1,76 @@
+{
+  "id": "friedrich-kasiski",
+  "type": "person",
+  "title": "Friedrich Kasiski",
+  "slug": "friedrich-kasiski",
+  "name": "Friedrich Kasiski",
+  "born": 1805,
+  "died": 1881,
+  "era": "1860s-1881",
+  "tags": [
+    "cryptanalysis",
+    "classical-cryptography",
+    "vigenere",
+    "cryptographic-history",
+    "research"
+  ],
+  "summary": "German officer and cryptographer who published the Kasiski examination, a method for attacking repeating-key polyalphabetic ciphers.",
+  "whyThisMatters": "The Kasiski examination introduced a repeatable analytical method for inferring key length from repeated ciphertext fragments. It is a durable milestone in the history of systematic cryptanalysis.",
+  "knownFor": [
+    "Kasiski examination",
+    "Die Geheimschriften und die Dechiffrir-Kunst",
+    "Vigenère cryptanalysis",
+    "Classical cryptography"
+  ],
+  "sections": {
+    "overview": "<p>Friedrich Wilhelm Kasiski was a German officer, cryptographer, and archaeologist. In 1863 he published <em>Die Geheimschriften und die Dechiffrir-Kunst</em>, a book that described a practical attack on repeating-key polyalphabetic substitution ciphers.</p><h2>The Kasiski examination</h2><p>The method studies distances between repeated ciphertext fragments to infer likely key periods. It became known as the Kasiski examination and is still taught when explaining attacks on Vigenère-style systems.</p><h2>Historical place</h2><p>Kasiski’s contribution matters because it turns a cipher’s repeated structure into evidence for analysis. Later work may have independently anticipated aspects of the approach, but Kasiski’s was the influential published account.</p><h2>In memoriam</h2><p>Kasiski died in 1881. His name endures in the classical cryptanalytic technique associated with his 1863 publication.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1805-11-29",
+      "event": "Born in Schlochau, Prussia."
+    },
+    {
+      "date": "1852",
+      "event": "Retires from active military service with the rank of major."
+    },
+    {
+      "date": "1863",
+      "event": "Publishes Die Geheimschriften und die Dechiffrir-Kunst."
+    },
+    {
+      "date": "1863",
+      "event": "Publishes the method now called the Kasiski examination."
+    },
+    {
+      "date": "1881-05-22",
+      "event": "Dies in Neustettin, Germany."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Internet Archive: Die Geheimschriften und die Dechiffrir-Kunst",
+      "url": "https://archive.org/details/diegeheimschrif00kasigoog"
+    },
+    {
+      "title": "arXiv: Analyzing the Kasiski Method Against Vigenere",
+      "url": "https://arxiv.org/abs/1912.04519"
+    },
+    {
+      "title": "University of Babylon: Vigenère cipher study",
+      "url": "https://www.uobabylon.edu.iq/eprints/paper_11_1363_649.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

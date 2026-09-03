@@ -1,0 +1,70 @@
+{
+  "id": "herbert-yardley",
+  "type": "person",
+  "title": "Herbert O. Yardley",
+  "slug": "herbert-yardley",
+  "name": "Herbert O. Yardley",
+  "born": 1889,
+  "died": 1958,
+  "era": "1910s-1958",
+  "tags": [
+    "cryptanalysis",
+    "signals-intelligence",
+    "black-chamber",
+    "history"
+  ],
+  "summary": "American codebreaker who led MI-8, the U.S. State Department and Army codebreaking office commonly called the Black Chamber.",
+  "whyThisMatters": "Yardley is central to the pre-computer history of organized U.S. cryptanalysis and to the public debate over secrecy that followed his 1931 book.",
+  "knownFor": [
+    "MI-8 (the Black Chamber)",
+    "The American Black Chamber",
+    "early U.S. cryptanalysis"
+  ],
+  "sections": {
+    "overview": "<p>Herbert O. Yardley was an American cryptanalyst who served in military signals intelligence during the First World War and subsequently led MI-8, the U.S. State Department and Army codebreaking organization later called the Black Chamber.</p><h2>MI-8 and public disclosure</h2><p>MI-8 read foreign diplomatic traffic in the interwar period. After the office closed, Yardley published <em>The American Black Chamber</em> in 1931, a book that made its existence public and helped spur U.S. laws restricting disclosure of cryptanalytic information.</p><h2>In memoriam</h2><p>Yardley died in 1958. His career remains useful for understanding both the roots of modern signals intelligence and the tension between operational secrecy and historical accountability.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1917",
+      "event": "Serves in U.S. Army cryptologic work during World War I."
+    },
+    {
+      "date": "1919",
+      "event": "Leads the postwar codebreaking office MI-8."
+    },
+    {
+      "date": "1931",
+      "event": "Publishes The American Black Chamber."
+    },
+    {
+      "date": "1958",
+      "event": "Dies."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "U.S. Army Military Intelligence Hall of Fame biography",
+      "url": "https://www.ikn.army.mil/apps/MIHOF/biographies/Yardley%2C%20Herbert.pdf"
+    },
+    {
+      "title": "NSA: Historical Figures and Women in Cryptologic History",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/1000/"
+    },
+    {
+      "title": "NSA: Cryptologic Hall of Honor and historical records",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

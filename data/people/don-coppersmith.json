@@ -1,0 +1,70 @@
+{
+  "id": "don-coppersmith",
+  "type": "person",
+  "title": "Don Coppersmith",
+  "slug": "don-coppersmith",
+  "name": "Don Coppersmith",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "cryptography",
+    "mathematics",
+    "cryptanalysis",
+    "ibm-research"
+  ],
+  "summary": "American mathematician and cryptographer whose IBM research includes DES, discrete logarithms, RSA cryptanalysis and algorithms for modular equations.",
+  "whyThisMatters": "Coppersmith's work spans the mathematics beneath practical cryptography and the analysis used to find when a system's parameters leave it vulnerable. His results remain reference points in RSA cryptanalysis and computer algebra.",
+  "knownFor": [
+    "Coppersmith's method for small modular roots",
+    "DES research",
+    "RSA cryptanalysis"
+  ],
+  "sections": {
+    "overview": "<h2>Research at IBM</h2><p>Don Coppersmith is a mathematician and cryptographer whose work at IBM Research has covered DES, discrete-logarithm algorithms and attacks on public-key systems. IBM's publication archive describes his work on both DES and the Diffie–Hellman setting.</p><h2>Modular equations and cryptanalysis</h2><p>Coppersmith is especially known in cryptography for methods for finding small roots of modular polynomial equations. Such techniques are useful when an implementation or protocol leaks enough structure to turn a hard number-theory problem into an attack. His research is a reminder that the security of a cryptosystem depends on parameter choices and implementation context, not only on its headline algorithm.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1977",
+      "event": "Completes a PhD in mathematics at Harvard University."
+    },
+    {
+      "date": "1977",
+      "event": "Joins IBM's Thomas J. Watson Research Center."
+    },
+    {
+      "date": "1996",
+      "event": "Publishes work on finding small roots of univariate modular equations."
+    },
+    {
+      "date": "2000",
+      "event": "IBM publishes his overview article, Cryptography."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "IBM Research: Cryptography, Don Coppersmith",
+      "url": "https://research.ibm.com/publications/cryptography"
+    },
+    {
+      "title": "IBM technical report: Finding a small root of a univariate modular equation",
+      "url": "https://dominoweb.draco.res.ibm.com/bb1391e192162de785256593006f838f.html"
+    },
+    {
+      "title": "IBM Research: Cryptography research history",
+      "url": "https://research.ibm.com/topics/cryptography"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

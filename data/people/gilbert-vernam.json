@@ -1,0 +1,76 @@
+{
+  "id": "gilbert-vernam",
+  "type": "person",
+  "title": "Gilbert S. Vernam",
+  "slug": "gilbert-vernam",
+  "name": "Gilbert S. Vernam",
+  "born": 1890,
+  "died": 1960,
+  "era": "1910s-1960",
+  "tags": [
+    "cryptography",
+    "stream-ciphers",
+    "one-time-pad",
+    "teleprinter",
+    "engineering"
+  ],
+  "summary": "American engineer whose teleprinter cipher design became the Vernam system, a key precursor to the modern one-time pad.",
+  "whyThisMatters": "Vernam’s design made encryption a repeatable machine operation over teleprinter symbols. It is a central historical link between communications engineering, XOR-like combining operations, and later formal accounts of perfect secrecy.",
+  "knownFor": [
+    "Vernam cipher",
+    "Teleprinter encryption",
+    "One-time-pad precursor",
+    "U.S. Patent 1,310,719"
+  ],
+  "sections": {
+    "overview": "<p>Gilbert Sandford Vernam was an American engineer associated with a 1917 teleprinter cipher design. His system combined a message with key material carried on paper tape, establishing the design generally known as the Vernam cipher.</p><h2>Machine cryptography</h2><p>The core idea was to combine corresponding message and key symbols, then use the same key material for recovery. In collaboration with Joseph Mauborgne’s work on truly random key material, the approach became associated with the one-time pad.</p><h2>Lasting significance</h2><p>Vernam’s patent records the engineering implementation. Later information theory gave the one-time-pad construction a formal account of perfect secrecy under its strict conditions.</p><h2>In memoriam</h2><p>Vernam died in 1960. His work remains an important part of the history of practical cryptographic engineering.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1890-04-03",
+      "event": "Born in the United States."
+    },
+    {
+      "date": "1917",
+      "event": "Develops a teleprinter cipher system."
+    },
+    {
+      "date": "1919",
+      "event": "Receives U.S. Patent 1,310,719 for a secret signaling system."
+    },
+    {
+      "date": "1949",
+      "event": "Claude Shannon publishes a formal proof of perfect secrecy for the one-time-pad model."
+    },
+    {
+      "date": "1960-02-07",
+      "event": "Dies in the United States."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Google Patents: U.S. Patent 1,310,719",
+      "url": "https://patents.google.com/patent/US1310719A/en"
+    },
+    {
+      "title": "Engineering and Technology History Wiki: Gilbert S. Vernam",
+      "url": "https://ethw.org/Gilbert_S._Vernam"
+    },
+    {
+      "title": "arXiv: Re-visiting the One-Time Pad",
+      "url": "https://arxiv.org/abs/cs/0508079"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "juanita-moody",
+  "type": "person",
+  "title": "Juanita Moody",
+  "slug": "juanita-moody",
+  "name": "Juanita Moody",
+  "born": 1924,
+  "died": 2019,
+  "era": "1940s-2019",
+  "tags": [
+    "signals-intelligence",
+    "cryptanalysis",
+    "cuban-missile-crisis",
+    "intelligence-analysis"
+  ],
+  "summary": "Cryptologic leader who directed NSA signals-intelligence production during the Cuban Missile Crisis.",
+  "whyThisMatters": "Moody’s record connects codebreaking and analysis to the operational reporting systems through which security information reaches decision-makers.",
+  "knownFor": [
+    "Cuban Missile Crisis SIGINT",
+    "intelligence reporting",
+    "National Intelligence Medal of Achievement"
+  ],
+  "sections": {
+    "overview": "<p>Juanita Moody joined the Army cryptologic organization in 1943 and remained in government cryptologic service for more than three decades. She rose through analytical and production leadership roles at NSA.</p><h2>Cuban Missile Crisis</h2><p>As a senior official responsible for signals intelligence on the region, Moody supervised daily production and reporting during the 1962 Cuban Missile Crisis. NSA’s account also credits her with innovations in reporting and direct support to the White House Situation Room.</p><h2>In memoriam</h2><p>Moody died in 2019. Her career demonstrates that analytical leadership and clear reporting are core parts of security practice.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1943",
+      "event": "Joins the Army cryptologic organization."
+    },
+    {
+      "date": "1962",
+      "event": "Directs regional SIGINT production during the Cuban Missile Crisis."
+    },
+    {
+      "date": "1975",
+      "event": "Receives the first National Intelligence Medal of Achievement."
+    },
+    {
+      "date": "1976",
+      "event": "Retires after 33 years of service."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA biography of Juanita Moody",
+      "url": "https://www.nsa.gov/Press-Room/Digital-Media-Center/Biographies/Biography-View-Page/Article/1622443/juanita-moody/"
+    },
+    {
+      "title": "NSA: Historical Figures and Women in Cryptologic History",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/1000/"
+    },
+    {
+      "title": "NSA: Cryptologic Hall of Honor and historical records",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

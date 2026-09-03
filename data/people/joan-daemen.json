@@ -1,0 +1,71 @@
+{
+  "id": "joan-daemen",
+  "type": "person",
+  "title": "Joan Daemen",
+  "slug": "joan-daemen",
+  "name": "Joan Daemen",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "symmetric-cryptography",
+    "aes",
+    "sha-3",
+    "academic-research"
+  ],
+  "summary": "Belgian cryptographer who co-designed Rijndael, selected by NIST as the Advanced Encryption Standard, and later co-designed Keccak, selected as SHA-3.",
+  "whyThisMatters": "Daemen's designs became standards rather than proprietary black boxes: AES and SHA-3 are publicly specified, analysed cryptographic building blocks used throughout modern systems.",
+  "knownFor": [
+    "Rijndael / AES",
+    "Keccak / SHA-3",
+    "Sponge construction"
+  ],
+  "sections": {
+    "overview": "<h2>AES</h2><p>Joan Daemen is a professor of digital security at Radboud University whose work focuses on the design and cryptanalysis of symmetric cryptography. With Vincent Rijmen, he designed Rijndael. NIST selected Rijndael as the Advanced Encryption Standard and published the resulting standard as FIPS 197 in 2001.</p><h2>Hash functions</h2><p>Daemen later co-designed Keccak, the basis of SHA-3. NIST selected Keccak in its public SHA-3 competition in 2012. His university profile lists AES, SHA-3 and sponge-based cryptography among his best-known work.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1995",
+      "event": "Completes doctoral work on cipher and hash-function design."
+    },
+    {
+      "date": "1998",
+      "event": "Submits Rijndael with Vincent Rijmen to NIST's AES process."
+    },
+    {
+      "date": "2001",
+      "event": "Rijndael is standardized as AES in FIPS 197."
+    },
+    {
+      "date": "2012",
+      "event": "NIST selects Keccak as the SHA-3 algorithm."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Radboud University: Joan Daemen",
+      "url": "https://www.ru.nl/en/people/daemen-j"
+    },
+    {
+      "title": "NIST FIPS 197: Advanced Encryption Standard",
+      "url": "https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf"
+    },
+    {
+      "title": "NIST: SHA-3 selection announcement",
+      "url": "https://csrc.nist.gov/News/2012/NIST-Selects-Winner-of-Secure-Hash-Algorithm"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

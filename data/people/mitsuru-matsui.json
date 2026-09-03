@@ -1,0 +1,70 @@
+{
+  "id": "mitsuru-matsui",
+  "type": "person",
+  "title": "Mitsuru Matsui",
+  "slug": "mitsuru-matsui",
+  "name": "Mitsuru Matsui",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "cryptanalysis",
+    "linear-cryptanalysis",
+    "mobile-security"
+  ],
+  "summary": "Japanese cryptographer at Mitsubishi Electric known for developing linear cryptanalysis and for work on MISTY, KASUMI and Camellia cipher technology.",
+  "whyThisMatters": "Linear cryptanalysis became one of the standard general techniques for evaluating block ciphers. Matsui's work helped turn cryptanalysis into an empirical discipline that can expose weaknesses before a primitive becomes infrastructure.",
+  "knownFor": [
+    "Linear cryptanalysis",
+    "DES cryptanalysis",
+    "MISTY cipher family"
+  ],
+  "sections": {
+    "overview": "<h2>Linear cryptanalysis</h2><p>Mitsuru Matsui is a cryptographer at Mitsubishi Electric. Japan's Patent Office describes his development of linear cryptanalysis and his experimental break of the then-U.S. encryption standard DES. Linear and differential cryptanalysis are now foundational approaches for analysing many block ciphers.</p><h2>Applied cipher design</h2><p>Mitsubishi Electric's technical publications identify Matsui as a contributor to MISTY, KASUMI and Camellia cipher development. These projects connect basic cryptanalytic research with the design and standardization of cryptography for communications systems.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1993",
+      "event": "Publishes the technique known as linear cryptanalysis."
+    },
+    {
+      "date": "1994",
+      "event": "Reports a public experimental cryptanalysis of DES using linear methods."
+    },
+    {
+      "date": "1995",
+      "event": "MISTY1 is designed at Mitsubishi Electric."
+    },
+    {
+      "date": "2012",
+      "event": "Receives the RSA Conference Award for Excellence in Mathematics."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Japan Patent Office: Mitsuru Matsui interview",
+      "url": "https://www.jpo.go.jp/e/news/koho/archive/125/document/relay_message/4.pdf"
+    },
+    {
+      "title": "Mitsubishi Electric ADVANCE: encryption technology",
+      "url": "https://www.mitsubishielectric.com/advance-magazine/earlierissues/pdf/vol126.pdf"
+    },
+    {
+      "title": "Mitsubishi Electric ADVANCE: MISTY, KASUMI and Camellia",
+      "url": "https://www.mitsubishielectric.com/advance-magazine/earlierissues/pdf/vol100.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

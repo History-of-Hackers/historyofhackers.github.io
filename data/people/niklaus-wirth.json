@@ -1,0 +1,76 @@
+{
+  "id": "niklaus-wirth",
+  "type": "person",
+  "title": "Niklaus Wirth",
+  "slug": "niklaus-wirth",
+  "name": "Niklaus Wirth",
+  "born": 1934,
+  "died": 2024,
+  "era": "1960s-2024",
+  "tags": [
+    "computer-science",
+    "programming-languages",
+    "software-engineering",
+    "academic-research",
+    "pascal"
+  ],
+  "summary": "Swiss computer scientist, professor, and Turing Award recipient known for Pascal and influential work in programming languages and software engineering.",
+  "whyThisMatters": "Wirth’s work made disciplined program structure, language design, and software engineering teachable at scale. Those foundations support reliable systems, a prerequisite for secure systems.",
+  "knownFor": [
+    "Pascal",
+    "Programming languages",
+    "Structured programming",
+    "1984 ACM A.M. Turing Award"
+  ],
+  "sections": {
+    "overview": "<p>Niklaus Wirth was a Swiss computer scientist and professor associated with influential programming languages, especially Pascal. He helped establish computer science as a research field and profession at ETH Zürich and in Switzerland.</p><h2>Language and software design</h2><p>Wirth’s work emphasized precise, comprehensible programs and the relationship between language design and reliable implementation. Pascal became widely used in education and software development.</p><h2>Academic legacy</h2><p>ETH Zürich, the University of Zürich, and the Computer History Museum document his long academic career and the 1984 ACM A.M. Turing Award. His contribution belongs in this archive as foundational computing history rather than a retrospective claim about offensive hacking.</p><h2>In memoriam</h2><p>Wirth died peacefully on 1 January 2024. His work shaped generations of students and software engineers.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1934-02-15",
+      "event": "Born in Winterthur, Switzerland."
+    },
+    {
+      "date": "1968",
+      "event": "Appointed professor of computer science at ETH Zürich."
+    },
+    {
+      "date": "1970",
+      "event": "Pascal becomes publicly associated with his programming-language work."
+    },
+    {
+      "date": "1984",
+      "event": "Receives the ACM A.M. Turing Award."
+    },
+    {
+      "date": "2024-01-01",
+      "event": "Dies in Switzerland."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "ETH Zürich: obituary",
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2024/01/computer-pioneer-niklaus-wirth-has-died.html"
+    },
+    {
+      "title": "University of Zürich: in memoriam",
+      "url": "https://www.ifi.uzh.ch/en/news-archive/2024/in-memoriam-niklaus-wirth.html"
+    },
+    {
+      "title": "Computer History Museum: in memoriam",
+      "url": "https://computerhistory.org/blog/in-memoriam-niklaus-wirth-1934-2024/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

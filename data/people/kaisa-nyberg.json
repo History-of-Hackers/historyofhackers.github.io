@@ -1,0 +1,70 @@
+{
+  "id": "kaisa-nyberg",
+  "type": "person",
+  "title": "Kaisa Nyberg",
+  "slug": "kaisa-nyberg",
+  "name": "Kaisa Nyberg",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "cryptography",
+    "mobile-security",
+    "symmetric-cryptography",
+    "academic-research"
+  ],
+  "summary": "Finnish cryptographer and Aalto University professor emerita whose work has covered block ciphers, Boolean functions and mobile-security protocols.",
+  "whyThisMatters": "Nyberg's career links mathematical cryptology to deployed mobile and Bluetooth security. Her research and mentoring helped establish cryptography as a sustained academic field in Finland.",
+  "knownFor": [
+    "Cryptographic Boolean functions",
+    "Mobile and Bluetooth security",
+    "Cryptology education"
+  ],
+  "sections": {
+    "overview": "<h2>From mathematics to cryptology</h2><p>Kaisa Nyberg is a Finnish cryptographer and professor emerita at Aalto University. Aalto records that she began cryptography research with the Finnish Defence Forces in 1987, later worked at Nokia, and joined the Helsinki University of Technology faculty in 2005.</p><h2>Mobile security and academic leadership</h2><p>Aalto credits Nyberg and N. Asokan with a Bluetooth pairing method developed at Nokia and standardized with Microsoft cryptologists. Her institutional profile records her leadership of Aalto's cryptography research group through 2016. Her work on the properties of Boolean functions and on applied protocols connects mathematical analysis to the security of deployed systems.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1987",
+      "event": "Begins cryptography research with the Finnish Defence Forces."
+    },
+    {
+      "date": "1998",
+      "event": "Moves to Nokia, where her work includes mobile-security research."
+    },
+    {
+      "date": "2005",
+      "event": "Joins Helsinki University of Technology, later Aalto University, as professor of cryptology."
+    },
+    {
+      "date": "2016",
+      "event": "Retires as professor emerita after leading Aalto's cryptography research group."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Aalto University: profile of Kaisa Nyberg",
+      "url": "https://users.ics.aalto.fi/knyberg/"
+    },
+    {
+      "title": "Aalto University: career feature on Kaisa Nyberg",
+      "url": "https://www.aalto.fi/en/news/billions-of-individuals-depend-on-security-protocols-crafted-by-professor-emerita-kaisa-nyberg"
+    },
+    {
+      "title": "Aalto research portal: Kaisa Nyberg",
+      "url": "https://research.aalto.fi/en/persons/kaisa-nyberg/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

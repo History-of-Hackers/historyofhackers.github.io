@@ -1,0 +1,76 @@
+{
+  "id": "joseph-weizenbaum",
+  "type": "person",
+  "title": "Joseph Weizenbaum",
+  "slug": "joseph-weizenbaum",
+  "name": "Joseph Weizenbaum",
+  "born": 1923,
+  "died": 2008,
+  "era": "1950s-2008",
+  "tags": [
+    "computer-science",
+    "ai",
+    "ethics",
+    "academic-research",
+    "eliza"
+  ],
+  "summary": "MIT computer scientist who created ELIZA and became an influential critic of uncritical claims about computers, automation, and artificial intelligence.",
+  "whyThisMatters": "Weizenbaum’s legacy joins technical invention with a rigorous question for security and computing: what social judgment should never be delegated merely because software can imitate it? His critique remains important to responsible system design.",
+  "knownFor": [
+    "ELIZA",
+    "Computer Power and Human Reason",
+    "MIT computer science",
+    "Computer ethics"
+  ],
+  "sections": {
+    "overview": "<p>Joseph Weizenbaum was a computer scientist and longtime MIT professor. He created ELIZA, an early natural-language program whose apparent conversational ability became a landmark in the history of human-computer interaction.</p><h2>From ELIZA to critique</h2><p>Users’ reactions to ELIZA contributed to Weizenbaum’s later concern that institutions might overstate what computation can understand or responsibly decide. He developed that critique in <em>Computer Power and Human Reason</em>.</p><h2>Why this belongs in security history</h2><p>Security is not only a question of mechanisms; it also concerns the human consequences of automated decisions, trust, and accountability. Weizenbaum’s work provides an important scholarly foundation for those discussions.</p><h2>In memoriam</h2><p>Weizenbaum died in Berlin in 2008. MIT and computing historians continue to document both his technical and ethical legacy.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1923-01-08",
+      "event": "Born in Berlin, Germany."
+    },
+    {
+      "date": "1960s",
+      "event": "Develops ELIZA at MIT."
+    },
+    {
+      "date": "1976",
+      "event": "Publishes Computer Power and Human Reason."
+    },
+    {
+      "date": "2008-03-05",
+      "event": "Dies in Berlin, Germany."
+    },
+    {
+      "date": "2008",
+      "event": "MIT publishes an obituary recognizing his career and legacy."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "MIT News: obituary",
+      "url": "https://news.mit.edu/2008/obit-weizenbaum-0310"
+    },
+    {
+      "title": "Computer History Museum: Joseph Weizenbaum",
+      "url": "https://computerhistory.org/profile/joseph-weizenbaum/"
+    },
+    {
+      "title": "Joseph Weizenbaum Institute: biography",
+      "url": "https://www.weizenbaum-institut.de/en/institute/joseph-weizenbaum/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "lambros-callimahos",
+  "type": "person",
+  "title": "Lambros D. Callimahos",
+  "slug": "lambros-callimahos",
+  "name": "Lambros D. Callimahos",
+  "born": 1910,
+  "died": 1977,
+  "era": "1940s-1977",
+  "tags": [
+    "cryptanalysis",
+    "nsa",
+    "cryptologic-education",
+    "signals-intelligence",
+    "research"
+  ],
+  "summary": "U.S. Army and NSA cryptologist, teacher, and author who developed advanced cryptanalysis instruction including the CA-400 course.",
+  "whyThisMatters": "Callimahos helped transmit cryptanalytic practice across generations of analysts. His teaching, writing, and course design made methodology—not only individual discoveries—a lasting part of security history.",
+  "knownFor": [
+    "CA-400 cryptanalysis course",
+    "Military Cryptanalytics",
+    "NSA Technical Journal",
+    "Dundee Society"
+  ],
+  "sections": {
+    "overview": "<p>Lambros Demetrios Callimahos was a U.S. Army and NSA cryptologist, teacher, writer, and musician. He entered cryptologic service in 1941 and later worked with William F. Friedman.</p><h2>Teaching cryptanalysis</h2><p>At NSA he developed the advanced CA-400 cryptanalysis course, taught it repeatedly, and helped shape the Dundee Society formed by its graduates. The program emphasized analytical technique and disciplined practice.</p><h2>Writing and institutional work</h2><p>Callimahos wrote and revised cryptanalytic texts, including work associated with <em>Military Cryptanalytics</em>, and helped establish the NSA Technical Journal in 1955.</p><h2>In memoriam</h2><p>Callimahos died in 1977. His teaching legacy continues to be documented in NSA historical records.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1910-12-16",
+      "event": "Born near Cairo, Egypt."
+    },
+    {
+      "date": "1941",
+      "event": "Joins the U.S. Army and enters cryptologic service."
+    },
+    {
+      "date": "1940s",
+      "event": "Serves in the China-Burma-India theater and later assists William F. Friedman."
+    },
+    {
+      "date": "1950s",
+      "event": "Develops and teaches CA-400 at NSA."
+    },
+    {
+      "date": "1977-10-28",
+      "event": "Dies after retiring the previous year."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA: Lambros D. Callimahos",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/Historical-Figures-View/Article/1622423/lambros-d-callimahos/"
+    },
+    {
+      "title": "NSA: Cryptologic Almanac, Callimahos Part 1",
+      "url": "https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Internal-Periodicals-Publications/Legacy-Periodicals-Lists/igphoto/2002751882/"
+    },
+    {
+      "title": "NSA: Military Cryptanalytics, Part I",
+      "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/friedman-documents/publications/FOLDER_245/41748799078803.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

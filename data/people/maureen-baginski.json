@@ -1,0 +1,66 @@
+{
+  "id": "maureen-baginski",
+  "type": "person",
+  "title": "Maureen Baginski",
+  "slug": "maureen-baginski",
+  "name": "Maureen Baginski",
+  "born": null,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "signals-intelligence",
+    "intelligence-analysis",
+    "leadership",
+    "cybersecurity"
+  ],
+  "summary": "Signals-intelligence leader who directed NSA SIGINT during the September 11 attacks and later held a senior FBI intelligence role.",
+  "whyThisMatters": "Baginski’s career illustrates the security profession’s operational side: organizing collection, analysis, and dissemination during crises.",
+  "knownFor": [
+    "NSA Signals Intelligence Director",
+    "National Security Operations Center",
+    "FBI intelligence leadership"
+  ],
+  "sections": {
+    "overview": "<p>Maureen Baginski began her cryptologic career as a Russian-language instructor in 1979. She subsequently held operational-management roles at NSA, including senior positions in the National Security Operations Center and Russia-focused signals intelligence.</p><h2>Crisis leadership</h2><p>NSA records state that Baginski was Signals Intelligence Director during the September 11, 2001 attacks, directing the extended SIGINT enterprise’s production and dissemination. She later left NSA for a senior position at the Federal Bureau of Investigation.</p><h2>Legacy</h2><p>Her career brings attention to the people and coordination systems behind the timely use of intelligence during a crisis.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1979",
+      "event": "Begins cryptologic career as a Russian-language instructor."
+    },
+    {
+      "date": "2001",
+      "event": "Serves as NSA Signals Intelligence Director during the September 11 attacks."
+    },
+    {
+      "date": "2000s",
+      "event": "Moves from NSA to a senior FBI intelligence role."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA biography of Maureen Baginski",
+      "url": "https://www.nsa.gov/Press-Room/Digital-Media-Center/Biographies/Biography-View-Page/Article/1620541/maureen-baginski/"
+    },
+    {
+      "title": "NSA: Historical Figures and Women in Cryptologic History",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/1000/"
+    },
+    {
+      "title": "NSA: Cryptologic Hall of Honor and historical records",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

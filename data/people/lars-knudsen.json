@@ -1,0 +1,70 @@
+{
+  "id": "lars-knudsen",
+  "type": "person",
+  "title": "Lars R. Knudsen",
+  "slug": "lars-knudsen",
+  "name": "Lars R. Knudsen",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "symmetric-cryptography",
+    "cryptanalysis",
+    "academic-research"
+  ],
+  "summary": "Danish cryptographer recognized for fundamental contributions to the design and cryptanalysis of symmetric primitives.",
+  "whyThisMatters": "Knudsen's research is part of the practical discipline of testing block ciphers before deployment. His work connects cryptanalytic methods with the design choices behind widely scrutinized symmetric algorithms.",
+  "knownFor": [
+    "Symmetric cryptography",
+    "Cryptanalysis",
+    "Serpent block cipher"
+  ],
+  "sections": {
+    "overview": "<h2>Symmetric cryptography research</h2><p>Lars R. Knudsen is a Danish cryptographer whose research centers on the design and cryptanalysis of symmetric cryptographic primitives. The International Association for Cryptologic Research named him an IACR Fellow in 2013 for fundamental contributions to the design and cryptanalysis of symmetric primitives and for service to the field.</p><h2>Design and evaluation</h2><p>Knudsen co-designed the Serpent block cipher with Ross Anderson and Eli Biham. Serpent was one of the finalists in NIST's Advanced Encryption Standard process. His work illustrates a central feature of academic cryptography: candidate designs are published, attacked, revised and compared in public before a standard is selected.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1990s",
+      "event": "Publishes research on symmetric cryptography and cryptanalysis."
+    },
+    {
+      "date": "1998",
+      "event": "Co-authors the Serpent AES candidate submission."
+    },
+    {
+      "date": "2000",
+      "event": "NIST selects Rijndael rather than Serpent as the AES algorithm."
+    },
+    {
+      "date": "2013",
+      "event": "Named an IACR Fellow."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "IACR Fellow profile: Lars Knudsen",
+      "url": "https://www.iacr.org/fellows/2013/knudsen.html"
+    },
+    {
+      "title": "NIST: AES development and selection",
+      "url": "https://csrc.nist.gov/projects/cryptographic-standards-and-guidelines/archived-crypto-projects/aes-development"
+    },
+    {
+      "title": "Serpent AES candidate paper",
+      "url": "https://www.cl.cam.ac.uk/~rja14/Papers/serpent.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

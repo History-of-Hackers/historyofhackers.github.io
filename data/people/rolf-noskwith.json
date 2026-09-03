@@ -1,0 +1,76 @@
+{
+  "id": "rolf-noskwith",
+  "type": "person",
+  "title": "Rolf Noskwith",
+  "slug": "rolf-noskwith",
+  "name": "Rolf Noskwith",
+  "born": 1919,
+  "died": 2017,
+  "era": "1940s-2017",
+  "tags": [
+    "cryptanalysis",
+    "bletchley-park",
+    "enigma",
+    "mathematics",
+    "naval-intelligence"
+  ],
+  "summary": "British mathematician and Bletchley Park codebreaker who worked on German naval Enigma traffic in Hut 8.",
+  "whyThisMatters": "Noskwith’s work represents the sustained analytical labor behind naval Enigma cryptanalysis. His later testimony also helped preserve a more complete record of the people who performed that work.",
+  "knownFor": [
+    "Hut 8",
+    "German naval Enigma",
+    "Bletchley Park testimony",
+    "Cryptanalytic history"
+  ],
+  "sections": {
+    "overview": "<p>Rolf Noskwith was a British mathematician recruited to Bletchley Park in 1941. He worked in Hut 8, the section associated with attacks on German naval Enigma traffic.</p><h2>Cryptanalytic work</h2><p>His work was part of a wider team effort to read naval Enigma. GCHQ and obituary accounts describe the role of Jewish mathematicians and linguists whose service was especially consequential despite the exclusionary assumptions then common in British security vetting.</p><h2>Preserving the record</h2><p>In later life, Noskwith contributed to published accounts of Bletchley Park, helping historians document the work after secrecy restrictions eased.</p><h2>In memoriam</h2><p>Noskwith died in 2017, aged 97. His contribution is remembered as part of the collective achievement of Bletchley Park.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1919",
+      "event": "Born in Britain."
+    },
+    {
+      "date": "1941",
+      "event": "Recruited from Cambridge to Bletchley Park."
+    },
+    {
+      "date": "1940s",
+      "event": "Works in Hut 8 on German naval Enigma traffic."
+    },
+    {
+      "date": "1993",
+      "event": "Contributes to published Bletchley Park history."
+    },
+    {
+      "date": "2017",
+      "event": "Dies in the United Kingdom."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "GCHQ: Rolf Noskwith",
+      "url": "https://www.gchq.gov.uk/person/rolf-noskwith"
+    },
+    {
+      "title": "The Guardian: obituary",
+      "url": "https://www.theguardian.com/world/2017/jan/10/rolf-noskwith-obituary"
+    },
+    {
+      "title": "The Jewish Chronicle: obituary",
+      "url": "https://www.thejc.com/news/obituaries/obituary-rolf-noskwith-1919-2017-gwa5nkaj"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

@@ -9683,5 +9683,481 @@
     ],
     "summary": "American computer-science research leader whose work at ARPA, Xerox PARC, and DEC supported major advances in networking and personal computing.",
     "url": "people/robert-w-taylor.html"
+  },
+  {
+    "id": "ann-z-caracristi",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Ann Z. Caracristi",
+    "slug": "ann-z-caracristi",
+    "era": "1940s-2016",
+    "tags": [
+      "cryptanalysis",
+      "leadership",
+      "signals-intelligence",
+      "computing"
+    ],
+    "summary": "Cryptanalyst and NSA leader who became the agency’s first woman deputy director.",
+    "url": "people/ann-z-caracristi.html"
+  },
+  {
+    "id": "antoine-joux",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Antoine Joux",
+    "slug": "antoine-joux",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "pairings",
+      "cryptanalysis",
+      "academic-research"
+    ],
+    "summary": "French cryptographer known for work on pairing-based cryptography and for research on discrete-logarithm algorithms.",
+    "url": "people/antoine-joux.html"
+  },
+  {
+    "id": "antoni-palluth",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Antoni Palluth",
+    "slug": "antoni-palluth",
+    "era": "1920s-1944",
+    "tags": [
+      "cryptanalysis",
+      "enigma",
+      "polish-cipher-bureau",
+      "cryptographic-engineering",
+      "world-war-ii"
+    ],
+    "summary": "Polish engineer, cryptologist, and co-founder of AVA Radio Company whose work supported the Polish Cipher Bureau’s Enigma effort.",
+    "url": "people/antoni-palluth.html"
+  },
+  {
+    "id": "david-naccache",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "David Naccache",
+    "slug": "david-naccache",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "embedded-security",
+      "forensics",
+      "academic-research"
+    ],
+    "summary": "French cryptographer and ENS researcher whose work spans public-key cryptography, embedded-system security, code security and digital forensics.",
+    "url": "people/david-naccache.html"
+  },
+  {
+    "id": "don-coppersmith",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Don Coppersmith",
+    "slug": "don-coppersmith",
+    "era": "1970s-Present",
+    "tags": [
+      "cryptography",
+      "mathematics",
+      "cryptanalysis",
+      "ibm-research"
+    ],
+    "summary": "American mathematician and cryptographer whose IBM research includes DES, discrete logarithms, RSA cryptanalysis and algorithms for modular equations.",
+    "url": "people/don-coppersmith.html"
+  },
+  {
+    "id": "dorothy-t-blum",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Dorothy T. Blum",
+    "slug": "dorothy-t-blum",
+    "era": "1940s-1980",
+    "tags": [
+      "cryptanalysis",
+      "computing",
+      "programming",
+      "signals-intelligence"
+    ],
+    "summary": "Cryptanalyst and computer-programming pioneer who led NSA efforts to apply computers to cryptologic problems.",
+    "url": "people/dorothy-t-blum.html"
+  },
+  {
+    "id": "eli-biham",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Eli Biham",
+    "slug": "eli-biham",
+    "era": "1980s-Present",
+    "tags": [
+      "cryptography",
+      "cryptanalysis",
+      "differential-cryptanalysis",
+      "academic-research"
+    ],
+    "summary": "Israeli cryptographer and Technion professor whose doctoral research with Adi Shamir publicly developed differential cryptanalysis, a general technique for analysing block ciphers.",
+    "url": "people/eli-biham.html"
+  },
+  {
+    "id": "friedrich-kasiski",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Friedrich Kasiski",
+    "slug": "friedrich-kasiski",
+    "era": "1860s-1881",
+    "tags": [
+      "cryptanalysis",
+      "classical-cryptography",
+      "vigenere",
+      "cryptographic-history",
+      "research"
+    ],
+    "summary": "German officer and cryptographer who published the Kasiski examination, a method for attacking repeating-key polyalphabetic ciphers.",
+    "url": "people/friedrich-kasiski.html"
+  },
+  {
+    "id": "gilbert-vernam",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Gilbert S. Vernam",
+    "slug": "gilbert-vernam",
+    "era": "1910s-1960",
+    "tags": [
+      "cryptography",
+      "stream-ciphers",
+      "one-time-pad",
+      "teleprinter",
+      "engineering"
+    ],
+    "summary": "American engineer whose teleprinter cipher design became the Vernam system, a key precursor to the modern one-time pad.",
+    "url": "people/gilbert-vernam.html"
+  },
+  {
+    "id": "harry-golombek",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Harry Golombek",
+    "slug": "harry-golombek",
+    "era": "1940s-1995",
+    "tags": [
+      "cryptanalysis",
+      "bletchley-park",
+      "enigma",
+      "chess",
+      "writing"
+    ],
+    "summary": "British chess master, writer, and wartime codebreaker who worked at Bletchley Park.",
+    "url": "people/harry-golombek.html"
+  },
+  {
+    "id": "herbert-yardley",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Herbert O. Yardley",
+    "slug": "herbert-yardley",
+    "era": "1910s-1958",
+    "tags": [
+      "cryptanalysis",
+      "signals-intelligence",
+      "black-chamber",
+      "history"
+    ],
+    "summary": "American codebreaker who led MI-8, the U.S. State Department and Army codebreaking office commonly called the Black Chamber.",
+    "url": "people/herbert-yardley.html"
+  },
+  {
+    "id": "james-l-massey",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "James L. Massey",
+    "slug": "james-l-massey",
+    "era": "1960s-2013",
+    "tags": [
+      "cryptography",
+      "coding-theory",
+      "information-theory",
+      "academic-research"
+    ],
+    "summary": "American-Swiss information theorist and cryptographer whose research and teaching shaped coding theory and modern cryptology.",
+    "url": "people/james-l-massey.html"
+  },
+  {
+    "id": "joan-daemen",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Joan Daemen",
+    "slug": "joan-daemen",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "symmetric-cryptography",
+      "aes",
+      "sha-3",
+      "academic-research"
+    ],
+    "summary": "Belgian cryptographer who co-designed Rijndael, selected by NIST as the Advanced Encryption Standard, and later co-designed Keccak, selected as SHA-3.",
+    "url": "people/joan-daemen.html"
+  },
+  {
+    "id": "joseph-weizenbaum",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Joseph Weizenbaum",
+    "slug": "joseph-weizenbaum",
+    "era": "1950s-2008",
+    "tags": [
+      "computer-science",
+      "ai",
+      "ethics",
+      "academic-research",
+      "eliza"
+    ],
+    "summary": "MIT computer scientist who created ELIZA and became an influential critic of uncritical claims about computers, automation, and artificial intelligence.",
+    "url": "people/joseph-weizenbaum.html"
+  },
+  {
+    "id": "juanita-moody",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Juanita Moody",
+    "slug": "juanita-moody",
+    "era": "1940s-2019",
+    "tags": [
+      "signals-intelligence",
+      "cryptanalysis",
+      "cuban-missile-crisis",
+      "intelligence-analysis"
+    ],
+    "summary": "Cryptologic leader who directed NSA signals-intelligence production during the Cuban Missile Crisis.",
+    "url": "people/juanita-moody.html"
+  },
+  {
+    "id": "juliana-mickwitz",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Juliana Mickwitz",
+    "slug": "juliana-mickwitz",
+    "era": "1940s-1976",
+    "tags": [
+      "linguistics",
+      "signals-intelligence",
+      "russian",
+      "cryptanalysis"
+    ],
+    "summary": "Russian-language specialist and cryptologic educator who advanced language-based intelligence work at U.S. security agencies.",
+    "url": "people/juliana-mickwitz.html"
+  },
+  {
+    "id": "kaisa-nyberg",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Kaisa Nyberg",
+    "slug": "kaisa-nyberg",
+    "era": "1980s-Present",
+    "tags": [
+      "cryptography",
+      "mobile-security",
+      "symmetric-cryptography",
+      "academic-research"
+    ],
+    "summary": "Finnish cryptographer and Aalto University professor emerita whose work has covered block ciphers, Boolean functions and mobile-security protocols.",
+    "url": "people/kaisa-nyberg.html"
+  },
+  {
+    "id": "lambros-callimahos",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Lambros D. Callimahos",
+    "slug": "lambros-callimahos",
+    "era": "1940s-1977",
+    "tags": [
+      "cryptanalysis",
+      "nsa",
+      "cryptologic-education",
+      "signals-intelligence",
+      "research"
+    ],
+    "summary": "U.S. Army and NSA cryptologist, teacher, and author who developed advanced cryptanalysis instruction including the CA-400 course.",
+    "url": "people/lambros-callimahos.html"
+  },
+  {
+    "id": "lars-knudsen",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Lars R. Knudsen",
+    "slug": "lars-knudsen",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "symmetric-cryptography",
+      "cryptanalysis",
+      "academic-research"
+    ],
+    "summary": "Danish cryptographer recognized for fundamental contributions to the design and cryptanalysis of symmetric primitives.",
+    "url": "people/lars-knudsen.html"
+  },
+  {
+    "id": "marie-meyer",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Marie Meyer",
+    "slug": "marie-meyer",
+    "era": "1940s-1970s",
+    "tags": [
+      "cryptanalysis",
+      "venona",
+      "linguistics",
+      "russian",
+      "signals-intelligence"
+    ],
+    "summary": "Linguist and cryptanalyst whose early work helped recover parts of the VENONA codebook.",
+    "url": "people/marie-meyer.html"
+  },
+  {
+    "id": "mary-polly-budenbach",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Mary H. “Polly” Budenbach",
+    "slug": "mary-polly-budenbach",
+    "era": "1940s-2000s",
+    "tags": [
+      "cryptanalysis",
+      "signals-intelligence",
+      "research",
+      "naval-cryptology"
+    ],
+    "summary": "Cryptanalyst and research leader who joined U.S. Navy cryptologic work in World War II and later led an NSA research group.",
+    "url": "people/mary-polly-budenbach.html"
+  },
+  {
+    "id": "maureen-baginski",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Maureen Baginski",
+    "slug": "maureen-baginski",
+    "era": "1970s-Present",
+    "tags": [
+      "signals-intelligence",
+      "intelligence-analysis",
+      "leadership",
+      "cybersecurity"
+    ],
+    "summary": "Signals-intelligence leader who directed NSA SIGINT during the September 11 attacks and later held a senior FBI intelligence role.",
+    "url": "people/maureen-baginski.html"
+  },
+  {
+    "id": "meredith-gardner",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Meredith Gardner",
+    "slug": "meredith-gardner",
+    "era": "1940s-2002",
+    "tags": [
+      "cryptanalysis",
+      "venona",
+      "linguistics",
+      "signals-intelligence"
+    ],
+    "summary": "Linguist and cryptanalyst whose work on VENONA helped read Soviet intelligence traffic.",
+    "url": "people/meredith-gardner.html"
+  },
+  {
+    "id": "mitsuru-matsui",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Mitsuru Matsui",
+    "slug": "mitsuru-matsui",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "cryptanalysis",
+      "linear-cryptanalysis",
+      "mobile-security"
+    ],
+    "summary": "Japanese cryptographer at Mitsubishi Electric known for developing linear cryptanalysis and for work on MISTY, KASUMI and Camellia cipher technology.",
+    "url": "people/mitsuru-matsui.html"
+  },
+  {
+    "id": "niklaus-wirth",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Niklaus Wirth",
+    "slug": "niklaus-wirth",
+    "era": "1960s-2024",
+    "tags": [
+      "computer-science",
+      "programming-languages",
+      "software-engineering",
+      "academic-research",
+      "pascal"
+    ],
+    "summary": "Swiss computer scientist, professor, and Turing Award recipient known for Pascal and influential work in programming languages and software engineering.",
+    "url": "people/niklaus-wirth.html"
+  },
+  {
+    "id": "peter-twinn",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Peter Twinn",
+    "slug": "peter-twinn",
+    "era": "1930s-2004",
+    "tags": [
+      "cryptanalysis",
+      "bletchley-park",
+      "enigma",
+      "bombe",
+      "mathematics"
+    ],
+    "summary": "British mathematician and cryptanalyst who made the first British break into a German Enigma message and later led the ISK section at Bletchley Park.",
+    "url": "people/peter-twinn.html"
+  },
+  {
+    "id": "rolf-noskwith",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Rolf Noskwith",
+    "slug": "rolf-noskwith",
+    "era": "1940s-2017",
+    "tags": [
+      "cryptanalysis",
+      "bletchley-park",
+      "enigma",
+      "mathematics",
+      "naval-intelligence"
+    ],
+    "summary": "British mathematician and Bletchley Park codebreaker who worked on German naval Enigma traffic in Hut 8.",
+    "url": "people/rolf-noskwith.html"
+  },
+  {
+    "id": "stuart-milner-barry",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Stuart Milner-Barry",
+    "slug": "stuart-milner-barry",
+    "era": "1940s-1995",
+    "tags": [
+      "cryptanalysis",
+      "bletchley-park",
+      "enigma",
+      "chess",
+      "public-service"
+    ],
+    "summary": "British codebreaker, civil servant, and chess player who led Hut 6 at Bletchley Park during the Second World War.",
+    "url": "people/stuart-milner-barry.html"
+  },
+  {
+    "id": "vincent-rijmen",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Vincent Rijmen",
+    "slug": "vincent-rijmen",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "symmetric-cryptography",
+      "aes",
+      "academic-research"
+    ],
+    "summary": "Belgian cryptographer and co-designer of Rijndael, the cipher NIST standardized as the Advanced Encryption Standard.",
+    "url": "people/vincent-rijmen.html"
   }
 ]

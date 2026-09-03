@@ -1,0 +1,76 @@
+{
+  "id": "stuart-milner-barry",
+  "type": "person",
+  "title": "Stuart Milner-Barry",
+  "slug": "stuart-milner-barry",
+  "name": "Stuart Milner-Barry",
+  "born": 1906,
+  "died": 1995,
+  "era": "1940s-1995",
+  "tags": [
+    "cryptanalysis",
+    "bletchley-park",
+    "enigma",
+    "chess",
+    "public-service"
+  ],
+  "summary": "British codebreaker, civil servant, and chess player who led Hut 6 at Bletchley Park during the Second World War.",
+  "whyThisMatters": "Milner-Barry helped turn cryptanalytic insight into a sustained operational effort. His work in Hut 6, and the 1941 appeal for resources that he delivered to Winston Churchill, show why organization, staffing, and analysis all belong in the history of security work.",
+  "knownFor": [
+    "Hut 6 leadership",
+    "Enigma cryptanalysis",
+    "1941 appeal for Bletchley Park resources",
+    "British chess"
+  ],
+  "sections": {
+    "overview": "<p>Sir Philip Stuart Milner-Barry was a British chess player, civil servant, and wartime codebreaker. Recruited to Bletchley Park in 1940, he led the crib-based work in Hut 6 and later became its head.</p><h2>Work at Bletchley Park</h2><p>Hut 6 attacked German Army and Air Force Enigma traffic. In 1941, Milner-Barry personally delivered a letter from senior Bletchley figures to Prime Minister Winston Churchill requesting more resources; the intervention helped address an acute operational need.</p><h2>After the war</h2><p>He returned to public service and remained a prominent figure in British chess. His career is a reminder that cryptanalysis relied on collaborative, disciplined work as much as on individual breakthroughs.</p><h2>In memoriam</h2><p>Milner-Barry died in 1995. His service at Bletchley Park and his public contribution are remembered with respect.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1906-09-20",
+      "event": "Born in London, England."
+    },
+    {
+      "date": "1940",
+      "event": "Joins Bletchley Park and works in Hut 6."
+    },
+    {
+      "date": "1941",
+      "event": "Delivers the Bletchley Park resource appeal to Winston Churchill."
+    },
+    {
+      "date": "1944",
+      "event": "Becomes head of Hut 6."
+    },
+    {
+      "date": "1995-03-25",
+      "event": "Dies in London, England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Churchill Archives Centre: Papers of Sir Stuart Milner-Barry",
+      "url": "https://archivesearch.lib.cam.ac.uk/repositories/9/resources/1722"
+    },
+    {
+      "title": "The Independent: obituary",
+      "url": "https://www.independent.co.uk/news/people/obituary-sir-stuart-milnerbarry-1613199.html"
+    },
+    {
+      "title": "British Chess News: remembrance",
+      "url": "https://britishchessnews.com/2020/03/25/remembering-sir-philip-stuart-milner-barry-obe-20-ix-1906-25-iii-1995/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

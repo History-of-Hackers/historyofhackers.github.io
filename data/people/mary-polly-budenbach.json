@@ -1,0 +1,66 @@
+{
+  "id": "mary-polly-budenbach",
+  "type": "person",
+  "title": "Mary H. “Polly” Budenbach",
+  "slug": "mary-polly-budenbach",
+  "name": "Mary H. “Polly” Budenbach",
+  "born": null,
+  "died": null,
+  "era": "1940s-2000s",
+  "tags": [
+    "cryptanalysis",
+    "signals-intelligence",
+    "research",
+    "naval-cryptology"
+  ],
+  "summary": "Cryptanalyst and research leader who joined U.S. Navy cryptologic work in World War II and later led an NSA research group.",
+  "whyThisMatters": "Budenbach’s work highlights a less visible but essential security role: creating new analytical methods and organizing research around emerging cryptologic problems.",
+  "knownFor": [
+    "OP-20-G",
+    "cryptologic research",
+    "NSA analytical methods"
+  ],
+  "sections": {
+    "overview": "<p>Mary H. “Polly” Budenbach joined the U.S. Navy’s cryptologic organization, OP-20-G, in 1943. After the war she served in successor organizations, including NSA.</p><h2>Research leadership</h2><p>The National Cryptologic Museum describes Budenbach as an innovative cryptanalyst who later led a research group that developed new ideas for NSA disciplines. Her career therefore covers both operational wartime cryptology and the long-term research needed to sustain it.</p><h2>Legacy</h2><p>Budenbach’s record helps correct a narrow history focused only on individual cipher breaks; research communities and their leaders also shape security practice.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1943",
+      "event": "Joins the Navy cryptologic organization OP-20-G."
+    },
+    {
+      "date": "Postwar",
+      "event": "Works for AFSA and then NSA."
+    },
+    {
+      "date": "Later career",
+      "event": "Leads a research group developing new NSA ideas."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA biography of Mary H. “Polly” Budenbach",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/Historical-Figures-View/Article/1620320/mary-h-polly-budenbach/"
+    },
+    {
+      "title": "NSA: Historical Figures and Women in Cryptologic History",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/1000/"
+    },
+    {
+      "title": "NSA: Cryptologic Hall of Honor and historical records",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

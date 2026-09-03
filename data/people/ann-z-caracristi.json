@@ -1,0 +1,70 @@
+{
+  "id": "ann-z-caracristi",
+  "type": "person",
+  "title": "Ann Z. Caracristi",
+  "slug": "ann-z-caracristi",
+  "name": "Ann Z. Caracristi",
+  "born": 1921,
+  "died": 2016,
+  "era": "1940s-2016",
+  "tags": [
+    "cryptanalysis",
+    "leadership",
+    "signals-intelligence",
+    "computing"
+  ],
+  "summary": "Cryptanalyst and NSA leader who became the agency’s first woman deputy director.",
+  "whyThisMatters": "Caracristi’s career spans wartime cryptanalysis, the adoption of computing in intelligence work, and senior civilian leadership in a field long dominated by men.",
+  "knownFor": [
+    "NSA deputy director",
+    "Japanese Army cryptanalysis",
+    "computer applications"
+  ],
+  "sections": {
+    "overview": "<p>Ann Z. Caracristi joined the Army cryptologic organization in 1942 and began by working on Japanese Army traffic. She developed a long career in cryptanalysis, research management, and intelligence leadership.</p><h2>Senior leadership</h2><p>NSA’s historical records identify Caracristi as its first woman deputy director, serving from 1980 to 1982. Contemporary recognition of her work notes her role in applying computer techniques and managing complex cryptologic research.</p><h2>In memoriam</h2><p>Caracristi died in 2016. Her career remains a model of analytical rigor and public-service leadership.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1942",
+      "event": "Joins the Army cryptologic organization."
+    },
+    {
+      "date": "1965",
+      "event": "Receives the Federal Woman’s Award."
+    },
+    {
+      "date": "1980",
+      "event": "Becomes NSA deputy director."
+    },
+    {
+      "date": "2016",
+      "event": "Dies."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA historical profile of Ann Z. Caracristi",
+      "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/crypto-almanac-50th/Ann_Caracristi.pdf"
+    },
+    {
+      "title": "NSA: Historical Figures and Women in Cryptologic History",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/1000/"
+    },
+    {
+      "title": "NSA: Cryptologic Hall of Honor and historical records",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

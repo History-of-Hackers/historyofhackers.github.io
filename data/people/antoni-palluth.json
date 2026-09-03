@@ -1,0 +1,76 @@
+{
+  "id": "antoni-palluth",
+  "type": "person",
+  "title": "Antoni Palluth",
+  "slug": "antoni-palluth",
+  "name": "Antoni Palluth",
+  "born": 1900,
+  "died": 1944,
+  "era": "1920s-1944",
+  "tags": [
+    "cryptanalysis",
+    "enigma",
+    "polish-cipher-bureau",
+    "cryptographic-engineering",
+    "world-war-ii"
+  ],
+  "summary": "Polish engineer, cryptologist, and co-founder of AVA Radio Company whose work supported the Polish Cipher Bureau’s Enigma effort.",
+  "whyThisMatters": "Palluth’s career shows that cryptanalysis depends on equipment and engineering as well as mathematical insight. AVA-built apparatus was part of the Polish Cipher Bureau’s documented Enigma program.",
+  "knownFor": [
+    "AVA Radio Company",
+    "Polish Cipher Bureau",
+    "Cryptology course at Poznań",
+    "Enigma equipment"
+  ],
+  "sections": {
+    "overview": "<p>Antoni Palluth was a Polish engineer, cryptologist, and one of the founders of AVA Radio Company. He worked with Poland’s Cipher Bureau and taught in the secret cryptology course held at Poznań in 1929.</p><h2>Engineering for cryptanalysis</h2><p>AVA manufactured communications and cryptologic equipment designed for the Cipher Bureau. Palluth’s contribution is therefore important to the history of Enigma not only as an individual cryptologist but as an engineer helping make cryptanalytic methods usable.</p><h2>War and captivity</h2><p>After the German invasion, Palluth continued work connected with the Cipher Bureau in exile. He was captured in France in 1943 and died at Sachsenhausen in 1944.</p><h2>In memoriam</h2><p>Palluth’s life was cut short during the war. His role in Poland’s Enigma story is honored as part of a wider collective achievement.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1900-05-11",
+      "event": "Born in Pobiedziska, Poland."
+    },
+    {
+      "date": "1929",
+      "event": "Teaches in the secret Poznań cryptology course."
+    },
+    {
+      "date": "1930s",
+      "event": "Co-directs AVA Radio Company, which produces Cipher Bureau equipment."
+    },
+    {
+      "date": "1943",
+      "event": "Captured in France while attempting to reach Spain."
+    },
+    {
+      "date": "1944-04-18",
+      "event": "Dies at Sachsenhausen concentration camp."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Foreign Intelligence Agency of Poland: Enigma decryption",
+      "url": "https://aw.gov.pl/en/history/enigma-decryption/183,Enigma-decryption.html"
+    },
+    {
+      "title": "Enigma: Decode Victory project",
+      "url": "https://enigma.umww.pl/en/"
+    },
+    {
+      "title": "Poznań County: Antoni Palluth biography",
+      "url": "https://powiat.poznan.pl/warto-znac-te-historie/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

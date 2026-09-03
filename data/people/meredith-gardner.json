@@ -1,0 +1,70 @@
+{
+  "id": "meredith-gardner",
+  "type": "person",
+  "title": "Meredith Gardner",
+  "slug": "meredith-gardner",
+  "name": "Meredith Gardner",
+  "born": 1912,
+  "died": 2002,
+  "era": "1940s-2002",
+  "tags": [
+    "cryptanalysis",
+    "venona",
+    "linguistics",
+    "signals-intelligence"
+  ],
+  "summary": "Linguist and cryptanalyst whose work on VENONA helped read Soviet intelligence traffic.",
+  "whyThisMatters": "Gardner’s work illustrates how linguistic expertise and cryptanalytic method were jointly necessary to interpret high-value encrypted communications.",
+  "knownFor": [
+    "VENONA analysis",
+    "Russian-language cryptanalysis",
+    "signals intelligence"
+  ],
+  "sections": {
+    "overview": "<p>Meredith Gardner was a linguist recruited to the U.S. Army Signals Intelligence Service in 1942. After wartime language and cryptologic work, he moved to the Soviet problem and became a leading analyst on VENONA.</p><h2>VENONA</h2><p>VENONA was the long-running effort to exploit Soviet diplomatic and intelligence messages. NSA historical material describes Gardner as an early principal analyst; his 1946 work opened a path to reading messages made vulnerable by one-time-pad key reuse.</p><h2>In memoriam</h2><p>Gardner died in 2002. His record is a reminder that cryptanalysis depends on language, context, and careful interpretation as well as mathematics.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1942",
+      "event": "Joins the Signals Intelligence Service as a linguist."
+    },
+    {
+      "date": "1946",
+      "event": "Begins VENONA work and solves early Soviet messages."
+    },
+    {
+      "date": "1947",
+      "event": "Produces translations and summaries of VENONA traffic."
+    },
+    {
+      "date": "2002",
+      "event": "Dies."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA biography of Meredith Gardner",
+      "url": "https://www.nsa.gov/Press-Room/Digital-Media-Center/Biographies/Biography-View-Page/Article/1622408/meredith-gardner/"
+    },
+    {
+      "title": "NSA: Historical Figures and Women in Cryptologic History",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/1000/"
+    },
+    {
+      "title": "NSA: Cryptologic Hall of Honor and historical records",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

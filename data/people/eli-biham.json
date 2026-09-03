@@ -1,0 +1,70 @@
+{
+  "id": "eli-biham",
+  "type": "person",
+  "title": "Eli Biham",
+  "slug": "eli-biham",
+  "name": "Eli Biham",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "cryptography",
+    "cryptanalysis",
+    "differential-cryptanalysis",
+    "academic-research"
+  ],
+  "summary": "Israeli cryptographer and Technion professor whose doctoral research with Adi Shamir publicly developed differential cryptanalysis, a general technique for analysing block ciphers.",
+  "whyThisMatters": "Biham's work made differential methods a core part of modern symmetric-cryptography analysis. It changed both how designers evaluate ciphers and how defenders interpret claims of cryptographic strength.",
+  "knownFor": [
+    "Differential cryptanalysis",
+    "Serpent block cipher",
+    "Cryptanalysis of DES and GSM security"
+  ],
+  "sections": {
+    "overview": "<h2>Differential cryptanalysis</h2><p>Eli Biham is a cryptographer and cryptanalyst at the Technion – Israel Institute of Technology. His doctoral work, supervised by Adi Shamir, publicly developed differential cryptanalysis: a method for studying how input differences propagate through a cipher. Biham and Shamir documented the method and its application to the Data Encryption Standard in their book <em>Differential Cryptanalysis of the Data Encryption Standard</em>.</p><h2>Research and teaching</h2><p>The Technion describes Biham's research as spanning cryptography, cryptanalysis, computer security and quantum cryptography. He helped design the Serpent block cipher with Ross Anderson and Lars Knudsen; Serpent was an AES finalist. His professional biography also records service as founding head of the Technion Hiroshi Fujiwara Cyber Security Research Center and recognition as an IACR Fellow.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1982",
+      "event": "Completes undergraduate studies in mathematics and computer science at Tel Aviv University."
+    },
+    {
+      "date": "1991",
+      "event": "Completes a PhD at the Weizmann Institute and joins the Technion faculty."
+    },
+    {
+      "date": "1993",
+      "event": "Publishes Differential Cryptanalysis of the Data Encryption Standard with Adi Shamir."
+    },
+    {
+      "date": "2012",
+      "event": "Named an IACR Fellow."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Technion: Eli Biham short biography",
+      "url": "https://biham.cs.technion.ac.il/cv.html"
+    },
+    {
+      "title": "Technion Cybersecurity Center: faculty profile",
+      "url": "https://cyber.technion.ac.il/faculty-members/"
+    },
+    {
+      "title": "Biham and Shamir, Differential Cryptanalysis of DES",
+      "url": "https://biham.cs.technion.ac.il/Reports/differential-cryptanalysis-of-the-data-encryption-standard-biham-shamir-authors-latex-version.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

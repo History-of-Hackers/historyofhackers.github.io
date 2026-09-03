@@ -1,0 +1,70 @@
+{
+  "id": "antoine-joux",
+  "type": "person",
+  "title": "Antoine Joux",
+  "slug": "antoine-joux",
+  "name": "Antoine Joux",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "pairings",
+    "cryptanalysis",
+    "academic-research"
+  ],
+  "summary": "French cryptographer known for work on pairing-based cryptography and for research on discrete-logarithm algorithms.",
+  "whyThisMatters": "Joux's work shows both sides of public-key cryptography: bilinear pairings enabled new protocol constructions, while advances in discrete-logarithm algorithms clarify when the assumptions behind those constructions must be revisited.",
+  "knownFor": [
+    "Pairing-based cryptography",
+    "Tripartite Diffie–Hellman protocol",
+    "Discrete-logarithm algorithms"
+  ],
+  "sections": {
+    "overview": "<h2>Pairings and protocols</h2><p>Antoine Joux is a French cryptographer whose research has addressed public-key cryptography, pairings and discrete logarithms. His work on a one-round tripartite Diffie–Hellman protocol is a landmark in the development of pairing-based cryptography, a family of techniques used in later identity-based and short-signature constructions.</p><h2>Cryptanalytic research</h2><p>Joux has also contributed to algorithms for discrete logarithms in finite fields. This dual role—constructing protocols while studying the assumptions that secure them—is central to responsible cryptographic research. His work has been recognized through the Gödel Prize for cryptographic advances.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2000",
+      "event": "Publishes a one-round tripartite Diffie–Hellman protocol using pairings."
+    },
+    {
+      "date": "2010",
+      "event": "Publishes work advancing finite-field discrete-logarithm computation."
+    },
+    {
+      "date": "2013",
+      "event": "Receives a Gödel Prize for cryptographic research."
+    },
+    {
+      "date": "2020",
+      "event": "Serves on the PQCrypto program committee as a Sorbonne Université researcher."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Springer: One round protocol for tripartite Diffie–Hellman",
+      "url": "https://link.springer.com/chapter/10.1007/3-540-44647-8_24"
+    },
+    {
+      "title": "ACM: 2013 Gödel Prize announcement",
+      "url": "https://www.acm.org/press-releases/2013/may/godel-prize"
+    },
+    {
+      "title": "PQCrypto 2020 committee",
+      "url": "https://pqcrypto2020.inria.fr/committee/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

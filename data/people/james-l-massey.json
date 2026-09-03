@@ -1,0 +1,70 @@
+{
+  "id": "james-l-massey",
+  "type": "person",
+  "title": "James L. Massey",
+  "slug": "james-l-massey",
+  "name": "James L. Massey",
+  "born": null,
+  "died": null,
+  "era": "1960s-2013",
+  "tags": [
+    "cryptography",
+    "coding-theory",
+    "information-theory",
+    "academic-research"
+  ],
+  "summary": "American-Swiss information theorist and cryptographer whose research and teaching shaped coding theory and modern cryptology.",
+  "whyThisMatters": "Massey helped establish the intellectual link between information theory, coding theory and cryptography. His teaching and research influenced generations of engineers who build reliable and secure communications systems.",
+  "knownFor": [
+    "Coding theory",
+    "Cryptography education",
+    "Information theory"
+  ],
+  "sections": {
+    "overview": "<h2>Information theory and cryptology</h2><p>James L. Massey was an information theorist and cryptographer who held academic positions in the United States and Switzerland, including at ETH Zurich. His work addressed coding theory, information theory and cryptology, disciplines that share the goal of reasoning precisely about communication under noise, uncertainty and adversarial interference.</p><h2>Academic legacy</h2><p>Massey is remembered for influential scholarship and teaching in cryptology and coding theory. The ETH Zurich obituary notes his long connection to the institution; his professional legacy is reflected in the continuing use of information-theoretic methods in secure communications and cryptographic analysis.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1960s",
+      "event": "Begins an academic career in information theory and coding theory."
+    },
+    {
+      "date": "1970s",
+      "event": "Publishes widely on coding theory and cryptology."
+    },
+    {
+      "date": "1983",
+      "event": "Joins ETH Zurich as professor of electrical engineering."
+    },
+    {
+      "date": "2013",
+      "event": "Dies; ETH Zurich commemorates his contributions to information theory and cryptology."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "ETH Zurich: James L. Massey dies",
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2013/11/james-l-massey-dies.html"
+    },
+    {
+      "title": "IEEE Information Theory Society: James L. Massey",
+      "url": "https://ieeexplore.ieee.org/author/37270482800"
+    },
+    {
+      "title": "ETH Zurich Research Collection search: James L. Massey",
+      "url": "https://www.research-collection.ethz.ch/discover?query=James+L.+Massey"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

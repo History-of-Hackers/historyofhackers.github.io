@@ -1,0 +1,70 @@
+{
+  "id": "dorothy-t-blum",
+  "type": "person",
+  "title": "Dorothy T. Blum",
+  "slug": "dorothy-t-blum",
+  "name": "Dorothy T. Blum",
+  "born": 1924,
+  "died": 1980,
+  "era": "1940s-1980",
+  "tags": [
+    "cryptanalysis",
+    "computing",
+    "programming",
+    "signals-intelligence"
+  ],
+  "summary": "Cryptanalyst and computer-programming pioneer who led NSA efforts to apply computers to cryptologic problems.",
+  "whyThisMatters": "Blum is a bridge between codebreaking and computing: her career documents the early transformation of cryptanalytic work through software and electronic systems.",
+  "knownFor": [
+    "early cryptologic computing",
+    "computer programming",
+    "NSA cryptanalysis"
+  ],
+  "sections": {
+    "overview": "<p>Dorothy T. Blum was a cryptanalyst and computing pioneer at the National Security Agency and its predecessor organizations. Her work included building and leading programming efforts for cryptologic applications.</p><h2>Computing in cryptology</h2><p>NSA historical accounts identify Blum as an early leader in applying electronic computing and programming to cryptanalytic problems. This work helped make machine-assisted analysis a routine part of cryptologic practice rather than an exceptional wartime experiment.</p><h2>In memoriam</h2><p>Blum died in 1980. Her contribution deserves recognition alongside better-known hardware projects because reliable software, methods, and teams made those systems useful.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1944",
+      "event": "Begins cryptologic work in the U.S. Army security organization."
+    },
+    {
+      "date": "1950s",
+      "event": "Works on early computer programming for cryptologic applications."
+    },
+    {
+      "date": "1960s",
+      "event": "Leads NSA programming activity."
+    },
+    {
+      "date": "1980",
+      "event": "Dies."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA women in cryptologic history",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/1000/"
+    },
+    {
+      "title": "NSA: Historical Figures and Women in Cryptologic History",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/1000/"
+    },
+    {
+      "title": "NSA: Cryptologic Hall of Honor and historical records",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

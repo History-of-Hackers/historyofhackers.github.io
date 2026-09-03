@@ -1,0 +1,67 @@
+{
+  "id": "marie-meyer",
+  "type": "person",
+  "title": "Marie Meyer",
+  "slug": "marie-meyer",
+  "name": "Marie Meyer",
+  "born": null,
+  "died": null,
+  "era": "1940s-1970s",
+  "tags": [
+    "cryptanalysis",
+    "venona",
+    "linguistics",
+    "russian",
+    "signals-intelligence"
+  ],
+  "summary": "Linguist and cryptanalyst whose early work helped recover parts of the VENONA codebook.",
+  "whyThisMatters": "Meyer belongs in security history because cryptologic breakthroughs often relied on specialist language work that received far less public attention than machines or famous operations.",
+  "knownFor": [
+    "VENONA codebook recovery",
+    "Russian linguistics",
+    "cryptologic analysis"
+  ],
+  "sections": {
+    "overview": "<p>Marie Meyer was a language scholar with training in Latin and knowledge of several European languages. She joined the U.S. cryptologic service during World War II and later worked on the Soviet, or VENONA, problem.</p><h2>Language work and VENONA</h2><p>NSA historical material credits Meyer with some initial recoveries of the VENONA codebook and records that she taught Russian-language classes while continuing work on the Russian problem. This was analytical work in which linguistic evidence could guide cryptanalytic progress.</p><h2>Legacy</h2><p>Her career is an important record of the often-unseen linguists whose subject knowledge made signals intelligence usable.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1943",
+      "event": "Likely joins the Signal Security Agency as a linguist."
+    },
+    {
+      "date": "1946",
+      "event": "Moves to the VENONA problem after Russian study."
+    },
+    {
+      "date": "Postwar",
+      "event": "Continues Russian-problem work and language instruction at NSA."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA biography of Marie Meyer",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/Historical-Figures-View/Article/1620935/marie-meyer/"
+    },
+    {
+      "title": "NSA: Historical Figures and Women in Cryptologic History",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/1000/"
+    },
+    {
+      "title": "NSA: Cryptologic Hall of Honor and historical records",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

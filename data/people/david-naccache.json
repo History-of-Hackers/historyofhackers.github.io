@@ -1,0 +1,70 @@
+{
+  "id": "david-naccache",
+  "type": "person",
+  "title": "David Naccache",
+  "slug": "david-naccache",
+  "name": "David Naccache",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "embedded-security",
+    "forensics",
+    "academic-research"
+  ],
+  "summary": "French cryptographer and ENS researcher whose work spans public-key cryptography, embedded-system security, code security and digital forensics.",
+  "whyThisMatters": "Naccache's work joins cryptographic construction with the realities of constrained devices and physical attack surfaces. That bridge matters wherever cryptography is implemented in smart cards, mobile devices and embedded products.",
+  "knownFor": [
+    "Public-key cryptography",
+    "Embedded-system security",
+    "Digital forensics"
+  ],
+  "sections": {
+    "overview": "<h2>Research and practice</h2><p>David Naccache heads the Information Security Group at ENS Paris. The group's profile describes research interests including code security, forensics and vulnerability detection, alongside a career in industry at Gemplus, Philips and Thomson.</p><h2>Cryptography for embedded systems</h2><p>Naccache has published on practical public-key constructions, signatures and the security of embedded systems. ENS's CASCADE research material identifies work on cryptography for embedded-system security, including privacy and integrity of code and confidence in cryptographic implementations.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1997",
+      "event": "Co-authors a public-key cryptosystem paper with Jacques Stern."
+    },
+    {
+      "date": "2001",
+      "event": "Co-authors work on monotone signatures for practical deployment contexts."
+    },
+    {
+      "date": "2007",
+      "event": "Participates in CASCADE research on cryptography for embedded-system security."
+    },
+    {
+      "date": "2010s",
+      "event": "Heads ENS's Information Security Group."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "ENS Information Security Group: David Naccache",
+      "url": "https://securite.di.ens.fr/en/david-naccache/"
+    },
+    {
+      "title": "ENS CASCADE project: embedded-system cryptography",
+      "url": "https://www.di.ens.fr/david.pointcheval/RAWeb/RA2009/cascade/uid76.html"
+    },
+    {
+      "title": "Jacques Stern publications: Naccache collaborations",
+      "url": "https://www.di.ens.fr/~stern/publications.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}
