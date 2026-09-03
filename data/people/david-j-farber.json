@@ -1,0 +1,79 @@
+{
+  "id": "david-j-farber",
+  "type": "person",
+  "title": "David J. Farber",
+  "slug": "david-j-farber",
+  "name": "David J. Farber",
+  "born": 1934,
+  "died": 2026,
+  "era": "1960s-2026",
+  "tags": [
+    "computer-networking",
+    "internet-history",
+    "research-networks",
+    "academic-research",
+    "public-policy"
+  ],
+  "summary": "American computer scientist and educator whose work contributed to computer communications, research networking, and internet policy.",
+  "whyThisMatters": "Farber helped connect technical network research with education and public policy, shaping institutions and infrastructure that made large-scale networked computing possible.",
+  "knownFor": [
+    "Computer communications",
+    "CSNET and NSFNET",
+    "Gigabit Network Testbed Initiative"
+  ],
+  "sections": {
+    "overview": "<p>David J. Farber was an American computer scientist and professor whose career included programming languages, computer communications, research networks, and internet policy. The University of Pennsylvania credits him with work on early distributed systems and with leadership around CSNET, NSFNET, and high-speed networking initiatives.</p><h2>Network-building legacy</h2><p>Farber’s career illustrates how standards, research networks, and public institutions jointly formed the internet. He also served as the U.S. Federal Communications Commission’s Chief Technologist from 2000 to 2001.</p><h2>In memoriam</h2><p>Farber died in 2026. His work remains part of the technical and civic history of networked computing.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1934",
+      "event": "Born in the United States."
+    },
+    {
+      "date": "1960s",
+      "event": "Works at Bell Laboratories and later RAND."
+    },
+    {
+      "date": "1970s",
+      "event": "Helps lead work on an operational distributed computer system."
+    },
+    {
+      "date": "1980s",
+      "event": "Contributes to organizing CSNET and NSFNET."
+    },
+    {
+      "date": "2000",
+      "event": "Serves as FCC Chief Technologist."
+    },
+    {
+      "date": "2026",
+      "event": "Dies; Penn publishes a tribute to his career."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Pennsylvania: David J. Farber obituary",
+      "url": "https://almanac.upenn.edu/articles/david-j-farber-computer-information-science"
+    },
+    {
+      "title": "Penn Archives: After ENIAC",
+      "url": "https://archives.upenn.edu/exhibits/penn-history/after-eniac/part-10"
+    },
+    {
+      "title": "Penn Today: David Farber",
+      "url": "https://penntoday.upenn.edu/1998-02-26/latest-news/david-farber"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "george-stibitz",
+  "type": "person",
+  "title": "George Stibitz",
+  "slug": "george-stibitz",
+  "name": "George Stibitz",
+  "born": 1904,
+  "died": 1995,
+  "era": "1936-1995",
+  "tags": [
+    "relay computing",
+    "remote computing",
+    "bell labs",
+    "binary arithmetic"
+  ],
+  "summary": "Bell Labs mathematician whose relay calculators and 1940 remote demonstration were important landmarks in the history of digital computation.",
+  "whyThisMatters": "Stibitz’s relay calculators showed that telephone relays could perform binary arithmetic, and his 1940 demonstration is an early, well-documented instance of remote computer access.",
+  "knownFor": [
+    "relay computing",
+    "remote computing",
+    "bell labs",
+    "binary arithmetic"
+  ],
+  "sections": {
+    "overview": "<p>George Stibitz worked at Bell Laboratories on relay-based calculation. His home-built “Model K” demonstrated binary addition; Bell Labs later developed the Complex Number Calculator from related relay techniques.</p><h2>Remote operation</h2><p>At an American Mathematical Society meeting in 1940, attendees used a Teletype connection to operate the Complex Number Calculator in New York from Dartmouth. The event is a significant early example of remote computing.</p><h2>In memoriam</h2><p>Stibitz died in 1995. His papers and artifacts continue to support research on the formative period of digital computing.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1904-04-30",
+      "event": "Born in York, Pennsylvania."
+    },
+    {
+      "date": "1936",
+      "event": "Builds the relay-based Model K adder."
+    },
+    {
+      "date": "1940",
+      "event": "Demonstrates remote operation of the Complex Number Calculator."
+    },
+    {
+      "date": "1995-01-31",
+      "event": "Dies in Hanover, New Hampshire."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Computer History Museum: George Stibitz",
+      "url": "https://www.computerhistory.org/revolution/birth-of-the-computer/4/85"
+    },
+    {
+      "title": "Dartmouth Libraries: George R. Stibitz papers",
+      "url": "https://archives-manuscripts.dartmouth.edu/agents/people/768"
+    },
+    {
+      "title": "IEEE Computer Society: George Stibitz",
+      "url": "https://www.computer.org/profiles/george-stibitz"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

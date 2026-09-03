@@ -1,0 +1,79 @@
+{
+  "id": "victor-s-miller",
+  "type": "person",
+  "title": "Victor S. Miller",
+  "slug": "victor-s-miller",
+  "name": "Victor S. Miller",
+  "born": 1947,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "cryptography",
+    "elliptic-curve-cryptography",
+    "mathematics",
+    "academic-research",
+    "public-key-cryptography"
+  ],
+  "summary": "American mathematician and cryptographer who independently introduced elliptic curves as a basis for public-key cryptography.",
+  "whyThisMatters": "Miller’s 1985 elliptic-curve proposal became part of the technical basis of ECC, a widely deployed family of public-key systems.",
+  "knownFor": [
+    "Elliptic-curve cryptography",
+    "Use of elliptic curves in cryptography",
+    "Miller’s algorithm"
+  ],
+  "sections": {
+    "overview": "<p>Victor S. Miller is an American mathematician and cryptographer. His 1985 work proposed elliptic curves for public-key cryptography, independently of Neal Koblitz.</p><h2>Cryptographic legacy</h2><p>Elliptic-curve cryptography became an important approach to public-key design. Miller’s research also gave rise to the pairing computation commonly known as Miller’s algorithm.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1947",
+      "event": "Born in the United States."
+    },
+    {
+      "date": "1975",
+      "event": "Completes a PhD in mathematics at Harvard University."
+    },
+    {
+      "date": "1985",
+      "event": "Publishes “Use of elliptic curves in cryptography.”"
+    },
+    {
+      "date": "2004",
+      "event": "Publishes work on efficient calculation of the Weil pairing."
+    },
+    {
+      "date": "2013",
+      "event": "Named an IACR Fellow."
+    },
+    {
+      "date": "2020",
+      "event": "Receives the Levchin Prize in Real World Cryptography."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Springer: Use of elliptic curves in cryptography",
+      "url": "https://link.springer.com/chapter/10.1007/3-540-39799-X_31"
+    },
+    {
+      "title": "Stanford cryptography archive: Victor Miller papers",
+      "url": "https://crypto.stanford.edu/miller/"
+    },
+    {
+      "title": "IACR Fellows",
+      "url": "https://iacr.org/fellows/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

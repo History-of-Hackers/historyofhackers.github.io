@@ -1,0 +1,71 @@
+{
+  "id": "john-mauchly",
+  "type": "person",
+  "title": "John W. Mauchly",
+  "slug": "john-mauchly",
+  "name": "John W. Mauchly",
+  "born": 1907,
+  "died": 1980,
+  "era": "1941-1980",
+  "tags": [
+    "eniac",
+    "univac",
+    "electronic computing",
+    "university of pennsylvania"
+  ],
+  "summary": "American physicist and computing pioneer who worked with J. Presper Eckert on ENIAC and later on the Eckert-Mauchly Computer Corporation’s systems.",
+  "whyThisMatters": "Mauchly’s proposals and collaboration with Eckert were central to ENIAC and to early commercial computing. The history also depends on the programmers, engineers, and institutions that made those machines usable.",
+  "knownFor": [
+    "eniac",
+    "univac",
+    "electronic computing",
+    "university of pennsylvania"
+  ],
+  "sections": {
+    "overview": "<p>John W. Mauchly was a physicist whose interest in large-scale calculation helped lead to the ENIAC project at the University of Pennsylvania’s Moore School. He worked closely with J. Presper Eckert on ENIAC and on later ventures including the Eckert-Mauchly Computer Corporation.</p><h2>From ENIAC to commercial systems</h2><p>The team’s work moved from wartime calculation toward commercial computer development. Its record should be read together with the contributions of ENIAC’s programmers and the broader Moore School community.</p><h2>In memoriam</h2><p>Mauchly died in 1980. His archival papers preserve documents from the ENIAC, EDVAC, and Moore School periods.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1907-08-30",
+      "event": "Born in Cincinnati, Ohio."
+    },
+    {
+      "date": "1942",
+      "event": "Proposes an all-electronic calculating machine."
+    },
+    {
+      "date": "1943",
+      "event": "ENIAC construction contract is signed at the Moore School."
+    },
+    {
+      "date": "1980-01-08",
+      "event": "Dies in Ambler, Pennsylvania."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Pennsylvania: John W. Mauchly papers",
+      "url": "https://findingaids.library.upenn.edu/records/UPENN_RBML_PUSP.MS.COLL.925"
+    },
+    {
+      "title": "University of Pennsylvania: ENIAC history",
+      "url": "https://archives.upenn.edu/exhibits/penn-history/after-eniac/"
+    },
+    {
+      "title": "Computer History Museum: ENIAC overview",
+      "url": "https://computerhistory.org/wp-content/uploads/2019/08/2011_Core.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

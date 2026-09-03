@@ -1,0 +1,71 @@
+{
+  "id": "jonathan-mayer",
+  "type": "person",
+  "title": "Jonathan Mayer",
+  "slug": "jonathan-mayer",
+  "name": "Jonathan Mayer",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "privacy",
+    "web-security",
+    "technology-policy",
+    "tracking",
+    "academic-research"
+  ],
+  "summary": "Computer scientist and lawyer whose work examines web tracking, consumer privacy, surveillance, and the interaction of technical systems with public policy.",
+  "whyThisMatters": "Mayer’s work treats security and privacy failures as both technical and institutional problems, showing why users’ choices need measurable, enforceable system behavior.",
+  "knownFor": [
+    "Web tracking research",
+    "Do Not Track research",
+    "Technology, law, and public policy"
+  ],
+  "sections": {
+    "overview": "<p>Jonathan Mayer is a computer scientist and lawyer at Princeton University whose research studies technology and law, with emphasis on security, consumer privacy, network management, surveillance, and online speech.</p><h2>Web privacy and tracking</h2><p>His research and technical work on web tracking helped connect browser-level observations to questions of user consent and enforcement. Princeton describes work with Arvind Narayanan on early Do Not Track software and policy proposals.</p><h2>Bridging systems and institutions</h2><p>Mayer’s career places computer-security questions in their legal and policy setting, examining how systems create observable risk and how institutions respond to it.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2009",
+      "event": "Graduates from Princeton University."
+    },
+    {
+      "date": "2010s",
+      "event": "Researches web tracking, security, privacy, and technology policy."
+    },
+    {
+      "date": "2018",
+      "event": "Joins Princeton’s faculty after completing a Ph.D. in computer science and J.D. at Stanford."
+    },
+    {
+      "date": "2020s",
+      "event": "Serves in public-technology advisory roles and continues Princeton research."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Princeton Computer Science: Jonathan Mayer",
+      "url": "https://www.cs.princeton.edu/people/profile/jrmayer"
+    },
+    {
+      "title": "Princeton Engineering: Mayer combines computer science, law, and policy",
+      "url": "https://engineering.princeton.edu/news/2018/09/07/mayer-combines-expertise-computer-science-law-and-public-policy"
+    },
+    {
+      "title": "Stanford FSI: Cyber fellow Jonathan Mayer",
+      "url": "https://fsi.stanford.edu/news/cyber_fellow_jonathan_mayer_takes_the_true_interdisciplinary_path_20140618"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

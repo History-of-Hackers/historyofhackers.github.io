@@ -1,0 +1,71 @@
+{
+  "id": "andreas-pfitzmann",
+  "type": "person",
+  "title": "Andreas Pfitzmann",
+  "slug": "andreas-pfitzmann",
+  "name": "Andreas Pfitzmann",
+  "born": null,
+  "died": 2010,
+  "era": "1980s-2010",
+  "tags": [
+    "privacy",
+    "privacy-enhancing-technologies",
+    "anonymity",
+    "computer-security",
+    "academic-research"
+  ],
+  "summary": "German computer-security and privacy researcher whose work helped shape privacy-enhancing technologies and privacy protection goals.",
+  "whyThisMatters": "Pfitzmann helped articulate privacy as a technical security objective with explicit properties and engineering consequences.",
+  "knownFor": [
+    "Privacy-enhancing technologies",
+    "Privacy protection goals",
+    "Security and privacy research at TU Dresden"
+  ],
+  "sections": {
+    "overview": "<p>Andreas Pfitzmann was a German computer scientist known for foundational work in privacy and computer security. He became a professor at Technische Universität Dresden in 1993 and contributed to the development of privacy-enhancing technologies and privacy-protection concepts.</p><h2>Making privacy an engineering goal</h2><p>His work addressed anonymity, unlinkability, and related protection goals in ways that helped give privacy engineering a more precise vocabulary. TU Dresden’s memorial notes the influence of this work on privacy protection goals beyond confidentiality, integrity, and availability.</p><h2>In memoriam</h2><p>Pfitzmann died in 2010. His scholarship and mentorship continue to influence people building systems that protect against unnecessary observation and linkability.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1958",
+      "event": "Born in Stuttgart, Germany."
+    },
+    {
+      "date": "1993",
+      "event": "Appointed professor at Technische Universität Dresden."
+    },
+    {
+      "date": "1990s-2000s",
+      "event": "Publishes influential work on privacy protection goals and privacy-enhancing technologies."
+    },
+    {
+      "date": "2010",
+      "event": "Dies; TU Dresden publishes a memorial recognizing his contributions."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "TU Dresden: memorial for Professor Andreas Pfitzmann",
+      "url": "https://tu-dresden.de/tu-dresden/newsportal/news/pfitzmann"
+    },
+    {
+      "title": "TU Dresden memorial document",
+      "url": "https://dud.inf.tu-dresden.de/Nachruf.pdf"
+    },
+    {
+      "title": "Pfitzmann and Hansen: terminology for privacy by data minimization",
+      "url": "https://dud.inf.tu-dresden.de/literatur/Anon_Terminology_v0.34.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

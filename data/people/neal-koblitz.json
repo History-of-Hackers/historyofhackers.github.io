@@ -1,0 +1,79 @@
+{
+  "id": "neal-koblitz",
+  "type": "person",
+  "title": "Neal I. Koblitz",
+  "slug": "neal-koblitz",
+  "name": "Neal I. Koblitz",
+  "born": 1948,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "cryptography",
+    "elliptic-curve-cryptography",
+    "number-theory",
+    "academic-research",
+    "mathematics"
+  ],
+  "summary": "American mathematician and cryptographer, independently associated with the introduction of elliptic-curve methods to public-key cryptography.",
+  "whyThisMatters": "Koblitz’s elliptic-curve proposal opened a major line of practical public-key cryptography, later used widely in secure protocols and constrained computing environments.",
+  "knownFor": [
+    "Elliptic-curve cryptography",
+    "Hyperelliptic-curve cryptography",
+    "Number theory and cryptography"
+  ],
+  "sections": {
+    "overview": "<p>Neal I. Koblitz is a mathematician at the University of Washington whose research spans number theory and cryptography. University of Washington material identifies him as a co-inventor of elliptic-curve cryptography.</p><h2>Cryptographic legacy</h2><p>In 1985, Koblitz proposed using elliptic curves in public-key cryptography. That work, independently paralleled by Victor Miller, became a central foundation of elliptic-curve cryptography.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1948",
+      "event": "Born in the United States."
+    },
+    {
+      "date": "1974",
+      "event": "Receives a PhD in mathematics from Princeton University."
+    },
+    {
+      "date": "1979",
+      "event": "Joins the University of Washington."
+    },
+    {
+      "date": "1985",
+      "event": "Publishes an elliptic-curve cryptography proposal."
+    },
+    {
+      "date": "2009",
+      "event": "Receives the RSA Award for Excellence in Mathematics."
+    },
+    {
+      "date": "2021",
+      "event": "Receives the Levchin Prize in Real World Cryptography."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Washington Mathematics: Neal I. Koblitz",
+      "url": "https://math.washington.edu/people/neal-i-koblitz"
+    },
+    {
+      "title": "University of Washington Honors: Neal Koblitz",
+      "url": "https://honors.uw.edu/faculty/faculty-list/faculty-details/?instructor_id=194"
+    },
+    {
+      "title": "Neal Koblitz personal academic site",
+      "url": "https://sites.math.washington.edu/~koblitz/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

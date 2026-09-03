@@ -1,0 +1,79 @@
+{
+  "id": "david-p-reed",
+  "type": "person",
+  "title": "David P. Reed",
+  "slug": "david-p-reed",
+  "name": "David P. Reed",
+  "born": 1952,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "computer-networking",
+    "internet-architecture",
+    "end-to-end-principle",
+    "distributed-systems",
+    "academic-research"
+  ],
+  "summary": "American computer scientist and network architect associated with the end-to-end argument and early internet protocol work.",
+  "whyThisMatters": "Reed\u2019s work articulated architectural principles that shaped the open internet, including where reliability and security functions belong in a networked system.",
+  "knownFor": [
+    "End-to-end argument",
+    "Internet architecture",
+    "Distributed systems"
+  ],
+  "sections": {
+    "overview": "<p>David P. Reed is an American computer scientist whose work spans computer networking, distributed systems, and internet architecture. He co-authored the end-to-end argument, a highly influential account of how functions should be placed in layered communication systems.</p><h2>Architectural legacy</h2><p>The end-to-end argument informed the design of internet protocols and remains a reference point in debates about security, reliability, privacy, and control in networked systems. Reed\u2019s career also included work on early network protocols and interactive computing.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1952",
+      "event": "Born in the United States."
+    },
+    {
+      "date": "1970s",
+      "event": "Studies computer science at the Massachusetts Institute of Technology."
+    },
+    {
+      "date": "1978",
+      "event": "Co-authors the end-to-end argument with Jerome Saltzer and David Clark."
+    },
+    {
+      "date": "1980s",
+      "event": "Works on distributed systems and network architecture."
+    },
+    {
+      "date": "1990s",
+      "event": "Continues work and public writing on internet architecture."
+    },
+    {
+      "date": "Present",
+      "event": "Remains a referenced voice in discussions of network design."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "End-to-End Arguments in System Design",
+      "url": "https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf"
+    },
+    {
+      "title": "David P. Reed: personal academic archive",
+      "url": "https://www.reed.com/dprframe.html"
+    },
+    {
+      "title": "ACM Digital Library: End-to-End Arguments in System Design",
+      "url": "https://dl.acm.org/doi/10.1145/357401.357402"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

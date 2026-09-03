@@ -1,0 +1,79 @@
+{
+  "id": "frank-rowlett",
+  "type": "person",
+  "title": "Frank B. Rowlett",
+  "slug": "frank-rowlett",
+  "name": "Frank B. Rowlett",
+  "born": 1908,
+  "died": 1998,
+  "era": "1930s-1998",
+  "tags": [
+    "cryptanalysis",
+    "sigaba",
+    "purple",
+    "signals-intelligence",
+    "communications-security"
+  ],
+  "summary": "American cryptanalyst and cryptologist whose work included Japanese diplomatic systems and the SIGABA cipher machine.",
+  "whyThisMatters": "Rowlett worked on both breaking foreign systems and protecting U.S. communications. That dual role is an early example of the defensive and analytical disciplines that modern security teams must combine.",
+  "knownFor": [
+    "Japanese RED and PURPLE systems",
+    "SIGABA",
+    "Signal Intelligence Service"
+  ],
+  "sections": {
+    "overview": "<p>Frank B. Rowlett joined the U.S. Army Signal Intelligence Service in 1930 as one of William F. Friedman’s first junior cryptanalysts. He worked with colleagues on Japanese diplomatic machine systems, including RED and PURPLE.</p><h2>Offense and defense in cryptology</h2><p>Alongside cryptanalysis, Rowlett helped develop SIGABA with the U.S. Navy. NSA historical material describes SIGABA as never solved by the Axis during the Second World War, making his career an important bridge between evaluating adversary systems and building secure national systems.</p><h2>In memoriam</h2><p>Rowlett died in 1998. NSA’s Rowlett Award preserves his name in recognition of cybersecurity work.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1908",
+      "event": "Born in Rose Hill, Virginia, United States."
+    },
+    {
+      "date": "1930",
+      "event": "Joins the Signal Intelligence Service."
+    },
+    {
+      "date": "Mid-1930s",
+      "event": "Helps solve the Japanese diplomatic RED system."
+    },
+    {
+      "date": "1939–1940",
+      "event": "Plays a major role in the solution of PURPLE."
+    },
+    {
+      "date": "1966",
+      "event": "Retires from U.S. federal service."
+    },
+    {
+      "date": "1998",
+      "event": "Dies at age 90."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA: Frank B. Rowlett biography",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/Historical-Figures-View/Article/1623037/frank-b-rowlett/"
+    },
+    {
+      "title": "NSA: The Magic of Purple",
+      "url": "https://www.nsa.gov/History/National-Cryptologic-Museum/Exhibits-Artifacts/Exhibit-View/Article/2718925/the-magic-of-purple/"
+    },
+    {
+      "title": "NSA: Frank B. Rowlett Awards",
+      "url": "https://www.nsa.gov/Cybersecurity/Rowlett-Awards/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

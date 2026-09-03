@@ -1,0 +1,79 @@
+{
+  "id": "dillwyn-knox",
+  "type": "person",
+  "title": "Alfred Dillwyn Knox",
+  "slug": "dillwyn-knox",
+  "name": "Alfred Dillwyn Knox",
+  "born": 1884,
+  "died": 1943,
+  "era": "1910s-1943",
+  "tags": [
+    "cryptanalysis",
+    "bletchley-park",
+    "enigma",
+    "classics",
+    "machine-ciphers"
+  ],
+  "summary": "British classicist and cryptanalyst who helped build the prewar and wartime foundations of British work against Enigma systems.",
+  "whyThisMatters": "Knox’s work connects linguistic analysis, manual cryptanalysis, and the institutional development of Bletchley Park. It is a reminder that security research has long required more than one technical discipline.",
+  "knownFor": [
+    "Enigma cryptanalysis",
+    "Government Code and Cypher School",
+    "Bletchley Park"
+  ],
+  "sections": {
+    "overview": "<p>Alfred Dillwyn “Dilly” Knox was a British classicist and cryptanalyst who worked for the Admiralty’s Room 40 and later the Government Code and Cypher School. During the Second World War he led a Bletchley Park section focused on particular Enigma variants.</p><h2>Legacy at Bletchley Park</h2><p>GCHQ historical material describes Knox’s role in the development of an Enigma-focused section at Bletchley Park. His methods and mentoring formed part of the wider cryptanalytic effort that linked human insight, intercepts, and machinery.</p><h2>In memoriam</h2><p>Knox died in 1943 while the war was still under way. His contribution is remembered as part of the intellectual foundation of British wartime cryptanalysis.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1884",
+      "event": "Born in Oxford, United Kingdom."
+    },
+    {
+      "date": "1914",
+      "event": "Joins Admiralty cryptanalytic work during the First World War."
+    },
+    {
+      "date": "1920s",
+      "event": "Works for the Government Code and Cypher School."
+    },
+    {
+      "date": "1939",
+      "event": "Moves with GC&CS to Bletchley Park."
+    },
+    {
+      "date": "1940",
+      "event": "Leads a section working against Enigma variants."
+    },
+    {
+      "date": "1943",
+      "event": "Dies in London."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "GCHQ: Alfred Dillwyn “Dilly” Knox",
+      "url": "https://www.gchq.gov.uk/person/dilly-knox"
+    },
+    {
+      "title": "Bletchley Park: Dilly Knox biography",
+      "url": "https://bletchleypark.org.uk/wp-content/uploads/record_attachments/1840.pdf"
+    },
+    {
+      "title": "Imperial War Museums: Bletchley Park history",
+      "url": "https://www.iwm.org.uk/history/how-the-codebreakers-of-bletchley-park-helped-win-the-war"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

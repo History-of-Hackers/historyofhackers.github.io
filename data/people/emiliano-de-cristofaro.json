@@ -1,0 +1,71 @@
+{
+  "id": "emiliano-de-cristofaro",
+  "type": "person",
+  "title": "Emiliano De Cristofaro",
+  "slug": "emiliano-de-cristofaro",
+  "name": "Emiliano De Cristofaro",
+  "born": null,
+  "died": null,
+  "era": "2010s-Present",
+  "tags": [
+    "privacy",
+    "applied-cryptography",
+    "machine-learning-privacy",
+    "cybersecurity",
+    "academic-research"
+  ],
+  "summary": "Computer-security and privacy researcher whose work explores privacy-preserving systems, data sharing, and the privacy risks of machine learning.",
+  "whyThisMatters": "De Cristofaro’s research connects cryptographic tools to practical privacy problems, including collaborative threat mitigation and machine-learning systems.",
+  "knownFor": [
+    "Privacy-preserving data sharing",
+    "Privacy and machine learning",
+    "Security and privacy research leadership"
+  ],
+  "sections": {
+    "overview": "<p>Emiliano De Cristofaro is a computer-security and privacy researcher and professor at the University of California, Riverside. His work addresses privacy-preserving technologies, applied cryptography, and the ways contemporary data-driven systems affect privacy.</p><h2>Privacy-preserving collaboration</h2><p>His work includes approaches for collaborative predictive blacklisting and other forms of data sharing that retain security benefits while limiting disclosure. This is a recurring engineering problem in threat intelligence and network defense.</p><h2>Research leadership</h2><p>Before joining UC Riverside, he worked at UCL, where he directed an Academic Centre of Excellence in Cyber Security Research and headed the Information Security Research Group.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2011",
+      "event": "Completes doctoral research at the University of California, Irvine."
+    },
+    {
+      "date": "2013",
+      "event": "Joins University College London after work at Xerox PARC."
+    },
+    {
+      "date": "2013-2023",
+      "event": "Leads and contributes to security and privacy research at UCL."
+    },
+    {
+      "date": "2023",
+      "event": "Starts the Security and Privacy Advanced Research Lab at UC Riverside."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Emiliano De Cristofaro: biography",
+      "url": "https://emilianodc.com/"
+    },
+    {
+      "title": "De Cristofaro et al.: Privacy-Friendly Collaboration for Cyber Threat Mitigation",
+      "url": "https://arxiv.org/abs/1403.2123"
+    },
+    {
+      "title": "De Cristofaro: An Overview of Privacy in Machine Learning",
+      "url": "https://arxiv.org/abs/2005.08679"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

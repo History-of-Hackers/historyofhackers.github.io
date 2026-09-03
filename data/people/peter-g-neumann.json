@@ -9,51 +9,37 @@
   "era": "1960s-Present",
   "tags": [
     "computer-security",
-    "system-safety",
     "reliability",
+    "risks-forum",
     "multics",
-    "risk-analysis"
+    "public-policy"
   ],
-  "summary": "Computer-security and reliability researcher associated with SRI International, known for work on trustworthy systems, the RISKS Forum, and analysis of computer-related risk.",
-  "whyThisMatters": "Neumann's work joins secure-system design with reliability, safety, and societal risk. It has helped keep attention on the ways technical failures and security failures can interact.",
+  "summary": "Computer-security and reliability researcher whose RISKS Forum made failures, misuse, and system trustworthiness a shared public conversation.",
+  "whyThisMatters": "Neumann connected technical security, reliability, safety, and public policy over decades. His work on Multics, high-assurance systems, and the RISKS Forum made computer-related risk a sustained community conversation.",
   "knownFor": [
-    "Secure and survivable systems research",
-    "RISKS Forum",
+    "Multics development",
+    "ACM RISKS Forum",
     "Computer-Related Risks"
   ],
   "sections": {
-    "overview": "<p>Peter G. Neumann is a computer scientist associated with SRI International's Computer Science Laboratory. His research interests include security, survivability, reliability, safety, formal methods, and software engineering.</p><h2>Secure systems and risk</h2><p>Neumann worked on secure-system architectures and, at SRI, contributed to research on intrusion detection and survivable systems. NIST recognized his long-term contributions to computer-security solutions with the 2002 Computer System Security Award.</p><h2>Public discussion of failures</h2><p>He has also moderated the ACM RISKS Forum and authored <em>Computer-Related Risks</em>, helping sustain a public technical record of computer-system failures, hazards, and security concerns.</p>"
+    "overview": "<p>Peter G. Neumann is a computer scientist at SRI International whose work spans system security, reliability, survivability, safety, and public policy. Before joining SRI's Computer Science Laboratory in 1971, he worked at Bell Labs and participated in the Multics effort.</p><h2>Making risk discussable</h2><p>Since 1985, Neumann has moderated the ACM RISKS Forum, an enduring forum for reports and analysis of failures and misuse involving computer systems. His 1995 book <em>Computer-Related Risks</em> brought many of these concerns together for a wider technical audience.</p><h2>Security as a systems property</h2><p>Neumann stresses that security is inseparable from dependability, human factors, safety, and governance. That systems view has influenced high-assurance computing and public discussion of voting technology, cryptography policy, and critical infrastructure.</p>"
   },
   "timeline": [
     {
-      "date": "1971",
-      "event": "Joins SRI International's Computer Science Laboratory."
+      "date": "1960s",
+      "event": "Works at Bell Labs and contributes to Multics."
     },
     {
-      "date": "1979",
-      "event": "Coauthors work on the foundations of a provably secure operating system."
+      "date": "1971",
+      "event": "Joins SRI International Computer Science Laboratory."
+    },
+    {
+      "date": "1985",
+      "event": "Begins moderating the ACM RISKS Forum."
     },
     {
       "date": "1995",
-      "event": "Computer-Related Risks is published."
-    },
-    {
-      "date": "2002",
-      "event": "Receives the NIST/NSA Computer System Security Award."
-    }
-  ],
-  "sources": [
-    {
-      "title": "SRI International: Dr. Peter Neumann",
-      "url": "https://www.csl.sri.com/people/neumann/"
-    },
-    {
-      "title": "NIST: Neumann Receives Computer System Security Award",
-      "url": "https://www.nist.gov/news-events/news/2002/06/neumann-receives-computer-system-security-award"
-    },
-    {
-      "title": "Peter G. Neumann: biographical background",
-      "url": "https://www.csl.sri.com/~neumann/house00.html"
+      "event": "Publishes <em>Computer-Related Risks</em>."
     }
   ],
   "relatedPeople": [],
@@ -61,11 +47,25 @@
   "relatedTools": [],
   "relatedVulnerabilities": [],
   "relatedEvents": [],
+  "sources": [
+    {
+      "title": "SRI: Peter Neumann home page",
+      "url": "https://www.csl.sri.com/~neumann/"
+    },
+    {
+      "title": "ACM: testimony and biographical background",
+      "url": "https://www.acm.org/binaries/content/assets/public-policy/usacm/privacy-and-security/e-verify/eevs_testimony_peter_neumann_usacm.pdf"
+    },
+    {
+      "title": "Stanford: Peter G. Neumann biography",
+      "url": "https://web.stanford.edu/class/ee380/Abstracts/191016.html"
+    }
+  ],
   "editorial": {
     "verified": true,
     "sourcesCount": 3,
     "lastReviewed": "2026-09-02",
     "reviewStatus": "PUBLISHED",
-    "reviewer": "codex-academics-2026-09-02"
+    "reviewer": "codex-2026-09-02"
   }
 }

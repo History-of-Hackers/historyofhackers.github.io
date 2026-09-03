@@ -1,0 +1,71 @@
+{
+  "id": "herman-goldstine",
+  "type": "person",
+  "title": "Herman Goldstine",
+  "slug": "herman-goldstine",
+  "name": "Herman Goldstine",
+  "born": 1913,
+  "died": 2004,
+  "era": "1942-2004",
+  "tags": [
+    "eniac",
+    "edvac",
+    "computing history",
+    "mathematics"
+  ],
+  "summary": "American mathematician and administrator who connected wartime ballistics work, the ENIAC project, and the EDVAC discussions that shaped early electronic computing.",
+  "whyThisMatters": "Goldstine was an important institutional and intellectual link among the Army’s Ballistic Research Laboratory, the Moore School, and later stored-program computer work. His papers and histories remain valuable primary and secondary records.",
+  "knownFor": [
+    "eniac",
+    "edvac",
+    "computing history",
+    "mathematics"
+  ],
+  "sections": {
+    "overview": "<p>Herman Goldstine was a mathematician who served as liaison between the U.S. Army’s Ballistic Research Laboratory and the University of Pennsylvania’s Moore School during the ENIAC project. He later participated in EDVAC discussions and worked with John von Neumann at the Institute for Advanced Study.</p><h2>Documenting early computing</h2><p>Goldstine also wrote influential historical accounts of the period. Those accounts are valuable evidence, but should be read alongside institutional archives and the recollections of programmers and other participants.</p><h2>In memoriam</h2><p>Goldstine died in 2004. His archival record remains an important route into the institutional history of ENIAC and early electronic computation.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1913-09-13",
+      "event": "Born in Chicago, Illinois."
+    },
+    {
+      "date": "1942",
+      "event": "Joins the Army’s Ballistic Research Laboratory as a liaison officer."
+    },
+    {
+      "date": "1943",
+      "event": "Helps bring the ENIAC proposal to Army decision-makers."
+    },
+    {
+      "date": "2004-06-16",
+      "event": "Dies in Bryn Mawr, Pennsylvania."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Pennsylvania Archives: ENIAC Trial Exhibits",
+      "url": "https://archives.upenn.edu/collections/finding-aid/upd8_12/"
+    },
+    {
+      "title": "Computer History Museum: Herman Goldstine oral history",
+      "url": "https://archive.computerhistory.org/resources/access/text/2012/12/102657953-05-01-acc.pdf"
+    },
+    {
+      "title": "Institute for Advanced Study: IAS Computer Project Records",
+      "url": "https://sirismm.si.edu/EADpdfs/NMAH.AC.0401.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

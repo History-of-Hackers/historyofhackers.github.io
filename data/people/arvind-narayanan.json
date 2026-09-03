@@ -1,0 +1,70 @@
+{
+  "id": "arvind-narayanan",
+  "type": "person",
+  "title": "Arvind Narayanan",
+  "slug": "arvind-narayanan",
+  "name": "Arvind Narayanan",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "privacy",
+    "de-anonymization",
+    "web-measurement",
+    "academic-research"
+  ],
+  "summary": "Computer scientist whose research exposed practical limits of data anonymization and examined the privacy and societal consequences of digital systems.",
+  "whyThisMatters": "Narayanan’s work shows why privacy claims need adversarial testing: removing obvious identifiers does not automatically make people anonymous.",
+  "knownFor": [
+    "Research on de-anonymization",
+    "Princeton Web Transparency and Accountability Project",
+    "Security and privacy research"
+  ],
+  "sections": {
+    "overview": "<p>Arvind Narayanan is a Princeton computer scientist whose work spans security, privacy, technology policy, and the societal effects of digital systems. Princeton identifies security and privacy among his research areas and describes his work on how companies collect and use personal information.</p><h2>Testing anonymity claims</h2><p>With Vitaly Shmatikov, Narayanan published an analysis of the Netflix Prize dataset showing how auxiliary information could re-identify records thought to be anonymous. It remains a clear demonstration that privacy protections must be tested against realistic outside knowledge.</p><h2>Measurement and accountability</h2><p>His work also includes web measurement and accountability research, connecting technical findings to questions about the collection and use of personal data.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2006",
+      "event": "Co-authors research on de-anonymizing the Netflix Prize dataset."
+    },
+    {
+      "date": "2009",
+      "event": "Completes a Ph.D. at the University of Texas at Austin."
+    },
+    {
+      "date": "2010s",
+      "event": "Leads and contributes to Princeton web-transparency and privacy research."
+    },
+    {
+      "date": "2020s",
+      "event": "Serves as director of Princeton’s Center for Information Technology Policy."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Princeton Computer Science: Arvind Narayanan",
+      "url": "https://www.cs.princeton.edu/people/profile/arvindn"
+    },
+    {
+      "title": "Narayanan and Shmatikov: How to Break Anonymity of the Netflix Prize Dataset",
+      "url": "https://arxiv.org/abs/cs/0610105"
+    },
+    {
+      "title": "Princeton SPIA: Narayanan leads the Center for Information Technology Policy",
+      "url": "https://spia.princeton.edu/news/tech-expert-arvind-narayanan-takes-helm-princeton-center-information-technology"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

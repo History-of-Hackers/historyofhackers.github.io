@@ -1,0 +1,71 @@
+{
+  "id": "sarah-meiklejohn",
+  "type": "person",
+  "title": "Sarah Meiklejohn",
+  "slug": "sarah-meiklejohn",
+  "name": "Sarah Meiklejohn",
+  "born": null,
+  "died": null,
+  "era": "2010s-Present",
+  "tags": [
+    "cryptography",
+    "cryptocurrency-security",
+    "blockchain-analysis",
+    "privacy",
+    "academic-research"
+  ],
+  "summary": "Cryptography and security researcher known for empirical analysis of cryptocurrency systems and research at the intersection of privacy and digital-currency infrastructure.",
+  "whyThisMatters": "Meiklejohn’s research challenges simplistic claims of cryptocurrency anonymity by analyzing public ledgers as adversarial evidence.",
+  "knownFor": [
+    "Cryptocurrency analysis",
+    "Cryptography and security research",
+    "Blockchain privacy research"
+  ],
+  "sections": {
+    "overview": "<p>Sarah Meiklejohn is a cryptography and security researcher affiliated with University College London’s Information Security Group and the Initiative for Cryptocurrencies and Contracts. Her research spans cryptocurrencies, cryptography, and the security implications of public-ledger systems.</p><h2>Following evidence in public ledgers</h2><p>Her work on Bitcoin and related ecosystems combines empirical measurement with security analysis. It shows that public transaction records can expose relationships and support investigative inferences even where systems are described as anonymous.</p><h2>Security relevance</h2><p>By applying rigorous analysis to cryptocurrency infrastructure and underground markets, this work connects cryptographic mechanisms to the observable behavior of real systems.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2013",
+      "event": "Co-authors A Fistful of Bitcoins, an empirical analysis of Bitcoin."
+    },
+    {
+      "date": "2014",
+      "event": "Completes doctoral work on secure systems."
+    },
+    {
+      "date": "2010s-2020s",
+      "event": "Holds research and academic roles in cryptography and security."
+    },
+    {
+      "date": "2025",
+      "event": "Biography records an ongoing affiliation with UCL’s Information Security Group."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Sarah Meiklejohn: biography and publications",
+      "url": "https://smeiklej.com/"
+    },
+    {
+      "title": "UCL cybersecurity supervisors: Sarah Meiklejohn",
+      "url": "https://www.ucl.ac.uk/engineering/supervisors"
+    },
+    {
+      "title": "Meiklejohn et al.: A Fistful of Bitcoins",
+      "url": "https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

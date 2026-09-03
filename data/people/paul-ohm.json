@@ -1,0 +1,71 @@
+{
+  "id": "paul-ohm",
+  "type": "person",
+  "title": "Paul Ohm",
+  "slug": "paul-ohm",
+  "name": "Paul Ohm",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "privacy",
+    "computer-crime-law",
+    "anonymization",
+    "technology-policy",
+    "academic-research"
+  ],
+  "summary": "Legal scholar, programmer, and privacy researcher whose work examines anonymization failures, computer crime, surveillance, and the law of digital systems.",
+  "whyThisMatters": "Ohm’s scholarship made a practical security point legible to policy: data described as anonymous can often be re-identified.",
+  "knownFor": [
+    "Broken Promises of Privacy",
+    "Information privacy law",
+    "Computer crime and technology policy"
+  ],
+  "sections": {
+    "overview": "<p>Paul Ohm is a professor at Georgetown Law whose work bridges computer science, law, privacy, and computer crime. Georgetown describes his research as focusing on information privacy, surveillance, technology, and the law, informed by experience as a programmer and network systems administrator.</p><h2>Anonymization under scrutiny</h2><p>His article <em>Broken Promises of Privacy</em> examined the failure of anonymization and helped focus policy discussion on re-identification risk. The work challenges a common but unsafe assumption about data release.</p><h2>Technical and legal practice</h2><p>Ohm has also worked in U.S. government roles involving computer crime and privacy policy, showing how secure-system design and legal rules depend on actual technical capabilities.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1990s",
+      "event": "Works as a programmer and network systems administrator before law school."
+    },
+    {
+      "date": "2000s",
+      "event": "Works in the U.S. Department of Justice’s Computer Crime and Intellectual Property Section."
+    },
+    {
+      "date": "2010",
+      "event": "Publishes Broken Promises of Privacy."
+    },
+    {
+      "date": "2010s-2020s",
+      "event": "Teaches and researches privacy, technology law, and computer crime at Georgetown."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Georgetown Law: Paul Ohm",
+      "url": "https://www.law.georgetown.edu/faculty/paul-ohm/"
+    },
+    {
+      "title": "Georgetown Center on Privacy and Technology: Paul Ohm",
+      "url": "https://www.law.georgetown.edu/privacy-technology-center/about-us/people/paul-ohm/"
+    },
+    {
+      "title": "Ohm: Broken Promises of Privacy",
+      "url": "https://www.uclalawreview.org/pdf/57-6-3.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

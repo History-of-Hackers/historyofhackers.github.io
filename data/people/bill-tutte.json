@@ -1,0 +1,77 @@
+{
+  "id": "bill-tutte",
+  "type": "person",
+  "title": "William Thomas \"Bill\" Tutte",
+  "slug": "bill-tutte",
+  "name": "William Thomas \"Bill\" Tutte",
+  "born": "1917-05-14",
+  "died": "2002-05-02",
+  "era": "1940s-2002",
+  "tags": [
+    "cryptanalysis",
+    "lorenz",
+    "bletchley-park",
+    "graph-theory",
+    "mathematics",
+    "gchq"
+  ],
+  "summary": "British and Canadian mathematician and wartime cryptanalyst who reconstructed the logical structure of the German Lorenz SZ40/42 teleprinter cipher.",
+  "whyThisMatters": "Tutte's work on the Lorenz system made a major contribution to Bletchley Park's high-level signals intelligence effort. His later mathematical career also left enduring results in graph theory and combinatorics.",
+  "knownFor": [
+    "Lorenz SZ40/42 analysis",
+    "Bletchley Park research section",
+    "Graph theory",
+    "Tutte Institute namesake"
+  ],
+  "sections": {
+    "overview": "<p>William Thomas Tutte was a British-born mathematician who became a leading cryptanalyst at Bletchley Park during the Second World War. He joined the research section in 1941.</p><h2>Lorenz analysis</h2><p>Without seeing the machine, Tutte reconstructed the internal structure of the German Lorenz SZ40/42 teleprinter cipher, called TUNNY at Bletchley Park. GCHQ describes this as one of the war's significant intellectual breakthroughs.</p><h2>In memoriam</h2><p>After the war, Tutte pursued a distinguished academic career in Canada, particularly in graph theory and combinatorics. He died in 2002; Canadian cryptologic research later took his name in the Tutte Institute for Mathematics and Computing.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1917-05-14",
+      "event": "Is born in Newmarket, England."
+    },
+    {
+      "date": "1941-05",
+      "event": "Arrives at Bletchley Park and joins the research section."
+    },
+    {
+      "date": "1942",
+      "event": "Develops methods that establish the structure of the Lorenz SZ40/42 cipher."
+    },
+    {
+      "date": "1987",
+      "event": "Is elected a Fellow of the Royal Society."
+    },
+    {
+      "date": "2002-05-02",
+      "event": "Dies in Kitchener, Ontario."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "GCHQ: Bill Tutte",
+      "url": "https://www.gchq.gov.uk/person/bill-tutte"
+    },
+    {
+      "title": "Royal Society archive: William Thomas Tutte",
+      "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx?id=NA4056&pos=1&src=CalmView.Persons"
+    },
+    {
+      "title": "Bletchley Park: Bill Tutte biography",
+      "url": "https://bletchleypark.org.uk/wp-content/uploads/record_attachments/1871.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

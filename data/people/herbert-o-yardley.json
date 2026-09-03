@@ -1,0 +1,79 @@
+{
+  "id": "herbert-o-yardley",
+  "type": "person",
+  "title": "Herbert O. Yardley",
+  "slug": "herbert-o-yardley",
+  "name": "Herbert Osborn Yardley",
+  "born": 1889,
+  "died": 1958,
+  "era": "1910s-1958",
+  "tags": [
+    "cryptanalysis",
+    "signals-intelligence",
+    "black-chamber",
+    "codebreaking",
+    "history"
+  ],
+  "summary": "American cryptanalyst who led the U.S. Cipher Bureau (the “Black Chamber”) and later wrote a consequential public account of its work.",
+  "whyThisMatters": "Yardley’s career documents the formative institutional period of U.S. cryptanalysis and the lasting tension between secrecy, disclosure, and communications security.",
+  "knownFor": [
+    "MI-8 and the Cipher Bureau",
+    "The American Black Chamber",
+    "Diplomatic cryptanalysis"
+  ],
+  "sections": {
+    "overview": "<p>Herbert O. Yardley was an American cryptanalyst who served with the U.S. Army’s cryptologic effort in the First World War and led the postwar Cipher Bureau, commonly called the Black Chamber. The organization analyzed foreign diplomatic ciphers during the 1920s.</p><h2>Disclosure and legacy</h2><p>After the Bureau closed, Yardley published <em>The American Black Chamber</em> in 1931. NSA historical material treats the book and its repercussions as an important episode in the history of American cryptology and communications security.</p><h2>In memoriam</h2><p>Yardley died in 1958. His work remains central to the institutional history of U.S. cryptanalysis.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1889",
+      "event": "Born in Indiana, United States."
+    },
+    {
+      "date": "1917",
+      "event": "Serves as a cryptologic officer with the American Expeditionary Forces."
+    },
+    {
+      "date": "1920s",
+      "event": "Leads MI-8, the U.S. Cipher Bureau."
+    },
+    {
+      "date": "1929",
+      "event": "The Cipher Bureau closes."
+    },
+    {
+      "date": "1931",
+      "event": "Publishes <em>The American Black Chamber</em>."
+    },
+    {
+      "date": "1958",
+      "event": "Dies in Washington, D.C."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA: Herbert O. Yardley biography",
+      "url": "https://www.nsa.gov/History/Cryptologic-History/Historical-Figures/Historical-Figures-View/Article/1623030/herbert-o-yardley/"
+    },
+    {
+      "title": "NSA: Yardley Collection",
+      "url": "https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/Yardley-Collection/"
+    },
+    {
+      "title": "CIA: The Reader of Gentlemen’s Mail",
+      "url": "https://www.cia.gov/resources/csi/static/reader-of-gentlemens-mail.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

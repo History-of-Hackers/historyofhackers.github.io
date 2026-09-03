@@ -11116,5 +11116,407 @@
     ],
     "summary": "NYU cryptographer whose research covers cryptographic randomness, leakage resilience, fuzzy extractors, and secure messaging.",
     "url": "people/yevgeniy-dodis.html"
+  },
+  {
+    "id": "andreas-pfitzmann",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Andreas Pfitzmann",
+    "slug": "andreas-pfitzmann",
+    "era": "1980s-2010",
+    "tags": [
+      "privacy",
+      "privacy-enhancing-technologies",
+      "anonymity",
+      "computer-security",
+      "academic-research"
+    ],
+    "summary": "German computer-security and privacy researcher whose work helped shape privacy-enhancing technologies and privacy protection goals.",
+    "url": "people/andreas-pfitzmann.html"
+  },
+  {
+    "id": "arthur-scherbius",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Arthur Scherbius",
+    "slug": "arthur-scherbius",
+    "era": "1918-1929",
+    "tags": [
+      "cryptography",
+      "rotor machines",
+      "enigma",
+      "electrical engineering"
+    ],
+    "summary": "German electrical engineer associated with the design and development of the Enigma rotor cipher machine.",
+    "url": "people/arthur-scherbius.html"
+  },
+  {
+    "id": "arvind-narayanan",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Arvind Narayanan",
+    "slug": "arvind-narayanan",
+    "era": "2000s-Present",
+    "tags": [
+      "privacy",
+      "de-anonymization",
+      "web-measurement",
+      "academic-research"
+    ],
+    "summary": "Computer scientist whose research exposed practical limits of data anonymization and examined the privacy and societal consequences of digital systems.",
+    "url": "people/arvind-narayanan.html"
+  },
+  {
+    "id": "bill-tutte",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "William Thomas \"Bill\" Tutte",
+    "slug": "bill-tutte",
+    "era": "1940s-2002",
+    "tags": [
+      "cryptanalysis",
+      "lorenz",
+      "bletchley-park",
+      "graph-theory",
+      "mathematics",
+      "gchq"
+    ],
+    "summary": "British and Canadian mathematician and wartime cryptanalyst who reconstructed the logical structure of the German Lorenz SZ40/42 teleprinter cipher.",
+    "url": "people/bill-tutte.html"
+  },
+  {
+    "id": "david-j-farber",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "David J. Farber",
+    "slug": "david-j-farber",
+    "era": "1960s-2026",
+    "tags": [
+      "computer-networking",
+      "internet-history",
+      "research-networks",
+      "academic-research",
+      "public-policy"
+    ],
+    "summary": "American computer scientist and educator whose work contributed to computer communications, research networking, and internet policy.",
+    "url": "people/david-j-farber.html"
+  },
+  {
+    "id": "david-p-reed",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "David P. Reed",
+    "slug": "david-p-reed",
+    "era": "1970s-Present",
+    "tags": [
+      "computer-networking",
+      "internet-architecture",
+      "end-to-end-principle",
+      "distributed-systems",
+      "academic-research"
+    ],
+    "summary": "American computer scientist and network architect associated with the end-to-end argument and early internet protocol work.",
+    "url": "people/david-p-reed.html"
+  },
+  {
+    "id": "dillwyn-knox",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Alfred Dillwyn Knox",
+    "slug": "dillwyn-knox",
+    "era": "1910s-1943",
+    "tags": [
+      "cryptanalysis",
+      "bletchley-park",
+      "enigma",
+      "classics",
+      "machine-ciphers"
+    ],
+    "summary": "British classicist and cryptanalyst who helped build the prewar and wartime foundations of British work against Enigma systems.",
+    "url": "people/dillwyn-knox.html"
+  },
+  {
+    "id": "dorothy-e-denning",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Dorothy E. Denning",
+    "slug": "dorothy-e-denning",
+    "era": "1970s-Present",
+    "tags": [
+      "computer-security",
+      "cryptography",
+      "intrusion-detection",
+      "access-control",
+      "academic-research"
+    ],
+    "summary": "American computer-security researcher whose work helped define intrusion detection, access control, and the public study of cryptography.",
+    "url": "people/dorothy-e-denning.html"
+  },
+  {
+    "id": "emiliano-de-cristofaro",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Emiliano De Cristofaro",
+    "slug": "emiliano-de-cristofaro",
+    "era": "2010s-Present",
+    "tags": [
+      "privacy",
+      "applied-cryptography",
+      "machine-learning-privacy",
+      "cybersecurity",
+      "academic-research"
+    ],
+    "summary": "Computer-security and privacy researcher whose work explores privacy-preserving systems, data sharing, and the privacy risks of machine learning.",
+    "url": "people/emiliano-de-cristofaro.html"
+  },
+  {
+    "id": "frank-rowlett",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Frank B. Rowlett",
+    "slug": "frank-rowlett",
+    "era": "1930s-1998",
+    "tags": [
+      "cryptanalysis",
+      "sigaba",
+      "purple",
+      "signals-intelligence",
+      "communications-security"
+    ],
+    "summary": "American cryptanalyst and cryptologist whose work included Japanese diplomatic systems and the SIGABA cipher machine.",
+    "url": "people/frank-rowlett.html"
+  },
+  {
+    "id": "george-danezis",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "George Danezis",
+    "slug": "george-danezis",
+    "era": "2000s-Present",
+    "tags": [
+      "privacy",
+      "anonymous-communications",
+      "traffic-analysis",
+      "applied-cryptography",
+      "academic-research"
+    ],
+    "summary": "Security and privacy engineer whose research examines anonymity systems, traffic analysis, and privacy-preserving communications.",
+    "url": "people/george-danezis.html"
+  },
+  {
+    "id": "george-stibitz",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "George Stibitz",
+    "slug": "george-stibitz",
+    "era": "1936-1995",
+    "tags": [
+      "relay computing",
+      "remote computing",
+      "bell labs",
+      "binary arithmetic"
+    ],
+    "summary": "Bell Labs mathematician whose relay calculators and 1940 remote demonstration were important landmarks in the history of digital computation.",
+    "url": "people/george-stibitz.html"
+  },
+  {
+    "id": "herbert-o-yardley",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Herbert O. Yardley",
+    "slug": "herbert-o-yardley",
+    "era": "1910s-1958",
+    "tags": [
+      "cryptanalysis",
+      "signals-intelligence",
+      "black-chamber",
+      "codebreaking",
+      "history"
+    ],
+    "summary": "American cryptanalyst who led the U.S. Cipher Bureau (the “Black Chamber”) and later wrote a consequential public account of its work.",
+    "url": "people/herbert-o-yardley.html"
+  },
+  {
+    "id": "herman-goldstine",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Herman Goldstine",
+    "slug": "herman-goldstine",
+    "era": "1942-2004",
+    "tags": [
+      "eniac",
+      "edvac",
+      "computing history",
+      "mathematics"
+    ],
+    "summary": "American mathematician and administrator who connected wartime ballistics work, the ENIAC project, and the EDVAC discussions that shaped early electronic computing.",
+    "url": "people/herman-goldstine.html"
+  },
+  {
+    "id": "j-c-r-licklider",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "J. C. R. Licklider",
+    "slug": "j-c-r-licklider",
+    "era": "1950s-1990",
+    "tags": [
+      "interactive-computing",
+      "computer-networks",
+      "arpa",
+      "academic-research",
+      "human-computer-interaction",
+      "internet-history"
+    ],
+    "summary": "American psychologist and computer scientist whose writing and ARPA leadership helped establish interactive computing and networked-computing research agendas.",
+    "url": "people/j-c-r-licklider.html"
+  },
+  {
+    "id": "j-presper-eckert",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "J. Presper Eckert",
+    "slug": "j-presper-eckert",
+    "era": "1943-1995",
+    "tags": [
+      "eniac",
+      "univac",
+      "electrical engineering",
+      "computer engineering"
+    ],
+    "summary": "American electrical engineer and chief engineer of the ENIAC project, later a co-founder of the Eckert-Mauchly Computer Corporation.",
+    "url": "people/j-presper-eckert.html"
+  },
+  {
+    "id": "john-mauchly",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John W. Mauchly",
+    "slug": "john-mauchly",
+    "era": "1941-1980",
+    "tags": [
+      "eniac",
+      "univac",
+      "electronic computing",
+      "university of pennsylvania"
+    ],
+    "summary": "American physicist and computing pioneer who worked with J. Presper Eckert on ENIAC and later on the Eckert-Mauchly Computer Corporation’s systems.",
+    "url": "people/john-mauchly.html"
+  },
+  {
+    "id": "john-von-neumann",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John von Neumann",
+    "slug": "john-von-neumann",
+    "era": "1940s-1957",
+    "tags": [
+      "mathematics",
+      "stored-program computing",
+      "computer architecture",
+      "automata theory"
+    ],
+    "summary": "Hungarian-American mathematician whose EDVAC report and work on the IAS computer helped establish the stored-program model used in many later computers.",
+    "url": "people/john-von-neumann.html"
+  },
+  {
+    "id": "jonathan-mayer",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jonathan Mayer",
+    "slug": "jonathan-mayer",
+    "era": "2000s-Present",
+    "tags": [
+      "privacy",
+      "web-security",
+      "technology-policy",
+      "tracking",
+      "academic-research"
+    ],
+    "summary": "Computer scientist and lawyer whose work examines web tracking, consumer privacy, surveillance, and the interaction of technical systems with public policy.",
+    "url": "people/jonathan-mayer.html"
+  },
+  {
+    "id": "maurice-wilkes",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Maurice V. Wilkes",
+    "slug": "maurice-wilkes",
+    "era": "1945-2010",
+    "tags": [
+      "edsac",
+      "stored-program computing",
+      "microprogramming",
+      "cambridge"
+    ],
+    "summary": "British computer scientist who led the EDSAC project at Cambridge and made lasting contributions to programming, microprogramming, and computer systems.",
+    "url": "people/maurice-wilkes.html"
+  },
+  {
+    "id": "neal-koblitz",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Neal I. Koblitz",
+    "slug": "neal-koblitz",
+    "era": "1970s-Present",
+    "tags": [
+      "cryptography",
+      "elliptic-curve-cryptography",
+      "number-theory",
+      "academic-research",
+      "mathematics"
+    ],
+    "summary": "American mathematician and cryptographer, independently associated with the introduction of elliptic-curve methods to public-key cryptography.",
+    "url": "people/neal-koblitz.html"
+  },
+  {
+    "id": "paul-ohm",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Paul Ohm",
+    "slug": "paul-ohm",
+    "era": "2000s-Present",
+    "tags": [
+      "privacy",
+      "computer-crime-law",
+      "anonymization",
+      "technology-policy",
+      "academic-research"
+    ],
+    "summary": "Legal scholar, programmer, and privacy researcher whose work examines anonymization failures, computer crime, surveillance, and the law of digital systems.",
+    "url": "people/paul-ohm.html"
+  },
+  {
+    "id": "sarah-meiklejohn",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Sarah Meiklejohn",
+    "slug": "sarah-meiklejohn",
+    "era": "2010s-Present",
+    "tags": [
+      "cryptography",
+      "cryptocurrency-security",
+      "blockchain-analysis",
+      "privacy",
+      "academic-research"
+    ],
+    "summary": "Cryptography and security researcher known for empirical analysis of cryptocurrency systems and research at the intersection of privacy and digital-currency infrastructure.",
+    "url": "people/sarah-meiklejohn.html"
+  },
+  {
+    "id": "victor-s-miller",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Victor S. Miller",
+    "slug": "victor-s-miller",
+    "era": "1970s-Present",
+    "tags": [
+      "cryptography",
+      "elliptic-curve-cryptography",
+      "mathematics",
+      "academic-research",
+      "public-key-cryptography"
+    ],
+    "summary": "American mathematician and cryptographer who independently introduced elliptic curves as a basis for public-key cryptography.",
+    "url": "people/victor-s-miller.html"
   }
 ]

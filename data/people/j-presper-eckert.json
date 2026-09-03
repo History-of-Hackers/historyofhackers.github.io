@@ -1,0 +1,71 @@
+{
+  "id": "j-presper-eckert",
+  "type": "person",
+  "title": "J. Presper Eckert",
+  "slug": "j-presper-eckert",
+  "name": "J. Presper Eckert",
+  "born": 1919,
+  "died": 1995,
+  "era": "1943-1995",
+  "tags": [
+    "eniac",
+    "univac",
+    "electrical engineering",
+    "computer engineering"
+  ],
+  "summary": "American electrical engineer and chief engineer of the ENIAC project, later a co-founder of the Eckert-Mauchly Computer Corporation.",
+  "whyThisMatters": "Eckert supplied decisive engineering leadership for ENIAC and later computer systems. His work illustrates how early computer history depended on practical electrical engineering as well as mathematical design.",
+  "knownFor": [
+    "eniac",
+    "univac",
+    "electrical engineering",
+    "computer engineering"
+  ],
+  "sections": {
+    "overview": "<p>J. Presper Eckert was an electrical engineer at the University of Pennsylvania’s Moore School and chief engineer for ENIAC. After the war, he and John Mauchly founded the Eckert-Mauchly Computer Corporation and continued work that led toward UNIVAC systems.</p><h2>Engineering early machines</h2><p>ENIAC’s history includes technical design, institutional support, and programming labor. Eckert’s role was central to the engineering of the machine, but no single biography can represent the whole project.</p><h2>In memoriam</h2><p>Eckert died in 1995. The Smithsonian oral-history record retains his account of ENIAC’s development and operation.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1919-04-09",
+      "event": "Born in Philadelphia, Pennsylvania."
+    },
+    {
+      "date": "1943",
+      "event": "Begins ENIAC work at the Moore School."
+    },
+    {
+      "date": "1946",
+      "event": "Co-founds the Eckert-Mauchly Computer Corporation."
+    },
+    {
+      "date": "1995-06-03",
+      "event": "Dies in Bryn Mawr, Pennsylvania."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Smithsonian: interview with J. Presper Eckert",
+      "url": "https://americanhistory.si.edu/comphist/eckert.htm"
+    },
+    {
+      "title": "Computer History Museum: Eckert-Mauchly Computer Corporation",
+      "url": "https://www.computerhistory.org/brochures/d-f/eckertmauchly-computer-corporation-emcc/"
+    },
+    {
+      "title": "IEEE Computer Society: J. Presper Eckert",
+      "url": "https://www.computer.org/profiles/presper-eckert"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

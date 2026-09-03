@@ -1,0 +1,71 @@
+{
+  "id": "john-von-neumann",
+  "type": "person",
+  "title": "John von Neumann",
+  "slug": "john-von-neumann",
+  "name": "John von Neumann",
+  "born": 1903,
+  "died": 1957,
+  "era": "1940s-1957",
+  "tags": [
+    "mathematics",
+    "stored-program computing",
+    "computer architecture",
+    "automata theory"
+  ],
+  "summary": "Hungarian-American mathematician whose EDVAC report and work on the IAS computer helped establish the stored-program model used in many later computers.",
+  "whyThisMatters": "Von Neumann connected mathematical logic, machine design, and computation. His EDVAC report became a widely influential account of a computer holding instructions and data in memory.",
+  "knownFor": [
+    "mathematics",
+    "stored-program computing",
+    "computer architecture",
+    "automata theory"
+  ],
+  "sections": {
+    "overview": "<p>John von Neumann was a mathematician whose work reached logic, physics, economics and computing. At the Institute for Advanced Study he helped lead the IAS computer project, while his 1945 <em>First Draft of a Report on the EDVAC</em> described a stored-program organization that strongly influenced subsequent machine designs.</p><h2>Computing and its limits</h2><p>The phrase “von Neumann architecture” is useful historical shorthand, but it should not erase the work of the engineers, programmers and collaborators who made early machines operate. His later work also examined automata and the relation between computers and the brain.</p><h2>In memoriam</h2><p>Von Neumann died in 1957. His unfinished and posthumously published work remains part of the historical record of early computing.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1903-12-28",
+      "event": "Born in Budapest, Hungary."
+    },
+    {
+      "date": "1933",
+      "event": "Joins the Institute for Advanced Study as a founding professor."
+    },
+    {
+      "date": "1945",
+      "event": "Circulates the First Draft of a Report on the EDVAC."
+    },
+    {
+      "date": "1957-02-08",
+      "event": "Dies in Washington, D.C."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Institute for Advanced Study: John von Neumann",
+      "url": "https://www.ias.edu/von-neumann"
+    },
+    {
+      "title": "Computer History Museum: John von Neumann",
+      "url": "https://www.computerhistory.org/tdih/december/28/"
+    },
+    {
+      "title": "Smithsonian: IAS Computer Project Records",
+      "url": "https://sirismm.si.edu/EADpdfs/NMAH.AC.0401.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

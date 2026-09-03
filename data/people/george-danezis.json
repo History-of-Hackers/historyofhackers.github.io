@@ -1,0 +1,71 @@
+{
+  "id": "george-danezis",
+  "type": "person",
+  "title": "George Danezis",
+  "slug": "george-danezis",
+  "name": "George Danezis",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "privacy",
+    "anonymous-communications",
+    "traffic-analysis",
+    "applied-cryptography",
+    "academic-research"
+  ],
+  "summary": "Security and privacy engineer whose research examines anonymity systems, traffic analysis, and privacy-preserving communications.",
+  "whyThisMatters": "Danezis has helped make anonymity measurable and testable, showing that privacy systems must be evaluated against traffic analysis and realistic adversaries.",
+  "knownFor": [
+    "Anonymous communications research",
+    "Traffic-analysis research",
+    "Security and Privacy Engineering at UCL"
+  ],
+  "sections": {
+    "overview": "<p>George Danezis is a computer scientist whose research covers privacy technologies, anonymous communications, applied cryptography, and distributed-systems security. UCL describes him as Professor of Security and Privacy Engineering.</p><h2>Measuring anonymity</h2><p>His research has developed metrics and investigated statistical attacks against anonymity systems. UCL notes contributions to the design of anonymity systems and to the analysis of deployed systems including Tor.</p><h2>Security engineering perspective</h2><p>This work belongs in security history because it treats anonymity as an engineering property that can be modeled, measured, and attacked.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2004",
+      "event": "Completes a Ph.D. at the University of Cambridge on anonymous communications."
+    },
+    {
+      "date": "2005",
+      "event": "Works with collaborators on traffic-analysis research affecting anonymity networks."
+    },
+    {
+      "date": "2013",
+      "event": "Joins University College London’s Department of Computer Science."
+    },
+    {
+      "date": "2016",
+      "event": "Appointed Professor of Security and Privacy Engineering at UCL."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "UCL: George Danezis delivers inaugural lecture",
+      "url": "https://www.ucl.ac.uk/engineering/news/2017/nov/george-danezis-delivers-inaugural-lecture-ucl"
+    },
+    {
+      "title": "UCL cybersecurity supervisors: George Danezis",
+      "url": "https://www.ucl.ac.uk/engineering/supervisors"
+    },
+    {
+      "title": "George Danezis curriculum vitae",
+      "url": "https://ucl.academia.edu/GeorgeDanezis/CurriculumVitae"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

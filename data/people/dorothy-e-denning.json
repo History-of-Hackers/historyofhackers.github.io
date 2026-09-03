@@ -1,0 +1,79 @@
+{
+  "id": "dorothy-e-denning",
+  "type": "person",
+  "title": "Dorothy E. Denning",
+  "slug": "dorothy-e-denning",
+  "name": "Dorothy E. Denning",
+  "born": 1945,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "computer-security",
+    "cryptography",
+    "intrusion-detection",
+    "access-control",
+    "academic-research"
+  ],
+  "summary": "American computer-security researcher whose work helped define intrusion detection, access control, and the public study of cryptography.",
+  "whyThisMatters": "Denning’s research connected formal security models with deployable monitoring systems and brought computer-security questions into academic and policy debate.",
+  "knownFor": [
+    "Intrusion-detection model",
+    "Cryptography and Data Security",
+    "Information-flow security"
+  ],
+  "sections": {
+    "overview": "<p>Dorothy E. Denning is an American computer-security researcher and Emeritus Distinguished Professor of Defense Analysis at the Naval Postgraduate School. Her work spans cryptography, information-flow controls, intrusion detection, and cyber policy.</p><h2>Research legacy</h2><p>Her 1986 intrusion-detection model is a foundational reference for the field, and her book <em>Cryptography and Data Security</em> helped introduce modern cryptographic concepts to a broad computing audience. Her academic record also documents research and teaching on computer-network attack and defense.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1945",
+      "event": "Born in the United States."
+    },
+    {
+      "date": "1975",
+      "event": "Receives a PhD in computer science from Purdue University."
+    },
+    {
+      "date": "1982",
+      "event": "Publishes <em>Cryptography and Data Security</em>."
+    },
+    {
+      "date": "1986",
+      "event": "Publishes a model for intrusion detection."
+    },
+    {
+      "date": "2002",
+      "event": "Joins the Naval Postgraduate School."
+    },
+    {
+      "date": "2017",
+      "event": "Becomes Emeritus Distinguished Professor at NPS."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Naval Postgraduate School: Dorothy E. Denning",
+      "url": "https://faculty.nps.edu/dedennin/"
+    },
+    {
+      "title": "Dorothy E. Denning curriculum vitae",
+      "url": "https://faculty.nps.edu/dedennin/Denning-Vita-Sep2020.pdf"
+    },
+    {
+      "title": "Purdue CERIAS: Dorothy Denning",
+      "url": "https://www.cerias.purdue.edu/site/blog/post/purdue_cybersecurity_hall_of_fame_dorothy_denning/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

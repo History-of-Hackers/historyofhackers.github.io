@@ -1,0 +1,77 @@
+{
+  "id": "j-c-r-licklider",
+  "type": "person",
+  "title": "J. C. R. Licklider",
+  "slug": "j-c-r-licklider",
+  "name": "J. C. R. Licklider",
+  "born": "1915-03-11",
+  "died": "1990-06-26",
+  "era": "1950s-1990",
+  "tags": [
+    "interactive-computing",
+    "computer-networks",
+    "arpa",
+    "academic-research",
+    "human-computer-interaction",
+    "internet-history"
+  ],
+  "summary": "American psychologist and computer scientist whose writing and ARPA leadership helped establish interactive computing and networked-computing research agendas.",
+  "whyThisMatters": "Licklider did not build the Internet alone, but his systems-oriented vision and ARPA program leadership helped create the research environment from which ARPANET emerged. His work matters to security history because connected computing created both the infrastructure and the trust problems that later security engineering addresses.",
+  "knownFor": [
+    "Man-Computer Symbiosis",
+    "ARPA Information Processing Techniques Office",
+    "Intergalactic Computer Network concept",
+    "Project MAC"
+  ],
+  "sections": {
+    "overview": "<p>Joseph Carl Robnett Licklider was an American psychologist and computer scientist known for early advocacy of interactive computing. His 1960 paper <em>Man-Computer Symbiosis</em> argued for close, complementary human-machine work.</p><h2>ARPA and networking</h2><p>At ARPA, Licklider became the first head of the Information Processing Techniques Office. Computer History Museum accounts document his 1962 network vision and his role in supporting research communities that later developed ARPANET.</p><h2>In memoriam</h2><p>Licklider returned to MIT after government and industry roles and died in 1990. His legacy is best understood as research leadership and agenda-setting rather than as a sole-inventor narrative.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1960",
+      "event": "Publishes Man-Computer Symbiosis."
+    },
+    {
+      "date": "1962",
+      "event": "Becomes first head of ARPA's Information Processing Techniques Office."
+    },
+    {
+      "date": "1963",
+      "event": "Circulates memos describing a networked-computing vision."
+    },
+    {
+      "date": "1968",
+      "event": "Returns to MIT and directs Project MAC."
+    },
+    {
+      "date": "1990-06-26",
+      "event": "Dies in Arlington, Massachusetts."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Computer History Museum: J. C. R. Licklider",
+      "url": "https://history.computer.org/licklider.html"
+    },
+    {
+      "title": "Computer History Museum: Internet history of the 1960s",
+      "url": "https://www.computerhistory.org/internethistory/1960s/"
+    },
+    {
+      "title": "National Academies: Joseph Carl Robnett Licklider",
+      "url": "https://www.nationalacademies.org/read/9649/chapter/12"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-02",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-02"
+  }
+}

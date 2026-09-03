@@ -1,0 +1,71 @@
+{
+  "id": "maurice-wilkes",
+  "type": "person",
+  "title": "Maurice V. Wilkes",
+  "slug": "maurice-wilkes",
+  "name": "Maurice V. Wilkes",
+  "born": 1913,
+  "died": 2010,
+  "era": "1945-2010",
+  "tags": [
+    "edsac",
+    "stored-program computing",
+    "microprogramming",
+    "cambridge"
+  ],
+  "summary": "British computer scientist who led the EDSAC project at Cambridge and made lasting contributions to programming, microprogramming, and computer systems.",
+  "whyThisMatters": "Wilkes helped turn stored-program computing into practical academic infrastructure. His EDSAC work, early programming book, and microprogramming proposal influenced generations of systems designers.",
+  "knownFor": [
+    "edsac",
+    "stored-program computing",
+    "microprogramming",
+    "cambridge"
+  ],
+  "sections": {
+    "overview": "<p>Maurice V. Wilkes returned to Cambridge after wartime service and led the Mathematical Laboratory. After attending the 1946 Moore School lectures, he organized construction of EDSAC, which began operation in 1949.</p><h2>From programs to systems</h2><p>Wilkes co-authored an early programming book, proposed microprogramming, and later worked on cache memory, time-sharing, and networked systems. His career links the earliest stored-program machines to later systems research.</p><h2>In memoriam</h2><p>Wilkes died in 2010. Cambridge’s computer-science department recorded the loss of a pioneer whose contributions remain central to computing history.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1913-06-26",
+      "event": "Born in Dudley, England."
+    },
+    {
+      "date": "1946",
+      "event": "Attends the Moore School lectures on electronic computers."
+    },
+    {
+      "date": "1949",
+      "event": "EDSAC begins operation at Cambridge."
+    },
+    {
+      "date": "2010-11-29",
+      "event": "Dies in Cambridge, England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Cambridge: Maurice V. Wilkes biography",
+      "url": "https://www.cl.cam.ac.uk/archive/mvw1/short-biography.html"
+    },
+    {
+      "title": "University of Cambridge: obituary for Sir Maurice Wilkes",
+      "url": "https://www.cl.cam.ac.uk/misc/obituaries/wilkes/"
+    },
+    {
+      "title": "University of Cambridge: Professor Sir Maurice Wilkes",
+      "url": "https://www.cam.ac.uk/news/professor-sir-maurice-wilkes-1913-2010"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}
