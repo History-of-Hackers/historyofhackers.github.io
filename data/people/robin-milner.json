@@ -1,0 +1,79 @@
+{
+  "id": "robin-milner",
+  "type": "person",
+  "title": "Robin Milner",
+  "slug": "robin-milner",
+  "name": "Robin Milner",
+  "born": 1934,
+  "died": 2010,
+  "era": "1960s-2010",
+  "tags": [
+    "academic-research",
+    "formal-methods",
+    "programming-languages",
+    "concurrency"
+  ],
+  "summary": "British computer scientist whose work on LCF, ML, CCS, and process calculi shaped formal methods and the theory of concurrent systems.",
+  "whyThisMatters": "Milner supplied formalisms for reasoning about interacting processes, an essential challenge for protocols and distributed systems. Those ideas inform the formal analysis used in modern security research.",
+  "knownFor": [
+    "LCF theorem proving",
+    "ML programming language",
+    "Calculus of Communicating Systems",
+    "1991 ACM Turing Award"
+  ],
+  "sections": {
+    "overview": "<p>Robin Milner was a British computer scientist whose work on logic, programming languages, and concurrency had lasting influence on formal methods. His contributions include LCF theorem proving, the ML language, and the Calculus of Communicating Systems.</p><h2>Processes and protocols</h2><p>Security protocols describe independent parties that exchange messages under defined rules. Milner's process-calculus work offered a rigorous way to describe and reason about such communicating processes.</p><h2>In memoriam</h2><p>Milner died in 2010. His work remains foundational in programming-language theory, formal verification, and analysis of concurrent systems.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1934-01-13",
+      "event": "Born in Yealmpton, England."
+    },
+    {
+      "date": "1972",
+      "event": "Joins the University of Edinburgh."
+    },
+    {
+      "date": "1978",
+      "event": "Introduces ML as part of work on the LCF theorem prover."
+    },
+    {
+      "date": "1980",
+      "event": "Publishes the Calculus of Communicating Systems."
+    },
+    {
+      "date": "1991",
+      "event": "Receives the ACM A.M. Turing Award."
+    },
+    {
+      "date": "2010-03-20",
+      "event": "Dies in Cambridge, England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "National Academies: Robin Milner memorial tribute",
+      "url": "https://www.nationalacademies.org/read/23394/chapter/29"
+    },
+    {
+      "title": "University of Cambridge: Robin Milner CV",
+      "url": "https://www.cl.cam.ac.uk/archive/rm135/cv.pdf"
+    },
+    {
+      "title": "ACM Turing Award site",
+      "url": "https://amturing.acm.org/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

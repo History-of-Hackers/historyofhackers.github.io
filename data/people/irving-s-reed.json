@@ -1,0 +1,74 @@
+{
+  "id": "irving-s-reed",
+  "type": "person",
+  "title": "Irving S. Reed",
+  "slug": "irving-s-reed",
+  "name": "Irving S. Reed",
+  "born": 1923,
+  "died": 2012,
+  "era": "1940s-2012",
+  "tags": [
+    "coding-theory",
+    "information-theory",
+    "error-correction",
+    "academic-research"
+  ],
+  "summary": "American mathematician and engineer who co-invented Reed–Muller and Reed–Solomon codes, foundational methods for reliable digital communication.",
+  "whyThisMatters": "Reed’s codes turned abstract coding theory into infrastructure used for storage, transmission, and space communications, helping make digital systems resilient to noisy channels.",
+  "knownFor": [
+    "Reed–Muller codes",
+    "Reed–Solomon codes",
+    "Digital communications research"
+  ],
+  "sections": {
+    "overview": "<p>American mathematician and engineer who co-invented Reed–Muller and Reed–Solomon codes, foundational methods for reliable digital communication.</p><h2>Historical contribution</h2><p>Reed’s codes turned abstract coding theory into infrastructure used for storage, transmission, and space communications, helping make digital systems resilient to noisy channels.</p><h2>In memoriam</h2><p>Irving S. Reed died in 2012. This archive remembers their contribution with care and credits the historical record on which this account relies.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1923-11-12",
+      "event": "Born in New York City."
+    },
+    {
+      "date": "1954",
+      "event": "Co-develops Reed–Muller codes."
+    },
+    {
+      "date": "1960",
+      "event": "Co-authors the Reed–Solomon coding paper."
+    },
+    {
+      "date": "1998",
+      "event": "Receives the IEEE Information Theory Society Golden Jubilee Award."
+    },
+    {
+      "date": "2012-09-11",
+      "event": "Dies."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "IEEE Information Theory Society: Irving S. Reed 1923–2012",
+      "url": "https://www.itsoc.org/news-events/recent-news/irving-s.-reed-1923-2012"
+    },
+    {
+      "title": "IEEE Information Theory Society: Memorial Tribute for Irving Stoy Reed",
+      "url": "https://citeseerx.ist.psu.edu/document?doi=f6aacd8aad930d7eea2d880a6c665139abf585f9&repid=rep1&type=pdf"
+    },
+    {
+      "title": "Reed and Solomon, Polynomial Codes Over Certain Finite Fields",
+      "url": "https://doi.org/10.1137/0108018"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

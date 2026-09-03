@@ -1,0 +1,74 @@
+{
+  "id": "hans-dobbertin",
+  "type": "person",
+  "title": "Hans Dobbertin",
+  "slug": "hans-dobbertin",
+  "name": "Hans Dobbertin",
+  "born": 1952,
+  "died": 2006,
+  "era": "1980s-2006",
+  "tags": [
+    "cryptanalysis",
+    "hash-functions",
+    "information-security",
+    "academic-research"
+  ],
+  "summary": "German cryptographer known for cryptanalysis of early hash functions and for research on RIPEMD.",
+  "whyThisMatters": "Dobbertin’s analyses exposed weaknesses in widely studied hash constructions and helped drive the discipline toward stronger designs and more careful public evaluation.",
+  "knownFor": [
+    "Cryptanalysis of MD4 and MD5",
+    "RIPEMD research",
+    "Chair of Cryptology and Information Security at Ruhr University Bochum"
+  ],
+  "sections": {
+    "overview": "<p>German cryptographer known for cryptanalysis of early hash functions and for research on RIPEMD.</p><h2>Historical contribution</h2><p>Dobbertin’s analyses exposed weaknesses in widely studied hash constructions and helped drive the discipline toward stronger designs and more careful public evaluation.</p><h2>In memoriam</h2><p>Hans Dobbertin died in 2006. This archive remembers their contribution with care and credits the historical record on which this account relies.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1952-04-17",
+      "event": "Born in Germany."
+    },
+    {
+      "date": "1996",
+      "event": "Publishes influential cryptanalysis of MD4."
+    },
+    {
+      "date": "2001",
+      "event": "Appointed chair of Cryptology and Information Security at Ruhr University Bochum."
+    },
+    {
+      "date": "2004",
+      "event": "Co-authors RIPEMD-160 design documentation."
+    },
+    {
+      "date": "2006-02-02",
+      "event": "Dies."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Dobbertin, Cryptanalysis of MD4",
+      "url": "https://doi.org/10.1007/3-540-60590-8_17"
+    },
+    {
+      "title": "Dobbertin, The Status of MD5 After a Recent Attack",
+      "url": "https://doi.org/10.1007/3-540-45682-1_1"
+    },
+    {
+      "title": "RIPEMD-160 design paper",
+      "url": "https://homes.esat.kuleuven.be/~bosselae/ripemd160.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

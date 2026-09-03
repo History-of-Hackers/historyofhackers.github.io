@@ -1,0 +1,79 @@
+{
+  "id": "edsger-dijkstra",
+  "type": "person",
+  "title": "Edsger W. Dijkstra",
+  "slug": "edsger-dijkstra",
+  "name": "Edsger W. Dijkstra",
+  "born": 1930,
+  "died": 2002,
+  "era": "1950s-2002",
+  "tags": [
+    "academic-research",
+    "algorithms",
+    "structured-programming",
+    "distributed-systems"
+  ],
+  "summary": "Dutch computer scientist whose work on algorithms, structured programming, and disciplined reasoning transformed software engineering and theoretical computer science.",
+  "whyThisMatters": "Dijkstra argued that programs should be reasoned about with rigor, a principle that underlies modern work on reliable and secure software. His shortest-path algorithm and work on concurrency remain staples of computing.",
+  "knownFor": [
+    "Dijkstra's shortest-path algorithm",
+    "Structured programming",
+    "Semaphore and concurrency concepts",
+    "1972 ACM Turing Award"
+  ],
+  "sections": {
+    "overview": "<p>Edsger W. Dijkstra was a Dutch computer scientist whose work on algorithms, programming methodology, and concurrency helped define modern computer science. His shortest-path algorithm remains a basic tool in networks and graph processing.</p><h2>Discipline in programming</h2><p>Dijkstra championed structured programming and precise reasoning about programs. His emphasis on clarity and correctness has direct relevance to secure systems, which must resist both design errors and implementation mistakes.</p><h2>In memoriam</h2><p>Dijkstra died in 2002. His writing and technical work continue to challenge engineers to treat programming as a discipline of careful thought.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1930-05-11",
+      "event": "Born in Rotterdam, Netherlands."
+    },
+    {
+      "date": "1956",
+      "event": "Develops the shortest-path algorithm while working at the Mathematical Centre in Amsterdam."
+    },
+    {
+      "date": "1959",
+      "event": "Completes a PhD at the University of Amsterdam."
+    },
+    {
+      "date": "1968",
+      "event": "Publishes “Go To Statement Considered Harmful.”"
+    },
+    {
+      "date": "1972",
+      "event": "Receives the ACM A.M. Turing Award."
+    },
+    {
+      "date": "2002-08-06",
+      "event": "Dies in Nuenen, Netherlands."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Texas at Austin: EWD archive",
+      "url": "https://www.cs.utexas.edu/users/EWD/"
+    },
+    {
+      "title": "ACM Turing Award site",
+      "url": "https://amturing.acm.org/"
+    },
+    {
+      "title": "ACM: Dijkstra Prize background",
+      "url": "https://www.acm.org/binaries/content/assets/press-releases/2012/july/dijkstra-prize-2012a.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

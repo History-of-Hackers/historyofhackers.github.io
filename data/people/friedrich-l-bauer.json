@@ -1,0 +1,74 @@
+{
+  "id": "friedrich-l-bauer",
+  "type": "person",
+  "title": "Friedrich L. Bauer",
+  "slug": "friedrich-l-bauer",
+  "name": "Friedrich L. Bauer",
+  "born": 1924,
+  "died": 2015,
+  "era": "1940s-2015",
+  "tags": [
+    "cryptography",
+    "software-engineering",
+    "programming-languages",
+    "academic-research"
+  ],
+  "summary": "German computer-science pioneer whose work ranged across programming languages, software engineering, and cryptography.",
+  "whyThisMatters": "Bauer helped establish computer science as an academic discipline in Germany while contributing to the intellectual foundations of reliable software and cryptology.",
+  "knownFor": [
+    "ALGOL 60",
+    "Software engineering",
+    "Cryptology research"
+  ],
+  "sections": {
+    "overview": "<p>German computer-science pioneer whose work ranged across programming languages, software engineering, and cryptography.</p><h2>Historical contribution</h2><p>Bauer helped establish computer science as an academic discipline in Germany while contributing to the intellectual foundations of reliable software and cryptology.</p><h2>In memoriam</h2><p>Friedrich L. Bauer died in 2015. This archive remembers their contribution with care and credits the historical record on which this account relies.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1924-06-10",
+      "event": "Born in Regensburg, Germany."
+    },
+    {
+      "date": "1960",
+      "event": "Contributes to the ALGOL 60 language effort."
+    },
+    {
+      "date": "1972",
+      "event": "Computer science becomes an independent discipline at TUM."
+    },
+    {
+      "date": "2015-03-26",
+      "event": "Dies in Munich."
+    },
+    {
+      "date": "2024",
+      "event": "TUM commemorates his centenary with a memorial event and bust."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "ETH Zurich: Obituary for Friedrich L. Bauer",
+      "url": "https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2015/04/nachruf-bauer.html"
+    },
+    {
+      "title": "Technical University of Munich: memorial for Friedrich L. Bauer",
+      "url": "https://www.tum.de/aktuelles/veranstaltungen/details/akademische-gedenkfeier-fuer-prof-friedrich-l-bauer"
+    },
+    {
+      "title": "Austrian Academy of Sciences: Friedrich L. Bauer",
+      "url": "https://www.oeaw.ac.at/m/bauer-friedrich-l"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

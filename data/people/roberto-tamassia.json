@@ -1,0 +1,75 @@
+{
+  "id": "roberto-tamassia",
+  "type": "person",
+  "title": "Roberto Tamassia",
+  "slug": "roberto-tamassia",
+  "name": "Roberto Tamassia",
+  "born": null,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "academic-research",
+    "applied-cryptography",
+    "authentication",
+    "computer-security"
+  ],
+  "summary": "Italian-American computer scientist whose research includes computer security, applied cryptography, authentication, algorithms, and data security.",
+  "whyThisMatters": "Tamassia's work on authentication and secure data structures makes a useful bridge between cryptographic ideas and systems that must prove the integrity and origin of distributed data.",
+  "knownFor": [
+    "Data authentication",
+    "Applied cryptography",
+    "Secure data structures",
+    "Computer security education"
+  ],
+  "sections": {
+    "overview": "<p>Roberto Tamassia is a computer scientist at Brown University whose research includes information security, applied cryptography, algorithms, and data structures. His security work has focused in part on authentication methods and protocols.</p><h2>Authentication in distributed systems</h2><p>Security is not only about keeping data secret: systems must also establish integrity, provenance, and correct access. Tamassia's research has developed cryptographic techniques and prototypes for authenticating data in distributed settings.</p><h2>Teaching and research</h2><p>His work also reflects the role of computer-security education in the field. Brown records that he developed an early-access computer systems security course and has worked across security, cryptography, algorithms, and theory.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1984",
+      "event": "Receives a laurea in electrical engineering from Sapienza University of Rome."
+    },
+    {
+      "date": "1988",
+      "event": "Completes a PhD at the University of Illinois Urbana-Champaign and joins Brown University."
+    },
+    {
+      "date": "2005",
+      "event": "Develops a Brown course in computer systems security."
+    },
+    {
+      "date": "2007",
+      "event": "Begins service as chair of Brown's computer science department."
+    },
+    {
+      "date": "2020s",
+      "event": "Continues research and teaching in security and applied cryptography at Brown."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Brown CS faculty profile",
+      "url": "https://cs.brown.edu/people/faculty/rtamassi/"
+    },
+    {
+      "title": "Brown University research profile",
+      "url": "https://vivo.brown.edu/display/rtamassi"
+    },
+    {
+      "title": "IEEE Computer Society profile",
+      "url": "https://www.computer.org/profiles/roberto-tamassia"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

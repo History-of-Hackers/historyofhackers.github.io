@@ -1,0 +1,67 @@
+{
+  "id": "tanya-janca",
+  "type": "person",
+  "title": "Tanya Janca",
+  "slug": "tanya-janca",
+  "name": "Tanya Janca",
+  "born": null,
+  "died": null,
+  "era": "2010s-Present",
+  "tags": [
+    "application-security",
+    "devsecops",
+    "secure-development",
+    "education",
+    "author"
+  ],
+  "summary": "Application-security educator, author, and practitioner known for making secure software-development practices accessible to engineering teams.",
+  "whyThisMatters": "Janca's writing and training connect vulnerability knowledge with the everyday decisions of software builders, making application security more approachable and operational.",
+  "knownFor": [
+    "Author of <em>Alice and Bob Learn Application Security</em>",
+    "We Hack Purple",
+    "DevSecOps education and advocacy"
+  ],
+  "sections": {
+    "overview": "<h2>Application-security education</h2><p>Tanya Janca is an application-security practitioner and educator. Through We Hack Purple and conference, community, and training work, she has focused on helping developers and security teams build security into software delivery.</p><h2>Writing</h2><p>Her book <em>Alice and Bob Learn Application Security</em> uses practical scenarios to introduce threat modeling, secure design, testing, and incident-minded engineering. It is aimed at people who build or maintain software rather than only dedicated security specialists.</p><h2>DevSecOps</h2><p>Janca has been a visible advocate for DevSecOps practices: security work integrated with development and operations rather than treated only as a late-stage review. The approach emphasizes collaboration, repeatable controls, and clear communication of risk.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2016",
+      "event": "Founds We Hack Purple, an application-security training and community initiative."
+    },
+    {
+      "date": "2020",
+      "event": "Publishes <em>Alice and Bob Learn Application Security</em>."
+    },
+    {
+      "date": "2021",
+      "event": "Contributes to ongoing DevSecOps and application-security community education."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "We Hack Purple: Tanya Janca",
+      "url": "https://wehackpurple.com/about/"
+    },
+    {
+      "title": "Manning: Alice and Bob Learn Application Security",
+      "url": "https://www.manning.com/books/alice-and-bob-learn-application-security"
+    },
+    {
+      "title": "OWASP: DevSecOps Guideline",
+      "url": "https://owasp.org/www-project-devsecops-guideline/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-q-2026-09-03"
+  }
+}

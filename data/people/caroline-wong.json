@@ -1,0 +1,67 @@
+{
+  "id": "caroline-wong",
+  "type": "person",
+  "title": "Caroline Wong",
+  "slug": "caroline-wong",
+  "name": "Caroline Wong",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "application-security",
+    "security-leadership",
+    "security-metrics",
+    "education",
+    "author"
+  ],
+  "summary": "Application-security leader, educator, and author known for work on security programs, software-security metrics, and professional development.",
+  "whyThisMatters": "Wong's work has helped organizations treat application security as an engineering and leadership practice that can be measured, staffed, and improved over time.",
+  "knownFor": [
+    "Author of <em>Security Metrics</em>",
+    "Application-security leadership",
+    "Security education and mentoring"
+  ],
+  "sections": {
+    "overview": "<h2>Building security programs</h2><p>Caroline Wong is an application-security leader and educator whose work centers on building sustainable security programs. Her public work has addressed the practical questions of how teams set priorities, communicate risk, and use metrics without losing sight of the people doing the work.</p><h2>Security metrics</h2><p>Wong wrote <em>Security Metrics</em>, a guide to selecting and using measures for security programs. The book frames measurement as a management tool, while cautioning that a metric is useful only when it informs better decisions.</p><h2>Community work</h2><p>Alongside industry leadership roles, Wong has taught and spoken about application security and careers in the field. Her work contributes to the professionalization of software security beyond individual vulnerability findings.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2012",
+      "event": "Publishes <em>Security Metrics: A Beginner's Guide</em>."
+    },
+    {
+      "date": "2010s",
+      "event": "Leads and advises application-security programs in industry."
+    },
+    {
+      "date": "2020s",
+      "event": "Continues public education on application-security leadership and career development."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Caroline Wong: official site",
+      "url": "https://www.carolinewong.com/"
+    },
+    {
+      "title": "McGraw Hill: Security Metrics",
+      "url": "https://www.mheducation.com/highered/product/security-metrics-wong.html"
+    },
+    {
+      "title": "SANS: Caroline Wong instructor profile",
+      "url": "https://www.sans.org/profiles/caroline-wong/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-q-2026-09-03"
+  }
+}

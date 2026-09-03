@@ -1,0 +1,74 @@
+{
+  "id": "david-l-mills",
+  "type": "person",
+  "title": "David L. Mills",
+  "slug": "david-l-mills",
+  "name": "David L. Mills",
+  "born": 1938,
+  "died": 2024,
+  "era": "1970s-2024",
+  "tags": [
+    "internet",
+    "network-time-protocol",
+    "network-security",
+    "academic-research"
+  ],
+  "summary": "American computer engineer and internet pioneer who developed the Network Time Protocol (NTP) and taught computer security and networking at the University of Delaware.",
+  "whyThisMatters": "Accurate, authenticated time is a security dependency for logging, certificates, distributed systems, and incident response. Mills made network time synchronization an enduring part of Internet infrastructure.",
+  "knownFor": [
+    "Network Time Protocol",
+    "Internet routing research",
+    "Computer security education"
+  ],
+  "sections": {
+    "overview": "<p>American computer engineer and internet pioneer who developed the Network Time Protocol (NTP) and taught computer security and networking at the University of Delaware.</p><h2>Historical contribution</h2><p>Accurate, authenticated time is a security dependency for logging, certificates, distributed systems, and incident response. Mills made network time synchronization an enduring part of Internet infrastructure.</p><h2>In memoriam</h2><p>David L. Mills died in 2024. This archive remembers their contribution with care and credits the historical record on which this account relies.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1938-06-03",
+      "event": "Born in Oakland, California."
+    },
+    {
+      "date": "1971",
+      "event": "Completes a doctorate in computer and communications science at the University of Michigan."
+    },
+    {
+      "date": "1985",
+      "event": "NTP is first implemented."
+    },
+    {
+      "date": "1986",
+      "event": "Joins the University of Delaware."
+    },
+    {
+      "date": "2024-01-17",
+      "event": "Dies in Newark, Delaware."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Delaware: In Memoriam David Mills",
+      "url": "https://www.udel.edu/udaily/2024/march/in-memoriam-david-mills-network-time-protocol/"
+    },
+    {
+      "title": "RFC 5905: Network Time Protocol Version 4",
+      "url": "https://www.rfc-editor.org/rfc/rfc5905"
+    },
+    {
+      "title": "Charles Babbage Institute: David L. Mills oral history",
+      "url": "https://purl.umn.edu/113899"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "eric-rescorla",
+  "type": "person",
+  "title": "Eric Rescorla",
+  "slug": "eric-rescorla",
+  "name": "Eric Rescorla",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "internet-standards",
+    "tls",
+    "web-security",
+    "research"
+  ],
+  "summary": "Internet-security researcher and standards contributor known for work on TLS, browser security, and the engineering of secure web protocols.",
+  "whyThisMatters": "Rescorla's work has influenced the protocols that protect everyday web traffic; his standards and security analysis connect cryptographic design with deployable Internet engineering.",
+  "knownFor": [
+    "TLS 1.3 co-author",
+    "IETF security standards work",
+    "Web and transport security research"
+  ],
+  "sections": {
+    "overview": "<h2>Internet security engineering</h2><p>Eric Rescorla is an Internet-security researcher and protocol engineer. He has worked on the design, analysis, and deployment of security mechanisms for the web and Internet communications.</p><h2>TLS</h2><p>Rescorla was a co-author of TLS 1.3, the IETF standard that modernized the protocol used to protect a substantial share of web traffic. The work aimed to simplify negotiation, remove obsolete cryptographic options, and strengthen privacy properties.</p><h2>Standards and practice</h2><p>His writing and IETF contributions illustrate a central feature of applied cryptography: a secure design must also be implementable, interoperable, and maintainable across a diverse global network.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1990s",
+      "event": "Begins publishing work on security protocols and Internet communications."
+    },
+    {
+      "date": "2018",
+      "event": "Co-authors RFC 8446, the TLS 1.3 standard."
+    },
+    {
+      "date": "2020s",
+      "event": "Continues contributing to Internet security and privacy engineering discussions."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Eric Rescorla: Educated Guesswork",
+      "url": "https://educatedguesswork.org/"
+    },
+    {
+      "title": "IETF: RFC 8446, The Transport Layer Security (TLS) Protocol Version 1.3",
+      "url": "https://datatracker.ietf.org/doc/html/rfc8446"
+    },
+    {
+      "title": "IETF Datatracker: Eric Rescorla",
+      "url": "https://datatracker.ietf.org/person/ekr@rtfm.com/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-q-2026-09-03"
+  }
+}

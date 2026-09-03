@@ -1,0 +1,74 @@
+{
+  "id": "abraham-lempel",
+  "type": "person",
+  "title": "Abraham Lempel",
+  "slug": "abraham-lempel",
+  "name": "Abraham Lempel",
+  "born": 1936,
+  "died": 2023,
+  "era": "1960s-2023",
+  "tags": [
+    "information-theory",
+    "data-compression",
+    "algorithms",
+    "academic-research"
+  ],
+  "summary": "Israeli computer scientist and information theorist who co-created the Lempel–Ziv family of lossless compression algorithms.",
+  "whyThisMatters": "Lossless compression is core infrastructure for computing and communications. Lempel’s work, developed with Jacob Ziv, became a durable foundation for widely deployed digital formats and transmission systems.",
+  "knownFor": [
+    "Lempel–Ziv compression",
+    "Information theory",
+    "HP Labs Israel"
+  ],
+  "sections": {
+    "overview": "<p>Israeli computer scientist and information theorist who co-created the Lempel–Ziv family of lossless compression algorithms.</p><h2>Historical contribution</h2><p>Lossless compression is core infrastructure for computing and communications. Lempel’s work, developed with Jacob Ziv, became a durable foundation for widely deployed digital formats and transmission systems.</p><h2>In memoriam</h2><p>Abraham Lempel died in 2023. This archive remembers their contribution with care and credits the historical record on which this account relies.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1936-02-10",
+      "event": "Born in Lwów, Poland."
+    },
+    {
+      "date": "1967",
+      "event": "Completes his doctorate at the Technion."
+    },
+    {
+      "date": "1977",
+      "event": "Publishes the first Lempel–Ziv compression paper with Jacob Ziv."
+    },
+    {
+      "date": "1994",
+      "event": "Establishes HP Labs Israel."
+    },
+    {
+      "date": "2023-02-04",
+      "event": "Dies."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Technion: In memoriam Abraham Lempel",
+      "url": "https://www.technion.ac.il/en/blog/2023/02/technion-mourns-prof-abraham-lempel-1936-2023/"
+    },
+    {
+      "title": "IEEE Milestones: Lempel–Ziv Data Compression Algorithm",
+      "url": "https://ethw.org/Milestones:Lempel-Ziv_Data_Compression_Algorithm,_1977-1978"
+    },
+    {
+      "title": "Ziv and Lempel, IEEE Transactions on Information Theory (1977)",
+      "url": "https://doi.org/10.1109/TIT.1977.1055714"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

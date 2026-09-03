@@ -1,0 +1,67 @@
+{
+  "id": "michael-howard",
+  "type": "person",
+  "title": "Michael Howard",
+  "slug": "michael-howard",
+  "name": "Michael Howard",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "secure-development",
+    "microsoft",
+    "threat-modeling",
+    "security-engineering",
+    "author"
+  ],
+  "summary": "Software-security engineer and author known for helping develop secure-development practices at Microsoft and for co-authoring <em>Writing Secure Code</em>.",
+  "whyThisMatters": "Howard's work helped popularize the idea that software security needs a disciplined lifecycle, with design review, testing, and accountability built into product development.",
+  "knownFor": [
+    "Microsoft Security Development Lifecycle work",
+    "Co-author of <em>Writing Secure Code</em>",
+    "Secure software-engineering advocacy"
+  ],
+  "sections": {
+    "overview": "<h2>Secure development</h2><p>Michael Howard is a software-security engineer and author closely associated with Microsoft's secure-development work. His career has focused on reducing recurring classes of software flaws by making security requirements part of the engineering process.</p><h2>Writing Secure Code</h2><p>With David LeBlanc, Howard co-authored <em>Writing Secure Code</em>, a widely used practitioner reference. The book explains common implementation risks and the design and review habits that can prevent them.</p><h2>Lifecycle thinking</h2><p>Howard's work is associated with the Security Development Lifecycle approach: security activities planned across requirements, design, implementation, test, release, and response. The lasting contribution is organizational as well as technical—security becomes a repeatable engineering responsibility.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2002",
+      "event": "Co-authors the first edition of <em>Writing Secure Code</em> with David LeBlanc."
+    },
+    {
+      "date": "2004",
+      "event": "Microsoft publicly describes its Security Development Lifecycle approach."
+    },
+    {
+      "date": "2007",
+      "event": "A second edition of <em>Writing Secure Code</em> is published."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Microsoft Security Blog: Michael Howard",
+      "url": "https://www.microsoft.com/en-us/security/blog/author/michaelhoward/"
+    },
+    {
+      "title": "Microsoft Press: Writing Secure Code",
+      "url": "https://www.microsoftpressstore.com/store/writing-secure-code-9780735617223"
+    },
+    {
+      "title": "Microsoft: Security Development Lifecycle",
+      "url": "https://www.microsoft.com/en-us/securityengineering/sdl/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-q-2026-09-03"
+  }
+}

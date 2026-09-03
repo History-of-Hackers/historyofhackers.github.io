@@ -1,0 +1,70 @@
+{
+  "id": "gustave-solomon",
+  "type": "person",
+  "title": "Gustave Solomon",
+  "slug": "gustave-solomon",
+  "name": "Gustave Solomon",
+  "born": 1930,
+  "died": 1996,
+  "era": "1950s-1996",
+  "tags": [
+    "coding-theory",
+    "information-theory",
+    "error-correction",
+    "academic-research"
+  ],
+  "summary": "American mathematician and electrical engineer who co-invented Reed–Solomon error-correcting codes with Irving S. Reed.",
+  "whyThisMatters": "Error correction is a fundamental part of trustworthy digital storage and communication. Solomon’s work made an enduring contribution to the reliability layer on which computing systems depend.",
+  "knownFor": [
+    "Reed–Solomon codes",
+    "Error detection and correction",
+    "Jet Propulsion Laboratory research"
+  ],
+  "sections": {
+    "overview": "<p>American mathematician and electrical engineer who co-invented Reed–Solomon error-correcting codes with Irving S. Reed.</p><h2>Historical contribution</h2><p>Error correction is a fundamental part of trustworthy digital storage and communication. Solomon’s work made an enduring contribution to the reliability layer on which computing systems depend.</p><h2>In memoriam</h2><p>Gustave Solomon died in 1996. This archive remembers their contribution with care and credits the historical record on which this account relies.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1930-10-27",
+      "event": "Born in Brooklyn, New York."
+    },
+    {
+      "date": "1960",
+      "event": "Co-authors the foundational Reed–Solomon coding paper."
+    },
+    {
+      "date": "1995",
+      "event": "Shares the IEEE Masaru Ibuka Award with Irving Reed."
+    },
+    {
+      "date": "1996-01-31",
+      "event": "Dies in California."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "IEEE Information Theory Society: Gus Solomon obituary",
+      "url": "http://backup.itsoc.org/publications/nltr/96_jun/01obi.pdf"
+    },
+    {
+      "title": "Reed and Solomon, Polynomial Codes Over Certain Finite Fields",
+      "url": "https://doi.org/10.1137/0108018"
+    },
+    {
+      "title": "New York Times: Gustave Solomon obituary",
+      "url": "https://www.nytimes.com/1996/02/18/us/gustave-solomon-mathematician-is-dead-at-65.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

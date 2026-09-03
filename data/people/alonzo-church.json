@@ -1,0 +1,74 @@
+{
+  "id": "alonzo-church",
+  "type": "person",
+  "title": "Alonzo Church",
+  "slug": "alonzo-church",
+  "name": "Alonzo Church",
+  "born": 1903,
+  "died": 1995,
+  "era": "1930s-1995",
+  "tags": [
+    "logic",
+    "computability",
+    "cryptography",
+    "academic-research"
+  ],
+  "summary": "American mathematician and logician whose work on computability established enduring foundations for computer science and the formal analysis of algorithms.",
+  "whyThisMatters": "Church’s formal account of effective computation, developed alongside the work of his student Alan Turing, is a core foundation for understanding what computation can and cannot do—including the limits relevant to cryptography and security analysis.",
+  "knownFor": [
+    "Lambda calculus",
+    "Church–Turing thesis",
+    "Foundations of computability"
+  ],
+  "sections": {
+    "overview": "<p>American mathematician and logician whose work on computability established enduring foundations for computer science and the formal analysis of algorithms.</p><h2>Historical contribution</h2><p>Church’s formal account of effective computation, developed alongside the work of his student Alan Turing, is a core foundation for understanding what computation can and cannot do—including the limits relevant to cryptography and security analysis.</p><h2>In memoriam</h2><p>Alonzo Church died in 1995. This archive remembers their contribution with care and credits the historical record on which this account relies.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1903-06-14",
+      "event": "Born in Washington, D.C."
+    },
+    {
+      "date": "1932",
+      "event": "Develops the lambda calculus."
+    },
+    {
+      "date": "1936",
+      "event": "Publishes An Unsolvable Problem of Elementary Number Theory."
+    },
+    {
+      "date": "1937",
+      "event": "Alan Turing completes doctoral work under Church at Princeton."
+    },
+    {
+      "date": "1995-08-11",
+      "event": "Dies in Hudson, Ohio."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "MacTutor History of Mathematics: Alonzo Church",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Church/"
+    },
+    {
+      "title": "Stanford Encyclopedia of Philosophy: Alonzo Church",
+      "url": "https://plato.stanford.edu/entries/church/"
+    },
+    {
+      "title": "Princeton University Library: Alonzo Church papers",
+      "url": "https://findingaids.princeton.edu/catalog/C0025"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

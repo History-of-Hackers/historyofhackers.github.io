@@ -1,0 +1,75 @@
+{
+  "id": "gene-tsudik",
+  "type": "person",
+  "title": "Gene Tsudik",
+  "slug": "gene-tsudik",
+  "name": "Gene Tsudik",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "academic-research",
+    "security",
+    "privacy",
+    "applied-cryptography"
+  ],
+  "summary": "Computer-security and privacy researcher at UC Irvine whose work covers applied cryptography, Internet security, distributed systems, and privacy.",
+  "whyThisMatters": "Tsudik's research covers recurring security problems—authentication, privacy, Internet security, and trustworthy distributed systems—and his academic service helped shape venues for security research.",
+  "knownFor": [
+    "Internet security and privacy",
+    "Applied cryptography",
+    "Distributed-systems security",
+    "ACM Transactions on Privacy and Security"
+  ],
+  "sections": {
+    "overview": "<p>Gene Tsudik is a Distinguished Professor of Computer Science at the University of California, Irvine. His research interests include security, privacy, and applied cryptography, with work that ranges across Internet and distributed systems.</p><h2>Security research and community service</h2><p>Before joining UCI, Tsudik worked at IBM Zurich Research Laboratory and USC's Information Sciences Institute. He later served as editor-in-chief of ACM Transactions on Information and System Security, now ACM Transactions on Privacy and Security.</p><h2>Why it belongs here</h2><p>Research on privacy, authentication, and distributed trust often determines whether a security mechanism can withstand real deployment. Tsudik's career is part of that academic and engineering history.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1991",
+      "event": "Completes a PhD in computer science at the University of Southern California."
+    },
+    {
+      "date": "1991",
+      "event": "Joins IBM Zurich Research Laboratory."
+    },
+    {
+      "date": "2000",
+      "event": "Joins the University of California, Irvine."
+    },
+    {
+      "date": "2009",
+      "event": "Begins service as editor-in-chief of ACM TISSEC."
+    },
+    {
+      "date": "2017",
+      "event": "Receives ACM SIGSAC's Outstanding Contribution Award."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "UC Irvine faculty profile",
+      "url": "https://ics.uci.edu/?people=gene-tsudik"
+    },
+    {
+      "title": "Academia Europaea profile",
+      "url": "https://www.ae-info.org/ae/User/Tsudik_Gene"
+    },
+    {
+      "title": "UC Riverside talk biography",
+      "url": "https://ece.ucr.edu/sites/default/files/2019-05/Gene%20Tsudik.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

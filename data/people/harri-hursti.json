@@ -1,0 +1,66 @@
+{
+  "id": "harri-hursti",
+  "type": "person",
+  "title": "Harri Hursti",
+  "slug": "harri-hursti",
+  "name": "Harri Hursti",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "election-security",
+    "voting-systems",
+    "independent-research",
+    "public-interest-security"
+  ],
+  "summary": "Finnish computer-security researcher known for independent security testing of electronic voting systems and for election-technology security advocacy.",
+  "whyThisMatters": "Hursti's public demonstrations and technical assessments made security weaknesses in election technology understandable to officials, journalists, and voters, helping establish election infrastructure as a cybersecurity concern.",
+  "knownFor": [
+    "Independent testing of electronic voting systems",
+    "The 2005 'Hursti Hack' memory-card demonstration",
+    "Election-security advocacy and assessment"
+  ],
+  "sections": {
+    "overview": "<h2>Election technology research</h2><p>Harri Hursti is a Finnish computer-security researcher whose work has focused on the security and auditability of electronic voting systems. His public-interest research examined whether election equipment could be manipulated without leaving reliable evidence in the systems used to administer an election.</p><h2>Memory-card demonstration</h2><p>In 2005, Hursti demonstrated a vulnerability involving a Diebold optical-scan voting-system memory card in Leon County, Florida. The demonstration became widely known as the “Hursti Hack” and was reported as an illustration of why independent testing, physical controls, and meaningful post-election audits matter.</p><h2>Public role</h2><p>Hursti has continued to contribute technical expertise to election-security discussions. His work is best understood as security assessment in the public interest: testing claims made for critical civic systems and communicating the practical consequences of failures.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2005",
+      "event": "Demonstrates a memory-card vulnerability in a Diebold optical-scan voting system in Leon County, Florida."
+    },
+    {
+      "date": "2006",
+      "event": "His voting-machine research is featured in the documentary <em>Hacking Democracy</em>."
+    },
+    {
+      "date": "2017",
+      "event": "Provides election-security expertise in the period of increased U.S. attention to voting-system resilience."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Brennan Center: Harri Hursti",
+      "url": "https://www.brennancenter.org/experts/harri-hursti"
+    },
+    {
+      "title": "PBS FRONTLINE: Hacking Democracy",
+      "url": "https://www.pbs.org/wgbh/pages/frontline/democracy/"
+    },
+    {
+      "title": "U.S. Election Assistance Commission: Voluntary Voting System Guidelines",
+      "url": "https://www.eac.gov/voting-equipment/voluntary-voting-system-guidelines"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-q-2026-09-03"
+  }
+}

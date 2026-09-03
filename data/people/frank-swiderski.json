@@ -1,0 +1,67 @@
+{
+  "id": "frank-swiderski",
+  "type": "person",
+  "title": "Frank Swiderski",
+  "slug": "frank-swiderski",
+  "name": "Frank Swiderski",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "threat-modeling",
+    "secure-development",
+    "software-security",
+    "author",
+    "microsoft"
+  ],
+  "summary": "Software-security practitioner and author known for co-authoring a practical threat-modeling guide for developers and security teams.",
+  "whyThisMatters": "Threat modeling is a core method for finding design-level security problems before software ships; Swiderski helped provide a structured, approachable treatment of that method for practitioners.",
+  "knownFor": [
+    "Co-author of <em>Threat Modeling</em>",
+    "Secure software design",
+    "Developer-facing security practice"
+  ],
+  "sections": {
+    "overview": "<h2>Threat modeling</h2><p>Frank Swiderski is a software-security practitioner known for work on threat modeling and secure application design. Threat modeling asks a team to identify assets, trust boundaries, likely adversaries, and abuse cases before implementation locks in risky choices.</p><h2>A practical guide</h2><p>With Window Snyder, Swiderski co-authored <em>Threat Modeling</em>. The book presents a systematic framework for analyzing application threats and choosing mitigations, aimed at development teams rather than only specialist reviewers.</p><h2>Design-level security</h2><p>His contribution reflects a durable lesson in software security: many costly weaknesses begin as design decisions. Addressing them early requires a shared process that developers, architects, and security reviewers can use together.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2004",
+      "event": "Co-authors <em>Threat Modeling</em> with Window Snyder."
+    },
+    {
+      "date": "2000s",
+      "event": "Contributes to the spread of developer-oriented threat-modeling practice."
+    },
+    {
+      "date": "2010s",
+      "event": "Threat modeling becomes a recurring component of secure-development guidance and training."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Microsoft Press: Threat Modeling",
+      "url": "https://www.microsoftpressstore.com/store/threat-modeling-9780735619910"
+    },
+    {
+      "title": "Google Books: Threat Modeling",
+      "url": "https://books.google.com/books?id=ZqSxQgAACAAJ"
+    },
+    {
+      "title": "Microsoft: Threat Modeling guidance",
+      "url": "https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-q-2026-09-03"
+  }
+}

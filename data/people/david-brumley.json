@@ -1,0 +1,67 @@
+{
+  "id": "david-brumley",
+  "type": "person",
+  "title": "David Brumley",
+  "slug": "david-brumley",
+  "name": "David Brumley",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "software-security",
+    "program-analysis",
+    "automated-exploit-generation",
+    "research",
+    "education"
+  ],
+  "summary": "Computer-security researcher and Carnegie Mellon professor known for work on program analysis, vulnerability discovery, and automated reasoning about software security.",
+  "whyThisMatters": "Brumley's research explores how automation can make vulnerability analysis and defensive testing more scalable, an important bridge between academic program analysis and operational security engineering.",
+  "knownFor": [
+    "Carnegie Mellon CyLab researcher",
+    "Program analysis and software security",
+    "Co-founder of ForAllSecure"
+  ],
+  "sections": {
+    "overview": "<h2>Research</h2><p>David Brumley is a computer-security researcher and professor at Carnegie Mellon University. His work spans program analysis, software security, vulnerability discovery, and automated techniques for understanding how software behaves under adversarial input.</p><h2>Automation</h2><p>Brumley's research group has studied symbolic execution, binary analysis, and automated exploit-generation problems. These methods seek to make rigorous analysis more practical for complex software, while also clarifying the limits and risks of automation.</p><h2>Technology transfer</h2><p>He co-founded ForAllSecure, a company that applies automated testing approaches to software assurance. The company reflects a recurring theme in his work: moving research ideas from laboratory prototypes toward tools engineers can use.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2008",
+      "event": "Joins Carnegie Mellon University as a faculty member in computer science."
+    },
+    {
+      "date": "2013",
+      "event": "Co-founds ForAllSecure to apply automated software-security testing."
+    },
+    {
+      "date": "2016",
+      "event": "DARPA's Cyber Grand Challenge highlights automated vulnerability analysis, an area connected to his research community."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Carnegie Mellon: David Brumley",
+      "url": "https://www.cs.cmu.edu/~dbrumley/"
+    },
+    {
+      "title": "Carnegie Mellon CyLab: David Brumley",
+      "url": "https://www.cylab.cmu.edu/directory/bios/brumley-david.html"
+    },
+    {
+      "title": "ForAllSecure: company overview",
+      "url": "https://forallsecure.com/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-q-2026-09-03"
+  }
+}

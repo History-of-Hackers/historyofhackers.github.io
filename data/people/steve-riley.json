@@ -1,0 +1,67 @@
+{
+  "id": "steve-riley",
+  "type": "person",
+  "title": "Steve Riley",
+  "slug": "steve-riley",
+  "name": "Steve Riley",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "security-strategy",
+    "microsoft",
+    "enterprise-security",
+    "author",
+    "risk-management"
+  ],
+  "summary": "Security strategist and author known for public work on enterprise security, risk management, and the operational adoption of secure-computing practices.",
+  "whyThisMatters": "Riley has been an influential communicator of how security controls, risk decisions, and organizational culture interact in large technology environments.",
+  "knownFor": [
+    "Microsoft security strategy",
+    "Co-author of <em>Security Strategy</em>",
+    "Enterprise security communication"
+  ],
+  "sections": {
+    "overview": "<h2>Security strategy</h2><p>Steve Riley is a security strategist and author whose public work has addressed how organizations make security decisions at scale. His approach emphasizes that security is not a product purchase alone: it involves architecture, operations, user experience, and risk governance.</p><h2>Writing</h2><p>Riley co-authored <em>Security Strategy: From Requirements to Reality</em>, a Microsoft Press book that presents security planning as a process of translating business and technical requirements into defensible controls.</p><h2>Public communication</h2><p>Through talks and writing, Riley has helped make enterprise-security concepts accessible to technical and non-technical audiences. His work belongs to the practitioner tradition of turning security principles into organizational habits.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2002",
+      "event": "Begins a prominent period of public security communication at Microsoft."
+    },
+    {
+      "date": "2007",
+      "event": "Co-authors <em>Security Strategy: From Requirements to Reality</em>."
+    },
+    {
+      "date": "2010s",
+      "event": "Continues work and speaking on enterprise security and risk management."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Microsoft Learn archive: Steve Riley",
+      "url": "https://learn.microsoft.com/en-us/archive/blogs/steveriley/"
+    },
+    {
+      "title": "Microsoft Press: Security Strategy",
+      "url": "https://www.microsoftpressstore.com/store/security-strategy-from-requirements-to-reality-9780735623155"
+    },
+    {
+      "title": "O'Reilly: Security Strategy",
+      "url": "https://www.oreilly.com/library/view/security-strategy-from/9780735623155/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-q-2026-09-03"
+  }
+}

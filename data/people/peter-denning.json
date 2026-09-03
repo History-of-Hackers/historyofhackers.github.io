@@ -1,0 +1,79 @@
+{
+  "id": "peter-denning",
+  "type": "person",
+  "title": "Peter J. Denning",
+  "slug": "peter-denning",
+  "name": "Peter J. Denning",
+  "born": 1942,
+  "died": null,
+  "era": "1960s-Present",
+  "tags": [
+    "academic-research",
+    "operating-systems",
+    "computer-security",
+    "computing-education"
+  ],
+  "summary": "Computer scientist known for work on operating systems, working sets, computer security, and the communication of computing research to broader audiences.",
+  "whyThisMatters": "Denning's work on operating systems and the working-set model sits close to the resource-management questions that affect isolation, availability, and dependable computing. He also helped explain security and computing to professional audiences.",
+  "knownFor": [
+    "Working-set model",
+    "Operating systems",
+    "Computer security",
+    "Computing education"
+  ],
+  "sections": {
+    "overview": "<p>Peter J. Denning is a computer scientist known for work on operating systems, the working-set model of memory management, computer security, and computing education. He has held academic and professional leadership roles across the discipline.</p><h2>Systems foundations</h2><p>Operating systems mediate memory, processes, and resource allocation—the foundation on which many security boundaries depend. Denning's research on working sets contributed to understanding practical memory management in computing systems.</p><h2>Security and the profession</h2><p>Denning has also written and spoken widely about the field of computing, including its security challenges and professional responsibilities. That combination of systems research and communication makes his work useful in a historical archive.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1942-01-06",
+      "event": "Born in New York, United States."
+    },
+    {
+      "date": "1968",
+      "event": "Completes a PhD at the Massachusetts Institute of Technology."
+    },
+    {
+      "date": "1968",
+      "event": "Publishes the working-set model of program behavior."
+    },
+    {
+      "date": "1970s",
+      "event": "Conducts research and teaching in operating systems and computer security."
+    },
+    {
+      "date": "1992",
+      "event": "Serves as president of the Association for Computing Machinery."
+    },
+    {
+      "date": "2000s",
+      "event": "Continues work on computing education and the profession."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Naval Postgraduate School faculty page",
+      "url": "https://faculty.nps.edu/pjd/"
+    },
+    {
+      "title": "ACM Digital Library author profile",
+      "url": "https://dl.acm.org/profile/81100211938"
+    },
+    {
+      "title": "Computer History Museum oral history collections",
+      "url": "https://www.computerhistory.org/collections/oralhistories/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

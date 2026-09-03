@@ -1,0 +1,67 @@
+{
+  "id": "robert-knake",
+  "type": "person",
+  "title": "Robert Knake",
+  "slug": "robert-knake",
+  "name": "Robert Knake",
+  "born": null,
+  "died": null,
+  "era": "2000s-Present",
+  "tags": [
+    "cybersecurity-policy",
+    "critical-infrastructure",
+    "ransomware",
+    "public-service",
+    "author"
+  ],
+  "summary": "U.S. cybersecurity policy specialist and author whose work has addressed critical-infrastructure protection, ransomware, and national cyber strategy.",
+  "whyThisMatters": "Knake has helped translate technical and operational cyber risks into public policy, especially around critical infrastructure and the economics of disruptive attacks.",
+  "knownFor": [
+    "Co-author of <em>Cyber War</em>",
+    "Cybersecurity policy and critical infrastructure",
+    "Ransomware Task Force leadership"
+  ],
+  "sections": {
+    "overview": "<h2>Cyber policy</h2><p>Robert Knake is a cybersecurity policy specialist whose work has focused on national cyber strategy, critical infrastructure, and resilience against disruptive attacks. He has held U.S. government roles and has written for policy institutions on the relationship between technical risk and public policy.</p><h2>Writing and strategy</h2><p>With Richard A. Clarke, Knake co-authored <em>Cyber War</em>, a book that brought cyber conflict and infrastructure risk to a broad policy audience. He has also contributed analysis on how governments and organizations should prepare for ransomware and other systemic threats.</p><h2>Ransomware</h2><p>Knake chaired the Institute for Security and Technology's Ransomware Task Force. Its 2021 report proposed a coordinated set of actions for reducing the ransomware ecosystem and improving resilience.</p>"
+  },
+  "timeline": [
+    {
+      "date": "2010",
+      "event": "Co-authors <em>Cyber War</em> with Richard A. Clarke."
+    },
+    {
+      "date": "2021",
+      "event": "Chairs the Ransomware Task Force, which publishes a framework for disrupting ransomware."
+    },
+    {
+      "date": "2021",
+      "event": "Serves as deputy national cyber director in the U.S. Office of the National Cyber Director."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Carnegie Endowment: Robert Knake",
+      "url": "https://carnegieendowment.org/people/robert-knake"
+    },
+    {
+      "title": "Council on Foreign Relations: Robert Knake",
+      "url": "https://www.cfr.org/expert/robert-knake"
+    },
+    {
+      "title": "Institute for Security and Technology: Ransomware Task Force report",
+      "url": "https://securityandtechnology.org/ransomwaretaskforce/report/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-q-2026-09-03"
+  }
+}

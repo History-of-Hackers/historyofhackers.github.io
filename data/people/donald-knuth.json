@@ -1,0 +1,79 @@
+{
+  "id": "donald-knuth",
+  "type": "person",
+  "title": "Donald Knuth",
+  "slug": "donald-knuth",
+  "name": "Donald Knuth",
+  "born": 1938,
+  "died": null,
+  "era": "1950s-Present",
+  "tags": [
+    "academic-research",
+    "algorithms",
+    "programming-languages",
+    "computer-science-history"
+  ],
+  "summary": "Computer scientist and Stanford professor emeritus whose work on algorithms, programming languages, and The Art of Computer Programming helped establish computer science as a rigorous discipline.",
+  "whyThisMatters": "Knuth's analysis of algorithms and attention to exactness shaped how programmers reason about correctness, complexity, and implementation—core concerns whenever security-sensitive code must behave predictably.",
+  "knownFor": [
+    "The Art of Computer Programming",
+    "Analysis of algorithms",
+    "TeX",
+    "Literate programming"
+  ],
+  "sections": {
+    "overview": "<p>Donald E. Knuth is a computer scientist and Stanford professor emeritus known for his multivolume series <em>The Art of Computer Programming</em>, as well as work on algorithms, programming languages, TeX, and literate programming.</p><h2>Precision in computing</h2><p>Security depends on programs doing exactly what their designers intend. Knuth's work on the analysis of algorithms and careful program construction helped make rigor in computer science a practical and teachable discipline.</p><h2>A continuing reference</h2><p>ACM awarded Knuth the 1974 Turing Award for major contributions to analysis of algorithms and programming-language design. His books and archival work remain important reference points for computing history.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1938-01-10",
+      "event": "Born in Milwaukee, Wisconsin, United States."
+    },
+    {
+      "date": "1963",
+      "event": "Completes a PhD in mathematics at the California Institute of Technology."
+    },
+    {
+      "date": "1968",
+      "event": "Joins Stanford University."
+    },
+    {
+      "date": "1968",
+      "event": "Publishes the first volume of The Art of Computer Programming."
+    },
+    {
+      "date": "1974",
+      "event": "Receives the ACM A.M. Turing Award."
+    },
+    {
+      "date": "1978",
+      "event": "Introduces TeX to support high-quality digital typesetting."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "ACM: Donald E. Knuth, Turing Award laureate",
+      "url": "https://amturing.acm.org/award_recipient/knuth_1013846.cfm"
+    },
+    {
+      "title": "Stanford: Knuth curriculum vitae",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/vita.html"
+    },
+    {
+      "title": "ACM SIGACT: Knuth Prize",
+      "url": "https://www.sigact.sigact.hosting.acm.org/prizes/knuth.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

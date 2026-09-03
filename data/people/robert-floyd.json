@@ -1,0 +1,79 @@
+{
+  "id": "robert-floyd",
+  "type": "person",
+  "title": "Robert W. Floyd",
+  "slug": "robert-floyd",
+  "name": "Robert W. Floyd",
+  "born": 1936,
+  "died": 2001,
+  "era": "1950s-2001",
+  "tags": [
+    "academic-research",
+    "algorithms",
+    "program-verification",
+    "computer-science-history"
+  ],
+  "summary": "American computer scientist whose work on algorithms and formal methods—including Floyd–Warshall and Floyd–Hoare logic—helped establish program verification.",
+  "whyThisMatters": "Floyd's work made it possible to discuss program correctness with mathematical precision. That intellectual lineage is central to secure-software engineering, where intended behavior must be specified and checked.",
+  "knownFor": [
+    "Floyd–Warshall algorithm",
+    "Floyd–Hoare logic",
+    "Program verification",
+    "1978 ACM Turing Award"
+  ],
+  "sections": {
+    "overview": "<p>Robert W. Floyd was an American computer scientist whose work in algorithms and formal methods helped establish program verification as a serious area of research. His name is associated with the Floyd–Warshall all-pairs shortest-path algorithm and with foundational ideas for proving program correctness.</p><h2>Verification as a security foundation</h2><p>Security failures often arise when programs violate unstated or unchecked assumptions. Floyd's work on assertions and formal reasoning supplied an early framework for proving that a program satisfies a specification.</p><h2>In memoriam</h2><p>Floyd died in 2001. His influence endures in formal verification, program analysis, and the pursuit of more trustworthy software.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1936-06-08",
+      "event": "Born in New York City, United States."
+    },
+    {
+      "date": "1962",
+      "event": "Joins the Carnegie Institute of Technology."
+    },
+    {
+      "date": "1968",
+      "event": "Joins Stanford University."
+    },
+    {
+      "date": "1967",
+      "event": "Publishes work that became foundational to Floyd–Hoare logic."
+    },
+    {
+      "date": "1978",
+      "event": "Receives the ACM A.M. Turing Award."
+    },
+    {
+      "date": "2001-09-25",
+      "event": "Dies in Stanford, California."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "ACM: A.M. Turing Award fact sheet",
+      "url": "https://www.acm.org/binaries/content/assets/awards/about-the-acm-a.m.-turing-award-fact-sheet.pdf"
+    },
+    {
+      "title": "ACM Awards: Robert W. Floyd",
+      "url": "https://awards.acm.org/award_winners/?172="
+    },
+    {
+      "title": "ACM award recipients booklet",
+      "url": "https://awards.acm.org/binaries/content/assets/awards/awards-booklet-2019.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

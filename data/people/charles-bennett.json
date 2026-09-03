@@ -1,0 +1,83 @@
+{
+  "id": "charles-bennett",
+  "type": "person",
+  "title": "Charles H. Bennett",
+  "slug": "charles-bennett",
+  "name": "Charles H. Bennett",
+  "born": 1943,
+  "died": null,
+  "era": "1960s-Present",
+  "tags": [
+    "academic-research",
+    "quantum-information",
+    "cryptography",
+    "information-theory"
+  ],
+  "summary": "American physicist and information theorist whose work helped found quantum information science and quantum cryptography.",
+  "whyThisMatters": "Bennett's work helped show how the physical behavior of information can be used to establish security properties. Quantum key distribution became a major research path for testing the limits and future of cryptography.",
+  "knownFor": [
+    "Quantum information theory",
+    "Quantum key distribution",
+    "Reversible computing",
+    "IBM Research"
+  ],
+  "sections": {
+    "overview": "<p>Charles H. Bennett is an American physicist and information theorist whose work helped found quantum information science. At IBM Research, he contributed to reversible computing, quantum teleportation, and quantum cryptography.</p><h2>Information and physical security</h2><p>Quantum cryptography explores security mechanisms based on physical principles rather than only computational assumptions. Bennett's work with collaborators, including the BB84 quantum key-distribution protocol, made the field a major part of modern cryptographic research.</p><h2>Research legacy</h2><p>Quantum information does not replace the need for sound classical security engineering, but it expands the models under which cryptographers reason. Bennett's work is therefore a key bridge between information theory, physics, and security.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1943-11-03",
+      "event": "Born in New York City, United States."
+    },
+    {
+      "date": "1971",
+      "event": "Completes a PhD in chemical physics at Harvard University."
+    },
+    {
+      "date": "1973",
+      "event": "Joins IBM Research."
+    },
+    {
+      "date": "1973",
+      "event": "Publishes foundational work on reversible computation."
+    },
+    {
+      "date": "1984",
+      "event": "Co-authors the BB84 quantum key-distribution protocol with Gilles Brassard."
+    },
+    {
+      "date": "1993",
+      "event": "Co-authors the first quantum-teleportation protocol."
+    },
+    {
+      "date": "2018",
+      "event": "Receives the Wolf Prize in Physics with Gilles Brassard."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "IBM Research: Charles H. Bennett",
+      "url": "https://research.ibm.com/people/charles-bennett"
+    },
+    {
+      "title": "IBM Research: quantum information history",
+      "url": "https://research.ibm.com/quantum"
+    },
+    {
+      "title": "Wolf Foundation: 2018 Physics Prize",
+      "url": "https://wolffund.org.il/2018/02/12/charles-h-bennett-gilles-brassard/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "jon-callas",
+  "type": "person",
+  "title": "Jon Callas",
+  "slug": "jon-callas",
+  "name": "Jon Callas",
+  "born": null,
+  "died": null,
+  "era": "1990s-Present",
+  "tags": [
+    "cryptography",
+    "privacy",
+    "pgp",
+    "openpgp",
+    "security-engineering"
+  ],
+  "summary": "Cryptographer and privacy engineer known for work on PGP, OpenPGP, secure communications, and public-interest technology.",
+  "whyThisMatters": "Callas has worked at the intersection of practical cryptographic tools, usability, and civil liberties—questions central to how people can protect private communications in real systems.",
+  "knownFor": [
+    "PGP and OpenPGP work",
+    "Privacy engineering",
+    "Electronic Frontier Foundation technology leadership"
+  ],
+  "sections": {
+    "overview": "<h2>Practical cryptography</h2><p>Jon Callas is a cryptographer and privacy engineer whose work has included PGP, OpenPGP, and secure communications products. His career has centered on turning cryptographic ideas into tools that people and organizations can actually use.</p><h2>Open standards and privacy</h2><p>Callas has contributed to the OpenPGP ecosystem and has held technology roles in industry and at the Electronic Frontier Foundation. His work highlights the practical challenges of key management, interoperability, and user experience in privacy-preserving systems.</p><h2>Public-interest technology</h2><p>At EFF, Callas's technical leadership connected security engineering with civil-liberties advocacy. The role reflects an enduring hacker-culture concern: strong tools matter most when users retain meaningful control over their communications and data.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1990s",
+      "event": "Works on PGP-related cryptography and secure communications products."
+    },
+    {
+      "date": "2016",
+      "event": "Joins the Electronic Frontier Foundation as chief technology officer."
+    },
+    {
+      "date": "2020s",
+      "event": "Continues work on privacy, cryptography, and security engineering."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Electronic Frontier Foundation: Jon Callas joins EFF",
+      "url": "https://www.eff.org/deeplinks/2016/02/eff-welcomes-jon-callas-chief-technology-officer"
+    },
+    {
+      "title": "IETF: OpenPGP Working Group",
+      "url": "https://datatracker.ietf.org/wg/openpgp/about/"
+    },
+    {
+      "title": "Keybase: Jon Callas",
+      "url": "https://keybase.io/joncallas"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-batch-q-2026-09-03"
+  }
+}

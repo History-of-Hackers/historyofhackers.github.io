@@ -1,0 +1,79 @@
+{
+  "id": "leslie-lamport",
+  "type": "person",
+  "title": "Leslie Lamport",
+  "slug": "leslie-lamport",
+  "name": "Leslie Lamport",
+  "born": 1941,
+  "died": null,
+  "era": "1970s-Present",
+  "tags": [
+    "academic-research",
+    "distributed-systems",
+    "formal-methods",
+    "computer-security"
+  ],
+  "summary": "Computer scientist known for foundational work on distributed systems, formal specification and verification, and the initial development of LaTeX.",
+  "whyThisMatters": "Security protocols run in distributed systems and fail when their assumptions are ambiguous. Lamport's work on ordering, consistency, specifications, and verification supplied tools for reasoning about those systems precisely.",
+  "knownFor": [
+    "Logical clocks",
+    "Distributed systems",
+    "TLA+ specification",
+    "LaTeX"
+  ],
+  "sections": {
+    "overview": "<p>Leslie Lamport is a computer scientist known for foundational work on distributed and concurrent systems, as well as for the initial development of LaTeX. His work gives engineers a language for reasoning about ordering, consistency, and correctness among independent machines.</p><h2>Formal reasoning and security</h2><p>Distributed protocols need explicit assumptions about time, messages, failures, and state. Lamport's concepts and specification methods are therefore relevant to security engineering, where protocol correctness and failure behavior matter as much as cryptographic primitives.</p><h2>Lasting influence</h2><p>ACM recognized Lamport with the 2013 Turing Award for fundamental contributions to the theory and practice of distributed and concurrent systems. His work remains influential in formal verification of distributed protocols.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1941-02-07",
+      "event": "Born in New York City, United States."
+    },
+    {
+      "date": "1978",
+      "event": "Publishes “Time, Clocks, and the Ordering of Events in a Distributed System.”"
+    },
+    {
+      "date": "1984",
+      "event": "Releases the initial version of LaTeX."
+    },
+    {
+      "date": "2001",
+      "event": "Joins Microsoft Research."
+    },
+    {
+      "date": "2013",
+      "event": "Receives the ACM A.M. Turing Award."
+    },
+    {
+      "date": "2020s",
+      "event": "Retires from Microsoft while his research archive and TLA+ work remain available."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Microsoft Research: Leslie Lamport",
+      "url": "https://www.microsoft.com/en-us/research/people/lamport/"
+    },
+    {
+      "title": "Leslie Lamport's home page",
+      "url": "https://lamport.org/"
+    },
+    {
+      "title": "ACM Turing Award site",
+      "url": "https://amturing.acm.org/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

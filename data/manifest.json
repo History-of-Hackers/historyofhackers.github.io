@@ -10159,5 +10159,462 @@
     ],
     "summary": "Belgian cryptographer and co-designer of Rijndael, the cipher NIST standardized as the Advanced Encryption Standard.",
     "url": "people/vincent-rijmen.html"
+  },
+  {
+    "id": "michael-waidner",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Michael Waidner",
+    "slug": "michael-waidner",
+    "era": "1980s-Present",
+    "tags": [
+      "academic-research",
+      "cryptography",
+      "privacy",
+      "cybersecurity"
+    ],
+    "summary": "German computer scientist and cybersecurity researcher whose work spans security, privacy, cryptography, and dependable systems.",
+    "url": "people/michael-waidner.html"
+  },
+  {
+    "id": "roberto-tamassia",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Roberto Tamassia",
+    "slug": "roberto-tamassia",
+    "era": "1980s-Present",
+    "tags": [
+      "academic-research",
+      "applied-cryptography",
+      "authentication",
+      "computer-security"
+    ],
+    "summary": "Italian-American computer scientist whose research includes computer security, applied cryptography, authentication, algorithms, and data security.",
+    "url": "people/roberto-tamassia.html"
+  },
+  {
+    "id": "gene-tsudik",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Gene Tsudik",
+    "slug": "gene-tsudik",
+    "era": "1990s-Present",
+    "tags": [
+      "academic-research",
+      "security",
+      "privacy",
+      "applied-cryptography"
+    ],
+    "summary": "Computer-security and privacy researcher at UC Irvine whose work covers applied cryptography, Internet security, distributed systems, and privacy.",
+    "url": "people/gene-tsudik.html"
+  },
+  {
+    "id": "leslie-lamport",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Leslie Lamport",
+    "slug": "leslie-lamport",
+    "era": "1970s-Present",
+    "tags": [
+      "academic-research",
+      "distributed-systems",
+      "formal-methods",
+      "computer-security"
+    ],
+    "summary": "Computer scientist known for foundational work on distributed systems, formal specification and verification, and the initial development of LaTeX.",
+    "url": "people/leslie-lamport.html"
+  },
+  {
+    "id": "donald-knuth",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Donald Knuth",
+    "slug": "donald-knuth",
+    "era": "1950s-Present",
+    "tags": [
+      "academic-research",
+      "algorithms",
+      "programming-languages",
+      "computer-science-history"
+    ],
+    "summary": "Computer scientist and Stanford professor emeritus whose work on algorithms, programming languages, and The Art of Computer Programming helped establish computer science as a rigorous discipline.",
+    "url": "people/donald-knuth.html"
+  },
+  {
+    "id": "robert-floyd",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Robert W. Floyd",
+    "slug": "robert-floyd",
+    "era": "1950s-2001",
+    "tags": [
+      "academic-research",
+      "algorithms",
+      "program-verification",
+      "computer-science-history"
+    ],
+    "summary": "American computer scientist whose work on algorithms and formal methods—including Floyd–Warshall and Floyd–Hoare logic—helped establish program verification.",
+    "url": "people/robert-floyd.html"
+  },
+  {
+    "id": "robin-milner",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Robin Milner",
+    "slug": "robin-milner",
+    "era": "1960s-2010",
+    "tags": [
+      "academic-research",
+      "formal-methods",
+      "programming-languages",
+      "concurrency"
+    ],
+    "summary": "British computer scientist whose work on LCF, ML, CCS, and process calculi shaped formal methods and the theory of concurrent systems.",
+    "url": "people/robin-milner.html"
+  },
+  {
+    "id": "peter-denning",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Peter J. Denning",
+    "slug": "peter-denning",
+    "era": "1960s-Present",
+    "tags": [
+      "academic-research",
+      "operating-systems",
+      "computer-security",
+      "computing-education"
+    ],
+    "summary": "Computer scientist known for work on operating systems, working sets, computer security, and the communication of computing research to broader audiences.",
+    "url": "people/peter-denning.html"
+  },
+  {
+    "id": "donald-michie",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Donald Michie",
+    "slug": "donald-michie",
+    "era": "1940s-2007",
+    "tags": [
+      "cryptanalysis",
+      "artificial-intelligence",
+      "bletchley-park",
+      "academic-research"
+    ],
+    "summary": "British codebreaker and artificial-intelligence researcher whose wartime work on the Lorenz cipher preceded a major academic career in machine intelligence.",
+    "url": "people/donald-michie.html"
+  },
+  {
+    "id": "friedrich-l-bauer",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Friedrich L. Bauer",
+    "slug": "friedrich-l-bauer",
+    "era": "1940s-2015",
+    "tags": [
+      "cryptography",
+      "software-engineering",
+      "programming-languages",
+      "academic-research"
+    ],
+    "summary": "German computer-science pioneer whose work ranged across programming languages, software engineering, and cryptography.",
+    "url": "people/friedrich-l-bauer.html"
+  },
+  {
+    "id": "alonzo-church",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Alonzo Church",
+    "slug": "alonzo-church",
+    "era": "1930s-1995",
+    "tags": [
+      "logic",
+      "computability",
+      "cryptography",
+      "academic-research"
+    ],
+    "summary": "American mathematician and logician whose work on computability established enduring foundations for computer science and the formal analysis of algorithms.",
+    "url": "people/alonzo-church.html"
+  },
+  {
+    "id": "abraham-lempel",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Abraham Lempel",
+    "slug": "abraham-lempel",
+    "era": "1960s-2023",
+    "tags": [
+      "information-theory",
+      "data-compression",
+      "algorithms",
+      "academic-research"
+    ],
+    "summary": "Israeli computer scientist and information theorist who co-created the Lempel–Ziv family of lossless compression algorithms.",
+    "url": "people/abraham-lempel.html"
+  },
+  {
+    "id": "gustave-solomon",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Gustave Solomon",
+    "slug": "gustave-solomon",
+    "era": "1950s-1996",
+    "tags": [
+      "coding-theory",
+      "information-theory",
+      "error-correction",
+      "academic-research"
+    ],
+    "summary": "American mathematician and electrical engineer who co-invented Reed–Solomon error-correcting codes with Irving S. Reed.",
+    "url": "people/gustave-solomon.html"
+  },
+  {
+    "id": "irving-s-reed",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Irving S. Reed",
+    "slug": "irving-s-reed",
+    "era": "1940s-2012",
+    "tags": [
+      "coding-theory",
+      "information-theory",
+      "error-correction",
+      "academic-research"
+    ],
+    "summary": "American mathematician and engineer who co-invented Reed–Muller and Reed–Solomon codes, foundational methods for reliable digital communication.",
+    "url": "people/irving-s-reed.html"
+  },
+  {
+    "id": "elwyn-berlekamp",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Elwyn Berlekamp",
+    "slug": "elwyn-berlekamp",
+    "era": "1960s-2019",
+    "tags": [
+      "coding-theory",
+      "cryptography",
+      "mathematics",
+      "academic-research"
+    ],
+    "summary": "American mathematician and computer scientist whose algorithms advanced error-correcting codes, finite-field computation, and cryptographic research.",
+    "url": "people/elwyn-berlekamp.html"
+  },
+  {
+    "id": "david-l-mills",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "David L. Mills",
+    "slug": "david-l-mills",
+    "era": "1970s-2024",
+    "tags": [
+      "internet",
+      "network-time-protocol",
+      "network-security",
+      "academic-research"
+    ],
+    "summary": "American computer engineer and internet pioneer who developed the Network Time Protocol (NTP) and taught computer security and networking at the University of Delaware.",
+    "url": "people/david-l-mills.html"
+  },
+  {
+    "id": "hans-dobbertin",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Hans Dobbertin",
+    "slug": "hans-dobbertin",
+    "era": "1980s-2006",
+    "tags": [
+      "cryptanalysis",
+      "hash-functions",
+      "information-security",
+      "academic-research"
+    ],
+    "summary": "German cryptographer known for cryptanalysis of early hash functions and for research on RIPEMD.",
+    "url": "people/hans-dobbertin.html"
+  },
+  {
+    "id": "hedy-lamarr",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Hedy-Lamarr",
+    "slug": "hedy-lamarr",
+    "era": "1940s-2000",
+    "tags": [
+      "wireless-communications",
+      "spread-spectrum",
+      "inventors",
+      "security-history"
+    ],
+    "summary": "Austrian-born American inventor and actor who co-patented a frequency-hopping communications system with George Antheil during the Second World War.",
+    "url": "people/hedy-lamarr.html"
+  },
+  {
+    "id": "harri-hursti",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Harri Hursti",
+    "slug": "harri-hursti",
+    "era": "2000s-Present",
+    "tags": [
+      "election-security",
+      "voting-systems",
+      "independent-research",
+      "public-interest-security"
+    ],
+    "summary": "Finnish computer-security researcher known for independent security testing of electronic voting systems and for election-technology security advocacy.",
+    "url": "people/harri-hursti.html"
+  },
+  {
+    "id": "robert-knake",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Robert Knake",
+    "slug": "robert-knake",
+    "era": "2000s-Present",
+    "tags": [
+      "cybersecurity-policy",
+      "critical-infrastructure",
+      "ransomware",
+      "public-service",
+      "author"
+    ],
+    "summary": "U.S. cybersecurity policy specialist and author whose work has addressed critical-infrastructure protection, ransomware, and national cyber strategy.",
+    "url": "people/robert-knake.html"
+  },
+  {
+    "id": "tanya-janca",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Tanya Janca",
+    "slug": "tanya-janca",
+    "era": "2010s-Present",
+    "tags": [
+      "application-security",
+      "devsecops",
+      "secure-development",
+      "education",
+      "author"
+    ],
+    "summary": "Application-security educator, author, and practitioner known for making secure software-development practices accessible to engineering teams.",
+    "url": "people/tanya-janca.html"
+  },
+  {
+    "id": "caroline-wong",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Caroline Wong",
+    "slug": "caroline-wong",
+    "era": "2000s-Present",
+    "tags": [
+      "application-security",
+      "security-leadership",
+      "security-metrics",
+      "education",
+      "author"
+    ],
+    "summary": "Application-security leader, educator, and author known for work on security programs, software-security metrics, and professional development.",
+    "url": "people/caroline-wong.html"
+  },
+  {
+    "id": "david-brumley",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "David Brumley",
+    "slug": "david-brumley",
+    "era": "2000s-Present",
+    "tags": [
+      "software-security",
+      "program-analysis",
+      "automated-exploit-generation",
+      "research",
+      "education"
+    ],
+    "summary": "Computer-security researcher and Carnegie Mellon professor known for work on program analysis, vulnerability discovery, and automated reasoning about software security.",
+    "url": "people/david-brumley.html"
+  },
+  {
+    "id": "eric-rescorla",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Eric Rescorla",
+    "slug": "eric-rescorla",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "internet-standards",
+      "tls",
+      "web-security",
+      "research"
+    ],
+    "summary": "Internet-security researcher and standards contributor known for work on TLS, browser security, and the engineering of secure web protocols.",
+    "url": "people/eric-rescorla.html"
+  },
+  {
+    "id": "michael-howard",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Michael Howard",
+    "slug": "michael-howard",
+    "era": "1990s-Present",
+    "tags": [
+      "secure-development",
+      "microsoft",
+      "threat-modeling",
+      "security-engineering",
+      "author"
+    ],
+    "summary": "Software-security engineer and author known for helping develop secure-development practices at Microsoft and for co-authoring <em>Writing Secure Code</em>.",
+    "url": "people/michael-howard.html"
+  },
+  {
+    "id": "steve-riley",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Steve Riley",
+    "slug": "steve-riley",
+    "era": "1990s-Present",
+    "tags": [
+      "security-strategy",
+      "microsoft",
+      "enterprise-security",
+      "author",
+      "risk-management"
+    ],
+    "summary": "Security strategist and author known for public work on enterprise security, risk management, and the operational adoption of secure-computing practices.",
+    "url": "people/steve-riley.html"
+  },
+  {
+    "id": "frank-swiderski",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Frank Swiderski",
+    "slug": "frank-swiderski",
+    "era": "2000s-Present",
+    "tags": [
+      "threat-modeling",
+      "secure-development",
+      "software-security",
+      "author",
+      "microsoft"
+    ],
+    "summary": "Software-security practitioner and author known for co-authoring a practical threat-modeling guide for developers and security teams.",
+    "url": "people/frank-swiderski.html"
+  },
+  {
+    "id": "jon-callas",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jon Callas",
+    "slug": "jon-callas",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "privacy",
+      "pgp",
+      "openpgp",
+      "security-engineering"
+    ],
+    "summary": "Cryptographer and privacy engineer known for work on PGP, OpenPGP, secure communications, and public-interest technology.",
+    "url": "people/jon-callas.html"
   }
 ]

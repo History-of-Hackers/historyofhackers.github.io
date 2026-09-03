@@ -1,0 +1,74 @@
+{
+  "id": "hedy-lamarr",
+  "type": "person",
+  "title": "Hedy-Lamarr",
+  "slug": "hedy-lamarr",
+  "name": "Hedy-Lamarr",
+  "born": 1914,
+  "died": 2000,
+  "era": "1940s-2000",
+  "tags": [
+    "wireless-communications",
+    "spread-spectrum",
+    "inventors",
+    "security-history"
+  ],
+  "summary": "Austrian-born American inventor and actor who co-patented a frequency-hopping communications system with George Antheil during the Second World War.",
+  "whyThisMatters": "Lamarr’s patent is an important early example of engineering intended to make radio control more resistant to interference. Its history belongs in the broader lineage of secure and resilient communications.",
+  "knownFor": [
+    "Frequency-hopping patent",
+    "Spread-spectrum communications",
+    "Wireless resilience"
+  ],
+  "sections": {
+    "overview": "<p>Austrian-born American inventor and actor who co-patented a frequency-hopping communications system with George Antheil during the Second World War.</p><h2>Historical contribution</h2><p>Lamarr’s patent is an important early example of engineering intended to make radio control more resistant to interference. Its history belongs in the broader lineage of secure and resilient communications.</p><h2>In memoriam</h2><p>Hedy-Lamarr died in 2000. This archive remembers their contribution with care and credits the historical record on which this account relies.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1914-11-09",
+      "event": "Born in Vienna, Austria-Hungary."
+    },
+    {
+      "date": "1942",
+      "event": "Receives a U.S. patent with George Antheil for a secret-communication system."
+    },
+    {
+      "date": "1997",
+      "event": "Receives the Electronic Frontier Foundation Pioneer Award."
+    },
+    {
+      "date": "2000-01-19",
+      "event": "Dies in Florida."
+    },
+    {
+      "date": "2014",
+      "event": "Inducted into the National Inventors Hall of Fame."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "National Inventors Hall of Fame: Hedy Lamarr",
+      "url": "https://www.invent.org/inductees/hedy-lamarr"
+    },
+    {
+      "title": "National WWII Museum: Hedy Lamarr’s secret communication system",
+      "url": "https://www.nationalww2museum.org/war/articles/hedy-lamarr-secret-communication-system"
+    },
+    {
+      "title": "Women’s History: Hedy Lamarr biography",
+      "url": "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

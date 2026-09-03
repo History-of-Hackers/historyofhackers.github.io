@@ -1,0 +1,75 @@
+{
+  "id": "michael-waidner",
+  "type": "person",
+  "title": "Michael Waidner",
+  "slug": "michael-waidner",
+  "name": "Michael Waidner",
+  "born": 1961,
+  "died": null,
+  "era": "1980s-Present",
+  "tags": [
+    "academic-research",
+    "cryptography",
+    "privacy",
+    "cybersecurity"
+  ],
+  "summary": "German computer scientist and cybersecurity researcher whose work spans security, privacy, cryptography, and dependable systems.",
+  "whyThisMatters": "Waidner connects foundational research with applied cybersecurity leadership. His work and institutional roles show how cryptography, privacy engineering, and systems dependability become sustained security practice.",
+  "knownFor": [
+    "Applied cybersecurity research",
+    "Privacy and cryptography",
+    "ATHENE research center",
+    "Fraunhofer SIT"
+  ],
+  "sections": {
+    "overview": "<p>Michael Waidner is a German computer scientist whose research spans IT security, privacy, cryptography, and dependable systems. He has held research and technical leadership positions at IBM and later at Technische Universität Darmstadt and Fraunhofer SIT.</p><h2>Research to practice</h2><p>Waidner's career illustrates the reciprocal relationship between academic security research and deployed technology. His work has included security architecture, privacy, and the research structures needed to evaluate and improve real systems.</p><h2>ATHENE and cybersecurity research</h2><p>He is founding director of the National Research Center for Applied Cybersecurity ATHENE. The center brings together university and applied-research expertise, making it a significant European setting for cybersecurity research and technology transfer.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1961",
+      "event": "Born in Mühlacker, Germany."
+    },
+    {
+      "date": "1991",
+      "event": "Completes a doctorate in computer science at the University of Karlsruhe."
+    },
+    {
+      "date": "1994",
+      "event": "Begins research and leadership work at IBM, including IBM Research in Zurich."
+    },
+    {
+      "date": "2010",
+      "event": "Becomes a professor at Technische Universität Darmstadt and director of Fraunhofer SIT."
+    },
+    {
+      "date": "2019",
+      "event": "ATHENE is established as a national applied-cybersecurity research center under his founding leadership."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "ATHENE: Michael Waidner",
+      "url": "https://www.athene-center.de/en/about-us/committees/michael-waidner"
+    },
+    {
+      "title": "Fraunhofer SIT: Management",
+      "url": "https://www.sit.fraunhofer.de/en/about-us/management/"
+    },
+    {
+      "title": "Technische Universität Darmstadt: Department of Computer Science",
+      "url": "https://www.informatik.tu-darmstadt.de/"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

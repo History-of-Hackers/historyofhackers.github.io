@@ -1,0 +1,74 @@
+{
+  "id": "elwyn-berlekamp",
+  "type": "person",
+  "title": "Elwyn Berlekamp",
+  "slug": "elwyn-berlekamp",
+  "name": "Elwyn Berlekamp",
+  "born": 1940,
+  "died": 2019,
+  "era": "1960s-2019",
+  "tags": [
+    "coding-theory",
+    "cryptography",
+    "mathematics",
+    "academic-research"
+  ],
+  "summary": "American mathematician and computer scientist whose algorithms advanced error-correcting codes, finite-field computation, and cryptographic research.",
+  "whyThisMatters": "Berlekamp’s decoding and finite-field algorithms are part of the mathematical toolkit behind coding theory and cryptography. His work demonstrates how rigorous mathematics becomes dependable communication infrastructure.",
+  "knownFor": [
+    "Berlekamp–Massey algorithm",
+    "Algebraic Coding Theory",
+    "Reed–Solomon decoding"
+  ],
+  "sections": {
+    "overview": "<p>American mathematician and computer scientist whose algorithms advanced error-correcting codes, finite-field computation, and cryptographic research.</p><h2>Historical contribution</h2><p>Berlekamp’s decoding and finite-field algorithms are part of the mathematical toolkit behind coding theory and cryptography. His work demonstrates how rigorous mathematics becomes dependable communication infrastructure.</p><h2>In memoriam</h2><p>Elwyn Berlekamp died in 2019. This archive remembers their contribution with care and credits the historical record on which this account relies.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1940-09-06",
+      "event": "Born in Dover, Ohio."
+    },
+    {
+      "date": "1964",
+      "event": "Receives a PhD from MIT and joins UC Berkeley."
+    },
+    {
+      "date": "1968",
+      "event": "Publishes Algebraic Coding Theory."
+    },
+    {
+      "date": "1972",
+      "event": "Co-founds Cyclotomics."
+    },
+    {
+      "date": "2019-04-09",
+      "event": "Dies in Piedmont, California."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "UC Berkeley: Elwyn Berlekamp in memoriam",
+      "url": "https://senate.universityofcalifornia.edu/in-memoriam/files/elwyn-berlekamp.html"
+    },
+    {
+      "title": "Berkeley News: coding pioneer dies at 78",
+      "url": "https://news.berkeley.edu/2019/04/18/elwyn-berlekamp-game-theorist-and-coding-pioneer-dies-at-78/"
+    },
+    {
+      "title": "IEEE Information Theory Society: In Memoriam Elwyn Berlekamp",
+      "url": "https://www.itsoc.org/news-events/recent-news/in-memoriam-elwyn-berlekamp"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

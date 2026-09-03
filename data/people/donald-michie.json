@@ -1,0 +1,78 @@
+{
+  "id": "donald-michie",
+  "type": "person",
+  "title": "Donald Michie",
+  "slug": "donald-michie",
+  "name": "Donald Michie",
+  "born": 1923,
+  "died": 2007,
+  "era": "1940s-2007",
+  "tags": [
+    "cryptanalysis",
+    "artificial-intelligence",
+    "bletchley-park",
+    "academic-research"
+  ],
+  "summary": "British codebreaker and artificial-intelligence researcher whose wartime work on the Lorenz cipher preceded a major academic career in machine intelligence.",
+  "whyThisMatters": "Michie links wartime cryptanalysis with the later study of machine learning. His Bletchley Park work on Tunny and later research at Edinburgh make him a well-documented bridge between codebreaking and computing research.",
+  "knownFor": [
+    "Bletchley Park and Tunny cryptanalysis",
+    "University of Edinburgh machine-intelligence research",
+    "The Turing Institute"
+  ],
+  "sections": {
+    "overview": "<p>British codebreaker and artificial-intelligence researcher whose wartime work on the Lorenz cipher preceded a major academic career in machine intelligence.</p><h2>Historical contribution</h2><p>Michie links wartime cryptanalysis with the later study of machine learning. His Bletchley Park work on Tunny and later research at Edinburgh make him a well-documented bridge between codebreaking and computing research.</p><h2>In memoriam</h2><p>Donald Michie died in 2007. This archive remembers their contribution with care and credits the historical record on which this account relies.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1923-11-11",
+      "event": "Born in Rangoon, then British Burma."
+    },
+    {
+      "date": "1942",
+      "event": "Joins the Government Code and Cypher School at Bletchley Park."
+    },
+    {
+      "date": "1940s",
+      "event": "Contributes to work against the Lorenz (Tunny) cipher."
+    },
+    {
+      "date": "1965",
+      "event": "Founds Edinburgh’s Experimental Programming Unit."
+    },
+    {
+      "date": "1982",
+      "event": "Co-founds the Turing Institute in Glasgow."
+    },
+    {
+      "date": "2007-07-07",
+      "event": "Dies in England."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Edinburgh: Donald Michie CV",
+      "url": "https://www.aiai.ed.ac.uk/~dm/dmcv.html"
+    },
+    {
+      "title": "University of Edinburgh: Special Minute for Donald Michie",
+      "url": "https://www.inf.ed.ac.uk/about/Michie.pdf"
+    },
+    {
+      "title": "Oxford Dictionary of National Biography: Donald Michie",
+      "url": "https://doi.org/10.1093/ref:odnb/99084"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}
