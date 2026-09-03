@@ -1,0 +1,78 @@
+{
+  "id": "joseph-rochefort",
+  "type": "person",
+  "title": "Joseph Rochefort",
+  "slug": "joseph-rochefort",
+  "name": "Joseph Rochefort",
+  "born": 1900,
+  "died": 1976,
+  "era": "1920s-1976",
+  "tags": [
+    "cryptanalysis",
+    "signals-intelligence",
+    "station-hypo",
+    "naval-history"
+  ],
+  "summary": "U.S. Navy officer and cryptanalyst who led Station Hypo’s wartime intelligence work in Hawaii.",
+  "whyThisMatters": "Rochefort’s leadership at Station Hypo demonstrates that cryptanalysis is a collaborative operational practice: intercepts, linguistic skill, traffic analysis, uncertainty, and decision-making must work together.",
+  "knownFor": [
+    "Station Hypo",
+    "Japanese naval cryptanalysis",
+    "Battle of Midway intelligence"
+  ],
+  "sections": {
+    "overview": "<p>Joseph John Rochefort was a U.S. Navy officer and cryptanalyst. He worked in naval cryptology during the interwar period and later led the Hawaii-based unit known as Station Hypo.</p><h2>Station Hypo</h2><p>Rochefort’s team analyzed Japanese naval communications and produced intelligence that informed U.S. decisions before the Battle of Midway. Accounts of the episode emphasize collaboration among cryptanalysts, linguists, traffic analysts, and commanders rather than a single act of “breaking a code.”</p><h2>Security history</h2><p>His career illustrates how communications intelligence is shaped by technical analysis, organizational trust, and the difficult translation of incomplete evidence into decisions.</p><h2>In memoriam</h2><p>Rochefort died in 1976. His posthumous Distinguished Service Medal and later historical recognition reflect the significance of his wartime service.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1900-05-12",
+      "event": "Born in Dayton, Ohio."
+    },
+    {
+      "date": "1925",
+      "event": "Joins the Navy’s cryptanalytic research work."
+    },
+    {
+      "date": "1941",
+      "event": "Takes command of Station Hypo in Hawaii."
+    },
+    {
+      "date": "1942",
+      "event": "Station Hypo’s analysis informs the Battle of Midway campaign."
+    },
+    {
+      "date": "1976-07-20",
+      "event": "Dies in Torrance, California."
+    },
+    {
+      "date": "1986",
+      "event": "Receives the Distinguished Service Medal posthumously."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "U.S. Naval Institute: Joseph Rochefort oral history",
+      "url": "https://www.usni.org/press/oral-histories/rochefort-joseph"
+    },
+    {
+      "title": "Naval History and Heritage Command: A Brief History of Naval Cryptanalysis",
+      "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/b/a-brief-history-of-naval-cryptanalysis.html"
+    },
+    {
+      "title": "U.S. Naval War College Archives: Rochefort oral-history collection",
+      "url": "https://www.usnwcarchives.org/repositories/2/archival_objects/58274"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "hugo-koch",
+  "type": "person",
+  "title": "Hugo Koch",
+  "slug": "hugo-koch",
+  "name": "Hugo Koch",
+  "born": 1870,
+  "died": 1928,
+  "era": "1910s-1928",
+  "tags": [
+    "cryptography",
+    "rotor-machines",
+    "cipher-machines",
+    "patents"
+  ],
+  "summary": "Dutch inventor whose 1919 rotor-machine patent forms part of the early history of electromechanical cipher machines.",
+  "whyThisMatters": "Koch’s patent belongs to the small group of early rotor-machine developments that made automated ciphering a practical engineering field and set the stage for later systems such as Enigma.",
+  "knownFor": [
+    "Rotor-machine patent",
+    "Electromechanical ciphering",
+    "Early rotor-machine history"
+  ],
+  "sections": {
+    "overview": "<p>Hugo Alexander Koch was a Dutch inventor associated with an early rotor-machine patent. His 1919 application described electromechanical approaches to combining substitution and transposition for cipher communications.</p><h2>Rotor-machine era</h2><p>Rotor mechanisms were developed independently by several inventors around the First World War. They automated changing substitution alphabets and became one of the most consequential machine-cipher technologies of the twentieth century.</p><h2>Historical care</h2><p>Koch should not be treated as the sole inventor of the rotor machine or of Enigma. His patent is instead one documented thread in a contemporaneous, international line of development.</p><h2>In memoriam</h2><p>Koch died in 1928. His patent record remains useful evidence for the early technical history of rotor ciphers.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1870-03-09",
+      "event": "Born in Delft, the Netherlands."
+    },
+    {
+      "date": "1919-10-07",
+      "event": "Files a Dutch patent application for a rotor cipher machine."
+    },
+    {
+      "date": "1927",
+      "event": "Assigns rights connected with his patent to Arthur Scherbius."
+    },
+    {
+      "date": "1928-03-03",
+      "event": "Dies in Düsseldorf, Germany."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA: Koch transposition-substitution cipher machine record",
+      "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/friedman-documents/patent-equipment/FOLDER_116/41763119080225.pdf"
+    },
+    {
+      "title": "Karl de Leeuw, The Dutch Invention of the Rotor Machine",
+      "url": "https://cryptomuseum.com/people/leeuw/files/KdL_200301_dutch_inv_rotor_machine.pdf"
+    },
+    {
+      "title": "IEEE Spectrum: history of rotor cipher machines",
+      "url": "https://spectrum.ieee.org/the-scandalous-history-of-the-last-rotor-cipher-machine/particle-1"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "marcel-givierge",
+  "type": "person",
+  "title": "Marcel Givierge",
+  "slug": "marcel-givierge",
+  "name": "Marcel Givierge",
+  "born": 1871,
+  "died": 1931,
+  "era": "1910s-1931",
+  "tags": [
+    "cryptanalysis",
+    "cryptography",
+    "military-history",
+    "academic-research"
+  ],
+  "summary": "French Army officer and cryptology specialist who directed wartime cipher work and wrote instructional texts on cryptography.",
+  "whyThisMatters": "Givierge helped turn cryptology into a trainable military specialty. His teaching and organizational work link earlier manual cryptanalysis to the institutional education of later codebreakers.",
+  "knownFor": [
+    "French Section du Chiffre",
+    "Cours de cryptographie",
+    "First World War cryptanalysis"
+  ],
+  "sections": {
+    "overview": "<p>Marcel Givierge was a French Army officer and specialist in cryptology. During the First World War he worked in the French cipher service, and after the war he wrote instructional texts on cryptography.</p><h2>Organization and teaching</h2><p>Givierge’s work connected operational cryptanalysis with training. His <em>Cours de cryptographie</em> is part of the documentary record of how cipher methods were taught between the wars.</p><h2>Historical importance</h2><p>The development of cryptology depended not only on individual inventions but also on institutions able to teach, document, and sustain analytical methods. Givierge’s career exemplifies that quieter but essential infrastructure.</p><h2>In memoriam</h2><p>Givierge died in 1931. His publications and service record remain useful sources for the history of French military cryptology.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1871",
+      "event": "Born in Paris, France."
+    },
+    {
+      "date": "1914",
+      "event": "Leads cipher work at the French General Headquarters."
+    },
+    {
+      "date": "1924",
+      "event": "Publishes Questions de chiffres."
+    },
+    {
+      "date": "1925",
+      "event": "Publishes Cours de cryptographie."
+    },
+    {
+      "date": "1931",
+      "event": "Dies in La Trimouille, France."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Conservatoire numérique des Arts et Métiers: Cours de cryptographie",
+      "url": "https://cnum.cnam.fr/pgi/redir.php?ident=8Y88&onglet=a"
+    },
+    {
+      "title": "Université Paris Diderot: history of French cryptography",
+      "url": "https://www.sphere.univ-paris-diderot.fr/IMG/pdf/00-Intro-Crypto.pdf"
+    },
+    {
+      "title": "Bibliothèque nationale de France catalogue search: Marcel Givierge",
+      "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Marcel+Givierge&critereRecherche=0&depart=0&facetteModifiee=ok"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

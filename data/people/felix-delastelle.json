@@ -1,0 +1,70 @@
+{
+  "id": "felix-delastelle",
+  "type": "person",
+  "title": "Félix Delastelle",
+  "slug": "felix-delastelle",
+  "name": "Félix Delastelle",
+  "born": 1840,
+  "died": 1902,
+  "era": "1890s-1902",
+  "tags": [
+    "cryptography",
+    "classical-ciphers",
+    "cipher-design",
+    "research"
+  ],
+  "summary": "French amateur cryptographer who introduced the Bifid, Trifid, and four-square cipher families.",
+  "whyThisMatters": "Delastelle’s designs combined substitution and transposition in ways that anticipated the diffusion sought in later cipher construction. They are important historical examples of systematic cipher design.",
+  "knownFor": [
+    "Bifid cipher",
+    "Trifid cipher",
+    "Traité Élémentaire de Cryptographie"
+  ],
+  "sections": {
+    "overview": "<p>Félix-Marie Delastelle was a French amateur cryptographer best known for a family of fractionating ciphers. His Bifid and Trifid designs use coordinate representations of letters and recombination across a block of text.</p><h2>New cryptography</h2><p>Delastelle introduced his ideas as <em>cryptographie nouvelle</em> in the 1890s and later gathered his work in <em>Traité Élémentaire de Cryptographie</em>. The Bifid cipher is especially notable for combining substitution and transposition in one procedure.</p><h2>Historical significance</h2><p>His work gives students of cryptography a concrete view of how diffusion-like behavior can arise in hand ciphers, before modern formal terminology and electronic computation.</p><h2>In memoriam</h2><p>Delastelle died in 1902, shortly after completing his treatise. His cipher designs remain studied as milestones in classical cryptography.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1840-01-02",
+      "event": "Born in France."
+    },
+    {
+      "date": "1895",
+      "event": "Presents “cryptographie nouvelle,” associated with the Bifid approach."
+    },
+    {
+      "date": "1901",
+      "event": "Completes Traité Élémentaire de Cryptographie."
+    },
+    {
+      "date": "1902-04-02",
+      "event": "Dies in France."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "University of Tartu: On the tracks of Félix-Marie Delastelle",
+      "url": "https://dspace.ut.ee/items/0f89a3e6-5ce5-4ab5-a2ef-6e734aa6e5e9"
+    },
+    {
+      "title": "The Cipher Museum: Bifid cipher",
+      "url": "https://ciphermuseum.com/ciphers/bifid.html"
+    },
+    {
+      "title": "Félix Delastelle, Traité Élémentaire de Cryptographie (Internet Archive)",
+      "url": "https://archive.org/details/traitlmentair00dela"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

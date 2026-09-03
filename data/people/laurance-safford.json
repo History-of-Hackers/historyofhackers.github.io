@@ -1,0 +1,78 @@
+{
+  "id": "laurance-safford",
+  "type": "person",
+  "title": "Laurance F. Safford",
+  "slug": "laurance-safford",
+  "name": "Laurance F. Safford",
+  "born": 1893,
+  "died": 1973,
+  "era": "1920s-1973",
+  "tags": [
+    "cryptanalysis",
+    "naval-cryptology",
+    "signals-intelligence",
+    "sigaba"
+  ],
+  "summary": "U.S. Navy cryptologist who built and led early naval cryptologic organizations and helped shape their worldwide collection capability.",
+  "whyThisMatters": "Safford organized people, collection, and technical work into an enduring naval cryptologic capability. His record shows that security intelligence depends on institutions and operations as well as ingenious individuals.",
+  "knownFor": [
+    "U.S. Navy cryptologic organization",
+    "OP-20-G Research Desk",
+    "SIGABA development"
+  ],
+  "sections": {
+    "overview": "<p>Laurance Frye Safford was a U.S. Navy officer and cryptologist. The National Security Agency describes him as a foundational figure in U.S. Navy cryptology for establishing and leading the post–First World War naval organization.</p><h2>Building capability</h2><p>Safford led the Research Desk in the Office of Naval Communications, developed collection and direction-finding arrangements, and recruited cryptanalytic talent. He also collaborated on cipher-machine development, including work associated with SIGABA.</p><h2>Wartime context</h2><p>His organization provided essential context for U.S. naval cryptanalysis in the Pacific. Historical accounts require care in separating confirmed cryptanalytic results, traffic analysis, and later controversies.</p><h2>In memoriam</h2><p>Safford died in 1973. His institutional legacy is recognized in the NSA’s Cryptologic Hall of Honor.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1893-10-22",
+      "event": "Born in Somerville, Massachusetts."
+    },
+    {
+      "date": "1916",
+      "event": "Graduates from the U.S. Naval Academy."
+    },
+    {
+      "date": "1924",
+      "event": "Called to lead the Research Desk in naval communications."
+    },
+    {
+      "date": "1940s",
+      "event": "Contributes to the organization and technical development of U.S. naval cryptology."
+    },
+    {
+      "date": "1953",
+      "event": "Retires from active naval service."
+    },
+    {
+      "date": "1973-05-15",
+      "event": "Dies in Bethesda, Maryland."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA/CSS: Laurance Safford biography",
+      "url": "https://www.nsa.gov/Press-Room/Digital-Media-Center/Biographies/Biography-View-Page/Article/1623033/capt-laurance-safford-usn/"
+    },
+    {
+      "title": "U.S. Naval Cryptologic Veterans Association: Captain Safford",
+      "url": "https://usncva.org/history/capitalizing-on-the-past/chapter-5.html"
+    },
+    {
+      "title": "U.S. Naval Institute: Safford historical profile",
+      "url": "https://www.usni.org/magazines/proceedings/2023/april/build-cyber-officer-designator-lessons-midway"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

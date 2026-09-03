@@ -1,0 +1,74 @@
+{
+  "id": "etienne-bazeries",
+  "type": "person",
+  "title": "Étienne Bazeries",
+  "slug": "etienne-bazeries",
+  "name": "Étienne Bazeries",
+  "born": 1846,
+  "died": 1931,
+  "era": "1890s-1931",
+  "tags": [
+    "cryptanalysis",
+    "cryptography",
+    "military-history",
+    "cipher-devices"
+  ],
+  "summary": "French military cryptanalyst known for attacking historical and contemporary ciphers and for the Bazeries cylinder.",
+  "whyThisMatters": "Bazeries combined hands-on cryptanalysis with cipher-device design. His work shows the persistent feedback loop between breaking systems and improving their engineering.",
+  "knownFor": [
+    "Bazeries cylinder",
+    "French military cryptanalysis",
+    "Le Grand Chiffre analysis"
+  ],
+  "sections": {
+    "overview": "<p>Étienne Bazeries was a French military cryptanalyst active from the late nineteenth century through the First World War. He became known for practical codebreaking and for a cylindrical cipher device that bears his name.</p><h2>Cryptanalysis and devices</h2><p>Bazeries demonstrated weaknesses in official cipher practice and developed the Bazeries cylinder, a device related in concept to the Jefferson cylinder and later U.S. Army cylinder-cipher equipment. Historical accounts also associate him with successful work on the Great Cipher of Louis XIV.</p><h2>Practical cryptology</h2><p>His career captures a recurring security pattern: operational systems are tested by determined analysts, and their shortcomings motivate new designs.</p><h2>In memoriam</h2><p>Bazeries died in 1931. His work remains a landmark in the history of French military cryptology.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1846-08-21",
+      "event": "Born in Port-Vendres, France."
+    },
+    {
+      "date": "1890",
+      "event": "Identifies weaknesses in a French military cipher system."
+    },
+    {
+      "date": "1891",
+      "event": "Develops the cylindrical cryptograph later called the Bazeries cylinder."
+    },
+    {
+      "date": "1901",
+      "event": "Publishes Les Chiffres Secrets Dévoilés."
+    },
+    {
+      "date": "1931-11-07",
+      "event": "Dies in Noyon, France."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA: Military Cryptanalytics, Part II",
+      "url": "https://www.nsa.gov/Portals/75/documents/news-features/declassified-documents/friedman-documents/publications/FOLDER_257/41751819079101.pdf"
+    },
+    {
+      "title": "Bibmath: Étienne Bazeries biography",
+      "url": "https://www.bibmath.net/crypto/index.php?action=affiche&quoi=complements/bazeries"
+    },
+    {
+      "title": "CF2R: history of French cryptography",
+      "url": "https://www.cf2r.org/wp-content/uploads/2008/07/nh-15.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

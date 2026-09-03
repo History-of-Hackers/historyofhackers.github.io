@@ -1,0 +1,74 @@
+{
+  "id": "arvid-damm",
+  "type": "person",
+  "title": "Arvid Damm",
+  "slug": "arvid-damm",
+  "name": "Arvid Damm",
+  "born": 1869,
+  "died": 1928,
+  "era": "1910s-1928",
+  "tags": [
+    "cryptography",
+    "rotor-machines",
+    "cipher-machines",
+    "patents"
+  ],
+  "summary": "Swedish engineer and inventor who patented early rotor-cipher mechanisms and founded the enterprise that later became associated with Boris Hagelin’s work.",
+  "whyThisMatters": "Damm’s patents and machines document a significant branch of early rotor-cipher engineering. His work helps explain that rotor cryptography developed through multiple independent inventors, rather than a single origin story.",
+  "knownFor": [
+    "Rotor-cipher patents",
+    "AB Cryptograph",
+    "Early cipher-machine engineering"
+  ],
+  "sections": {
+    "overview": "<p>Arvid Gerhard Damm was a Swedish engineer and inventor who developed several cipher-machine designs. His patent activity in the 1910s and 1920s included rotor and autokey mechanisms for machine encipherment.</p><h2>Machine-cipher development</h2><p>Damm’s work formed part of the early rotor-machine landscape. His company AB Cryptograph later provided a setting in which Boris Hagelin developed further machines, linking Damm’s designs to a major later commercial lineage.</p><h2>Why it matters</h2><p>The early rotor era shows how physical mechanisms, patents, communications constraints, and cryptanalysis all shaped security technologies long before software cryptography.</p><h2>In memoriam</h2><p>Damm died in 1928. His patents remain part of the documentary record of rotor-machine cryptography.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1869-08-07",
+      "event": "Born in Sweden."
+    },
+    {
+      "date": "1915",
+      "event": "Files an early Swedish cipher-machine patent application."
+    },
+    {
+      "date": "1919-10-10",
+      "event": "Files a Swedish rotor-principle patent application."
+    },
+    {
+      "date": "1924-07-22",
+      "event": "A U.S. patent for his cipher-production mechanism is issued."
+    },
+    {
+      "date": "1928-11-07",
+      "event": "Dies in France."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Google Patents: U.S. Patent 1,502,376",
+      "url": "https://patents.google.com/patent/US1502376A/en"
+    },
+    {
+      "title": "Karl de Leeuw, The Dutch Invention of the Rotor Machine",
+      "url": "https://cryptomuseum.com/people/leeuw/files/KdL_200301_dutch_inv_rotor_machine.pdf"
+    },
+    {
+      "title": "IEEE Spectrum: history of rotor cipher machines",
+      "url": "https://spectrum.ieee.org/the-scandalous-history-of-the-last-rotor-cipher-machine/particle-1"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

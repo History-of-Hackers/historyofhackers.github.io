@@ -10616,5 +10616,505 @@
     ],
     "summary": "Cryptographer and privacy engineer known for work on PGP, OpenPGP, secure communications, and public-interest technology.",
     "url": "people/jon-callas.html"
+  },
+  {
+    "id": "alex-biryukov",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Alex Biryukov",
+    "slug": "alex-biryukov",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "symmetric-cryptography",
+      "cryptanalysis",
+      "password-security",
+      "academic-research"
+    ],
+    "summary": "Cryptographer and professor at the University of Luxembourg whose research includes symmetric cryptography, cryptanalysis, and password-hashing research.",
+    "url": "people/alex-biryukov.html"
+  },
+  {
+    "id": "arvid-damm",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Arvid Damm",
+    "slug": "arvid-damm",
+    "era": "1910s-1928",
+    "tags": [
+      "cryptography",
+      "rotor-machines",
+      "cipher-machines",
+      "patents"
+    ],
+    "summary": "Swedish engineer and inventor who patented early rotor-cipher mechanisms and founded the enterprise that later became associated with Boris Hagelin’s work.",
+    "url": "people/arvid-damm.html"
+  },
+  {
+    "id": "auguste-kerckhoffs",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Auguste Kerckhoffs",
+    "slug": "auguste-kerckhoffs",
+    "era": "1860s-1903",
+    "tags": [
+      "cryptography",
+      "security-design",
+      "academic-research",
+      "kerckhoffs-principle"
+    ],
+    "summary": "Dutch linguist and cryptography writer whose 1883 design rules for military ciphers remain central to modern security engineering.",
+    "url": "people/auguste-kerckhoffs.html"
+  },
+  {
+    "id": "benny-pinkas",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Benny Pinkas",
+    "slug": "benny-pinkas",
+    "era": "1990s-Present",
+    "tags": [
+      "applied-cryptography",
+      "secure-computation",
+      "private-set-intersection",
+      "privacy",
+      "research"
+    ],
+    "summary": "Applied cryptography researcher whose work includes secure multi-party computation, private set intersection, privacy-preserving analytics, and computer security.",
+    "url": "people/benny-pinkas.html"
+  },
+  {
+    "id": "chris-peikert",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Chris Peikert",
+    "slug": "chris-peikert",
+    "era": "2000s-Present",
+    "tags": [
+      "cryptography",
+      "lattices",
+      "post-quantum-cryptography",
+      "ring-lwe",
+      "research"
+    ],
+    "summary": "Cryptographer whose research on lattice-based constructions and the Learning With Errors family of assumptions contributed to post-quantum cryptography.",
+    "url": "people/chris-peikert.html"
+  },
+  {
+    "id": "craig-gentry",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Craig Gentry",
+    "slug": "craig-gentry",
+    "era": "2000s-Present",
+    "tags": [
+      "cryptography",
+      "fully-homomorphic-encryption",
+      "privacy",
+      "encrypted-computation",
+      "research"
+    ],
+    "summary": "Cryptographer known for introducing a plausible fully homomorphic encryption scheme in 2009, a major development in privacy-preserving computation.",
+    "url": "people/craig-gentry.html"
+  },
+  {
+    "id": "daniele-micciancio",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Daniele Micciancio",
+    "slug": "daniele-micciancio",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "lattice-cryptography",
+      "post-quantum-cryptography",
+      "complexity-theory",
+      "academic-research"
+    ],
+    "summary": "Italian-American computer scientist and cryptographer known for research on lattice problems, cryptographic complexity, and lattice-based cryptography.",
+    "url": "people/daniele-micciancio.html"
+  },
+  {
+    "id": "david-cash",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "David Cash",
+    "slug": "david-cash",
+    "era": "2000s-Present",
+    "tags": [
+      "cryptography",
+      "encrypted-search",
+      "post-quantum-cryptography",
+      "computer-security",
+      "research"
+    ],
+    "summary": "Cryptographer and University of Chicago professor whose work includes encrypted data search, quantum-secure cryptography, and computer security.",
+    "url": "people/david-cash.html"
+  },
+  {
+    "id": "david-pointcheval",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "David Pointcheval",
+    "slug": "david-pointcheval",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "provable-security",
+      "public-key-cryptography",
+      "privacy",
+      "academic-research"
+    ],
+    "summary": "French cryptographer and CNRS research director whose work has helped advance formal security analysis and practical public-key cryptography.",
+    "url": "people/david-pointcheval.html"
+  },
+  {
+    "id": "etienne-bazeries",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Étienne Bazeries",
+    "slug": "etienne-bazeries",
+    "era": "1890s-1931",
+    "tags": [
+      "cryptanalysis",
+      "cryptography",
+      "military-history",
+      "cipher-devices"
+    ],
+    "summary": "French military cryptanalyst known for attacking historical and contemporary ciphers and for the Bazeries cylinder.",
+    "url": "people/etienne-bazeries.html"
+  },
+  {
+    "id": "felix-delastelle",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Félix Delastelle",
+    "slug": "felix-delastelle",
+    "era": "1890s-1902",
+    "tags": [
+      "cryptography",
+      "classical-ciphers",
+      "cipher-design",
+      "research"
+    ],
+    "summary": "French amateur cryptographer who introduced the Bifid, Trifid, and four-square cipher families.",
+    "url": "people/felix-delastelle.html"
+  },
+  {
+    "id": "helger-lipmaa",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Helger Lipmaa",
+    "slug": "helger-lipmaa",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "zero-knowledge",
+      "cryptographic-protocols",
+      "privacy",
+      "academic-research"
+    ],
+    "summary": "Estonian cryptographer whose research includes zero-knowledge protocols, privacy-preserving systems, e-voting, and blockchain-related cryptography.",
+    "url": "people/helger-lipmaa.html"
+  },
+  {
+    "id": "hugo-koch",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Hugo Koch",
+    "slug": "hugo-koch",
+    "era": "1910s-1928",
+    "tags": [
+      "cryptography",
+      "rotor-machines",
+      "cipher-machines",
+      "patents"
+    ],
+    "summary": "Dutch inventor whose 1919 rotor-machine patent forms part of the early history of electromechanical cipher machines.",
+    "url": "people/hugo-koch.html"
+  },
+  {
+    "id": "jean-philippe-aumasson",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jean-Philippe Aumasson",
+    "slug": "jean-philippe-aumasson",
+    "era": "2000s-Present",
+    "tags": [
+      "cryptography",
+      "hash-functions",
+      "cryptographic-engineering",
+      "security-research",
+      "technical-writing"
+    ],
+    "summary": "Swiss cryptographer and security researcher known for work on hash functions, including BLAKE2, and for technical writing on modern cryptography.",
+    "url": "people/jean-philippe-aumasson.html"
+  },
+  {
+    "id": "john-francis-byrne",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "John Francis Byrne",
+    "slug": "john-francis-byrne",
+    "era": "1910s-1960",
+    "tags": [
+      "cryptography",
+      "classical-ciphers",
+      "chaocipher",
+      "cipher-history"
+    ],
+    "summary": "Irish-American journalist and inventor of Chaocipher, a cipher system whose mechanism was not publicly disclosed until decades after his death.",
+    "url": "people/john-francis-byrne.html"
+  },
+  {
+    "id": "jonathan-katz",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Jonathan Katz",
+    "slug": "jonathan-katz",
+    "era": "2000s-Present",
+    "tags": [
+      "cryptography",
+      "network-security",
+      "cryptographic-protocols",
+      "education",
+      "research"
+    ],
+    "summary": "Cryptographer and University of Maryland professor whose work spans cryptography, computer and network security, and cryptography education.",
+    "url": "people/jonathan-katz.html"
+  },
+  {
+    "id": "joseph-mauborgne",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Joseph O. Mauborgne",
+    "slug": "joseph-mauborgne",
+    "era": "1910s-1971",
+    "tags": [
+      "cryptology",
+      "one-time-pad",
+      "signal-corps",
+      "military-history"
+    ],
+    "summary": "U.S. Army Signal Corps officer and cryptologist credited with Gilbert Vernam for the practical one-time-pad system.",
+    "url": "people/joseph-mauborgne.html"
+  },
+  {
+    "id": "joseph-rochefort",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Joseph Rochefort",
+    "slug": "joseph-rochefort",
+    "era": "1920s-1976",
+    "tags": [
+      "cryptanalysis",
+      "signals-intelligence",
+      "station-hypo",
+      "naval-history"
+    ],
+    "summary": "U.S. Navy officer and cryptanalyst who led Station Hypo’s wartime intelligence work in Hawaii.",
+    "url": "people/joseph-rochefort.html"
+  },
+  {
+    "id": "kobbi-nissim",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Kobbi Nissim",
+    "slug": "kobbi-nissim",
+    "era": "2000s-Present",
+    "tags": [
+      "privacy",
+      "differential-privacy",
+      "cryptography",
+      "privacy-law",
+      "research"
+    ],
+    "summary": "Computer scientist whose work examines rigorous privacy practices at the intersection of cryptography, data analysis, and privacy policy.",
+    "url": "people/kobbi-nissim.html"
+  },
+  {
+    "id": "kristin-lauter",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Kristin Lauter",
+    "slug": "kristin-lauter",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "elliptic-curves",
+      "homomorphic-encryption",
+      "privacy",
+      "academic-research"
+    ],
+    "summary": "American mathematician and cryptographer known for research on elliptic-curve cryptography, homomorphic encryption, and privacy-preserving computation.",
+    "url": "people/kristin-lauter.html"
+  },
+  {
+    "id": "laurance-safford",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Laurance F. Safford",
+    "slug": "laurance-safford",
+    "era": "1920s-1973",
+    "tags": [
+      "cryptanalysis",
+      "naval-cryptology",
+      "signals-intelligence",
+      "sigaba"
+    ],
+    "summary": "U.S. Navy cryptologist who built and led early naval cryptologic organizations and helped shape their worldwide collection capability.",
+    "url": "people/laurance-safford.html"
+  },
+  {
+    "id": "marcel-givierge",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Marcel Givierge",
+    "slug": "marcel-givierge",
+    "era": "1910s-1931",
+    "tags": [
+      "cryptanalysis",
+      "cryptography",
+      "military-history",
+      "academic-research"
+    ],
+    "summary": "French Army officer and cryptology specialist who directed wartime cipher work and wrote instructional texts on cryptography.",
+    "url": "people/marcel-givierge.html"
+  },
+  {
+    "id": "niels-ferguson",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Niels Ferguson",
+    "slug": "niels-ferguson",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "protocol-design",
+      "random-number-generation",
+      "cryptographic-engineering",
+      "security-research"
+    ],
+    "summary": "Dutch cryptographer and security consultant known for co-designing cryptographic primitives and for coauthoring Cryptography Engineering.",
+    "url": "people/niels-ferguson.html"
+  },
+  {
+    "id": "nigel-smart",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Nigel Smart",
+    "slug": "nigel-smart",
+    "era": "1990s-Present",
+    "tags": [
+      "cryptography",
+      "multi-party-computation",
+      "homomorphic-encryption",
+      "cryptographic-protocols",
+      "research"
+    ],
+    "summary": "Cryptographer at KU Leuven's COSIC group whose research connects public-key cryptography, cryptographic protocols, multi-party computation, and homomorphic encryption.",
+    "url": "people/nigel-smart.html"
+  },
+  {
+    "id": "oded-regev",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Oded Regev",
+    "slug": "oded-regev",
+    "era": "2000s-Present",
+    "tags": [
+      "cryptography",
+      "lattices",
+      "post-quantum-cryptography",
+      "learning-with-errors",
+      "research"
+    ],
+    "summary": "Computer scientist whose work on lattice-based cryptography, including the Learning With Errors problem, helped establish mathematical foundations used in post-quantum cryptography.",
+    "url": "people/oded-regev.html"
+  },
+  {
+    "id": "samuel-neves",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Samuel Neves",
+    "slug": "samuel-neves",
+    "era": "2010s-Present",
+    "tags": [
+      "cryptography",
+      "elliptic-curves",
+      "implementation-security",
+      "post-quantum-cryptography",
+      "academic-research"
+    ],
+    "summary": "Portuguese cryptographer whose research includes elliptic-curve cryptography, efficient implementations, and post-quantum cryptography.",
+    "url": "people/samuel-neves.html"
+  },
+  {
+    "id": "tanja-lange",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Tanja Lange",
+    "slug": "tanja-lange",
+    "era": "2000s-Present",
+    "tags": [
+      "cryptography",
+      "number-theory",
+      "elliptic-curves",
+      "post-quantum-cryptography",
+      "academic-research"
+    ],
+    "summary": "German cryptographer and number theorist whose research spans curve-based cryptography, implementation security, and post-quantum cryptography.",
+    "url": "people/tanja-lange.html"
+  },
+  {
+    "id": "thomas-pornin",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Thomas Pornin",
+    "slug": "thomas-pornin",
+    "era": "2000s-Present",
+    "tags": [
+      "cryptography",
+      "cryptographic-engineering",
+      "implementation-security",
+      "public-key-cryptography",
+      "security-research"
+    ],
+    "summary": "French cryptographer and software engineer known for work on cryptographic implementations and the BearSSL TLS library.",
+    "url": "people/thomas-pornin.html"
+  },
+  {
+    "id": "vinod-vaikuntanathan",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Vinod Vaikuntanathan",
+    "slug": "vinod-vaikuntanathan",
+    "era": "2000s-Present",
+    "tags": [
+      "cryptography",
+      "homomorphic-encryption",
+      "lattice-cryptography",
+      "post-quantum-cryptography",
+      "research"
+    ],
+    "summary": "MIT cryptographer whose research includes homomorphic encryption, lattice-based cryptography, and cryptographic foundations for computing on encrypted data.",
+    "url": "people/vinod-vaikuntanathan.html"
+  },
+  {
+    "id": "yevgeniy-dodis",
+    "type": "person",
+    "typeLabel": "Person",
+    "title": "Yevgeniy Dodis",
+    "slug": "yevgeniy-dodis",
+    "era": "2000s-Present",
+    "tags": [
+      "cryptography",
+      "randomness",
+      "secure-messaging",
+      "fuzzy-extractors",
+      "research"
+    ],
+    "summary": "NYU cryptographer whose research covers cryptographic randomness, leakage resilience, fuzzy extractors, and secure messaging.",
+    "url": "people/yevgeniy-dodis.html"
   }
 ]

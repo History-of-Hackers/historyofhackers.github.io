@@ -1,0 +1,70 @@
+{
+  "id": "auguste-kerckhoffs",
+  "type": "person",
+  "title": "Auguste Kerckhoffs",
+  "slug": "auguste-kerckhoffs",
+  "name": "Auguste Kerckhoffs",
+  "born": 1835,
+  "died": 1903,
+  "era": "1860s-1903",
+  "tags": [
+    "cryptography",
+    "security-design",
+    "academic-research",
+    "kerckhoffs-principle"
+  ],
+  "summary": "Dutch linguist and cryptography writer whose 1883 design rules for military ciphers remain central to modern security engineering.",
+  "whyThisMatters": "Kerckhoffs articulated the enduring idea that a cryptosystem should remain secure when its design is known and only the key is secret. That principle is a direct ancestor of open design, peer review, and realistic threat modeling.",
+  "knownFor": [
+    "La Cryptographie Militaire (1883)",
+    "Kerckhoffs’s principle",
+    "Military-cipher design"
+  ],
+  "sections": {
+    "overview": "<p>Jean Guillaume Auguste Victor François Hubert Kerckhoffs was a Dutch linguist and educator whose work became a lasting foundation of cryptographic engineering. In 1883 he published <em>La Cryptographie Militaire</em>, a two-part discussion of practical military-cipher design.</p><h2>Security by design</h2><p>Its best-known rule holds that compromise of a system’s mechanism should not compromise the communication: protection should reside in the key. The idea is often called Kerckhoffs’s principle and is commonly contrasted with security through obscurity.</p><h2>Why he belongs here</h2><p>Kerckhoffs framed security as an engineering problem involving exposure, usability, key management, and operational constraints. Those concerns remain recognizable in contemporary security design.</p><h2>In memoriam</h2><p>Kerckhoffs died in Paris in 1903. His 1883 essay continues to be cited as a foundational statement of how secure systems should be designed.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1835-01-19",
+      "event": "Born in Nuth, the Netherlands."
+    },
+    {
+      "date": "1883",
+      "event": "Publishes La Cryptographie Militaire in two parts."
+    },
+    {
+      "date": "1885",
+      "event": "Becomes active in the Volapük movement while continuing his teaching career."
+    },
+    {
+      "date": "1903-08-09",
+      "event": "Dies in Paris, France."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "IACR: Kerckhoffs’ Legacy",
+      "url": "https://eprint.iacr.org/2020/556.pdf"
+    },
+    {
+      "title": "Bruce Schneier: Kerckhoffs’s principle",
+      "url": "https://www.schneier.com/crypto-gram/archives/2002/0515.html"
+    },
+    {
+      "title": "Original 1883 text: La cryptographie militaire",
+      "url": "https://www.chaharsou.com/cryptographie-militaire-fr.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

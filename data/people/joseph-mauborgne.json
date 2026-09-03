@@ -1,0 +1,74 @@
+{
+  "id": "joseph-mauborgne",
+  "type": "person",
+  "title": "Joseph O. Mauborgne",
+  "slug": "joseph-mauborgne",
+  "name": "Joseph O. Mauborgne",
+  "born": 1881,
+  "died": 1971,
+  "era": "1910s-1971",
+  "tags": [
+    "cryptology",
+    "one-time-pad",
+    "signal-corps",
+    "military-history"
+  ],
+  "summary": "U.S. Army Signal Corps officer and cryptologist credited with Gilbert Vernam for the practical one-time-pad system.",
+  "whyThisMatters": "Mauborgne’s work joined communications engineering with cryptology. His one-time-pad work remains essential to the history of perfect secrecy and secure key use.",
+  "knownFor": [
+    "One-time pad",
+    "M-94 cipher device",
+    "U.S. Army Signal Corps cryptology"
+  ],
+  "sections": {
+    "overview": "<p>Joseph Oswald Mauborgne was a U.S. Army Signal Corps officer, inventor, and cryptologist. His career linked radio communications, cipher equipment, and cryptanalytic work.</p><h2>One-time-pad work</h2><p>In 1919 Mauborgne developed a one-time-pad system with randomly selected key material, extending Gilbert Vernam’s teleprinter-cipher idea. When correctly used with truly random nonrepeating key material, the one-time pad is the classic example of perfect secrecy.</p><h2>Operational cryptology</h2><p>Mauborgne also worked on the M-94 cylinder cipher device, which the U.S. Army used for decades. His career illustrates the practical side of making and operating secure communications systems.</p><h2>In memoriam</h2><p>Mauborgne died in 1971. The National Security Agency later inducted him into its Cryptologic Hall of Honor.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1881-02-26",
+      "event": "Born in New York City, United States."
+    },
+    {
+      "date": "1917",
+      "event": "Assesses weaknesses in an Army cipher-strip device."
+    },
+    {
+      "date": "1919",
+      "event": "Perfects a one-time-pad system."
+    },
+    {
+      "date": "1937",
+      "event": "Becomes Chief Signal Officer of the U.S. Army."
+    },
+    {
+      "date": "1971-06-07",
+      "event": "Dies in Atlanta, Georgia."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "NSA/CSS: Joseph O. Mauborgne biography",
+      "url": "https://www.nsa.gov/press-room/digital-media-center/biographies/biography-view-page/article/3903416/mg-joseph-o-mauborgne-usa/"
+    },
+    {
+      "title": "NSA: Securing Record Communications",
+      "url": "https://www.nsa.gov/Portals/70/documents/about/cryptologic-heritage/historical-figures-publications/publications/misc/tsec_kw26.pdf"
+    },
+    {
+      "title": "U.S. Army Signal Corps historical records guide",
+      "url": "https://www.archives.gov/research/guide-fed-records/groups/111.html"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}

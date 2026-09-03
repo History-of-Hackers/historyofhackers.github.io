@@ -1,0 +1,78 @@
+{
+  "id": "john-francis-byrne",
+  "type": "person",
+  "title": "John Francis Byrne",
+  "slug": "john-francis-byrne",
+  "name": "John Francis Byrne",
+  "born": 1880,
+  "died": 1960,
+  "era": "1910s-1960",
+  "tags": [
+    "cryptography",
+    "classical-ciphers",
+    "chaocipher",
+    "cipher-history"
+  ],
+  "summary": "Irish-American journalist and inventor of Chaocipher, a cipher system whose mechanism was not publicly disclosed until decades after his death.",
+  "whyThisMatters": "Chaocipher is a useful security-history case: Byrne promoted an allegedly unbreakable secret design, while later study made the method available for technical analysis. It illustrates the limits of unverifiable security claims.",
+  "knownFor": [
+    "Chaocipher",
+    "Silent Years (1953)",
+    "Cipher challenges"
+  ],
+  "sections": {
+    "overview": "<p>John Francis Byrne was an Irish-American journalist and independent cipher inventor. In 1918 he devised the mechanism he called Chaocipher and continued to promote it for decades.</p><h2>A long-secret mechanism</h2><p>Byrne published challenge material in his 1953 autobiography <em>Silent Years</em>, but did not publish the underlying algorithm. The method became available to researchers only after related papers and artifacts were donated to the National Cryptologic Museum and studied in 2010.</p><h2>Security lesson</h2><p>The story is historically interesting precisely because its claims could not be independently evaluated for so long. It offers a contrast with open cryptographic design and reproducible analysis.</p><h2>In memoriam</h2><p>Byrne died in 1960. The later disclosure of Chaocipher made sustained technical and historical appraisal possible.</p>"
+  },
+  "timeline": [
+    {
+      "date": "1880-02-11",
+      "event": "Born in Dublin, Ireland."
+    },
+    {
+      "date": "1910",
+      "event": "Emigrates to the United States."
+    },
+    {
+      "date": "1918",
+      "event": "Develops the Chaocipher mechanism."
+    },
+    {
+      "date": "1953",
+      "event": "Publishes Silent Years, including Chaocipher challenges."
+    },
+    {
+      "date": "1960-04-29",
+      "event": "Dies."
+    },
+    {
+      "date": "2010",
+      "event": "Chaocipher materials donated to the National Cryptologic Museum help disclose the method."
+    }
+  ],
+  "relatedPeople": [],
+  "relatedGroups": [],
+  "relatedTools": [],
+  "relatedVulnerabilities": [],
+  "relatedEvents": [],
+  "sources": [
+    {
+      "title": "Cryptologia: John F. Byrne’s Chaocipher Revealed",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/01611194.2011.606751"
+    },
+    {
+      "title": "Chaocipher Clearing House",
+      "url": "https://www.chaocipher.com/"
+    },
+    {
+      "title": "John F. Byrne’s Chaocipher Revealed (research paper)",
+      "url": "https://www.chaocipher.com/Articles/Chaocipher-Revealed.submitted.public.pdf"
+    }
+  ],
+  "editorial": {
+    "verified": true,
+    "sourcesCount": 3,
+    "lastReviewed": "2026-09-03",
+    "reviewStatus": "PUBLISHED",
+    "reviewer": "codex-2026-09-03"
+  }
+}
